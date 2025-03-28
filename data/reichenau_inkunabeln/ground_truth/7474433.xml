@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=39995:lm=none:date=07_06_2023_08:56</Creator>
+		<Created>2023-06-07T09:11:04.337+02:00</Created>
+		<LastChange>2023-12-20T15:44:09.828+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075030" pageNr="55" tsid="154460118" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=TDJQFFMMLQBCPLPJDNPWBILO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TYBUDKOLRMDTQVTBWAWBRLWE" imageId="45286734"/>
+	</Metadata>
+	<Page imageFilename="7474433.jpg" imageWidth="2102" imageHeight="2796">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356468972" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686127997640_3359"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686127997640_3359" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="880,530 1933,534 1933,2205 880,2201"/>
+			<TextLine id="region_1686127997640_3359_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="910,600 1896,616 1867,526 1804,558 1558,518 910,554"/>
+				<Baseline points="917,585 961,585 1006,585 1051,588 1096,588 1141,588 1185,588 1230,588 1275,588 1320,591 1365,591 1409,591 1454,591 1499,591 1544,591 1589,591 1633,594 1678,591 1723,591 1768,591 1813,588 1858,591 1899,594"/>
+				<TextEquiv>
+					<Unicode>Starb als man zalt Tauſent fünfftzig vnd zway</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="910,649 925,646 932,651 956,651 967,645 983,656 1000,648 1024,659 1025,611 1009,614 1001,609 985,612 981,607 966,610 953,603 942,607 932,598 912,601"/>
+				<Baseline points="917,639 961,636 1006,636 1027,639"/>
+				<TextEquiv>
+					<Unicode>iarn.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="893,716 1896,697 1896,656 1764,635 1685,663 1560,631 893,643"/>
+				<Baseline points="899,693 914,693 958,687 1003,687 1048,687 1093,687 1138,687 1182,687 1227,687 1272,690 1317,690 1362,693 1406,690 1451,690 1496,690 1541,690 1586,690 1631,690 1675,690 1720,690 1765,690 1810,690 1855,687 1899,690"/>
+				<TextEquiv>
+					<Unicode>Herman apte der fünffte/ ain Graf von Winter¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="904,750 1900,765 1900,702 904,708"/>
+				<Baseline points="911,740 955,737 1000,737 1045,737 1090,737 1135,740 1179,740 1224,737 1269,737 1314,737 1359,737 1403,737 1448,740 1493,740 1538,740 1583,740 1628,743 1672,743 1717,740 1762,740 1807,740 1852,737 1896,740 1902,743"/>
+				<TextEquiv>
+					<Unicode>thur/ der iſt geweſen der erſt mit der Infelen bega</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="904,802 1900,802 1900,765 1805,749 904,749"/>
+				<Baseline points="911,791 917,791 961,788 1006,788 1051,788 1096,788 1141,791 1185,791 1230,791 1275,791 1320,791 1365,788 1409,788 1454,788 1499,788 1544,791 1589,791 1633,791 1678,791 1723,791 1768,791 1813,791 1858,788 1902,788"/>
+				<TextEquiv>
+					<Unicode>bet worden von Babſt leone dem Neunden/ Nun</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="901,860 1898,847 1898,802 901,805"/>
+				<Baseline points="908,842 952,839 997,839 1042,839 1087,839 1132,839 1176,842 1221,842 1266,842 1311,842 1356,839 1400,842 1445,842 1490,842 1535,842 1580,842 1625,842 1669,842 1714,842 1759,842 1804,842 1849,842 1893,845 1899,845"/>
+				<TextEquiv>
+					<Unicode>als die geſchrift ſagt/ des aptes vetter ayn Hertzog</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="913,905 1903,923 1901,841 912,857"/>
+				<Baseline points="920,893 964,890 1009,890 1054,890 1099,890 1144,893 1188,893 1233,893 1278,893 1323,896 1368,893 1412,896 1457,896 1502,896 1547,896 1592,896 1636,899 1681,899 1726,899 1771,896 1816,896 1861,899 1905,908"/>
+				<TextEquiv>
+					<Unicode>von Braunſchweig. Herman ſtarb Tauſent fünff</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="912,954 991,952 1007,966 1058,952 1098,970 1115,953 1164,973 1225,956 1249,975 1276,970 1275,905 1143,915 1121,898 1048,910 978,899 957,913 910,910"/>
+				<Baseline points="917,940 961,940 1006,940 1051,940 1096,943 1141,943 1185,943 1230,943 1275,943 1278,946"/>
+				<TextEquiv>
+					<Unicode>vnd ſechtzig iarn.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="906,1053 1822,1069 1892,1054 1892,1013 905,990"/>
+				<Baseline points="914,1042 958,1039 1003,1039 1048,1039 1093,1039 1138,1039 1182,1042 1227,1042 1272,1042 1317,1045 1362,1045 1406,1045 1451,1045 1496,1045 1541,1048 1586,1045 1631,1048 1675,1045 1720,1045 1765,1048 1810,1048 1855,1045 1896,1048"/>
+				<TextEquiv>
+					<Unicode>Hainrich apt der ſechſt/ zuͦ der aptey bezwungen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="910,1101 1900,1117 1882,1055 910,1052"/>
+				<Baseline points="917,1090 961,1090 1006,1090 1051,1090 1096,1090 1141,1090 1185,1093 1230,1093 1275,1093 1320,1093 1365,1093 1409,1096 1454,1096 1499,1096 1544,1096 1589,1096 1633,1096 1678,1096 1723,1096 1768,1096 1813,1096 1858,1096 1902,1099"/>
+				<TextEquiv>
+					<Unicode>des geſchlechtz findt man nit anders dann das Er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="906,1151 1903,1167 1903,1116 1807,1106 906,1105"/>
+				<Baseline points="914,1141 958,1141 1003,1138 1048,1141 1093,1141 1138,1141 1182,1144 1227,1144 1272,1144 1317,1144 1362,1147 1406,1147 1451,1147 1496,1147 1541,1147 1586,1147 1631,1147 1675,1147 1720,1147 1765,1150 1810,1150 1855,1150 1899,1150 1905,1153"/>
+				<TextEquiv>
+					<Unicode>auch ayn geborner herr geweſen ſey Starb Anno</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="901,1220 1071,1194 1470,1240 1533,1209 1704,1213 1704,1165 1631,1158 901,1151"/>
+				<Baseline points="908,1191 952,1191 997,1191 1042,1191 1087,1194 1132,1194 1176,1194 1221,1194 1266,1194 1311,1194 1356,1197 1400,1197 1445,1197 1490,1197 1535,1197 1580,1200 1625,1200 1669,1197 1708,1197"/>
+				<TextEquiv>
+					<Unicode>domini Tauſent vier vnd sibentzig iar.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="910,1302 1901,1310 1901,1261 1694,1241 1581,1274 1340,1241 1112,1265 910,1222"/>
+				<Baseline points="917,1290 961,1290 1006,1290 1051,1290 1096,1290 1141,1293 1185,1293 1230,1293 1275,1296 1320,1296 1365,1296 1409,1296 1454,1296 1499,1299 1544,1299 1589,1299 1633,1299 1678,1299 1723,1299 1768,1299 1813,1299 1858,1299 1902,1302 1905,1302"/>
+				<TextEquiv>
+					<Unicode>Seligerus appt der ſibende/ Was vor Ritter ayn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="913,1348 1901,1360 1900,1312 1815,1303 913,1310"/>
+				<Baseline points="920,1341 964,1338 1009,1338 1054,1338 1099,1341 1144,1341 1188,1344 1233,1347 1278,1347 1323,1347 1368,1347 1412,1350 1457,1350 1502,1350 1547,1347 1592,1350 1636,1350 1681,1353 1726,1350 1771,1350 1816,1350 1861,1350 1905,1353"/>
+				<TextEquiv>
+					<Unicode>Freyherr von Wolhauſen/ vmb das Im ettliche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="904,1399 1894,1405 1894,1366 1832,1360 904,1347"/>
+				<Baseline points="911,1389 955,1386 1000,1389 1045,1389 1090,1389 1135,1392 1179,1392 1224,1395 1269,1395 1314,1395 1359,1398 1403,1398 1448,1398 1493,1398 1538,1398 1583,1400 1628,1400 1672,1400 1717,1400 1762,1400 1807,1398 1852,1398 1896,1398"/>
+				<TextEquiv>
+					<Unicode>kind ertruncken/ ward Er bewegt gaiſtlich zewer¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="904,1438 1779,1476 1896,1464 1896,1418 903,1395"/>
+				<Baseline points="911,1436 955,1436 1000,1439 1045,1439 1090,1439 1135,1442 1179,1442 1224,1442 1269,1445 1314,1445 1359,1445 1403,1445 1448,1448 1493,1448 1538,1448 1583,1451 1628,1451 1672,1451 1717,1451 1762,1448 1807,1451 1852,1451 1896,1454 1899,1454"/>
+				<TextEquiv>
+					<Unicode>en/ vn̄ gieng mit drey oder vier ſünen in dis gotz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="901,1497 1892,1516 1877,1459 901,1444"/>
+				<Baseline points="908,1490 952,1487 997,1487 1042,1490 1087,1490 1132,1490 1176,1493 1221,1493 1266,1496 1311,1496 1356,1499 1400,1496 1445,1496 1490,1499 1535,1499 1580,1499 1625,1502 1669,1499 1714,1499 1759,1499 1804,1502 1849,1499 1893,1502 1896,1502"/>
+				<TextEquiv>
+					<Unicode>haus/ vn̄ ſein gemahel fraw Hedwig taͤd des glich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="901,1550 1899,1566 1870,1512 900,1496"/>
+				<Baseline points="908,1538 952,1535 997,1538 1042,1538 1087,1541 1132,1541 1176,1544 1221,1544 1266,1544 1311,1547 1356,1547 1400,1547 1445,1550 1490,1547 1535,1550 1580,1550 1625,1550 1669,1550 1714,1550 1759,1553 1804,1550 1849,1550 1893,1550 1902,1553"/>
+				<TextEquiv>
+					<Unicode>en/ ward auch ain gefu̇rste aͤpptiſſin/ zuͦm frawen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="901,1602 1899,1613 1868,1557 901,1550"/>
+				<Baseline points="908,1589 952,1589 997,1589 1042,1589 1087,1589 1132,1595 1176,1592 1221,1595 1266,1598 1311,1598 1356,1598 1400,1598 1445,1601 1490,1601 1535,1601 1580,1601 1625,1601 1669,1601 1714,1601 1759,1601 1804,1601 1849,1601 1893,1598 1902,1598"/>
+				<TextEquiv>
+					<Unicode>Münster Zürich. Diſer apt hat auch dem geſtiffte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="908,1659 1889,1670 1898,1619 906,1608"/>
+				<Baseline points="914,1639 958,1636 1003,1639 1048,1639 1093,1642 1138,1642 1182,1642 1227,1645 1272,1645 1317,1645 1362,1645 1406,1648 1451,1648 1496,1648 1541,1648 1586,1651 1631,1651 1675,1651 1720,1648 1765,1651 1810,1651 1855,1651 1899,1654 1902,1654"/>
+				<TextEquiv>
+					<Unicode>vil guͤtz zuͦ bracht. Starb anno ⁊cͣ Tauſent Neun</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="906,1702 1627,1747 1899,1723 1898,1669 905,1659"/>
+				<Baseline points="914,1690 958,1687 1003,1687 1048,1687 1093,1690 1138,1693 1182,1693 1227,1696 1272,1699 1317,1699 1362,1699 1406,1702 1451,1702 1496,1702 1541,1702 1586,1705 1631,1705 1675,1705 1720,1705 1765,1705 1810,1705 1855,1708 1899,1714 1902,1714"/>
+				<TextEquiv>
+					<Unicode>vnd neuntzig/ vnd gab die aptey willigklich appt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="912,1760 977,1745 989,1755 1016,1747 1043,1769 1092,1760 1110,1769 1149,1755 1227,1764 1226,1704 1188,1703 1167,1720 1105,1716 1084,1698 909,1694"/>
+				<Baseline points="917,1738 961,1738 1006,1738 1051,1741 1096,1744 1141,1744 1185,1744 1230,1750"/>
+				<TextEquiv>
+					<Unicode>Rͦdolffen auf.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="904,1851 1890,1879 1889,1819 1810,1810 903,1786"/>
+				<Baseline points="911,1840 955,1837 1000,1840 1045,1843 1090,1843 1135,1843 1179,1846 1224,1846 1269,1849 1314,1849 1359,1849 1403,1852 1448,1852 1493,1852 1538,1852 1583,1855 1628,1855 1672,1855 1717,1855 1762,1855 1807,1855 1852,1855 1893,1855"/>
+				<TextEquiv>
+					<Unicode>Rüdolff apt der achtend/ was vor kamerer/ des ge</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="906,1904 1747,1930 1904,1919 1903,1861 905,1851"/>
+				<Baseline points="914,1893 958,1887 1003,1890 1048,1890 1093,1893 1138,1893 1182,1896 1227,1896 1272,1899 1317,1899 1362,1902 1406,1902 1451,1905 1496,1905 1541,1902 1586,1905 1631,1905 1675,1905 1720,1905 1765,1905 1810,1905 1855,1905 1899,1905 1905,1905"/>
+				<TextEquiv>
+					<Unicode>ſchlecht findt man auch nit grundtlich anders dan̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="901,1947 1898,1977 1896,1922 1788,1910 900,1903"/>
+				<Baseline points="908,1941 952,1941 997,1941 1042,1941 1087,1941 1132,1944 1176,1947 1221,1947 1266,1950 1311,1950 1356,1953 1400,1953 1445,1953 1490,1953 1535,1956 1580,1956 1625,1956 1669,1956 1714,1956 1759,1959 1804,1956 1849,1956 1893,1956 1899,1959"/>
+				<TextEquiv>
+					<Unicode>das Er ain geborner herr geweſen ſei. Starb anno</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="901,2017 1678,2020 1677,1977 1601,1964 900,1948"/>
+				<Baseline points="908,1992 952,1989 997,1992 1042,1995 1087,1995 1132,1995 1176,1998 1221,1998 1266,2001 1311,2004 1356,2004 1400,2004 1445,2004 1490,2004 1535,2004 1580,2007 1625,2007 1669,2004 1678,2007"/>
+				<TextEquiv>
+					<Unicode>domini Tauſent hundert vnd ain iar.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="898,2096 1892,2115 1891,2065 1842,2058 898,2055"/>
+				<Baseline points="905,2091 949,2091 994,2091 1039,2094 1084,2094 1129,2097 1173,2097 1218,2099 1263,2102 1308,2102 1353,2102 1398,2102 1442,2105 1487,2108 1532,2108 1577,2108 1622,2108 1666,2108 1711,2108 1756,2108 1801,2108 1846,2105 1890,2111 1896,2108"/>
+				<TextEquiv>
+					<Unicode>Gero apt d̓ neündt/ von dem (ſeiner geburt halb)</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686127997640_3359_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="893,2155 1880,2199 1904,2108 1789,2135 891,2106"/>
+				<Baseline points="899,2147 943,2144 988,2147 1033,2147 1078,2147 1123,2150 1167,2150 1212,2153 1257,2153 1302,2156 1347,2156 1392,2159 1436,2159 1481,2162 1526,2165 1571,2162 1616,2165 1660,2165 1705,2165 1750,2165 1795,2162 1840,2162 1884,2162 1908,2162"/>
+				<TextEquiv>
+					<Unicode>liſt man auch wie von dem naͤchſten/ hat zum erſtē</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

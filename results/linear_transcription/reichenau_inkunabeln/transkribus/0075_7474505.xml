@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:08.001+01:00</Created>
+        <LastChange>2025-03-21T17:29:05.693+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0075_7474505.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698924" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="966,442 966,1102 1995,1102 1995,442"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="971,491 1989,484 1990,426 1848,397 1558,436 972,413"/>
+                <Baseline points="978,480 1028,476 1079,472 1130,469 1180,465 1231,465 1282,465 1332,465 1383,465 1434,465 1485,465 1535,465 1586,465 1637,465 1687,465 1738,465 1789,466 1839,468 1890,468 1941,468 1992,471"/>
+                <TextEquiv>
+                    <Unicode>vſe gn̄ttat der absolucion mitteilen vn̄ heilsame buͤß vff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="962,543 1980,527 1980,483 962,492"/>
+                <Baseline points="969,533 1019,527 1070,522 1121,520 1171,519 1222,519 1273,519 1323,517 1374,519 1425,517 1476,516 1526,518 1577,519 1628,516 1678,519 1729,519 1780,519 1830,519 1881,519 1932,519 1983,519"/>
+                <TextEquiv>
+                    <Unicode>setzen / on affe andere vrlop darums zu vorderend / fri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="962,595 1980,581 1980,538 962,545"/>
+                <Baseline points="969,584 1019,578 1070,573 1121,570 1171,569 1222,569 1273,569 1323,569 1374,569 1425,569 1476,567 1526,568 1577,569 1628,569 1678,569 1729,569 1780,569 1830,569 1881,569 1932,569 1983,572"/>
+                <TextEquiv>
+                    <Unicode>lich vn̄ zymſich mogen/ dir vnd inen vß bebstlichen obge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="968,635 1944,642 1990,636 1992,576 968,590"/>
+                <Baseline points="975,632 1025,628 1076,624 1127,621 1178,620 1229,620 1280,620 1330,620 1381,620 1432,620 1483,618 1534,617 1585,620 1636,620 1686,620 1737,618 1788,620 1839,620 1890,620 1941,620 1992,617"/>
+                <TextEquiv>
+                    <Unicode>ruͤrten gewalt in krafft diser brief / von überflussiger gob</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="962,702 1970,684 1987,635 963,637"/>
+                <Baseline points="969,686 1020,682 1071,679 1122,675 1173,672 1224,671 1275,671 1326,671 1377,671 1428,671 1479,671 1530,671 1581,671 1632,671 1683,671 1734,672 1785,674 1836,672 1887,671 1938,671 1989,671"/>
+                <TextEquiv>
+                    <Unicode>der gnaden verluhe durch dise in kunfftigem ewig we¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="967,748 1985,730 1985,679 1931,672 968,697"/>
+                <Baseline points="975,736 1025,733 1076,731 1127,726 1177,724 1228,724 1279,724 1329,723 1380,721 1431,721 1482,721 1532,721 1583,721 1634,721 1684,721 1735,721 1786,721 1836,721 1887,721 1938,721 1989,721"/>
+                <TextEquiv>
+                    <Unicode>rend geschrifft, Datumb zymbt es dheynen menschen di¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="958,803 1985,779 1985,727 959,751"/>
+                <Baseline points="966,790 1017,786 1068,783 1119,779 1170,778 1221,778 1272,775 1324,775 1375,775 1426,774 1477,774 1528,775 1579,775 1630,772 1682,772 1733,772 1784,772 1835,772 1886,772 1937,772 1989,772"/>
+                <TextEquiv>
+                    <Unicode>se geschrifft vnser verlichung zerstören oder ir mit freuel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="968,846 1984,830 1985,782 969,807"/>
+                <Baseline points="975,838 1025,833 1076,830 1126,829 1177,829 1227,826 1278,826 1328,826 1379,826 1429,826 1480,824 1531,823 1581,826 1632,826 1682,823 1733,824 1783,826 1834,824 1884,823 1935,823 1986,823"/>
+                <TextEquiv>
+                    <Unicode>widerston/ dann wer das thett der soll wissen sich infal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="963,901 1983,882 1971,827 964,850"/>
+                <Baseline points="972,885 1022,885 1073,883 1124,880 1174,879 1225,876 1276,876 1326,876 1377,876 1428,876 1479,876 1529,876 1580,876 1631,876 1681,876 1732,876 1783,876 1833,874 1884,873 1935,873 1986,870"/>
+                <TextEquiv>
+                    <Unicode>lend werden die vngnad des almechtigen gottes vn̄ si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="959,957 1992,942 1992,877 959,905"/>
+                <Baseline points="966,939 1017,936 1068,933 1120,932 1171,930 1223,928 1274,927 1326,927 1377,929 1429,927 1480,927 1531,927 1583,927 1634,930 1686,930 1737,927 1789,927 1840,925 1892,924 1943,924 1995,927"/>
+                <TextEquiv>
+                    <Unicode>ner seligen apostelen petri vn̄ pauli. Geben zu petreoli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="962,988 1980,990 1974,942 1792,928 963,953"/>
+                <Baseline points="969,987 1019,987 1070,985 1121,982 1171,981 1222,981 1273,981 1323,978 1374,978 1425,978 1476,978 1526,978 1577,978 1628,981 1678,978 1729,978 1780,978 1830,976 1881,975 1932,975 1983,972"/>
+                <TextEquiv>
+                    <Unicode>in dem bistum Senis in Hem ior der menschwerdung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="964,1040 1993,1043 1993,984 964,995"/>
+                <Baseline points="972,1035 1023,1035 1074,1035 1125,1035 1176,1035 1227,1032 1278,1032 1330,1029 1381,1029 1432,1030 1483,1032 1534,1030 1585,1032 1636,1032 1688,1032 1739,1032 1790,1032 1841,1030 1892,1029 1943,1026 1995,1029"/>
+                <TextEquiv>
+                    <Unicode>des Herren etccc. lxiiij. vff den zehnden tag des april</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="967,1107 1173,1121 1389,1092 1611,1124 1654,1116 1656,1051 1577,1031 1550,1051 968,1039"/>
+                <Baseline points="975,1091 1009,1090 1043,1088 1077,1088 1111,1088 1145,1086 1179,1085 1214,1085 1248,1085 1282,1085 1316,1084 1350,1082 1384,1082 1418,1082 1453,1082 1487,1083 1521,1085 1555,1083 1589,1082 1623,1083 1658,1088"/>
+                <TextEquiv>
+                    <Unicode>len vnsers babstuͤms im sechten jor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

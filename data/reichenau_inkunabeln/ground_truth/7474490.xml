@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:36</Creator>
+		<Created>2023-06-07T09:11:11.912+02:00</Created>
+		<LastChange>2024-01-10T09:49:41.664+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075009" pageNr="34" tsid="154460083" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=RDXPMECNJLUULGBDNQUOFBFI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CKPFLVPRXLHDGWSMKEYVURFK" imageId="45286864"/>
+	</Metadata>
+	<Page imageFilename="7474490.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356423289" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573453872_273"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573453872_273" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="69,374 1230,374 1230,819 69,819"/>
+			<TextLine id="region_1686573453872_273_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="130,482 1151,486 1136,412 900,443 660,397 440,433 129,392"/>
+				<Baseline points="137,462 181,459 226,459 271,459 316,459 360,459 405,459 450,459 495,459 539,459 584,462 629,462 674,462 718,462 763,465 808,465 853,465 897,468 942,468 987,468 1032,468 1076,471 1121,471 1154,471"/>
+				<TextEquiv>
+					<Unicode>das hertz/ die lungen/ vnd lebren/ vnd was in im was/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573453872_273_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="124,523 1147,539 1126,482 124,476"/>
+				<Baseline points="131,513 175,510 220,510 265,510 310,510 354,510 399,510 444,513 489,513 533,513 578,513 623,513 668,516 712,516 757,519 802,519 847,519 891,521 936,521 981,521 1026,524 1070,524 1115,527 1151,533"/>
+				<TextEquiv>
+					<Unicode>vnd mā es do begruͦb do yetz ſant Meynratz cappell</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573453872_273_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="130,583 1001,601 1138,588 1138,536 129,525"/>
+				<Baseline points="137,566 181,563 226,563 271,563 316,563 360,563 405,563 450,563 495,566 539,566 584,566 629,566 674,569 718,569 763,569 808,569 853,569 897,572 942,572 987,575 1032,572 1076,575 1121,575 1142,575"/>
+				<TextEquiv>
+					<Unicode>ſtat/ dar nachließ er ſich vff heben/ vnd abſtette vnd vō</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573453872_273_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="117,625 1127,655 1138,591 116,579"/>
+				<Baseline points="125,614 170,614 214,614 259,614 304,614 348,614 393,614 438,617 483,617 527,617 572,617 617,620 662,620 706,620 751,620 796,623 841,623 885,623 930,626 975,626 1020,626 1064,626 1109,629 1142,632"/>
+				<TextEquiv>
+					<Unicode>dannen tragen vntz in die richnaw/ do ward er erlichē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573453872_273_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="124,675 1133,698 1132,652 1084,639 123,627"/>
+				<Baseline points="131,668 175,665 220,665 265,665 310,665 354,668 399,668 444,668 489,668 533,671 578,671 623,671 668,671 712,674 757,674 802,674 847,677 891,677 936,677 981,677 1026,677 1070,680 1115,680 1136,680"/>
+				<TextEquiv>
+					<Unicode>beſtattet/ vnd lag do hundert ior ee das er ward erha¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573453872_273_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="124,727 942,767 1032,740 1103,771 1138,764 1137,701 123,675"/>
+				<Baseline points="131,715 175,715 220,715 265,718 310,718 354,718 399,718 444,718 489,718 533,721 578,724 623,724 668,724 712,727 757,727 802,727 847,727 891,730 936,730 981,733 1026,733 1070,736 1115,739 1142,745"/>
+				<TextEquiv>
+					<Unicode>ben/ vnnd darnach ſtund ſant Meynrats zelle ſechtzig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573453872_273_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="115,789 860,801 860,748 816,743 115,726"/>
+				<Baseline points="122,772 167,772 211,772 256,772 301,772 346,772 390,775 435,772 480,775 524,775 569,778 614,778 659,778 703,781 748,778 793,781 838,781 862,784"/>
+				<TextEquiv>
+					<Unicode>ior/ das nie menſchlich wonung do was/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>das hertz/ die lungen/ vnd lebren/ vnd was in im was/
+vnd mā es do begruͦb do yetz ſant Meynratz cappell
+ſtat/ dar nachließ er ſich vff heben/ vnd abſtette vnd vō
+dannen tragen vntz in die richnaw/ do ward er erlichē
+beſtattet/ vnd lag do hundert ior ee das er ward erha¬
+ben/ vnnd darnach ſtund ſant Meynrats zelle ſechtzig
+ior/ das nie menſchlich wonung do was/</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

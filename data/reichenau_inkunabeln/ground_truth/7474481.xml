@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:36</Creator>
+		<Created>2023-06-07T09:11:10.632+02:00</Created>
+		<LastChange>2023-12-20T15:42:17.943+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075001" pageNr="26" tsid="154460071" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=NNAGEKGEJVITVTMZJRKZBMGU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NGZDKZJHCENPWZOJINPNCJOK" imageId="45286830"/>
+	</Metadata>
+	<Page imageFilename="7474481.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356405774" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573363695_201"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573363695_201" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="966,397 2067,397 2067,1011 966,1011"/>
+			<TextLine id="region_1686573363695_201_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1000,496 1995,482 2040,475 2042,407 1001,442"/>
+				<Baseline points="1008,480 1014,480 1058,477 1103,477 1148,474 1193,474 1237,471 1282,471 1327,471 1372,468 1416,468 1461,468 1506,468 1551,465 1595,465 1640,462 1685,462 1730,462 1774,459 1819,459 1864,459 1908,459 1953,459 1998,459 2043,462"/>
+				<TextEquiv>
+					<Unicode>als ob ein menſch alle die guͦtten wurtzen/ krüter vn̄ ſal</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573363695_201_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="1004,539 2046,522 2023,473 1005,492"/>
+				<Baseline points="1011,530 1020,527 1064,527 1109,527 1154,524 1199,524 1243,524 1288,521 1333,521 1378,521 1422,519 1467,519 1512,519 1557,516 1601,516 1646,513 1691,513 1735,513 1780,510 1825,510 1870,510 1914,510 1959,510 2004,510 2049,513"/>
+				<TextEquiv>
+					<Unicode>be vō diſer welt die ye gewuͦchſēt od̓ gemacht wurdēt ge</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573363695_201_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="1010,604 2043,571 2043,526 1926,520 1012,545"/>
+				<Baseline points="1017,590 1017,587 1061,581 1106,578 1151,578 1196,575 1240,575 1285,575 1330,572 1375,569 1419,569 1464,569 1509,569 1554,566 1598,566 1643,563 1688,563 1732,563 1777,563 1822,563 1867,560 1911,560 1956,560 2001,560 2046,563"/>
+				<TextEquiv>
+					<Unicode>ſchmeckt hette. Vnd do die morder deß geſmacks innē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573363695_201_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="1007,645 1956,636 2039,622 2040,586 1008,601"/>
+				<Baseline points="1014,635 1058,632 1103,629 1148,629 1193,626 1237,626 1282,626 1327,623 1372,623 1416,620 1461,620 1506,620 1551,617 1595,617 1640,617 1685,614 1730,614 1774,614 1819,611 1864,614 1908,611 1953,614 1998,614 2043,614"/>
+				<TextEquiv>
+					<Unicode>würden/ do erſchracken ſy von hertzen vbel/ vnd ſpra¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573363695_201_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="1004,699 2046,678 2046,627 1984,622 1005,660"/>
+				<Baseline points="1011,686 1020,686 1064,683 1109,683 1154,680 1199,680 1243,677 1288,677 1333,674 1378,674 1422,671 1467,671 1512,671 1557,671 1601,668 1646,668 1691,668 1735,665 1780,665 1825,662 1870,665 1914,662 1959,665 2004,662 2049,665"/>
+				<TextEquiv>
+					<Unicode>chent zuͦ ein ander/ O we wir habent übel thon/ vnd ſpra</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573363695_201_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="1010,747 2044,735 2053,684 1010,700"/>
+				<Baseline points="1017,736 1026,736 1070,733 1115,730 1160,730 1205,727 1249,727 1294,724 1339,724 1384,724 1428,721 1473,721 1518,721 1562,721 1607,718 1652,715 1697,715 1741,715 1786,715 1831,715 1876,715 1920,712 1965,712 2010,712 2055,712"/>
+				<TextEquiv>
+					<Unicode>ch einer zuͦ dem anderen/ zund bald ein liecht an/ als er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573363695_201_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="1013,805 2052,781 2052,736 1987,722 1014,751"/>
+				<Baseline points="1020,787 1026,787 1070,784 1115,781 1160,781 1205,778 1249,778 1294,775 1339,775 1384,772 1428,772 1473,772 1518,772 1562,772 1607,769 1652,769 1697,769 1741,766 1786,766 1831,766 1876,766 1920,763 1965,763 2010,763 2055,763"/>
+				<TextEquiv>
+					<Unicode>vns bat hie vor/ dz es brinne vor ſynem lichnam vn̄ na</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573363695_201_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="1014,862 2043,827 2044,790 1918,777 1016,810"/>
+				<Baseline points="1023,838 1061,835 1106,832 1151,829 1196,832 1240,829 1285,829 1330,826 1375,826 1419,826 1464,823 1509,823 1554,823 1598,823 1643,820 1688,820 1732,817 1777,817 1822,817 1867,817 1911,817 1956,814 2001,814 2060,815"/>
+				<TextEquiv>
+					<Unicode>ment ein kertzen vff dem altar/ vnd einer wolt hin gon/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573363695_201_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="1018,905 2055,879 2055,830 2010,825 1020,857"/>
+				<Baseline points="1026,891 1029,891 1073,885 1118,882 1163,882 1208,879 1252,879 1297,879 1342,876 1386,876 1431,876 1476,873 1521,873 1565,873 1610,870 1655,870 1700,870 1744,867 1789,867 1834,865 1879,865 1923,865 1968,865 2013,865 2058,867"/>
+				<TextEquiv>
+					<Unicode>zuͦ dem füre die kertzen an zunden/ vnder des nam der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573363695_201_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="1014,951 2055,926 2047,877 1016,908"/>
+				<Baseline points="1023,942 1029,939 1073,936 1118,936 1163,933 1208,930 1252,930 1297,930 1342,927 1386,927 1431,927 1476,924 1521,924 1565,924 1610,921 1655,921 1700,921 1744,921 1789,921 1834,918 1879,918 1923,915 1968,915 2013,915 2058,918"/>
+				<TextEquiv>
+					<Unicode>ander morder die anderen kertzen/ vnd ſtalt die zuͦ dē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573363695_201_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="1025,1014 1965,1007 2055,991 2056,939 1026,947"/>
+				<Baseline points="1032,993 1073,993 1118,987 1163,984 1208,984 1252,981 1297,981 1342,981 1386,981 1431,978 1476,978 1521,978 1565,975 1610,975 1655,975 1700,975 1744,972 1789,975 1834,972 1879,972 1923,972 1968,969 2013,969 2058,966"/>
+				<TextEquiv>
+					<Unicode>houbten ſant Meynrats/ vn̄ ſo bald er ſy do geſtalt do</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

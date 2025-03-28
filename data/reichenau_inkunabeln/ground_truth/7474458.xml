@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52681:lm=provided:date=08_06_2023_10:33</Creator>
+		<Created>2023-06-07T09:11:07.375+02:00</Created>
+		<LastChange>2023-12-20T15:42:12.951+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67074980" pageNr="5" tsid="154460035" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=HEXKGCZJMTIRGYIPHXZQVYCB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QFDIHEFWLBMXOEWKBXKKRUNN" imageId="45286757"/>
+	</Metadata>
+	<Page imageFilename="7474458.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356360080" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686213023473_971"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686213023473_971" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="98,384 1329,384 1329,1032 98,1032"/>
+			<TextLine id="region_1686213023473_971_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="151,498 1196,506 1196,431 151,434"/>
+				<Baseline points="158,486 202,486 247,480 292,480 337,480 381,480 426,480 471,480 516,480 560,483 605,480 650,483 694,483 739,483 784,483 829,483 873,483 918,483 963,483 1008,483 1052,483 1097,483 1142,483 1187,486 1199,486"/>
+				<TextEquiv>
+					<Unicode>¶ Darumb in diſe inſel wart das genant kint von ſy¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686213023473_971_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="147,547 1197,553 1197,506 1098,493 147,504"/>
+				<Baseline points="155,536 199,533 244,533 289,530 334,530 378,533 423,533 468,533 513,533 557,533 602,533 647,533 692,533 736,533 781,536 826,533 870,533 915,533 960,536 1005,536 1049,536 1094,536 1139,536 1184,536 1199,536"/>
+				<TextEquiv>
+					<Unicode>nem vatter gefuͦrt vnd geben in pfleg eins geiſtlichē Er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686213023473_971_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="151,610 1188,600 1188,561 1048,544 151,548"/>
+				<Baseline points="158,590 202,584 247,584 292,584 337,584 381,584 426,587 471,584 516,584 560,584 605,584 650,584 694,584 739,584 784,584 829,584 873,584 918,584 963,587 1008,590 1052,587 1097,587 1142,587 1187,590 1190,590"/>
+				<TextEquiv>
+					<Unicode>ſamen mynchs genant Erlebaldus. der ouch dem ge¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686213023473_971_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="151,660 1198,658 1198,612 1106,599 151,611"/>
+				<Baseline points="158,641 202,638 247,635 292,638 337,635 381,638 426,638 471,641 516,638 560,638 605,638 650,638 694,638 739,638 784,638 829,638 873,638 918,638 963,638 1008,638 1052,638 1097,638 1142,638 1187,641 1202,641"/>
+				<TextEquiv>
+					<Unicode>melten Grauen ſippſchaffthalb des bluͦtes verwandt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686213023473_971_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="145,698 1198,708 1198,658 1073,646 145,665"/>
+				<Baseline points="152,692 196,689 241,689 286,689 331,689 375,689 420,689 465,689 510,689 554,689 599,689 644,686 689,689 733,689 778,689 823,692 867,689 912,689 957,692 1002,692 1046,692 1091,689 1136,692 1181,692 1202,694"/>
+				<TextEquiv>
+					<Unicode>was. Noch dem der ſelb das kindt guͦter geſchicklicheit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686213023473_971_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="147,763 1198,762 1185,704 147,704"/>
+				<Baseline points="155,748 173,742 217,739 262,739 307,739 351,739 396,739 441,742 486,742 530,739 575,739 620,742 665,739 709,742 754,742 799,742 844,739 888,742 933,739 978,742 1023,739 1067,742 1112,739 1157,739 1202,745"/>
+				<TextEquiv>
+					<Unicode>ſach/ nam er es guͦtwillig vff zuͦ ziehen vnd lerer es mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686213023473_971_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="151,813 1198,811 1197,761 1155,755 150,763"/>
+				<Baseline points="158,799 173,793 217,790 262,790 307,790 351,793 396,793 441,793 486,793 530,793 575,793 620,793 665,790 709,790 754,790 799,793 844,793 888,790 933,790 978,793 1023,793 1067,793 1112,793 1157,793 1202,793"/>
+				<TextEquiv>
+					<Unicode>fliß/ brocht er es durch ler do hyn. das es die kunſt der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686213023473_971_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="151,861 1202,868 1202,808 1131,804 151,813"/>
+				<Baseline points="158,844 202,844 247,844 292,844 337,844 381,844 426,847 471,844 516,844 560,844 605,844 650,844 694,844 739,844 784,847 829,844 873,847 918,844 963,844 1008,844 1052,844 1097,844 1142,847 1187,844 1205,847"/>
+				<TextEquiv>
+					<Unicode>heiligen geſchrifft gantz in ſich faſſet. Dann ouch das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686213023473_971_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="151,916 1205,913 1182,858 151,861"/>
+				<Baseline points="158,900 202,894 247,894 292,894 337,894 381,894 426,894 471,897 516,894 560,897 605,897 650,894 694,894 739,897 784,897 829,894 873,897 918,897 963,894 1008,894 1052,894 1097,894 1142,894 1187,897 1208,900"/>
+				<TextEquiv>
+					<Unicode>kint von ſyner iugent vff ſchimpf vn̄ lichtferikeit/ do mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686213023473_971_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="151,966 1202,964 1202,910 1126,901 151,912"/>
+				<Baseline points="158,948 202,945 247,945 292,945 337,945 381,948 426,948 471,945 516,945 560,948 605,945 650,948 694,948 739,948 784,948 829,948 873,948 918,948 963,948 1008,948 1052,948 1097,948 1142,948 1187,948 1205,948"/>
+				<TextEquiv>
+					<Unicode>dan̄ die kintheit vmbgat floch/ vnd ſyn gemyet alleyn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686213023473_971_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="156,1034 1202,1022 1192,962 156,962"/>
+				<Baseline points="164,1002 208,999 253,1002 298,1002 343,1002 387,1002 432,1002 477,1002 521,999 566,999 611,999 656,1002 700,1002 745,1002 790,1002 835,1002 879,1005 924,1005 969,999 1014,999 1058,1002 1103,1002 1148,1002 1193,1002 1205,1002"/>
+				<TextEquiv>
+					<Unicode>dar vf leit zuͦ entpfohē die vnder wiſūg ſynes meyſters.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

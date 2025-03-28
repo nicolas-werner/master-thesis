@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:04.803+01:00</Created>
+        <LastChange>2025-03-21T17:29:01.956+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0045_7474472.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698038" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="128,524 128,1357 1166,1357 1166,524"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="120,574 1151,562 1128,497 120,505"/>
+                <Baseline points="128,557 179,555 230,556 281,553 333,551 384,551 435,551 487,551 538,551 589,551 641,551 692,551 743,553 794,554 846,554 897,554 948,554 1000,554 1051,552 1102,551 1154,548"/>
+                <TextEquiv>
+                    <Unicode>ging / So sach der bruder hindersich / vn̄ sacß ein rap /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="120,618 1151,618 1151,567 120,574"/>
+                <Baseline points="128,608 179,605 230,605 281,605 333,605 384,605 435,602 487,602 538,605 589,605 641,605 692,605 743,605 794,605 846,608 897,605 948,605 1000,605 1051,603 1102,602 1154,602"/>
+                <TextEquiv>
+                    <Unicode>pen nesteligen vff einen boum vn̄ zwen iung rappen in denen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="124,672 1156,662 1156,622 1109,614 124,619"/>
+                <Baseline points="131,662 182,656 233,656 285,656 336,656 388,656 439,656 491,656 542,657 594,659 645,659 696,659 748,659 799,659 851,659 902,659 954,659 1005,657 1057,656 1108,656 1160,653"/>
+                <TextEquiv>
+                    <Unicode>ste. Als ließ ô Bruͤder sant Meynrat für in gon/ vn̄ nam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="124,726 1160,714 1160,670 124,675"/>
+                <Baseline points="131,709 182,709 234,709 285,708 337,706 389,706 440,706 492,709 543,709 595,709 647,709 698,709 750,709 801,709 853,712 905,710 956,711 1008,709 1059,707 1111,706 1163,703"/>
+                <TextEquiv>
+                    <Unicode>er die iungen rappen in synen mantel vn gieng sant meyn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="124,769 1163,765 1163,717 124,726"/>
+                <Baseline points="131,760 182,760 234,760 286,760 338,760 389,760 441,760 493,760 545,760 596,760 648,760 700,760 752,760 803,760 855,760 907,760 959,760 1010,760 1062,758 1114,757 1166,757"/>
+                <TextEquiv>
+                    <Unicode>raten nach / vnde kerten in den vinsteren wald / vn̄ kam mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="127,816 1156,818 1124,761 127,774"/>
+                <Baseline points="134,814 185,811 236,809 287,811 339,811 390,811 441,811 493,811 544,812 595,813 647,811 698,811 749,813 800,814 852,814 903,811 954,811 1006,811 1057,811 1108,811 1160,814"/>
+                <TextEquiv>
+                    <Unicode>gottes hilff an die stat die er im selbst hie vor erwelt het /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="133,881 1156,862 1123,818 1031,815 133,831"/>
+                <Baseline points="140,867 191,864 242,862 293,862 344,862 395,862 446,862 497,863 548,865 599,865 650,863 701,864 752,865 803,865 854,865 905,864 956,862 1007,862 1058,862 1109,862 1160,859"/>
+                <TextEquiv>
+                    <Unicode>fier mylen weges vo de staden des genanten Sews da no-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="127,918 1155,926 1155,868 127,883"/>
+                <Baseline points="134,915 185,915 236,915 287,915 338,915 389,915 440,915 492,915 543,916 594,917 645,915 696,915 747,915 798,915 850,915 901,915 952,915 1003,915 1054,913 1105,912 1157,912"/>
+                <TextEquiv>
+                    <Unicode>ich hiit by tag vnser lieben frowen dappel stat / vn̄ ließ si /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="130,980 1160,979 1160,927 1101,919 130,922"/>
+                <Baseline points="137,966 188,966 239,966 290,966 342,966 393,966 444,966 496,966 547,966 598,967 650,969 701,969 752,967 803,966 855,969 906,966 957,966 1009,965 1060,963 1111,965 1163,966"/>
+                <TextEquiv>
+                    <Unicode>ich do nider vff einer ebene zwischen den bergen do hyn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="130,1042 1154,1039 1129,974 130,980"/>
+                <Baseline points="137,1026 188,1020 239,1020 290,1020 341,1020 392,1020 443,1020 494,1023 545,1023 596,1023 647,1023 698,1025 749,1026 800,1026 851,1026 902,1022 953,1020 1004,1020 1055,1018 1106,1017 1157,1020"/>
+                <TextEquiv>
+                    <Unicode>swer zu kumen was, Aldo durch Hilff geistlicher luit vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="269,1180 295,1181 315,1173 324,1180 355,1176 365,1182 382,1181 366,1063 320,1085 290,1071 281,1079 256,1079"/>
+                <Baseline points="271,1139 298,1143 326,1146 353,1150 381,1154"/>
+                <TextEquiv>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="449,1188 510,1193 554,1168 591,1172 591,1081 580,1084 566,1075 553,1083 475,1084 465,1079 449,1084"/>
+                <Baseline points="456,1154 483,1152 510,1151 538,1151 565,1152 593,1154"/>
+                <TextEquiv>
+                    <Unicode>se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="726,1343 773,1343 795,1355 812,1342 831,1356 875,1322 932,1339 932,1257 900,1252 857,1260 846,1272 818,1248 798,1268 776,1267 750,1282 726,1279"/>
+                <Baseline points="733,1336 758,1334 783,1333 809,1331 834,1328 859,1325 885,1329 910,1335 936,1342"/>
+                <TextEquiv>
+                    <Unicode>de la rivierement les</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

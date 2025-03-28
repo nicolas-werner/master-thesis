@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:10.698+01:00</Created>
+        <LastChange>2025-03-21T17:29:08.752+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0099_7764259.jpg" imageWidth="2786" imageHeight="3640">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817699805" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="924,549 924,1640 2461,1640 2461,549"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="914,633 2410,591 2431,508 1328,521 1214,563 1077,531 916,576"/>
+                <Baseline points="927,614 1002,611 1077,609 1153,607 1228,602 1303,600 1379,598 1454,596 1529,594 1605,592 1680,587 1755,587 1831,584 1906,581 1981,578 2057,579 2132,577 2207,575 2283,572 2358,572 2434,572"/>
+                <TextEquiv>
+                    <Unicode>vnd der proces. die büchs ist gantz schlecht auch so grob vnd bürisch das mans moͤcht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="914,676 2391,640 2431,584 914,633"/>
+                <Baseline points="924,665 999,662 1075,660 1150,656 1226,653 1301,653 1377,649 1452,647 1528,644 1603,643 1679,641 1754,638 1830,635 1905,632 1981,632 2056,630 2132,626 2207,626 2283,623 2358,623 2434,623"/>
+                <TextEquiv>
+                    <Unicode>an ein wand molen wen on alle arbeit zu hand ist er ossenbär vnd kunt denen die in she</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="925,725 2359,693 2431,638 927,676"/>
+                <Baseline points="936,716 1010,713 1085,713 1160,708 1235,706 1310,701 1385,701 1460,698 1535,695 1610,693 1685,691 1759,689 1834,687 1909,686 1984,683 2059,681 2134,680 2209,677 2284,677 2359,675 2434,671"/>
+                <TextEquiv>
+                    <Unicode>hent. Ich hab gemolt obnen im blaͤt cirkel mit de rechten namen der personen zu yed¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="922,780 2433,731 2435,671 924,723"/>
+                <Baseline points="933,769 1008,763 1083,760 1158,759 1233,757 1309,754 1384,751 1459,748 1534,746 1609,744 1685,741 1760,739 1835,737 1910,738 1985,736 2061,731 2136,730 2211,728 2286,728 2361,727 2437,725"/>
+                <TextEquiv>
+                    <Unicode>licher zit obnen vnd vndenen zwo linienn die obrest mit ir zal stigt ab von Adam bitz vff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="920,829 2433,784 2433,731 920,780"/>
+                <Baseline points="930,817 1005,814 1080,812 1156,810 1231,808 1306,805 1382,802 1457,802 1532,799 1608,796 1683,793 1758,791 1834,790 1909,790 1984,787 2060,782 2135,781 2210,778 2286,778 2361,775 2437,775"/>
+                <TextEquiv>
+                    <Unicode>Christum vnd bezeichnet noch der ordenung vorgeseiter ding also das alles ob os vns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="922,867 2435,835 2436,788 924,825"/>
+                <Baseline points="933,865 1008,865 1083,863 1159,862 1234,859 1309,856 1385,853 1460,853 1535,848 1611,847 1686,844 1761,844 1837,842 1912,840 1987,838 2063,835 2138,832 2213,829 2289,829 2364,828 2440,823"/>
+                <TextEquiv>
+                    <Unicode>der seiben zal geschriben stot sige zu den selben ziten geschehe. die ander linig stigt hin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="929,924 2433,886 2433,833 929,880"/>
+                <Baseline points="939,918 1013,915 1088,915 1163,911 1238,910 1313,907 1388,907 1463,904 1538,901 1613,898 1688,897 1762,898 1837,895 1912,891 1987,889 2062,887 2137,885 2212,883 2287,883 2362,879 2437,874"/>
+                <TextEquiv>
+                    <Unicode>dersich vff von der geburt christi bitz an die geschepff der welt das ma lichtlich so man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="929,978 2433,937 2418,884 931,939"/>
+                <Baseline points="939,969 1013,966 1088,963 1163,961 1238,960 1313,957 1388,955 1463,953 1538,951 1613,948 1688,945 1762,945 1837,943 1912,941 1987,939 2062,936 2137,935 2212,933 2287,931 2362,930 2437,927"/>
+                <TextEquiv>
+                    <Unicode>an sicht ein zal mag wissen wie vil jor das oder das geschehen sige vor xpuns gebürt das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="935,1027 2427,993 2393,937 937,978"/>
+                <Baseline points="945,1020 1019,1016 1093,1014 1167,1011 1242,1010 1316,1008 1390,1006 1465,1005 1539,1002 1613,999 1688,998 1762,996 1836,993 1910,990 1985,990 2059,988 2133,986 2208,984 2282,981 2356,980 2431,975"/>
+                <TextEquiv>
+                    <Unicode>hand wir dor vmb also geordenet das die zal loblicher vnd erwirdiger by vns ist me er¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="925,1078 2442,1046 2427,982 927,1039"/>
+                <Baseline points="936,1068 1011,1068 1087,1065 1162,1062 1238,1062 1313,1060 1389,1058 1464,1056 1540,1054 1615,1052 1691,1047 1766,1047 1842,1046 1917,1041 1993,1041 2068,1039 2144,1037 2219,1035 2295,1035 2370,1032 2446,1032"/>
+                <TextEquiv>
+                    <Unicode>forderet wurt noch der gebürt christi stigent su beyde ab bitz vff vnser zit vnnd nement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="937,1131 2438,1090 2438,1046 939,1080"/>
+                <Baseline points="948,1118 1022,1118 1097,1115 1172,1113 1247,1111 1321,1109 1396,1106 1471,1106 1546,1103 1620,1101 1695,1100 1770,1097 1845,1094 1919,1093 1994,1094 2069,1090 2144,1089 2218,1086 2293,1084 2368,1083 2443,1080"/>
+                <TextEquiv>
+                    <Unicode>hübschlich zü also doch das die oberlinig alzit zeigt das alter der welt, die ander das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="929,1190 2402,1156 2433,1094 929,1131"/>
+                <Baseline points="939,1169 1013,1168 1088,1166 1163,1164 1238,1162 1313,1160 1388,1157 1463,1157 1538,1157 1613,1152 1688,1150 1762,1148 1837,1146 1912,1144 1987,1142 2062,1139 2137,1139 2212,1139 2287,1136 2362,1135 2437,1136"/>
+                <TextEquiv>
+                    <Unicode>alter xxi-03 wirt gar schlechtlich an sinem orten offenbar werden. sind wir ouch vf vil bůch¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="929,1235 2442,1192 2444,1141 931,1190"/>
+                <Baseline points="942,1220 1017,1220 1092,1217 1167,1217 1242,1214 1318,1209 1393,1208 1468,1208 1543,1205 1618,1202 1694,1201 1769,1199 1844,1196 1919,1195 1994,1196 2070,1190 2145,1190 2220,1187 2295,1187 2370,1184 2446,1187"/>
+                <TextEquiv>
+                    <Unicode>ern die falsch geschriben weret dise wis nit mit cleiner arbeit zu 6 linige 8 worheit cor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="933,1284 2444,1245 2433,1192 2233,1186 935,1237"/>
+                <Baseline points="945,1274 1020,1271 1095,1269 1170,1265 1245,1262 1321,1260 1396,1259 1471,1259 1546,1256 1621,1254 1697,1252 1772,1250 1847,1248 1922,1247 1997,1247 2073,1243 2148,1241 2223,1238 2298,1238 2373,1238 2449,1235"/>
+                <TextEquiv>
+                    <Unicode>rigiert vnnd gebesseret hand-bittent wir vmb christus willenn das der leser diß büchs nit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="931,1347 2333,1311 2429,1301 2431,1245 933,1290"/>
+                <Baseline points="942,1321 1016,1320 1091,1315 1165,1315 1240,1312 1315,1312 1389,1309 1464,1309 1538,1306 1613,1304 1688,1303 1762,1300 1837,1300 1911,1297 1986,1297 2061,1294 2135,1291 2210,1291 2284,1290 2359,1288 2434,1291"/>
+                <TextEquiv>
+                    <Unicode>vermessenlich vn derstee zu besseren oder corrigiren die zal 6 jorem. er hab de vor d3 büch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="935,1388 2448,1347 2448,1292 937,1345"/>
+                <Baseline points="945,1375 1020,1372 1095,1367 1171,1365 1246,1363 1321,1363 1397,1362 1472,1360 1547,1357 1623,1354 1698,1354 1773,1351 1849,1348 1924,1348 1999,1348 2075,1345 2150,1342 2225,1342 2301,1339 2376,1339 2452,1339"/>
+                <TextEquiv>
+                    <Unicode>gantz vber sehen. das sagent wir nit dor vmb das wir nienen geirret haben sunde zü</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="944,1441 2367,1411 2446,1398 2448,1349 946,1388"/>
+                <Baseline points="957,1423 1031,1419 1106,1417 1180,1414 1255,1414 1330,1411 1404,1411 1479,1410 1553,1408 1628,1405 1703,1404 1777,1402 1852,1400 1926,1399 2001,1399 2076,1396 2150,1395 2225,1393 2299,1391 2374,1389 2449,1387"/>
+                <TextEquiv>
+                    <Unicode>warnen der mancherley der doctor in dieser materi vnd zum dickeren mol eins satz ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="944,1477 2374,1464 2444,1452 2446,1396 944,1443"/>
+                <Baseline points="954,1467 1028,1470 1103,1467 1178,1465 1253,1464 1327,1464 1402,1461 1477,1460 1552,1458 1626,1456 1701,1456 1776,1453 1851,1453 1925,1452 2000,1450 2075,1448 2150,1446 2224,1444 2299,1442 2374,1441 2449,1432"/>
+                <TextEquiv>
+                    <Unicode>ein verwicklung des andern. wo er aber irrung vindet so verzihe vns gütlich vnnd bes¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="944,1537 2455,1505 2446,1439 946,1477"/>
+                <Baseline points="954,1521 1029,1518 1104,1518 1180,1517 1255,1515 1330,1513 1406,1512 1481,1512 1556,1509 1632,1508 1707,1506 1782,1504 1858,1502 1933,1500 2008,1500 2084,1500 2159,1499 2234,1497 2310,1492 2385,1493 2461,1491"/>
+                <TextEquiv>
+                    <Unicode>sers vf den vorgenanten denen wir noch volgent wan man irret gar lichtiglich in der zal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="944,1583 2455,1556 2435,1498 946,1539"/>
+                <Baseline points="954,1572 1029,1572 1104,1569 1180,1568 1255,1566 1330,1566 1406,1565 1481,1563 1556,1561 1632,1557 1707,1557 1782,1555 1858,1554 1933,1554 2008,1551 2084,1551 2159,1550 2234,1548 2310,1548 2385,1545 2461,1545"/>
+                <TextEquiv>
+                    <Unicode>vnnd würt dick fümiclich beschriben vnd noch-sümiclicher corrigiert oder gebesseret</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="942,1649 1203,1670 1271,1626 1473,1619 1545,1662 1860,1647 1853,1568 944,1583"/>
+                <Baseline points="954,1629 999,1626 1045,1624 1090,1623 1136,1621 1182,1620 1227,1620 1273,1620 1319,1620 1364,1618 1410,1617 1456,1615 1501,1614 1547,1614 1593,1611 1638,1611 1684,1611 1730,1608 1775,1608 1821,1608 1867,1602"/>
+                <TextEquiv>
+                    <Unicode>als Augustin? spricht in xv. bůch von der stad gots¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

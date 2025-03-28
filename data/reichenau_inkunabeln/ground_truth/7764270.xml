@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.12.1:model_id=58864:lm=none:date=23_03_2024_10:21</Creator>
+		<Created>2023-09-11T14:08:29.809+02:00</Created>
+		<LastChange>2024-03-23T11:37:08.528+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075164" pageNr="169" tsid="154460347" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=ONYMAGJLNOYVTARZJTOOJQUS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MISJWBOSOKJJGALFEFSEIIYO" imageId="48050391"/>
+	</Metadata>
+	<Page imageFilename="7764270.jpg" imageWidth="2786" imageHeight="3640">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356998209" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1709030124471_1441"/>
+				<RegionRefIndexed index="1" regionRef="TextRegion_1709030265344_1469"/>
+				<RegionRefIndexed index="2" regionRef="region_1709030235024_1445"/>
+				<RegionRefIndexed index="3" regionRef="region_1709030237175_1448"/>
+				<RegionRefIndexed index="4" regionRef="region_1709030238743_1451"/>
+				<RegionRefIndexed index="5" regionRef="TextRegion_1709030269247_1481"/>
+				<RegionRefIndexed index="6" regionRef="TextRegion_1709030264353_1464"/>
+				<RegionRefIndexed index="7" regionRef="region_1709030240847_1454"/>
+				<RegionRefIndexed index="8" regionRef="region_1709030242464_1457"/>
+				<RegionRefIndexed index="9" regionRef="TextRegion_1709030268560_1476"/>
+				<RegionRefIndexed index="10" regionRef="region_1709030111200_1433"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1709030124471_1441" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="956,494 1109,494 1109,552 956,552"/>
+			<TextLine id="region_1709030124471_1441_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="983,562 997,564 1002,558 1018,564 1035,556 1064,560 1064,456 1041,456 1027,465 1010,462 997,473 983,471"/>
+				<Baseline points="993,531 1038,531 1068,531"/>
+				<TextEquiv>
+					<Unicode>.vj.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode></Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="TextRegion_1709030265344_1469" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="340,602 962,602 962,674 340,674"/>
+			<TextLine id="TextRegion_1709030265344_1469_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="330,689 929,680 929,587 894,579 788,579 755,601 529,579 496,603 330,581"/>
+				<Baseline points="340,654 352,653 396,650 441,650 486,650 531,653 575,653 620,653 665,653 710,653 754,650 799,653 844,650 889,650 933,653"/>
+				<TextEquiv>
+					<Unicode>Das jor der welt. .ijᵐdcxliij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Das jor der welt. .ijᵐdcxliij.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709030235024_1445" custom="readingOrder {index:2;} structure {type:paragraph;}">
+			<Coords points="284,765 464,765 464,899 284,899"/>
+			<TextLine id="region_1709030235024_1445_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="282,827 299,827 311,817 367,827 379,819 413,823 452,848 462,846 458,761 436,753 411,761 392,747 384,753 375,744 355,745 334,761 324,755 317,765 282,772"/>
+				<Baseline points="292,811 337,808 381,811 426,811 464,814"/>
+				<TextEquiv>
+					<Unicode>Die linie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030235024_1445_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="286,869 311,873 326,886 340,885 357,871 379,883 400,883 406,877 429,883 427,827 413,823 390,827 377,819 284,825"/>
+				<Baseline points="295,865 340,865 384,865 429,868 432,868"/>
+				<TextEquiv>
+					<Unicode>chriſti.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode></Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709030237175_1448" custom="readingOrder {index:3;} structure {type:paragraph;}">
+			<Coords points="511,723 680,723 680,889 511,889"/>
+			<TextLine id="region_1709030237175_1448_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="514,776 543,786 560,774 581,784 603,780 610,788 628,772 641,774 653,788 664,788 666,736 643,738 608,709 599,718 581,715 568,722 514,726"/>
+				<Baseline points="525,772 537,772 581,769 626,766 671,769"/>
+				<TextEquiv>
+					<Unicode>Phaleg</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030237175_1448_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="500,829 541,834 550,825 574,825 608,844 618,844 639,827 657,830 655,778 626,774 614,786 597,780 583,786 558,772 537,790 520,772 500,776"/>
+				<Baseline points="511,817 551,814 596,817 641,817 668,817"/>
+				<TextEquiv>
+					<Unicode>hat gele¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030237175_1448_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="500,879 518,873 539,888 558,888 591,873 614,877 622,885 653,885 651,842 639,846 626,838 610,844 601,838 566,846 545,832 498,827"/>
+				<Baseline points="511,871 554,868 599,871 644,874 656,877"/>
+				<TextEquiv>
+					<Unicode>bt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Phaleg
+hat gele¬
+bt.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709030238743_1451" custom="readingOrder {index:4;} structure {type:paragraph;}">
+			<Coords points="715,823 923,823 923,889 715,889"/>
+			<TextLine id="region_1709030238743_1451_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="707,890 765,912 790,894 821,898 840,885 856,898 892,906 890,807 840,811 815,825 798,815 744,817 715,844 705,844"/>
+				<Baseline points="715,865 754,871 799,871 844,874 889,871 898,871"/>
+				<TextEquiv>
+					<Unicode>ccxxxxix.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode></Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="TextRegion_1709030269247_1481" custom="readingOrder {index:5;}">
+			<Coords points="734,931 932,931 932,996 734,996"/>
+			<TextLine id="line_1709030873890_1511" custom="readingOrder {index:0;}">
+				<Coords points="923,919 865,910 848,923 815,927 774,913 745,912 747,985 759,983 774,993 786,981 801,983 834,1004 856,995 875,1002 925,998"/>
+				<Baseline points="915,950 742,948"/>
+				<TextEquiv>
+					<Unicode>.ijᵐdlvj.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>.ijᵐdlvj.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="TextRegion_1709030264353_1464" custom="readingOrder {index:6;} structure {type:paragraph;}">
+			<Coords points="1427,602 1696,602 1696,674 1427,674"/>
+			<TextLine id="TextRegion_1709030264353_1464_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1437,664 1466,664 1499,680 1584,682 1605,701 1618,686 1676,684 1674,595 1624,585 1570,597 1551,587 1514,604 1458,603 1435,591"/>
+				<Baseline points="1447,659 1491,656 1536,656 1581,662 1626,659 1670,662 1679,662"/>
+				<TextEquiv>
+					<Unicode>ijᵐdcclxxiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode></Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709030240847_1454" custom="readingOrder {index:7;} structure {type:paragraph;}">
+			<Coords points="1450,726 1625,726 1625,841 1450,841"/>
+			<TextLine id="region_1709030240847_1454_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1439,772 1452,772 1466,784 1479,776 1512,776 1522,788 1568,776 1593,782 1593,722 1572,716 1560,722 1543,711 1526,724 1512,720 1501,732 1475,718 1458,728 1439,726"/>
+				<Baseline points="1450,769 1464,769 1509,766 1554,766 1599,766"/>
+				<TextEquiv>
+					<Unicode>Reu od̓</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030240847_1454_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="1443,838 1468,850 1481,842 1491,852 1497,846 1508,856 1524,846 1545,859 1564,842 1580,850 1620,844 1620,776 1607,774 1570,790 1553,790 1543,780 1520,786 1503,776 1477,776 1468,784 1443,780"/>
+				<Baseline points="1453,823 1497,823 1542,820 1587,823 1625,825"/>
+				<TextEquiv>
+					<Unicode>Ragau.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode></Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709030242464_1457" custom="readingOrder {index:8;} structure {type:paragraph;}">
+			<Coords points="1654,770 1780,770 1780,843 1654,843"/>
+			<TextLine id="region_1709030242464_1457_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1643,857 1655,856 1674,838 1707,830 1740,857 1763,848 1763,763 1746,761 1711,784 1701,778 1688,782 1661,759 1643,757"/>
+				<Baseline points="1654,824 1676,823 1721,823 1766,823 1769,823"/>
+				<TextEquiv>
+					<Unicode>cccij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode></Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="TextRegion_1709030268560_1476" custom="readingOrder {index:9;}">
+			<Coords points="1411,931 1696,931 1696,996 1411,996"/>
+			<TextLine id="line_1709030870900_1506" custom="readingOrder {index:0;}">
+				<Coords points="1700,929 1591,929 1553,941 1443,931 1441,1000 1448,1002 1499,985 1541,993 1595,983 1643,1002 1696,1000"/>
+				<Baseline points="1688,950 1440,961"/>
+				<TextEquiv>
+					<Unicode>.ijᵐccccxxvj.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>.ijᵐccccxxvj.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709030111200_1433" custom="readingOrder {index:10;} structure {type:paragraph;}">
+			<Coords points="272,985 1836,999 1830,2975 268,2975"/>
+			<TextLine id="region_1709030111200_1433_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="278,1033 1742,1058 1812,1047 1812,975 927,968 832,1004 276,954"/>
+				<Baseline points="289,1026 334,1023 378,1026 423,1023 468,1023 513,1023 557,1023 602,1023 647,1026 692,1026 736,1026 781,1026 826,1026 871,1029 915,1029 960,1029 1005,1029 1050,1029 1094,1029 1139,1029 1184,1029 1229,1029 1274,1029 1318,1029 1363,1029 1408,1032 1453,1032 1497,1032 1542,1032 1587,1032 1632,1032 1676,1032 1721,1032 1766,1032 1811,1035 1817,1035"/>
+				<TextEquiv>
+					<Unicode>Der phaleg ein ſun Heber alſo genant wen in den ſelben ziten geſchach die irrung der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="284,1091 1812,1109 1810,1047 282,1035"/>
+				<Baseline points="295,1080 340,1074 384,1074 429,1074 474,1077 519,1077 563,1077 608,1077 653,1077 698,1077 742,1077 787,1080 832,1080 877,1080 921,1080 966,1080 1011,1080 1056,1080 1100,1080 1145,1083 1190,1080 1235,1080 1279,1080 1324,1083 1369,1080 1414,1080 1458,1080 1503,1083 1548,1083 1593,1083 1638,1083 1682,1086 1727,1083 1772,1086 1817,1089"/>
+				<TextEquiv>
+					<Unicode>zungen alß ob er geſundert wer von dē andern wan in ſim hüß bleib die vorig ſproch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="276,1139 1810,1153 1775,1099 1398,1085 276,1107"/>
+				<Baseline points="286,1124 331,1124 375,1124 420,1127 465,1127 510,1127 554,1130 599,1127 644,1130 689,1130 733,1130 778,1130 823,1133 868,1130 912,1133 957,1133 1002,1133 1047,1133 1092,1133 1136,1133 1181,1133 1226,1133 1271,1136 1315,1133 1360,1133 1405,1133 1450,1133 1494,1133 1539,1133 1584,1133 1629,1136 1673,1136 1718,1136 1763,1136 1808,1142 1814,1139"/>
+				<TextEquiv>
+					<Unicode>alſo ouch Augꝰ ſeit dor in erſchein nit ein clein bildūg d̓ gereehtikeit. dz das hüß lidig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="284,1197 1812,1203 1812,1153 1628,1141 284,1141"/>
+				<Baseline points="295,1181 340,1175 384,1178 429,1178 474,1178 519,1178 563,1181 608,1178 653,1181 698,1181 742,1181 787,1181 832,1184 877,1184 921,1184 966,1184 1011,1187 1056,1184 1100,1184 1145,1184 1190,1187 1235,1184 1279,1184 1324,1184 1369,1184 1414,1184 1458,1184 1503,1184 1548,1184 1593,1184 1638,1187 1682,1187 1727,1187 1772,1190 1817,1190"/>
+				<TextEquiv>
+					<Unicode>was d̓ pin alß ob es nit d̓ ſchuld teilhafftig geſin wer. vn̄ merck noch dē ſelbē dz die zal</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="284,1236 1810,1251 1810,1203 1740,1197 284,1197"/>
+				<Baseline points="295,1232 340,1229 384,1232 429,1232 474,1232 519,1232 563,1232 608,1232 653,1232 698,1235 742,1235 787,1235 832,1235 877,1235 921,1238 966,1238 1011,1235 1056,1238 1100,1238 1145,1238 1190,1238 1235,1238 1279,1238 1324,1238 1369,1238 1414,1238 1458,1238 1503,1238 1548,1238 1593,1238 1638,1238 1682,1241 1727,1241 1772,1241 1814,1241"/>
+				<TextEquiv>
+					<Unicode>der ſprochē iſt noch d̓ zal der gebuͦrtē geſin. lxxij. aber die zal d̓ voͤlker iſt mher gemert</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="276,1300 1628,1300 1628,1255 1574,1246 276,1248"/>
+				<Baseline points="286,1282 331,1279 375,1282 420,1282 465,1282 510,1282 554,1285 599,1285 644,1285 689,1285 733,1285 778,1285 823,1285 868,1285 912,1288 957,1285 1002,1288 1047,1288 1092,1288 1136,1288 1181,1291 1226,1288 1271,1291 1315,1288 1360,1288 1405,1288 1450,1288 1494,1288 1539,1288 1584,1288 1629,1291 1632,1294"/>
+				<TextEquiv>
+					<Unicode>wordē dē die zal d̓ ſprochē wē wir in einer ſproche vil voͤlker erkant hand.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="268,1344 1812,1360 1800,1288 268,1302"/>
+				<Baseline points="280,1336 325,1333 369,1333 414,1333 459,1336 504,1336 548,1336 593,1336 638,1336 683,1336 728,1336 772,1339 817,1339 862,1339 907,1339 951,1339 996,1339 1041,1339 1086,1339 1130,1342 1175,1342 1220,1342 1265,1339 1309,1339 1354,1339 1399,1339 1444,1339 1488,1339 1533,1339 1578,1342 1623,1342 1667,1342 1712,1342 1757,1342 1802,1345 1817,1345"/>
+				<TextEquiv>
+					<Unicode>Alß mā ſeit ſo iſt zuͦ dyſen ziten adel vfferſtandē vn̄ wiß das adel vil ſatzenhalb vfgeſerzt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="278,1404 1812,1410 1810,1363 1657,1344 276,1348"/>
+				<Baseline points="286,1387 331,1384 375,1384 420,1387 465,1387 510,1387 554,1387 599,1387 644,1387 689,1390 733,1390 778,1390 823,1393 868,1390 912,1393 957,1390 1002,1393 1047,1393 1092,1393 1136,1393 1181,1393 1226,1393 1271,1393 1315,1393 1360,1393 1405,1393 1450,1393 1494,1393 1539,1393 1584,1393 1629,1393 1673,1393 1718,1393 1763,1396 1808,1396 1814,1396"/>
+				<TextEquiv>
+					<Unicode>wordē iſt. die erſt iſt notdorffthalb wan alß anfing zuͦzuͦnemē dz menſchlich geſchlecht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="276,1450 1812,1460 1812,1410 1659,1400 276,1404"/>
+				<Baseline points="286,1441 331,1438 375,1438 420,1438 465,1441 510,1441 554,1441 599,1441 644,1441 689,1441 733,1441 778,1441 823,1444 868,1444 912,1444 957,1444 1002,1444 1047,1444 1092,1444 1136,1444 1181,1447 1226,1447 1271,1444 1315,1444 1360,1444 1405,1444 1450,1444 1494,1444 1539,1444 1584,1444 1629,1444 1673,1444 1718,1444 1763,1447 1808,1450 1817,1447"/>
+				<TextEquiv>
+					<Unicode>vn̄ die lüt zuͦ dē boͤſen geneigt worēt. muͦſt mā verſchaffen dz die guͦtē von de boͤſen nit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="268,1504 1806,1510 1756,1450 268,1452"/>
+				<Baseline points="280,1494 325,1491 369,1488 414,1491 459,1491 504,1491 548,1491 593,1491 638,1491 683,1491 728,1494 772,1494 817,1494 862,1494 907,1494 951,1494 996,1494 1041,1497 1086,1494 1130,1497 1175,1497 1220,1497 1265,1497 1309,1494 1354,1497 1399,1497 1444,1494 1488,1497 1533,1497 1578,1494 1623,1497 1667,1497 1712,1497 1757,1500 1802,1503 1811,1500"/>
+				<TextEquiv>
+					<Unicode>geleſtret od̓ übermuͤtiget werdēt. dor vm̄ erwelt mā ein mā d̓ gerechter vn̄ fürſiehtiger</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="276,1564 1810,1572 1810,1516 1740,1510 276,1506"/>
+				<Baseline points="286,1542 331,1542 375,1542 420,1542 465,1542 510,1542 554,1542 599,1542 644,1542 689,1545 733,1545 778,1545 823,1545 868,1548 912,1548 957,1548 1002,1548 1047,1548 1092,1548 1136,1548 1181,1548 1226,1548 1271,1548 1315,1548 1360,1548 1405,1548 1450,1548 1494,1548 1539,1548 1584,1548 1629,1548 1673,1548 1718,1548 1763,1548 1808,1551 1814,1551"/>
+				<TextEquiv>
+					<Unicode>wer den die andern alß ein oͤbrer einer gemein. d̓ die tugētrichē erhoͤhet beſchirmt die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="268,1603 1812,1611 1788,1562 268,1564"/>
+				<Baseline points="280,1596 325,1593 369,1593 414,1593 459,1596 504,1596 548,1596 593,1596 638,1596 683,1596 728,1596 772,1596 817,1599 862,1599 907,1599 951,1599 996,1599 1041,1599 1086,1599 1130,1599 1175,1599 1220,1599 1265,1599 1309,1602 1354,1602 1399,1599 1444,1599 1488,1599 1533,1599 1578,1599 1623,1599 1667,1599 1712,1599 1757,1599 1802,1602 1817,1602"/>
+				<TextEquiv>
+					<Unicode>mittelmeſign̄ vn̄ ſtrofft die boͤſē do vō ward d̓ ſelb edel geheiſſen alß über die andern in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="268,1657 1812,1665 1812,1613 268,1597"/>
+				<Baseline points="280,1646 325,1643 369,1643 414,1646 459,1646 504,1646 548,1646 593,1646 638,1646 683,1649 728,1649 772,1649 817,1649 862,1649 907,1649 951,1649 996,1649 1041,1652 1086,1652 1130,1655 1175,1652 1220,1652 1265,1652 1309,1652 1354,1649 1399,1652 1444,1649 1488,1649 1533,1649 1578,1649 1623,1649 1667,1652 1712,1652 1757,1652 1802,1655 1817,1655"/>
+				<TextEquiv>
+					<Unicode>tuͦgēt geecht do merck dz latin nobilis. ouch ſeit Ihero. ich ſich nüt das in dem adel zuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="268,1705 1821,1719 1821,1661 268,1657"/>
+				<Baseline points="280,1697 325,1697 369,1697 414,1697 459,1697 504,1700 548,1700 593,1700 638,1700 683,1700 728,1700 772,1700 817,1703 862,1703 907,1700 951,1703 996,1703 1041,1703 1086,1703 1130,1703 1175,1703 1220,1703 1265,1703 1309,1703 1354,1703 1399,1703 1444,1703 1488,1703 1533,1703 1578,1703 1623,1703 1667,1703 1712,1703 1757,1703 1824,1707"/>
+				<TextEquiv>
+					<Unicode>begerē ſige den das die edlen garnoch alß durch notdorff gezwūgē werdēt dz ſü nit wi¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="268,1767 1812,1771 1812,1715 1678,1709 268,1707"/>
+				<Baseline points="280,1751 325,1748 369,1751 414,1751 459,1751 504,1751 548,1751 593,1751 638,1751 683,1751 728,1751 772,1751 817,1754 862,1754 907,1754 951,1754 996,1754 1041,1754 1086,1754 1130,1754 1175,1754 1220,1754 1265,1754 1309,1754 1354,1754 1399,1754 1444,1754 1488,1754 1533,1754 1578,1757 1623,1754 1667,1754 1712,1757 1757,1757 1802,1757 1817,1757"/>
+				<TextEquiv>
+					<Unicode>chent vō fromkeit irer eltern. die and̓ ſach was des volks grobikeit vn̄ vnkūnenheit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="268,1810 1804,1821 1804,1777 1701,1763 268,1767"/>
+				<Baseline points="280,1802 325,1799 369,1802 414,1802 459,1802 504,1802 548,1802 593,1802 638,1802 683,1802 728,1805 772,1805 817,1805 862,1805 907,1805 951,1805 996,1805 1041,1805 1086,1805 1130,1808 1175,1808 1220,1805 1265,1808 1309,1808 1354,1805 1399,1805 1444,1805 1488,1805 1533,1805 1578,1805 1623,1805 1667,1805 1712,1805 1757,1805 1809,1810"/>
+				<TextEquiv>
+					<Unicode>das kein recht erkantniß hat wie wol ſü nochdē fridlich vnd̓einand̓ lebtē wan ſü wo¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="268,1864 1802,1868 1802,1821 1692,1815 268,1810"/>
+				<Baseline points="280,1855 325,1852 369,1852 414,1852 459,1852 504,1852 548,1852 593,1855 638,1855 683,1855 728,1855 772,1858 817,1855 862,1858 907,1858 951,1858 996,1858 1041,1855 1086,1858 1130,1858 1175,1858 1220,1858 1265,1855 1309,1855 1354,1855 1399,1855 1444,1855 1488,1855 1533,1858 1578,1858 1623,1858 1667,1858 1712,1858 1757,1858 1807,1860"/>
+				<TextEquiv>
+					<Unicode>rent alſo tuͦm das ſü nichts groß geachten mochtēt dann was do lobt ein gemein opi¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="267,1912 1800,1933 1800,1868 267,1879"/>
+				<Baseline points="277,1906 322,1903 366,1903 411,1903 456,1906 501,1906 546,1906 590,1906 635,1906 680,1906 725,1906 769,1906 814,1906 859,1909 904,1909 948,1909 993,1909 1038,1906 1083,1909 1127,1909 1172,1909 1217,1909 1262,1909 1306,1909 1351,1909 1396,1909 1441,1909 1485,1909 1530,1909 1575,1909 1620,1909 1664,1909 1709,1909 1754,1909 1799,1915 1802,1915"/>
+				<TextEquiv>
+					<Unicode>nion des volks dor vm̄ was not do mit das ſü in friden behaltē würdēt das ſü hettēt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="276,1968 1808,1985 1806,1935 1651,1920 276,1922"/>
+				<Baseline points="286,1954 331,1954 375,1954 420,1957 465,1957 510,1957 554,1957 599,1957 644,1960 689,1957 733,1960 778,1960 823,1960 868,1960 912,1960 957,1960 1002,1960 1047,1960 1092,1960 1136,1960 1181,1960 1226,1960 1271,1960 1315,1960 1360,1960 1405,1960 1450,1960 1494,1960 1539,1963 1584,1960 1629,1960 1673,1960 1718,1960 1763,1960 1808,1963 1811,1963"/>
+				<TextEquiv>
+					<Unicode>ein edlen fürſten. die dritt vrſach het von ſund̓licher ſterck ein vrſprung genūmen wan</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="267,2032 1810,2036 1810,1983 1638,1968 267,1972"/>
+				<Baseline points="277,2010 322,2007 366,2007 411,2007 456,2010 501,2013 546,2010 590,2010 635,2010 680,2010 725,2013 769,2010 814,2013 859,2010 904,2013 948,2013 993,2013 1038,2013 1083,2013 1127,2013 1172,2013 1217,2013 1262,2010 1306,2010 1351,2010 1396,2010 1441,2010 1485,2010 1530,2010 1575,2010 1620,2010 1664,2013 1709,2010 1754,2010 1799,2016 1814,2015"/>
+				<TextEquiv>
+					<Unicode>ſo zuͦ wilē dy gemein beſchwert würdēt vō überual der fremdē ſo ließ mā vßrüffen wer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="278,2076 1802,2078 1802,2034 1568,2018 278,2026"/>
+				<Baseline points="289,2064 334,2058 378,2061 423,2061 468,2061 513,2061 557,2061 602,2061 647,2061 692,2061 736,2061 781,2064 826,2064 871,2064 915,2064 960,2064 1005,2064 1050,2064 1094,2064 1139,2064 1184,2064 1229,2064 1274,2064 1318,2064 1363,2061 1408,2064 1453,2061 1497,2061 1542,2061 1587,2061 1632,2061 1676,2061 1721,2061 1766,2061 1806,2067"/>
+				<TextEquiv>
+					<Unicode>yemand d̓ das land vō ſolichen entſchuͤtzen mocht d̓ ſolt für ſich vnd ſinn erbern ewen¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="268,2126 1798,2126 1798,2080 1721,2070 268,2074"/>
+				<Baseline points="280,2112 325,2112 369,2112 414,2112 459,2115 504,2115 548,2115 593,2115 638,2115 683,2115 728,2115 772,2115 817,2115 862,2115 907,2115 951,2115 996,2115 1041,2115 1086,2115 1130,2118 1175,2115 1220,2115 1265,2115 1309,2115 1354,2115 1399,2115 1444,2115 1488,2115 1533,2115 1578,2115 1623,2115 1667,2115 1712,2115 1757,2115 1802,2118"/>
+				<TextEquiv>
+					<Unicode>klich habē gerechtikeit des adels alſo ſind vil geadelt wordē. die vierd vrſach würd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="263,2182 1798,2186 1798,2124 263,2124"/>
+				<Baseline points="274,2169 319,2163 364,2163 408,2163 453,2166 498,2166 543,2166 587,2166 632,2166 677,2166 722,2166 766,2166 811,2169 856,2166 901,2166 945,2169 990,2169 1035,2169 1080,2169 1124,2169 1169,2169 1214,2169 1259,2169 1303,2169 1348,2166 1393,2166 1438,2166 1482,2166 1527,2166 1572,2166 1617,2166 1661,2166 1706,2169 1751,2169 1796,2172 1802,2169"/>
+				<TextEquiv>
+					<Unicode>genūmen vō überfluſſigē richtuͦm wā zuͦ ziten geſchicht dz ſich das gemein volk groͤſer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="263,2233 1808,2231 1808,2182 1634,2173 263,2180"/>
+				<Baseline points="274,2216 319,2213 364,2213 408,2216 453,2216 498,2216 543,2216 587,2216 632,2216 677,2219 722,2219 766,2219 811,2219 856,2219 901,2219 945,2219 990,2219 1035,2219 1080,2219 1124,2222 1169,2219 1214,2219 1259,2216 1303,2216 1348,2216 1393,2216 1438,2216 1482,2219 1527,2216 1572,2216 1617,2219 1661,2219 1706,2219 1751,2216 1796,2222 1812,2218"/>
+				<TextEquiv>
+					<Unicode>armuͦthalb mit lib vnd guͦt vnd̓wuͦrffen eim richē. do mit das ſü miltretten dz boͤß d̓ ar¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="259,2283 1794,2290 1794,2236 1752,2229 259,2229"/>
+				<Baseline points="269,2267 313,2267 358,2267 402,2267 447,2267 492,2267 537,2267 581,2267 626,2270 671,2270 716,2270 760,2270 805,2270 850,2270 895,2270 939,2270 984,2270 1029,2270 1074,2270 1118,2273 1163,2273 1208,2270 1253,2270 1297,2270 1342,2270 1387,2270 1432,2270 1476,2270 1521,2270 1566,2270 1611,2270 1655,2270 1700,2270 1745,2270 1790,2273 1799,2276"/>
+				<TextEquiv>
+					<Unicode>muͦt vnd in dor noch erkanttent alß ein edlē vnd herren. Mā findet ouch adel d̓ durch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="261,2348 1794,2350 1794,2289 1698,2273 261,2285"/>
+				<Baseline points="271,2324 316,2321 361,2318 405,2321 450,2321 495,2321 540,2321 584,2324 629,2324 674,2321 719,2321 763,2324 808,2324 853,2324 898,2324 942,2324 987,2324 1032,2324 1077,2324 1121,2324 1166,2324 1211,2324 1256,2321 1300,2321 1345,2321 1390,2321 1435,2321 1479,2321 1524,2321 1569,2321 1614,2321 1658,2321 1703,2321 1748,2321 1793,2321 1799,2324"/>
+				<TextEquiv>
+					<Unicode>goͤtlich wiſſagūg vffgeſatzt iſt des ouch wenig iſt. ſyn iſt ouch ein teil beliben aiß in Da</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="263,2389 1798,2401 1754,2333 263,2348"/>
+				<Baseline points="274,2371 319,2368 364,2368 408,2368 453,2371 498,2371 543,2371 587,2371 632,2371 677,2371 722,2374 766,2374 811,2371 856,2374 901,2374 945,2374 990,2374 1035,2374 1080,2374 1124,2374 1169,2374 1214,2374 1259,2374 1303,2374 1348,2374 1393,2374 1438,2374 1482,2374 1527,2374 1572,2374 1617,2371 1661,2371 1706,2374 1751,2371 1796,2374 1802,2371"/>
+				<TextEquiv>
+					<Unicode>uid ein teil bald zergangē alß in Saul Ieroboam vnd etlicher andren. man liſt ouch das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="267,2433 1794,2439 1794,2401 1665,2383 267,2397"/>
+				<Baseline points="277,2425 322,2422 366,2422 411,2425 456,2422 501,2422 546,2422 590,2425 635,2425 680,2425 725,2425 769,2425 814,2425 859,2425 904,2425 948,2425 993,2425 1038,2428 1083,2425 1127,2425 1172,2425 1217,2428 1262,2425 1306,2425 1351,2425 1396,2425 1441,2425 1485,2425 1530,2425 1575,2425 1620,2425 1664,2425 1709,2425 1754,2422 1799,2428"/>
+				<TextEquiv>
+					<Unicode>vil adelß vm̄broch iſt durch gewalt vnd tyrannē od̓ grimmikeit dor zuͦ glicherwiß et¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="261,2495 1800,2499 1800,2453 1727,2435 261,2433"/>
+				<Baseline points="271,2473 316,2473 361,2473 405,2473 450,2476 495,2476 540,2476 584,2476 629,2476 674,2476 719,2476 763,2476 808,2476 853,2479 898,2479 942,2479 987,2479 1032,2479 1077,2479 1121,2479 1166,2479 1211,2479 1256,2479 1300,2476 1345,2476 1390,2476 1435,2476 1479,2476 1524,2476 1569,2476 1614,2476 1658,2476 1703,2476 1748,2476 1793,2479 1805,2479"/>
+				<TextEquiv>
+					<Unicode>lich bald zerſtoͤrt vn̄ verdilgt wurdēt etlich ſtet verblibēt. vnd merck das ſeltē od̓ nye</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="257,2543 1800,2538 1800,2499 1680,2478 257,2501"/>
+				<Baseline points="268,2524 313,2524 358,2527 402,2527 447,2527 492,2527 537,2527 581,2527 626,2527 671,2527 716,2527 760,2530 805,2527 850,2527 895,2530 939,2530 984,2530 1029,2530 1074,2533 1118,2533 1163,2530 1208,2530 1253,2530 1297,2530 1342,2530 1387,2530 1432,2530 1476,2527 1521,2527 1566,2530 1611,2527 1655,2530 1700,2527 1745,2530 1790,2530 1802,2527"/>
+				<TextEquiv>
+					<Unicode>noch inhalt der alten hyſtorien die geſchlecht d̓ edlen in der heydenſchafft lāgwirig ge</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="268,2598 1802,2605 1802,2538 268,2543"/>
+				<Baseline points="280,2577 325,2574 369,2577 414,2577 459,2577 504,2580 548,2580 593,2580 638,2580 683,2580 728,2580 772,2580 817,2580 862,2580 907,2580 951,2580 996,2580 1041,2580 1086,2580 1130,2583 1175,2583 1220,2580 1265,2580 1309,2580 1354,2580 1399,2580 1444,2580 1488,2580 1533,2577 1578,2580 1623,2580 1667,2580 1712,2580 1757,2580 1802,2580 1805,2580"/>
+				<TextEquiv>
+					<Unicode>weſen ſind hoffart vnd tyranni halb. es ſind ouch vil vnd̓ den chriſtē de̓ ſelbē ſach halb</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="263,2638 1806,2655 1771,2588 263,2596"/>
+				<Baseline points="274,2628 319,2628 364,2628 408,2628 453,2628 498,2631 543,2631 587,2631 632,2634 677,2631 722,2631 766,2631 811,2631 856,2631 901,2631 945,2634 990,2634 1035,2634 1080,2634 1124,2634 1169,2634 1214,2634 1259,2634 1303,2634 1348,2634 1393,2631 1438,2631 1482,2631 1527,2631 1572,2631 1617,2631 1661,2628 1706,2631 1751,2628 1808,2628"/>
+				<TextEquiv>
+					<Unicode>verdilgt wordē noch dē alß do ſtot Eccle. am. x. der her hat zerbrochē die ſtuͤl d̓ hoch¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_33" custom="readingOrder {index:32;}">
+				<Coords points="257,2692 1800,2696 1800,2657 1686,2636 257,2642"/>
+				<Baseline points="268,2682 313,2679 358,2682 402,2682 447,2682 492,2682 537,2685 581,2685 626,2685 671,2685 716,2685 760,2685 805,2685 850,2685 895,2685 939,2685 984,2685 1029,2685 1074,2685 1118,2685 1163,2685 1208,2685 1253,2685 1297,2682 1342,2682 1387,2682 1432,2682 1476,2682 1521,2682 1566,2682 1611,2682 1655,2682 1700,2682 1745,2682 1790,2682 1802,2685"/>
+				<TextEquiv>
+					<Unicode>fertigen hertzogē. vnd hat die milten heiſſenn ſitzen an ir ſtat merck ouch das adel nye</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_34" custom="readingOrder {index:33;}">
+				<Coords points="257,2748 1800,2746 1800,2694 1728,2688 257,2698"/>
+				<Baseline points="268,2735 280,2732 325,2732 369,2732 414,2732 459,2735 504,2738 548,2735 593,2735 638,2735 683,2735 728,2735 772,2735 817,2735 862,2735 907,2735 951,2735 996,2735 1041,2735 1086,2735 1130,2735 1175,2735 1220,2735 1265,2735 1309,2735 1354,2735 1399,2735 1444,2732 1488,2732 1533,2732 1578,2732 1623,2732 1667,2732 1712,2732 1757,2732 1802,2732"/>
+				<TextEquiv>
+					<Unicode>kein menſch gehaſſet hat wan adel iſt ein guͦt dzdurch ſich ſelb begirlich iſt wie tuͦgēt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_35" custom="readingOrder {index:34;}">
+				<Coords points="257,2808 1725,2808 1790,2796 1792,2742 259,2746"/>
+				<Baseline points="268,2783 313,2783 358,2786 402,2786 447,2786 492,2786 537,2786 581,2786 626,2786 671,2789 716,2786 760,2789 805,2786 850,2789 895,2789 939,2789 984,2789 1029,2789 1074,2789 1118,2789 1163,2789 1208,2789 1253,2786 1297,2786 1342,2786 1387,2783 1432,2786 1476,2783 1521,2783 1566,2783 1611,2783 1655,2783 1700,2783 1745,2783 1790,2786 1796,2789"/>
+				<TextEquiv>
+					<Unicode>oder geiſtlicheit. doch hand vil heilgen den adel geflohen groſes ſchadens vnd wyder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_36" custom="readingOrder {index:35;}">
+				<Coords points="257,2843 1800,2854 1800,2802 1667,2787 257,2802"/>
+				<Baseline points="268,2834 313,2834 358,2837 402,2837 447,2837 492,2840 537,2837 581,2837 626,2840 671,2840 716,2840 760,2840 805,2840 850,2840 895,2840 939,2840 984,2840 1029,2840 1074,2840 1118,2840 1163,2840 1208,2840 1253,2837 1297,2837 1342,2837 1387,2837 1432,2837 1476,2837 1521,2834 1566,2837 1611,2834 1655,2834 1700,2834 1745,2837 1790,2837 1802,2837"/>
+				<TextEquiv>
+					<Unicode>wertikeithalb die dor in verborgen lit vnd im anhangt das iſt gnuͦgſamlich ereſhinē in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_37" custom="readingOrder {index:36;}">
+				<Coords points="257,2893 1464,2891 1790,2930 1790,2858 1744,2849 257,2852"/>
+				<Baseline points="268,2888 313,2888 358,2891 402,2891 447,2891 492,2891 537,2891 581,2891 626,2891 671,2891 716,2891 760,2891 805,2891 850,2891 895,2891 939,2891 984,2891 1029,2891 1074,2891 1118,2891 1163,2891 1208,2891 1253,2891 1297,2891 1342,2888 1387,2888 1432,2891 1476,2888 1521,2888 1566,2888 1611,2888 1655,2888 1700,2888 1745,2888 1790,2888 1796,2891"/>
+				<TextEquiv>
+					<Unicode>dem ꝓpheten Dauid den got ſelbs alſo ſünd̓lich erwelt do durch wirt verſtanden das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709030111200_1433_tl_38" custom="readingOrder {index:37;}">
+				<Coords points="257,2978 1514,2982 1514,2901 1435,2895 257,2893"/>
+				<Baseline points="268,2941 313,2938 358,2941 402,2944 447,2944 492,2944 537,2947 581,2944 626,2944 671,2944 716,2944 760,2944 805,2944 850,2944 895,2944 939,2944 984,2944 1029,2944 1074,2947 1118,2947 1163,2944 1208,2944 1253,2944 1297,2944 1342,2941 1387,2941 1432,2938 1476,2938 1518,2941"/>
+				<TextEquiv>
+					<Unicode>kem gar wenig zuͦ ſoͤlicher wird vnd erhebung geſchickt geweſen ſind.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Der phaleg ein ſun Heber alſo genant wen in den ſelben ziten geſchach die irrung der
+zungen alß ob er geſundert wer von dē andern wan in ſim hüß bleib die vorig ſproch
+alſo ouch Augꝰ ſeit dor in erſchein nit ein clein bildūg d̓ gereehtikeit. dz das hüß lidig
+was d̓ pin alß ob es nit d̓ ſchuld teilhafftig geſin wer. vn̄ merck noch dē ſelbē dz die zal
+der ſprochē iſt noch d̓ zal der gebuͦrtē geſin. lxxij. aber die zal d̓ voͤlker iſt mher gemert
+wordē dē die zal d̓ ſprochē wē wir in einer ſproche vil voͤlker erkant hand.
+Alß mā ſeit ſo iſt zuͦ dyſen ziten adel vfferſtandē vn̄ wiß das adel vil ſatzenhalb vfgeſerzt
+wordē iſt. die erſt iſt notdorffthalb wan alß anfing zuͦzuͦnemē dz menſchlich geſchlecht
+vn̄ die lüt zuͦ dē boͤſen geneigt worēt. muͦſt mā verſchaffen dz die guͦtē von de boͤſen nit
+geleſtret od̓ übermuͤtiget werdēt. dor vm̄ erwelt mā ein mā d̓ gerechter vn̄ fürſiehtiger
+wer den die andern alß ein oͤbrer einer gemein. d̓ die tugētrichē erhoͤhet beſchirmt die
+mittelmeſign̄ vn̄ ſtrofft die boͤſē do vō ward d̓ ſelb edel geheiſſen alß über die andern in
+tuͦgēt geecht do merck dz latin nobilis. ouch ſeit Ihero. ich ſich nüt das in dem adel zuͦ
+begerē ſige den das die edlen garnoch alß durch notdorff gezwūgē werdēt dz ſü nit wi¬
+chent vō fromkeit irer eltern. die and̓ ſach was des volks grobikeit vn̄ vnkūnenheit
+das kein recht erkantniß hat wie wol ſü nochdē fridlich vnd̓einand̓ lebtē wan ſü wo¬
+rent alſo tuͦm das ſü nichts groß geachten mochtēt dann was do lobt ein gemein opi¬
+nion des volks dor vm̄ was not do mit das ſü in friden behaltē würdēt das ſü hettēt
+ein edlen fürſten. die dritt vrſach het von ſund̓licher ſterck ein vrſprung genūmen wan
+ſo zuͦ wilē dy gemein beſchwert würdēt vō überual der fremdē ſo ließ mā vßrüffen wer
+yemand d̓ das land vō ſolichen entſchuͤtzen mocht d̓ ſolt für ſich vnd ſinn erbern ewen¬
+klich habē gerechtikeit des adels alſo ſind vil geadelt wordē. die vierd vrſach würd
+genūmen vō überfluſſigē richtuͦm wā zuͦ ziten geſchicht dz ſich das gemein volk groͤſer
+armuͦthalb mit lib vnd guͦt vnd̓wuͦrffen eim richē. do mit das ſü miltretten dz boͤß d̓ ar¬
+muͦt vnd in dor noch erkanttent alß ein edlē vnd herren. Mā findet ouch adel d̓ durch
+goͤtlich wiſſagūg vffgeſatzt iſt des ouch wenig iſt. ſyn iſt ouch ein teil beliben aiß in Da
+uid ein teil bald zergangē alß in Saul Ieroboam vnd etlicher andren. man liſt ouch das
+vil adelß vm̄broch iſt durch gewalt vnd tyrannē od̓ grimmikeit dor zuͦ glicherwiß et¬
+lich bald zerſtoͤrt vn̄ verdilgt wurdēt etlich ſtet verblibēt. vnd merck das ſeltē od̓ nye
+noch inhalt der alten hyſtorien die geſchlecht d̓ edlen in der heydenſchafft lāgwirig ge
+weſen ſind hoffart vnd tyranni halb. es ſind ouch vil vnd̓ den chriſtē de̓ ſelbē ſach halb
+verdilgt wordē noch dē alß do ſtot Eccle. am. x. der her hat zerbrochē die ſtuͤl d̓ hoch¬
+fertigen hertzogē. vnd hat die milten heiſſenn ſitzen an ir ſtat merck ouch das adel nye
+kein menſch gehaſſet hat wan adel iſt ein guͦt dzdurch ſich ſelb begirlich iſt wie tuͦgēt
+oder geiſtlicheit. doch hand vil heilgen den adel geflohen groſes ſchadens vnd wyder
+wertikeithalb die dor in verborgen lit vnd im anhangt das iſt gnuͦgſamlich ereſhinē in
+dem ꝓpheten Dauid den got ſelbs alſo ſünd̓lich erwelt do durch wirt verſtanden das
+kem gar wenig zuͦ ſoͤlicher wird vnd erhebung geſchickt geweſen ſind.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

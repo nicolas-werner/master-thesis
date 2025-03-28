@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:07.897+01:00</Created>
+        <LastChange>2025-03-21T17:29:05.567+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0074_7474504.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698893" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="137,433 137,2041 1196,2041 1196,433"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="152,474 1149,491 1193,475 1192,406 151,423"/>
+                <Baseline points="158,456 209,457 261,461 313,460 365,460 417,461 469,462 521,462 573,462 625,463 677,465 728,465 780,468 832,468 884,469 936,471 988,473 1040,474 1092,474 1144,474 1196,474"/>
+                <TextEquiv>
+                    <Unicode>so denen die solche cappell vnd kilchen heymsuchent / ver</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="150,522 1184,530 1183,479 148,474"/>
+                <Baseline points="155,513 206,516 258,513 309,513 361,515 413,516 464,516 516,516 567,517 619,518 671,518 722,519 774,519 825,519 877,521 929,522 980,524 1032,524 1083,526 1135,527 1187,530"/>
+                <TextEquiv>
+                    <Unicode>lichend vß babstlicher krafft vnnd beriechtet gewissene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="148,582 1181,594 1154,530 148,542"/>
+                <Baseline points="155,566 206,566 257,566 309,566 360,566 412,566 463,566 515,566 566,566 618,567 669,569 720,569 772,571 823,572 875,572 926,573 978,575 1029,577 1081,578 1132,578 1184,584"/>
+                <TextEquiv>
+                    <Unicode>confirmiert vn̄ Testatiget vnd durch andere vnser Brief</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="145,637 1179,630 1179,593 1085,580 145,584"/>
+                <Baseline points="152,623 203,617 254,617 306,617 357,619 409,620 460,620 512,617 563,618 615,620 666,620 717,622 769,623 820,623 872,623 923,626 975,627 1026,629 1078,629 1129,629 1181,629"/>
+                <TextEquiv>
+                    <Unicode>gelich lutend in dult oder fryheit zu ewigen zytten we¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="142,669 1185,696 1184,630 142,633"/>
+                <Baseline points="149,668 200,668 252,668 304,669 356,671 408,671 460,671 512,671 564,671 616,671 668,673 719,674 771,677 823,677 875,677 927,677 979,679 1031,680 1083,683 1135,683 1187,686"/>
+                <TextEquiv>
+                    <Unicode>rende den selben absot vnnd conuent vnd iren nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="150,731 1181,739 1180,697 148,679"/>
+                <Baseline points="155,721 206,721 257,721 309,721 360,721 412,723 463,724 515,721 566,724 618,724 669,724 720,724 772,724 823,724 875,727 926,728 978,730 1029,730 1081,730 1132,733 1184,733"/>
+                <TextEquiv>
+                    <Unicode>kummen gerücht haben zu lyhen als dann soliches in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="154,795 1177,789 1157,736 154,729"/>
+                <Baseline points="161,775 212,772 263,772 314,772 365,774 416,775 467,775 518,772 569,772 620,775 671,776 722,778 773,778 824,778 875,781 926,781 977,782 1028,784 1079,784 1130,784 1181,784"/>
+                <TextEquiv>
+                    <Unicode>petweders obgemelten briefen vol kumentlicher begrif¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="148,841 1183,844 1183,796 1118,788 995,815 933,784 148,787"/>
+                <Baseline points="155,823 206,826 257,826 309,826 360,826 412,828 463,829 515,826 566,827 618,829 669,829 720,829 772,831 823,832 875,832 926,832 978,833 1029,835 1081,835 1132,835 1184,835"/>
+                <TextEquiv>
+                    <Unicode>fen ist/ Wir begerend das andacht, der selben gloubigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="146,883 1175,891 1174,841 145,843"/>
+                <Baseline points="152,876 203,873 254,876 305,877 357,879 408,879 459,876 511,879 562,879 613,879 665,879 716,879 767,879 818,882 870,882 921,883 972,885 1024,885 1075,885 1126,885 1178,885"/>
+                <TextEquiv>
+                    <Unicode>vnd besunder der bilgeren so zu der cappellen oder kil¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="139,931 1181,946 1181,890 139,880"/>
+                <Baseline points="146,924 197,927 249,927 301,928 353,930 405,930 457,930 509,930 561,930 613,931 665,933 716,933 768,933 820,933 872,934 924,936 976,936 1028,936 1080,939 1132,936 1184,939"/>
+                <TextEquiv>
+                    <Unicode>chen zu kerend / empsiger vff wachs / vnd das heyl der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="152,994 1177,1003 1176,950 1124,944 151,938"/>
+                <Baseline points="158,981 209,978 260,979 311,981 362,983 413,984 464,984 516,984 567,984 618,987 669,986 720,984 771,986 822,987 874,987 925,987 976,988 1027,990 1078,990 1129,990 1181,990"/>
+                <TextEquiv>
+                    <Unicode>selen witter sich erstreck / zynen begirden an dem ende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="135,1052 1183,1054 1181,1000 1124,993 134,999"/>
+                <Baseline points="143,1035 195,1031 247,1029 299,1030 351,1034 403,1035 455,1035 507,1035 559,1038 611,1038 663,1038 715,1038 767,1038 819,1038 871,1040 923,1040 975,1042 1027,1043 1079,1040 1131,1040 1184,1038"/>
+                <TextEquiv>
+                    <Unicode>zu willfotend / das du / der als du sprichst vß graffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="142,1090 1170,1099 1168,1051 1026,1042 141,1054"/>
+                <Baseline points="149,1082 200,1082 251,1083 302,1085 353,1085 404,1087 455,1088 507,1091 558,1091 609,1089 660,1090 711,1090 762,1089 813,1091 865,1091 916,1091 967,1094 1018,1094 1069,1092 1120,1091 1172,1094"/>
+                <TextEquiv>
+                    <Unicode>vnd fryhen geschlecht geboren bist/ vnd dyn nach kinnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="135,1146 1183,1155 1183,1093 135,1091"/>
+                <Baseline points="143,1130 195,1133 247,1133 299,1134 351,1136 403,1138 455,1142 507,1142 559,1142 611,1142 663,1142 715,1142 767,1142 819,1142 871,1145 923,1145 975,1145 1027,1145 1079,1145 1131,1145 1184,1148"/>
+                <TextEquiv>
+                    <Unicode>aber des selben closters, des gelichen ouch teglich durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="139,1196 1175,1213 1174,1163 1131,1150 138,1146"/>
+                <Baseline points="146,1187 197,1187 249,1187 300,1188 352,1192 404,1191 455,1193 507,1193 558,1193 610,1193 662,1193 713,1193 765,1193 816,1196 868,1196 920,1196 971,1196 1023,1196 1074,1198 1126,1199 1178,1196"/>
+                <TextEquiv>
+                    <Unicode>lich gesetzte priester zū zyten aller bilgeren so zu solicher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="135,1239 1176,1260 1154,1202 135,1202"/>
+                <Baseline points="143,1234 194,1237 246,1238 298,1240 350,1240 401,1242 453,1243 505,1243 557,1245 608,1244 660,1246 712,1246 764,1246 815,1246 867,1246 919,1247 971,1247 1022,1248 1074,1249 1126,1249 1178,1246"/>
+                <TextEquiv>
+                    <Unicode>cappell vnd kilchen vff des heyligen crütztag erhöhung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="135,1292 1179,1310 1170,1257 135,1244"/>
+                <Baseline points="143,1285 194,1285 246,1288 298,1289 350,1291 402,1293 454,1294 506,1297 558,1297 610,1297 662,1297 713,1297 765,1297 817,1297 869,1298 921,1300 973,1300 1025,1300 1077,1300 1129,1300 1181,1300"/>
+                <TextEquiv>
+                    <Unicode>vnnd vierzehen tag dar nach, so die wyhung der genaͤ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="142,1344 1177,1365 1176,1314 1105,1306 142,1304"/>
+                <Baseline points="149,1336 200,1339 251,1342 303,1343 354,1345 406,1345 457,1348 509,1351 560,1349 612,1351 663,1351 714,1351 766,1351 817,1351 869,1351 920,1351 972,1351 1023,1351 1075,1351 1126,1351 1178,1351"/>
+                <TextEquiv>
+                    <Unicode>ten CappeC der man spricht die Engelwiche von dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="145,1404 1172,1420 1172,1370 1056,1355 145,1345"/>
+                <Baseline points="152,1392 203,1389 254,1392 305,1393 356,1397 407,1398 458,1398 510,1401 561,1401 612,1401 663,1401 714,1401 765,1401 816,1398 868,1401 919,1404 970,1404 1021,1403 1072,1401 1123,1401 1175,1404"/>
+                <TextEquiv>
+                    <Unicode>sibenden iar zu siben iaren allein gewölich ist zu begon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="135,1455 1179,1467 1177,1417 1114,1408 135,1413"/>
+                <Baseline points="143,1443 194,1443 246,1444 298,1446 350,1448 402,1449 454,1452 506,1452 558,1452 610,1453 662,1455 713,1453 765,1452 817,1452 869,1453 921,1455 973,1455 1025,1455 1077,1455 1129,1455 1181,1458"/>
+                <TextEquiv>
+                    <Unicode>zuͤkumenden bycht hören vnd inen von allen iron siin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="145,1510 1179,1510 1179,1464 145,1454"/>
+                <Baseline points="152,1494 203,1494 254,1498 306,1500 357,1500 409,1502 460,1506 512,1506 563,1506 615,1506 666,1505 717,1503 769,1503 820,1503 872,1506 923,1506 975,1506 1026,1506 1078,1508 1129,1506 1181,1509"/>
+                <TextEquiv>
+                    <Unicode>den / ouch in yeden stucken dem gemelten stul zu rome</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="135,1547 1003,1579 1149,1570 1172,1517 134,1503"/>
+                <Baseline points="143,1542 194,1545 246,1548 297,1549 349,1553 401,1554 452,1557 504,1557 555,1557 607,1557 659,1557 710,1557 762,1557 813,1557 865,1557 917,1558 968,1558 1020,1558 1071,1559 1123,1557 1175,1554"/>
+                <TextEquiv>
+                    <Unicode>vorbehalten / vß genomen belydigung fryheit der fylch¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="135,1602 1177,1619 1176,1559 135,1572"/>
+                <Baseline points="143,1598 194,1595 246,1599 298,1601 350,1603 401,1606 453,1607 505,1610 557,1610 608,1610 660,1608 712,1607 764,1607 815,1607 867,1607 919,1608 971,1610 1022,1610 1074,1610 1126,1610 1178,1607"/>
+                <TextEquiv>
+                    <Unicode>en/ iibertretter des interdicis von dem obgemelten stuͤll</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="135,1663 1166,1667 1141,1615 135,1606"/>
+                <Baseline points="143,1649 194,1649 245,1650 296,1653 348,1655 399,1657 450,1658 502,1661 553,1664 604,1663 656,1661 707,1661 758,1659 809,1661 861,1661 912,1661 963,1661 1015,1661 1066,1661 1117,1661 1169,1661"/>
+                <TextEquiv>
+                    <Unicode>vffgeleit, sind der ketzery, all beleydigung vngehorsa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="130,1701 1170,1732 1148,1667 130,1662"/>
+                <Baseline points="137,1697 188,1700 240,1703 292,1704 344,1708 395,1709 447,1712 499,1712 551,1715 602,1715 654,1715 706,1715 758,1715 809,1715 861,1715 913,1715 965,1713 1016,1714 1068,1713 1120,1712 1172,1715"/>
+                <TextEquiv>
+                    <Unicode>me oder widersatzung des römischen bischof oder beb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="142,1769 1176,1773 1176,1725 142,1708"/>
+                <Baseline points="149,1756 200,1750 251,1754 303,1757 354,1759 406,1761 457,1765 509,1765 560,1765 612,1765 663,1765 714,1765 766,1765 817,1765 869,1765 920,1765 972,1765 1023,1765 1075,1765 1126,1765 1178,1768"/>
+                <TextEquiv>
+                    <Unicode>stlichen stuͤls / priester toδschlag / persönlich beleydigung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="139,1809 1177,1827 1176,1773 138,1767"/>
+                <Baseline points="146,1801 197,1804 249,1808 301,1810 353,1812 404,1813 456,1816 508,1816 560,1817 611,1819 663,1819 715,1817 767,1816 818,1819 870,1819 922,1819 974,1819 1025,1819 1077,1817 1129,1816 1181,1816"/>
+                <TextEquiv>
+                    <Unicode>eins bischoffs oder ander prelaten, angriffer/ reuber og</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="135,1874 1170,1872 1170,1831 1068,1820 135,1826"/>
+                <Baseline points="143,1855 194,1855 245,1859 297,1862 348,1864 400,1866 451,1867 503,1870 554,1870 606,1870 657,1870 708,1868 760,1869 811,1867 863,1870 914,1870 966,1870 1017,1870 1069,1868 1120,1867 1172,1870"/>
+                <TextEquiv>
+                    <Unicode>zerstörer der land so der römschen tilhen onmittels vn¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="142,1911 499,1946 1176,1930 1176,1880 1088,1873 142,1872"/>
+                <Baseline points="149,1903 200,1905 251,1909 303,1912 354,1914 406,1916 457,1917 509,1920 560,1920 612,1920 663,1920 714,1920 766,1920 817,1920 869,1923 920,1922 972,1920 1023,1920 1075,1920 1126,1920 1178,1917"/>
+                <TextEquiv>
+                    <Unicode>der worffen sint / von wegen der pen so vff den hohen dorn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="146,1976 1168,1986 1167,1934 504,1949 145,1913"/>
+                <Baseline points="152,1959 203,1959 254,1963 305,1965 356,1967 407,1970 458,1974 509,1974 560,1974 611,1977 662,1977 713,1975 764,1974 815,1974 866,1974 917,1974 968,1974 1019,1974 1070,1974 1121,1972 1172,1971"/>
+                <TextEquiv>
+                    <Unicode>stag vffgeleit werden vnd ouch die angriffen die so gon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="137,2027 1137,2050 1174,1988 135,1965"/>
+                <Baseline points="143,2010 194,2010 246,2014 298,2017 350,2021 401,2024 453,2028 505,2028 557,2030 608,2028 660,2028 712,2028 764,2028 815,2028 867,2028 919,2028 971,2028 1022,2028 1074,2028 1126,2025 1178,2028"/>
+                <TextEquiv>
+                    <Unicode>rom ziehen oder all ander zu dem römischen hof fument</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

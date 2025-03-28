@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:08.902+01:00</Created>
+        <LastChange>2025-03-21T17:29:06.725+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0083_7503480.jpg" imageWidth="2780" imageHeight="3602">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817699155" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="370,412 370,2799 1830,2799 1830,412"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1026,462 1042,464 1055,455 1073,464 1091,449 1104,458 1115,457 1113,369 1102,367 1086,376 1075,376 1062,366 1040,386 1037,382 1024,384"/>
+                <Baseline points="1036,442 1064,442 1092,443 1120,445"/>
+                <TextEquiv>
+                    <Unicode>vi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="366,537 1810,533 1811,473 367,480"/>
+                <Baseline points="376,531 451,534 527,536 603,534 678,531 754,530 830,531 906,529 981,528 1057,531 1133,531 1209,530 1284,531 1360,525 1436,527 1512,527 1587,528 1663,527 1739,526 1815,528"/>
+                <TextEquiv>
+                    <Unicode>visch schreijen werden das ir geschreÿ geet auff zu de hym</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="364,613 1810,609 1810,549 1744,531 364,540"/>
+                <Baseline points="373,606 445,603 517,603 589,601 661,600 733,600 805,597 877,597 949,597 1021,597 1094,594 1166,597 1238,594 1310,592 1382,591 1454,591 1526,593 1598,591 1670,591 1742,591 1815,594"/>
+                <TextEquiv>
+                    <Unicode>mel. Das vierd zeichen das das mere vnnd alle wasser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="369,675 1810,666 1810,607 369,618"/>
+                <Baseline points="379,669 450,666 522,666 594,666 666,666 738,666 809,666 881,663 953,663 1025,663 1097,663 1168,663 1240,663 1312,658 1384,657 1456,657 1527,658 1599,657 1671,657 1743,658 1815,660"/>
+                <TextEquiv>
+                    <Unicode>werden brijnnen. Aber die zeichen sullen alle geschehen in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="364,746 1813,735 1815,662 366,673"/>
+                <Baseline points="373,731 445,734 517,734 589,731 662,731 734,731 806,731 878,728 951,728 1023,728 1095,728 1167,728 1240,725 1312,725 1384,725 1456,725 1529,725 1601,722 1673,720 1745,722 1818,719"/>
+                <TextEquiv>
+                    <Unicode>dem mere. (Das fünffte zeichen alle baum graß vn kreii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="366,811 1813,797 1813,749 1742,738 366,749"/>
+                <Baseline points="376,800 448,800 520,800 592,798 664,800 736,800 808,797 880,794 952,794 1024,794 1097,794 1169,792 1241,791 1313,791 1385,791 1457,791 1529,788 1601,788 1673,788 1745,788 1818,788"/>
+                <TextEquiv>
+                    <Unicode>ter werden pluten. Das sechste zeichen das aller pawe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="366,875 1801,862 1773,793 366,813"/>
+                <Baseline points="376,866 447,866 518,864 590,863 661,863 732,866 804,864 875,861 946,860 1018,860 1089,860 1160,860 1232,859 1303,857 1374,857 1446,854 1517,854 1588,856 1660,854 1731,855 1803,854"/>
+                <TextEquiv>
+                    <Unicode>an heusern pürgen-steten vnd kirchen werden nijder fal¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="364,942 1808,946 1810,858 366,875"/>
+                <Baseline points="373,934 448,931 524,931 600,931 675,930 751,930 827,928 903,926 978,925 1054,925 1130,925 1206,925 1281,922 1357,922 1433,922 1509,921 1584,919 1660,919 1736,919 1812,910"/>
+                <TextEquiv>
+                    <Unicode>len. (Das Sibent Zeichen ist das sich alle steyne vn̄ velß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="375,1009 1813,995 1813,944 1651,924 375,944"/>
+                <Baseline points="385,1000 456,1000 528,997 599,997 671,997 743,997 814,994 886,994 958,992 1029,991 1101,991 1173,989 1244,986 1316,988 1388,988 1459,988 1531,988 1603,985 1674,985 1746,985 1818,985"/>
+                <TextEquiv>
+                    <Unicode>zuͤsamen schlähen vnd erspalten, dauon werde alle men</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="364,1079 1813,1060 1784,991 364,1013"/>
+                <Baseline points="373,1069 445,1066 517,1066 589,1066 662,1063 734,1061 806,1060 878,1060 951,1057 1023,1057 1095,1057 1167,1057 1240,1057 1312,1054 1384,1054 1456,1054 1529,1052 1601,1051 1673,1051 1745,1051 1818,1051"/>
+                <TextEquiv>
+                    <Unicode>schen erschrecken vnnd erpidmen Das acht zeichen ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="373,1139 1813,1139 1813,1080 1686,1062 373,1077"/>
+                <Baseline points="382,1128 453,1130 525,1131 597,1129 669,1130 741,1128 812,1128 884,1125 956,1123 1028,1123 1100,1123 1171,1123 1243,1123 1315,1120 1387,1120 1459,1120 1530,1120 1602,1117 1674,1117 1746,1120 1818,1120"/>
+                <TextEquiv>
+                    <Unicode>das sich ein geleicher erdpidem erheben wirt in der gantz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="369,1199 1813,1209 1813,1137 369,1162"/>
+                <Baseline points="379,1197 454,1197 530,1197 606,1194 681,1194 757,1191 833,1191 909,1191 984,1188 1060,1188 1136,1189 1212,1187 1287,1185 1363,1185 1439,1183 1515,1185 1590,1182 1666,1185 1742,1185 1818,1182"/>
+                <TextEquiv>
+                    <Unicode>en welt. (Das Neünde zeichen ist das alle berg vnnd tale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="373,1275 1819,1253 1819,1208 1708,1186 373,1206"/>
+                <Baseline points="382,1260 454,1263 526,1263 598,1263 670,1262 742,1260 814,1259 886,1257 958,1257 1030,1257 1103,1254 1175,1254 1247,1254 1319,1251 1391,1251 1463,1251 1535,1251 1607,1251 1679,1250 1751,1249 1824,1245"/>
+                <TextEquiv>
+                    <Unicode>sollen geleich werden in allet welt (Das zehent zeichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="366,1333 1813,1342 1815,1269 367,1279"/>
+                <Baseline points="376,1329 448,1329 520,1329 592,1328 664,1329 736,1326 808,1326 880,1323 952,1323 1024,1322 1097,1320 1169,1320 1241,1317 1313,1317 1385,1317 1457,1317 1529,1319 1601,1320 1673,1317 1745,1316 1818,1317"/>
+                <TextEquiv>
+                    <Unicode>ist-das dije leüt auß den hoͤlen d berg koͤmen gegangen be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="360,1395 1819,1402 1819,1344 1711,1320 360,1339"/>
+                <Baseline points="370,1394 442,1394 515,1394 588,1394 660,1391 733,1391 806,1390 878,1388 951,1388 1024,1388 1097,1388 1169,1385 1242,1385 1315,1385 1387,1384 1460,1382 1533,1384 1605,1382 1678,1382 1751,1379 1824,1379"/>
+                <TextEquiv>
+                    <Unicode>trubet vn vermuͤdet das sij int mer muͤgen gereden. [Das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="369,1471 1817,1466 1795,1397 369,1402"/>
+                <Baseline points="379,1460 451,1462 523,1457 595,1460 667,1457 739,1457 811,1457 883,1457 955,1454 1027,1453 1100,1451 1172,1451 1244,1451 1316,1448 1388,1448 1460,1448 1532,1448 1604,1448 1676,1448 1748,1447 1821,1439"/>
+                <TextEquiv>
+                    <Unicode>eilfft zeichen das das gebeijne alles komt auß den greberen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="369,1537 1808,1517 1808,1464 369,1473"/>
+                <Baseline points="379,1529 450,1526 522,1526 593,1526 665,1526 737,1523 808,1523 880,1520 952,1520 1023,1518 1095,1520 1167,1517 1238,1517 1310,1515 1382,1514 1453,1511 1525,1512 1597,1514 1668,1512 1740,1511 1812,1508"/>
+                <TextEquiv>
+                    <Unicode>(Das zwelfft zeichen das die stern vallen von de firmament¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="366,1600 1770,1604 1813,1600 1815,1528 367,1546"/>
+                <Baseline points="376,1594 448,1591 520,1594 592,1591 664,1588 736,1588 808,1587 880,1585 952,1585 1024,1585 1097,1585 1169,1583 1241,1582 1313,1582 1385,1581 1457,1579 1529,1579 1601,1576 1673,1578 1745,1576 1818,1576"/>
+                <TextEquiv>
+                    <Unicode>[Oz dreizehent an ꝺe dreisehende tag sterben die leut dije</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="369,1670 1730,1670 1815,1655 1817,1600 371,1600"/>
+                <Baseline points="379,1660 451,1660 523,1660 595,1657 667,1657 739,1657 811,1656 883,1651 955,1652 1027,1651 1100,1651 1172,1648 1244,1648 1316,1648 1388,1647 1460,1645 1532,1645 1604,1645 1676,1645 1748,1645 1821,1642"/>
+                <TextEquiv>
+                    <Unicode>noch lebendig seyn das sij mit den todten zu gericht koͤmen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="375,1733 1813,1721 1813,1655 375,1673"/>
+                <Baseline points="385,1729 456,1728 528,1725 599,1723 671,1723 743,1723 814,1718 886,1717 958,1717 1029,1717 1101,1717 1173,1715 1244,1714 1316,1714 1388,1711 1459,1711 1531,1711 1603,1711 1674,1711 1746,1709 1818,1714"/>
+                <TextEquiv>
+                    <Unicode>Das vierzehent auf de tag brijnt himel vn erde vn̄ wirt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="366,1808 1813,1784 1813,1733 1691,1710 366,1724"/>
+                <Baseline points="376,1798 448,1794 520,1792 592,1789 664,1788 736,1786 808,1788 880,1786 952,1783 1024,1783 1097,1783 1169,1783 1241,1783 1313,1780 1385,1777 1457,1777 1529,1775 1601,1774 1673,1776 1745,1775 1818,1777"/>
+                <TextEquiv>
+                    <Unicode>geleütert mit de feur. (Oz fünffczehend zeichen geschicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="364,1866 1810,1851 1810,1786 1706,1777 366,1808"/>
+                <Baseline points="376,1857 451,1857 527,1857 603,1854 678,1852 754,1853 830,1851 906,1851 981,1848 1057,1848 1133,1845 1209,1845 1284,1845 1360,1842 1436,1842 1512,1842 1587,1842 1663,1841 1739,1841 1815,1839"/>
+                <TextEquiv>
+                    <Unicode>an de fünffczehenden tag. also wirt erneüert hijmel vn̄ erden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="366,1930 1810,1935 1810,1853 366,1861"/>
+                <Baseline points="376,1920 451,1922 527,1923 603,1920 678,1918 754,1917 830,1917 906,1914 981,1916 1057,1914 1133,1912 1209,1911 1284,1911 1360,1911 1436,1911 1512,1910 1587,1908 1663,1908 1739,1908 1815,1908"/>
+                <TextEquiv>
+                    <Unicode>So steen dan̄ auff alle mentschen ein jegklicher mit seinem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="366,1997 1819,1986 1819,1935 1708,1912 366,1932"/>
+                <Baseline points="376,1992 448,1990 520,1989 592,1987 665,1984 737,1984 809,1983 881,1983 954,1982 1026,1982 1098,1980 1170,1978 1243,1977 1315,1975 1387,1974 1459,1974 1532,1972 1604,1974 1676,1974 1748,1974 1821,1974"/>
+                <TextEquiv>
+                    <Unicode>leib als es auff erdtreich gangen ist, vii werden dann nijmer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="366,2062 1751,2057 1811,2050 1813,1990 367,1999"/>
+                <Baseline points="376,2057 448,2056 520,2054 592,2052 664,2051 736,2051 808,2048 880,2048 952,2046 1024,2045 1097,2045 1169,2042 1241,2042 1313,2042 1385,2041 1457,2039 1529,2039 1601,2039 1673,2037 1745,2037 1818,2039"/>
+                <TextEquiv>
+                    <Unicode>mer sterben vnnd koͤmen dan für gericht ꝺo wirt das ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="366,2135 1788,2121 1815,2052 366,2070"/>
+                <Baseline points="376,2126 448,2125 520,2123 592,2120 664,2117 736,2114 808,2116 880,2114 952,2113 1024,2110 1097,2108 1169,2108 1241,2108 1313,2108 1385,2105 1457,2102 1529,2105 1601,2102 1673,2105 1745,2103 1818,2102"/>
+                <TextEquiv>
+                    <Unicode>ijegklich mensch geurteylt werden nach seinen wercken-dije</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="366,2199 1813,2179 1813,2117 366,2137"/>
+                <Baseline points="376,2198 448,2189 520,2186 592,2186 664,2183 736,2183 808,2182 880,2177 952,2177 1024,2176 1097,2174 1169,2175 1241,2174 1313,2174 1385,2171 1457,2171 1529,2171 1601,2171 1673,2171 1745,2171 1818,2171"/>
+                <TextEquiv>
+                    <Unicode>guten die komen dann zu dem hijmelreich- vnd die poͤsen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="373,2268 1542,2235 1822,2266 1822,2186 373,2212"/>
+                <Baseline points="382,2257 454,2254 526,2251 598,2251 671,2251 743,2249 815,2246 887,2246 960,2243 1032,2240 1104,2240 1176,2243 1249,2240 1321,2240 1393,2237 1465,2237 1538,2237 1610,2237 1682,2237 1754,2237 1827,2240"/>
+                <TextEquiv>
+                    <Unicode>zū der helle pein. Tunc videbunt filium hominis vementem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="366,2332 1813,2313 1782,2248 1540,2233 366,2272"/>
+                <Baseline points="376,2320 448,2320 520,2317 592,2317 664,2316 736,2311 808,2312 880,2311 952,2311 1024,2308 1097,2305 1169,2306 1241,2305 1313,2305 1385,2304 1457,2302 1529,2302 1601,2302 1673,2302 1745,2302 1818,2302"/>
+                <TextEquiv>
+                    <Unicode>in nubibus celi-Dann sehen sij des menschen sijn komend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="369,2388 1808,2392 1808,2313 369,2328"/>
+                <Baseline points="379,2383 450,2383 522,2383 593,2383 665,2380 737,2380 808,2379 880,2377 952,2377 1023,2376 1095,2368 1167,2368 1238,2371 1310,2371 1382,2370 1453,2368 1525,2368 1597,2368 1668,2368 1740,2368 1812,2368"/>
+                <TextEquiv>
+                    <Unicode>in den wolcken des hymels Ido erunt signa in sole-darumb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="373,2468 1790,2463 1824,2397 1166,2366 375,2397"/>
+                <Baseline points="382,2455 454,2452 526,2449 598,2449 671,2449 743,2449 815,2446 887,2443 960,2441 1032,2439 1104,2437 1176,2437 1249,2437 1321,2435 1393,2436 1465,2434 1538,2434 1610,2431 1682,2434 1754,2434 1827,2434"/>
+                <TextEquiv>
+                    <Unicode>sullen zeychen geschehen an ô sünn vn̄ an de mon von seiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="369,2534 1751,2521 1813,2506 1815,2452 371,2464"/>
+                <Baseline points="379,2517 454,2517 530,2517 606,2517 681,2517 757,2513 833,2511 909,2508 984,2505 1060,2505 1136,2502 1212,2501 1287,2499 1363,2499 1439,2499 1515,2499 1590,2499 1666,2499 1742,2499 1818,2499"/>
+                <TextEquiv>
+                    <Unicode>zu kunfft. (Zu ꝺe andern mal söllen wir mercken wie vn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="373,2603 1813,2572 1813,2523 1721,2506 375,2534"/>
+                <Baseline points="382,2586 453,2583 525,2583 597,2580 669,2580 741,2580 812,2577 884,2577 956,2574 1028,2571 1100,2571 1171,2568 1243,2568 1315,2568 1387,2568 1459,2568 1530,2567 1602,2568 1674,2566 1746,2566 1818,2565"/>
+                <TextEquiv>
+                    <Unicode>ser herr zuͤkunfftig ist als vns ꝺas evangelium saget / Cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="369,2668 1815,2637 1815,2570 371,2601"/>
+                <Baseline points="379,2655 454,2652 530,2649 606,2646 681,2644 757,2643 833,2643 909,2641 984,2640 1060,2640 1136,2637 1212,2634 1287,2634 1363,2634 1439,2632 1515,2631 1590,2631 1666,2631 1742,2631 1818,2628"/>
+                <TextEquiv>
+                    <Unicode>potestate magna/ Mit grossem gewalte, wann er das ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="375,2732 1819,2721 1821,2630 376,2666"/>
+                <Baseline points="385,2714 456,2714 528,2714 600,2712 672,2711 744,2708 815,2708 887,2705 959,2705 1031,2704 1103,2702 1174,2702 1246,2700 1318,2700 1390,2697 1462,2697 1533,2696 1605,2697 1677,2695 1749,2693 1821,2694"/>
+                <TextEquiv>
+                    <Unicode>richt besiczen will über alle menschen lebendig vn̄ tod-vn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="373,2806 1826,2795 1828,2714 375,2732"/>
+                <Baseline points="382,2783 454,2784 526,2783 599,2783 671,2780 744,2780 816,2780 888,2777 961,2774 1033,2772 1106,2772 1178,2770 1250,2765 1323,2765 1395,2765 1468,2765 1540,2766 1612,2765 1685,2764 1757,2763 1830,2762"/>
+                <TextEquiv>
+                    <Unicode>alle verporgen gedancken d menschen werden do geoffenbort</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

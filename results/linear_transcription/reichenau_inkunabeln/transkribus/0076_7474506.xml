@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:08.106+01:00</Created>
+        <LastChange>2025-03-21T17:29:05.818+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0076_7474506.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698945" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="95,503 95,2237 1163,2237 1163,503"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="120,534 1160,554 1159,479 120,478"/>
+                <Baseline points="128,530 179,530 231,529 283,528 335,530 386,532 438,533 490,533 542,534 593,536 645,536 697,536 749,539 800,539 852,540 904,542 956,542 1007,542 1059,544 1111,545 1163,545"/>
+                <TextEquiv>
+                    <Unicode>Nun wil ich hie nach sagen wie die cappel zu den ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="130,605 1049,627 1154,605 1154,552 128,541"/>
+                <Baseline points="137,587 188,584 239,584 290,584 341,584 392,584 443,587 494,587 545,587 596,587 647,588 698,590 749,592 800,593 851,596 902,596 953,599 1004,599 1055,599 1106,597 1157,599"/>
+                <TextEquiv>
+                    <Unicode>sidsen gewicht ward vn vnseren Herren iesu christo selbert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="332,1720 364,1739 383,1733 412,1759 442,1742 478,1757 492,1755 501,1669 457,1636 400,1661 355,1699 334,1700"/>
+                <Baseline points="340,1712 366,1715 393,1711 420,1708 447,1704 474,1702 501,1700"/>
+                <TextEquiv>
+                    <Unicode>Ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="243,1860 1118,1873 1116,1807 243,1813"/>
+                <Baseline points="250,1858 293,1852 337,1852 380,1853 424,1855 467,1856 511,1857 554,1856 598,1858 641,1859 685,1861 729,1861 772,1861 816,1861 859,1861 903,1861 946,1861 990,1858 1033,1858 1077,1858 1121,1852"/>
+                <TextEquiv>
+                    <Unicode>Is ist wie vn ser Herre iesus christus die cap¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="237,1908 1129,1923 1129,1861 237,1878"/>
+                <Baseline points="244,1905 288,1900 332,1903 377,1905 421,1905 466,1905 510,1908 555,1908 599,1908 644,1911 688,1911 732,1911 777,1911 821,1911 866,1911 910,1911 955,1911 999,1911 1044,1911 1088,1908 1133,1911"/>
+                <TextEquiv>
+                    <Unicode>pellen zu ꝺem einsidlen selber wichte, vn̄ wer da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="240,1977 1071,1985 1115,1932 238,1909"/>
+                <Baseline points="247,1953 290,1953 334,1953 377,1956 421,1959 464,1959 508,1959 551,1959 595,1959 638,1961 682,1962 726,1962 769,1962 813,1964 856,1965 900,1965 943,1963 987,1962 1030,1962 1074,1961 1118,1959"/>
+                <TextEquiv>
+                    <Unicode>zegegen vn de by vn mit was / Der affer ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="93,1997 1124,2024 1123,1975 92,1949"/>
+                <Baseline points="101,1983 152,1981 203,1990 254,2001 306,2003 357,2006 408,2010 460,2010 511,2013 562,2013 614,2013 665,2013 716,2015 767,2016 819,2016 870,2016 921,2016 973,2016 1024,2014 1075,2013 1127,2013"/>
+                <TextEquiv>
+                    <Unicode>Gwaltigest künig der engelen wirdiget noch al /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="88,2047 490,2085 1118,2067 1116,2028 88,2006"/>
+                <Baseline points="95,2037 146,2041 197,2047 248,2052 300,2057 351,2060 402,2061 454,2064 505,2064 556,2065 608,2067 659,2067 710,2067 761,2067 813,2067 864,2067 915,2067 967,2067 1018,2067 1069,2065 1121,2061"/>
+                <TextEquiv>
+                    <Unicode>le zyt die syn aller liebste synd, vnd die vsserwelten ze ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="89,2102 1116,2135 1119,2066 558,2088 88,2051"/>
+                <Baseline points="95,2090 146,2091 197,2098 249,2103 300,2107 352,2110 403,2114 455,2114 506,2117 558,2117 609,2117 660,2119 712,2118 763,2120 815,2120 866,2118 918,2120 969,2120 1021,2118 1072,2120 1124,2117"/>
+                <TextEquiv>
+                    <Unicode>sehende, so er gotlichen dingen gyt zu schowende vn̄ zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="91,2150 1120,2186 1119,2135 89,2106"/>
+                <Baseline points="98,2138 149,2145 200,2151 251,2156 302,2161 353,2162 404,2165 456,2168 507,2168 558,2168 609,2168 660,2170 711,2171 762,2171 814,2171 865,2171 916,2171 967,2171 1018,2171 1069,2169 1121,2171"/>
+                <TextEquiv>
+                    <Unicode>erkennende, als wir hienach wolmercken mitget. So</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="89,2212 1114,2251 1114,2183 88,2163"/>
+                <Baseline points="95,2195 146,2201 197,2206 248,2211 299,2215 350,2218 401,2219 453,2222 504,2222 555,2223 606,2225 657,2225 708,2225 759,2225 811,2225 862,2225 913,2225 964,2225 1015,2225 1066,2225 1118,2222"/>
+                <TextEquiv>
+                    <Unicode>man zalt von gottes geburt núnhundert vnd dry vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

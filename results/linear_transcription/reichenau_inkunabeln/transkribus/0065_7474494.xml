@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:06.914+01:00</Created>
+        <LastChange>2025-03-21T17:29:04.428+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0065_7474494.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698556" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="101,499 101,2235 1169,2235 1169,499"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="127,528 1164,549 1129,480 1005,509 736,455 127,475"/>
+                <Baseline points="134,524 185,524 237,527 288,527 340,527 392,527 443,527 495,527 546,530 598,530 650,530 701,530 753,533 804,536 856,536 908,536 959,536 1011,536 1062,538 1114,539 1166,539"/>
+                <TextEquiv>
+                    <Unicode>wan das sust selig luit by inen wonhafftig worent vnd bu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="130,587 1147,596 1146,565 963,541 130,532"/>
+                <Baseline points="137,575 187,578 238,578 289,578 339,578 390,580 441,581 491,581 542,581 593,585 644,587 694,586 745,586 796,589 846,590 897,590 948,590 998,590 1049,591 1100,595 1151,596"/>
+                <TextEquiv>
+                    <Unicode>weten die capelle / die noch Hüt by tag vnser frowen cap</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="127,650 1163,650 1162,594 127,587"/>
+                <Baseline points="134,632 185,629 237,630 288,632 340,630 392,631 443,632 495,632 546,636 598,638 650,638 701,638 753,638 804,641 856,641 908,641 959,641 1011,641 1062,643 1114,644 1166,650"/>
+                <TextEquiv>
+                    <Unicode>peffe ist / Vnd do die cappelle vnd der buwe volbracht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="127,684 1166,720 1164,653 1107,646 127,650"/>
+                <Baseline points="134,680 185,683 237,683 289,683 341,683 392,683 444,686 496,689 548,690 599,691 651,691 703,692 755,694 806,694 858,694 910,694 962,694 1013,696 1065,697 1117,697 1169,700"/>
+                <TextEquiv>
+                    <Unicode>vnd gemacht ward/ do santen sy gen Costantz nach sät</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="127,746 1156,774 1155,710 1066,699 127,690"/>
+                <Baseline points="134,739 185,736 236,736 287,736 339,736 390,738 441,736 493,739 544,742 595,742 647,742 698,742 749,744 800,745 852,745 903,745 954,746 1006,748 1057,750 1108,749 1160,748"/>
+                <TextEquiv>
+                    <Unicode>Contaten/ der doze mal bischof was / vii botten in das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="238,1889 250,1886 256,1891 273,1891 284,1878 316,1874 303,1775 291,1778 286,1785 281,1782 278,1787 268,1781 258,1794 242,1785 232,1799 227,1799"/>
+                <Baseline points="241,1864 267,1869 293,1873 319,1873"/>
+                <TextEquiv>
+                    <Unicode>XVIII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="493,1935 519,1933 531,1941 537,1933 559,1945 572,1939 609,1954 640,1948 631,1825 613,1835 585,1817 546,1857 521,1843 487,1852"/>
+                <Baseline points="498,1903 526,1908 555,1912 583,1914 612,1914 641,1914"/>
+                <TextEquiv>
+                    <Unicode>8/10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="934,1940 944,1937 949,1942 958,1941 973,1931 983,1931 1001,1941 1020,1932 1019,1884 1013,1884 1004,1895 996,1896 985,1896 976,1887 952,1909 932,1909"/>
+                <Baseline points="939,1920 967,1920 995,1921 1023,1923"/>
+                <TextEquiv>
+                    <Unicode>Eenige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="100,1998 840,2031 1110,2015 1118,1958 98,1955"/>
+                <Baseline points="107,1980 157,1983 208,1987 259,1990 309,1994 360,1997 411,1998 461,2001 512,2001 563,2001 614,2002 664,2004 715,2004 766,2004 816,2007 867,2007 918,2007 968,2007 1019,2006 1070,2004 1121,2004"/>
+                <TextEquiv>
+                    <Unicode>er so wol thette durch gottes willen vn̄ zu inen kem vn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="100,2042 1118,2064 1116,2015 98,2003"/>
+                <Baseline points="107,2031 157,2034 208,2039 259,2043 309,2046 360,2049 411,2054 461,2055 512,2055 563,2055 614,2055 664,2055 715,2057 766,2058 816,2058 867,2058 918,2058 968,2061 1019,2060 1070,2058 1121,2055"/>
+                <TextEquiv>
+                    <Unicode>einen wichte ein cappellen in der ere der wirdigen mu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="100,2088 1124,2132 1123,2064 98,2045"/>
+                <Baseline points="107,2078 158,2085 209,2091 260,2094 311,2098 362,2101 413,2105 464,2105 515,2105 566,2108 617,2108 668,2108 719,2110 770,2111 821,2111 872,2111 923,2111 974,2111 1025,2111 1076,2111 1127,2114"/>
+                <TextEquiv>
+                    <Unicode>ner gottes sancte marien, So sant Cunrat die Botschaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="100,2134 448,2181 1120,2183 1107,2124 100,2098"/>
+                <Baseline points="107,2132 157,2139 208,2145 259,2148 310,2152 361,2153 412,2155 462,2159 513,2156 564,2157 615,2159 666,2160 717,2162 768,2162 818,2162 869,2162 920,2165 971,2165 1022,2164 1073,2162 1124,2162"/>
+                <TextEquiv>
+                    <Unicode>sonam do was er fro / wann er wol, wiste das do Heilig liit wa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="95,2221 790,2231 835,2265 1049,2249 1120,2222 1120,2183 93,2150"/>
+                <Baseline points="101,2186 152,2192 203,2197 254,2202 305,2206 356,2209 407,2213 459,2213 510,2213 561,2213 612,2214 663,2216 714,2216 765,2216 817,2216 868,2219 919,2222 970,2221 1021,2219 1072,2219 1124,2219"/>
+                <TextEquiv>
+                    <Unicode>ren Vn er entbott ynen widerumb/ er wolt es gern thün¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

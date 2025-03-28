@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53210:lm=provided:date=04_07_2023_14:05</Creator>
+		<Created>2023-06-29T11:02:59.171+02:00</Created>
+		<LastChange>2023-08-17T14:47:45.932+02:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075088" pageNr="93" tsid="154460211" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=THYHHDEVJHLPOFVPNDIJBPVT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OYTJZHJMOWWEWBWVTHETTSEG" imageId="45980180"/>
+	</Metadata>
+	<Page imageFilename="7686549.jpg" imageWidth="3016" imageHeight="3770">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356582350" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="TextRegion_1688416595934_1058"/>
+				<RegionRefIndexed index="1" regionRef="TextRegion_1688416599711_1063"/>
+				<RegionRefIndexed index="2" regionRef="TextRegion_1688416599711_1062"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="header" id="TextRegion_1688416595934_1058" custom="readingOrder {index:0;} structure {type:header;}">
+			<Coords points="1066,474 2731,474 2731,643 1066,643"/>
+			<TextLine id="line_1688472218355_2551" custom="readingOrder {index:0;}">
+				<Coords points="1363,618 2323,609 2332,526 2131,509 1976,571 1364,521"/>
+				<Baseline points="1370,605 1388,608 1432,602 1477,602 1522,599 1567,599 2122,594 2155,591 2199,588 2244,588 2289,585 2334,588"/>
+				<TextEquiv>
+					<Unicode>Das buch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode></Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="TextRegion_1688416599711_1063" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="1066,643 1878,643 1878,2905 1066,2905"/>
+			<TextLine id="TextRegion_1688416599711_1063_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1140,759 1797,750 1838,745 1840,691 1491,697 1396,653 1312,701 1140,703"/>
+				<Baseline points="1146,740 1170,743 1214,743 1259,743 1304,743 1349,740 1393,740 1438,740 1483,740 1528,740 1573,737 1617,737 1662,737 1707,737 1752,737 1796,734 1841,734"/>
+				<TextEquiv>
+					<Unicode>neyg dein or meiner fürſichtigkeyt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="1146,799 1832,793 1832,741 1743,765 1692,738 1631,759 1146,759"/>
+				<Baseline points="1152,793 1164,793 1208,793 1253,793 1298,791 1343,791 1388,791 1432,788 1477,788 1522,788 1567,788 1611,788 1656,788 1701,788 1746,785 1790,788 1835,785"/>
+				<TextEquiv>
+					<Unicode>das du behüteſt die gedancken. vnnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="1148,859 1841,848 1841,808 1774,789 1148,806"/>
+				<Baseline points="1155,841 1173,844 1217,841 1262,844 1307,841 1352,841 1396,841 1441,838 1486,841 1531,838 1576,838 1620,838 1665,838 1710,838 1755,838 1799,835 1844,835"/>
+				<TextEquiv>
+					<Unicode>dein lebßen behuͤtē die zucht. Nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="1142,903 1832,896 1832,854 1691,841 1142,861"/>
+				<Baseline points="1149,892 1164,895 1208,895 1253,892 1298,892 1343,892 1388,892 1432,889 1477,892 1522,889 1567,892 1611,889 1656,889 1701,889 1746,886 1790,886 1835,889"/>
+				<TextEquiv>
+					<Unicode>merck auff der trüglichkeit des wey</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="1147,958 1838,946 1838,903 1754,890 1648,913 1433,889 1261,923 1148,906"/>
+				<Baseline points="1155,946 1170,943 1214,943 1259,943 1304,943 1349,943 1393,943 1438,940 1483,943 1528,940 1573,940 1617,940 1662,940 1707,940 1752,937 1796,937 1841,940"/>
+				<TextEquiv>
+					<Unicode>bs. wan̄ die lebßen der gemeinē ſein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="1152,1005 1835,995 1817,943 1650,965 1201,948 1153,970"/>
+				<Baseline points="1158,996 1167,993 1211,993 1256,993 1301,993 1346,993 1390,993 1435,993 1480,993 1525,991 1570,991 1614,988 1659,991 1704,988 1749,991 1793,988 1838,988"/>
+				<TextEquiv>
+					<Unicode>als ein triffendes honig. vn̄ ir kele</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="1142,1054 1835,1053 1820,993 1144,1012"/>
+				<Baseline points="1149,1044 1167,1047 1211,1044 1256,1044 1301,1044 1346,1044 1390,1044 1435,1044 1480,1041 1525,1041 1570,1041 1614,1041 1659,1038 1704,1038 1749,1041 1793,1038 1838,1041"/>
+				<TextEquiv>
+					<Unicode>iſt ſenfter denn das oͤl. Aber ir iüng</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="1152,1118 1841,1096 1841,1055 1708,1046 1152,1062"/>
+				<Baseline points="1158,1101 1173,1098 1217,1098 1262,1095 1307,1095 1352,1095 1396,1095 1441,1092 1486,1092 1531,1092 1576,1092 1620,1092 1665,1089 1710,1089 1755,1092 1799,1089 1844,1089"/>
+				<TextEquiv>
+					<Unicode>ſtē ding ſein bitter als der wermut</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="1152,1153 1841,1146 1841,1099 1819,1096 1152,1118"/>
+				<Baseline points="1158,1143 1173,1146 1217,1149 1262,1146 1307,1146 1352,1146 1396,1143 1441,1143 1486,1143 1531,1143 1576,1143 1620,1143 1665,1140 1710,1140 1755,1140 1799,1140 1844,1140"/>
+				<TextEquiv>
+					<Unicode>vnd ir zung iſt ſcharpf als ein zwei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="1160,1218 1838,1199 1838,1147 1779,1166 1697,1144 1587,1145 1554,1169 1445,1147 1344,1170 1160,1158"/>
+				<Baseline points="1167,1199 1170,1196 1214,1196 1259,1196 1304,1196 1349,1196 1393,1193 1438,1193 1483,1193 1528,1193 1573,1193 1617,1193 1662,1190 1707,1190 1752,1190 1796,1190 1841,1190"/>
+				<TextEquiv>
+					<Unicode>ſchneydendsſchwert. Ir füß ſteygē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="1152,1259 1835,1248 1836,1203 1788,1198 1317,1222 1283,1197 1153,1223"/>
+				<Baseline points="1158,1247 1167,1247 1211,1247 1256,1247 1301,1247 1346,1244 1390,1244 1435,1244 1480,1244 1525,1244 1570,1244 1614,1244 1659,1241 1704,1244 1749,1244 1793,1241 1838,1241"/>
+				<TextEquiv>
+					<Unicode>ab zuͦ dem tod vnd ir geng durch ge</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="1157,1305 1838,1310 1827,1247 1766,1267 1735,1248 1157,1265"/>
+				<Baseline points="1164,1298 1170,1298 1214,1298 1259,1298 1304,1298 1349,1295 1393,1295 1438,1295 1483,1295 1528,1292 1573,1292 1617,1295 1662,1292 1707,1295 1752,1292 1796,1292 1841,1295"/>
+				<TextEquiv>
+					<Unicode>en zuͦ der hell. Sie geen nitt durch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="1154,1355 1778,1368 1838,1350 1838,1309 1806,1299 1585,1320 1154,1305"/>
+				<Baseline points="1161,1352 1170,1349 1214,1349 1259,1346 1304,1346 1349,1346 1393,1346 1438,1346 1483,1346 1528,1346 1573,1343 1617,1343 1662,1343 1707,1343 1752,1346 1796,1343 1841,1340"/>
+				<TextEquiv>
+					<Unicode>den ſteyg des lebēs ir geng ſein flie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="1151,1427 1268,1403 1835,1404 1827,1351 1152,1363"/>
+				<Baseline points="1158,1405 1167,1399 1211,1402 1256,1399 1301,1399 1346,1396 1390,1396 1435,1393 1480,1393 1525,1393 1570,1393 1614,1393 1659,1393 1704,1393 1749,1396 1793,1393 1838,1390"/>
+				<TextEquiv>
+					<Unicode>gend vnd vnerforſchlich. Darumb</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="1154,1456 1838,1454 1838,1402 1770,1397 1267,1403 1154,1427"/>
+				<Baseline points="1161,1447 1170,1447 1214,1450 1259,1447 1304,1447 1349,1447 1393,1444 1438,1444 1483,1444 1528,1447 1573,1444 1617,1447 1662,1444 1707,1444 1752,1444 1796,1444 1841,1444"/>
+				<TextEquiv>
+					<Unicode>nun hoͤr mich mein ſun. vnnd ſcheid</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="1154,1514 1847,1501 1847,1456 1807,1450 1154,1455"/>
+				<Baseline points="1161,1501 1179,1501 1223,1498 1268,1498 1313,1498 1358,1498 1402,1495 1447,1495 1492,1495 1537,1495 1582,1498 1626,1495 1671,1495 1716,1495 1761,1495 1805,1495 1850,1492"/>
+				<TextEquiv>
+					<Unicode>dich nit von dē wort meins munds</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="1157,1563 1844,1550 1844,1504 1157,1514"/>
+				<Baseline points="1164,1552 1176,1552 1220,1552 1265,1549 1310,1549 1355,1549 1399,1546 1444,1546 1489,1546 1534,1549 1579,1549 1623,1549 1668,1546 1713,1546 1758,1546 1802,1546 1847,1546"/>
+				<TextEquiv>
+					<Unicode>Mach dein weg verr von ir. vnnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="1157,1604 1730,1602 1829,1624 1842,1556 1236,1552 1157,1575"/>
+				<Baseline points="1164,1599 1208,1599 1253,1599 1298,1596 1343,1599 1388,1599 1432,1599 1477,1599 1522,1599 1567,1596 1611,1596 1656,1596 1701,1596 1746,1596 1790,1596 1835,1596 1844,1599"/>
+				<TextEquiv>
+					<Unicode>nahne dich nit zuͦ dē türen irs hauß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="1152,1662 1844,1656 1844,1620 1766,1604 1303,1620 1152,1599"/>
+				<Baseline points="1158,1647 1202,1650 1247,1650 1292,1647 1337,1650 1382,1647 1426,1647 1471,1647 1516,1647 1561,1650 1605,1647 1650,1650 1695,1647 1740,1647 1785,1647 1829,1647 1847,1647"/>
+				<TextEquiv>
+					<Unicode>Nicht gib dein ere den frembdē vn̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="1160,1712 1838,1709 1825,1651 1777,1672 1160,1657"/>
+				<Baseline points="1167,1701 1170,1698 1214,1701 1259,1701 1304,1698 1349,1698 1393,1698 1438,1698 1483,1698 1528,1698 1573,1698 1617,1698 1662,1698 1707,1698 1752,1698 1796,1698 1841,1695"/>
+				<TextEquiv>
+					<Unicode>deine iar dem frayßlichen. Das vil¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="1159,1771 1844,1760 1837,1707 1160,1715"/>
+				<Baseline points="1167,1752 1176,1752 1220,1752 1265,1749 1310,1749 1355,1749 1399,1749 1444,1749 1489,1749 1534,1749 1579,1749 1623,1749 1668,1749 1713,1749 1758,1749 1802,1749 1847,1749"/>
+				<TextEquiv>
+					<Unicode>leicht die außwendigen icht werdē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="1160,1820 1844,1807 1844,1767 1760,1755 1160,1770"/>
+				<Baseline points="1167,1805 1176,1805 1220,1802 1265,1802 1310,1799 1355,1799 1399,1799 1444,1799 1489,1799 1534,1799 1579,1799 1623,1799 1668,1799 1713,1799 1758,1799 1802,1799 1847,1799"/>
+				<TextEquiv>
+					<Unicode>geſattet mit deinen kreften. vn̄ dein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="1160,1853 1850,1868 1850,1805 1802,1824 1558,1805 1351,1825 1320,1802 1160,1820"/>
+				<Baseline points="1167,1850 1211,1853 1256,1850 1301,1847 1346,1847 1390,1850 1435,1847 1480,1850 1525,1853 1570,1850 1614,1853 1659,1850 1704,1850 1749,1850 1793,1850 1838,1853 1853,1850"/>
+				<TextEquiv>
+					<Unicode>arbeit ſeyen in dem frembden hauß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="1164,1914 1846,1908 1844,1870 1729,1856 1163,1871"/>
+				<Baseline points="1170,1901 1214,1901 1259,1901 1304,1898 1349,1901 1393,1898 1438,1901 1483,1901 1528,1901 1573,1901 1617,1901 1662,1901 1707,1901 1752,1901 1796,1901 1841,1904 1847,1901"/>
+				<TextEquiv>
+					<Unicode>vnd du ſeufftzeſt in den iuͤngſtē zeyt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="1157,1960 1847,1961 1847,1907 1700,1926 1157,1912"/>
+				<Baseline points="1164,1952 1179,1952 1223,1952 1268,1949 1313,1949 1358,1952 1402,1952 1447,1952 1492,1952 1537,1952 1582,1952 1626,1952 1671,1952 1716,1952 1761,1952 1805,1952 1850,1949"/>
+				<TextEquiv>
+					<Unicode>ten. ſo du haſt verzeret dein fleyſch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="1157,2006 1850,2011 1850,1959 1157,1972"/>
+				<Baseline points="1164,1999 1208,2002 1253,2002 1298,2002 1343,1999 1388,1999 1432,2002 1477,2002 1522,2002 1567,2002 1611,2002 1656,2002 1701,2002 1746,2002 1790,2002 1835,2002 1853,2002"/>
+				<TextEquiv>
+					<Unicode>vn̄ dein leib vn̄ ſprecheſt Warumb</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="1166,2066 1847,2060 1847,2012 1826,2008 1166,2011"/>
+				<Baseline points="1173,2053 1217,2053 1262,2050 1307,2050 1352,2050 1396,2053 1441,2050 1486,2053 1531,2053 1576,2050 1620,2053 1665,2050 1710,2053 1755,2053 1799,2053 1844,2053 1850,2053"/>
+				<TextEquiv>
+					<Unicode>han ich verachtet die zucht vn̄ mein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="1166,2112 1847,2112 1847,2061 1166,2066"/>
+				<Baseline points="1173,2104 1217,2104 1262,2101 1307,2101 1352,2101 1396,2101 1441,2101 1486,2104 1531,2101 1576,2104 1620,2101 1665,2104 1710,2101 1755,2104 1799,2104 1844,2104 1850,2104"/>
+				<TextEquiv>
+					<Unicode>hertz veruolget nit den ſtraffungē.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="1169,2165 1850,2160 1850,2118 1778,2111 1169,2112"/>
+				<Baseline points="1176,2161 1182,2161 1226,2152 1271,2149 1316,2152 1361,2152 1405,2152 1450,2152 1495,2152 1540,2152 1585,2152 1629,2155 1674,2152 1719,2152 1764,2155 1808,2155 1853,2155"/>
+				<TextEquiv>
+					<Unicode>Ich hoͤrt nit die ſtym der lerenden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="1166,2217 1856,2209 1847,2163 1166,2166"/>
+				<Baseline points="1173,2202 1217,2202 1262,2202 1307,2202 1352,2199 1396,2202 1441,2202 1486,2202 1531,2202 1576,2202 1620,2202 1665,2202 1710,2202 1755,2202 1799,2205 1844,2202 1859,2202"/>
+				<TextEquiv>
+					<Unicode>mich. vn̄ neygt nit mein or den mei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="1172,2267 1859,2267 1850,2212 1172,2216"/>
+				<Baseline points="1179,2253 1223,2250 1268,2253 1313,2250 1358,2250 1402,2250 1447,2250 1492,2253 1537,2253 1582,2253 1626,2253 1671,2253 1716,2253 1761,2253 1805,2253 1850,2256 1862,2256"/>
+				<TextEquiv>
+					<Unicode>ſtern. Ich was nahēd in allez übel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="1166,2310 1850,2316 1843,2263 1166,2269"/>
+				<Baseline points="1173,2304 1217,2301 1262,2301 1307,2301 1352,2301 1396,2301 1441,2301 1486,2301 1531,2304 1576,2304 1620,2301 1665,2304 1710,2304 1755,2304 1799,2304 1844,2304 1853,2304"/>
+				<TextEquiv>
+					<Unicode>in mitt der kirchen. vnnd der ſynago</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_33" custom="readingOrder {index:32;}">
+				<Coords points="1166,2370 1666,2358 1853,2380 1853,2314 1166,2317"/>
+				<Baseline points="1173,2358 1217,2352 1262,2349 1307,2352 1352,2352 1396,2352 1441,2352 1486,2352 1531,2352 1576,2352 1620,2352 1665,2355 1710,2355 1755,2358 1799,2355 1844,2358 1856,2358"/>
+				<TextEquiv>
+					<Unicode>gen. Trinck das waſſer von deiner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_34" custom="readingOrder {index:33;}">
+				<Coords points="1169,2415 1840,2420 1856,2380 1495,2356 1168,2378"/>
+				<Baseline points="1176,2399 1220,2402 1265,2402 1310,2399 1355,2402 1399,2402 1444,2402 1489,2402 1534,2402 1579,2402 1623,2402 1668,2405 1713,2408 1758,2408 1802,2405 1847,2408 1859,2408"/>
+				<TextEquiv>
+					<Unicode>ciſtern. vnnd die flüſs deines brūnen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_35" custom="readingOrder {index:34;}">
+				<Coords points="1163,2457 1856,2463 1855,2415 1809,2408 1782,2431 1730,2410 1692,2431 1308,2402 1163,2417"/>
+				<Baseline points="1170,2450 1214,2453 1259,2450 1304,2450 1349,2450 1393,2453 1438,2453 1483,2453 1528,2453 1573,2453 1617,2456 1662,2456 1707,2459 1752,2456 1796,2456 1841,2459 1859,2459"/>
+				<TextEquiv>
+					<Unicode>Dein brunnen werden gericht her</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_36" custom="readingOrder {index:35;}">
+				<Coords points="1163,2509 1847,2532 1846,2466 1163,2470"/>
+				<Baseline points="1170,2501 1214,2504 1259,2501 1304,2501 1349,2501 1393,2501 1438,2504 1483,2504 1528,2504 1573,2504 1617,2504 1662,2507 1707,2507 1752,2510 1796,2510 1841,2510 1850,2510"/>
+				<TextEquiv>
+					<Unicode>auß. vn̄ teyl deine waſſer in dē gaſ¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_37" custom="readingOrder {index:36;}">
+				<Coords points="1180,2569 1850,2575 1849,2531 1821,2517 1782,2536 1712,2514 1398,2528 1179,2507"/>
+				<Baseline points="1185,2552 1229,2549 1274,2552 1319,2552 1364,2552 1408,2555 1453,2555 1498,2555 1543,2555 1587,2558 1632,2558 1677,2558 1722,2558 1767,2561 1811,2558 1853,2564"/>
+				<TextEquiv>
+					<Unicode>ſen Hab ſie allein die frembden ſey</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_38" custom="readingOrder {index:37;}">
+				<Coords points="1169,2616 1813,2628 1856,2618 1856,2584 1456,2558 1168,2578"/>
+				<Baseline points="1176,2599 1220,2599 1265,2599 1310,2599 1355,2602 1399,2602 1444,2602 1489,2605 1534,2602 1579,2605 1623,2605 1668,2608 1713,2611 1758,2608 1802,2608 1847,2611 1859,2611"/>
+				<TextEquiv>
+					<Unicode>en nitt teylhafftig dein. Dein ader</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_39" custom="readingOrder {index:38;}">
+				<Coords points="1180,2668 1854,2671 1853,2620 1179,2613"/>
+				<Baseline points="1185,2650 1229,2650 1274,2653 1319,2650 1364,2653 1408,2653 1453,2653 1498,2653 1543,2656 1587,2656 1632,2656 1677,2659 1722,2659 1767,2659 1811,2662 1856,2662 1859,2659"/>
+				<TextEquiv>
+					<Unicode>ſey geſegnet. vnd frew dich mit dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_40" custom="readingOrder {index:39;}">
+				<Coords points="1169,2701 1862,2718 1855,2668 1334,2678 1244,2650 1169,2673"/>
+				<Baseline points="1176,2698 1220,2701 1265,2701 1310,2701 1355,2704 1399,2704 1444,2704 1489,2704 1534,2704 1579,2707 1623,2707 1668,2707 1713,2710 1758,2710 1802,2710 1847,2713 1865,2710"/>
+				<TextEquiv>
+					<Unicode>weib deiner iugent. Die hind iſt die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_41" custom="readingOrder {index:40;}">
+				<Coords points="1169,2764 1665,2759 1773,2780 1856,2773 1856,2739 1168,2707"/>
+				<Baseline points="1176,2749 1220,2752 1265,2752 1310,2752 1355,2752 1399,2755 1444,2755 1489,2755 1534,2755 1579,2758 1623,2758 1668,2758 1713,2761 1758,2761 1802,2764 1847,2764 1859,2761"/>
+				<TextEquiv>
+					<Unicode>liebſt. vn̄ das hindenkalb das gene¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1063_tl_42" custom="readingOrder {index:41;}">
+				<Coords points="1169,2815 1461,2840 1586,2814 1859,2829 1858,2773 1168,2774"/>
+				<Baseline points="1176,2802 1220,2805 1265,2805 1310,2805 1355,2808 1399,2808 1444,2808 1489,2808 1534,2811 1579,2811 1623,2811 1668,2811 1713,2814 1758,2814 1802,2814 1847,2817 1862,2817"/>
+				<TextEquiv>
+					<Unicode>meſt. Ir bruͤſt ſoͤllen dich trencken</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>neyg ꝺein oꝛ meiner fürſichtigkeyt
+ꝺas ꝺu behüteſt ꝺie geꝺancken. vnnꝺ
+ꝺein lebßen behuͤtē ꝺie zucht. Nicht
+merck auff ꝺer trüglichkeit ꝺes wey
+bs. wan̄ ꝺie lebßen ꝺer gemeinē ſein
+als ein triffenꝺes honig. vn̄ ir kele
+iſt ſenfter ꝺenn ꝺas oͤl. Aber ir iüng
+ſtē ꝺing ſein bitter als ꝺer wermut
+vnꝺ ir zung iſt ſcharpf als ein zwei
+ſchneyꝺenꝺsſchwert. Ir füß ſteygē
+ab zuͦ ꝺem toꝺ vnꝺ ir geng ꝺurch ge
+en zuͦ ꝺer hell. Sie geen nitt ꝺurch
+ꝺen ſteyg ꝺes lebēs ir geng ſein flie
+genꝺ vnꝺ vnerfoꝛſchlich. Darumb
+nun hoͤꝛ mich mein ſun. vnnꝺ ſcheiꝺ
+ꝺich nit von ꝺē woꝛt meins munꝺs
+Mach ꝺein weg verꝛ von ir. vnnꝺ
+nahne ꝺich nit zuͦ ꝺē türen irs hauß
+Nicht gib ꝺein ere ꝺen frembꝺē vn̄
+ꝺeine iar ꝺem frayßlichen. Das vil¬
+leicht ꝺie außwenꝺigen icht werꝺē
+geſattet mit ꝺeinen kreften. vn̄ ꝺein
+arbeit ſeyen in ꝺem frembꝺen hauß
+vnꝺ ꝺu ſeufftzeſt in ꝺen iuͤngſtē zeyt
+ten. ſo ꝺu haſt verzeret ꝺein fleyſch
+vn̄ ꝺein leib vn̄ ſpꝛecheſt Warumb
+han ich verachtet ꝺie zucht vn̄ mein
+hertz veruolget nit ꝺen ſtraffungē.
+Ich hoͤꝛt nit ꝺie ſtym ꝺer lerenꝺen
+mich. vn̄ neygt nit mein oꝛ ꝺen mei
+ſtern. Ich was nahēꝺ in allez übel
+in mitt ꝺer kirchen. vnnꝺ ꝺer ſynago
+gen. Trinck ꝺas waſſer von ꝺeiner
+ciſtern. vnnꝺ ꝺie flüſs ꝺeines bꝛūnen
+Dein brunnen werꝺen gericht her
+auß. vn̄ teyl ꝺeine waſſer in ꝺē gaſ¬
+ſen Hab ſie allein ꝺie frembꝺen ſey
+en nitt teylhafftig ꝺein. Dein aꝺer
+ſey geſegnet. vnꝺ frew ꝺich mit ꝺem
+weib ꝺeiner iugent. Die hinꝺ iſt ꝺie
+liebſt. vn̄ ꝺas hinꝺenkalb ꝺas gene¬
+meſt. Ir bruͤſt ſoͤllen ꝺich trencken</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="TextRegion_1688416599711_1062" custom="readingOrder {index:2;} structure {type:paragraph;}">
+			<Coords points="1878,643 2731,643 2731,2905 1878,2905"/>
+			<TextLine id="TextRegion_1688416599711_1062_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1906,753 2614,745 2614,696 2551,677 2340,704 2127,666 2043,697 1906,682"/>
+				<Baseline points="1913,734 1958,737 2002,737 2047,737 2092,737 2137,737 2182,734 2226,737 2271,737 2316,737 2361,737 2405,737 2450,737 2495,737 2540,737 2584,737 2617,737"/>
+				<TextEquiv>
+					<Unicode>in eim iegklichen zyt. vn̄ du wolluͤ¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="1916,815 2608,791 2595,744 1916,749"/>
+				<Baseline points="1922,788 1967,788 2011,788 2056,788 2101,788 2146,788 2190,788 2235,788 2280,788 2325,785 2370,788 2414,788 2459,788 2504,788 2549,788 2593,791 2611,791"/>
+				<TextEquiv>
+					<Unicode>ſtige dich emſſigklich in irer liebe O</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="1909,855 2612,844 2597,797 1909,811"/>
+				<Baseline points="1916,835 1961,838 2005,838 2050,838 2095,838 2140,838 2184,838 2229,838 2274,838 2319,838 2364,838 2408,838 2453,838 2498,838 2543,841 2587,841 2614,838"/>
+				<TextEquiv>
+					<Unicode>mein ſun warumb wirſtu verfüret</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="1916,900 2618,896 2618,842 1916,859"/>
+				<Baseline points="1922,886 1967,889 2011,889 2056,889 2101,889 2146,889 2190,889 2235,889 2280,886 2325,889 2370,889 2414,889 2459,889 2504,889 2549,889 2593,889 2620,889"/>
+				<TextEquiv>
+					<Unicode>von der frembden. vn̄ wirſt erzogē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="1922,947 2614,944 2614,901 2548,894 1922,900"/>
+				<Baseline points="1928,937 1973,940 2017,940 2062,940 2107,940 2152,940 2196,940 2241,937 2286,940 2331,940 2376,940 2420,940 2465,940 2510,940 2555,940 2599,940 2617,937"/>
+				<TextEquiv>
+					<Unicode>in der ſchoß einer andern. Der herr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="1922,1011 2618,999 2619,949 1923,949"/>
+				<Baseline points="1928,993 1949,991 1993,993 2038,991 2083,991 2128,991 2173,991 2217,991 2262,991 2307,991 2352,991 2396,991 2441,991 2486,991 2531,991 2576,991 2620,991"/>
+				<TextEquiv>
+					<Unicode>ſchawet die weg des menſchen vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="1916,1053 2618,1051 2618,999 1916,1013"/>
+				<Baseline points="1922,1041 1967,1041 2011,1041 2056,1041 2101,1041 2146,1041 2190,1041 2235,1041 2280,1041 2325,1041 2370,1041 2414,1041 2459,1041 2504,1041 2549,1041 2593,1041 2620,1041"/>
+				<TextEquiv>
+					<Unicode>merckt all ſein geng. Den vngüti¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="1909,1128 2010,1096 2620,1104 2620,1060 2578,1051 2516,1070 2449,1046 1909,1057"/>
+				<Baseline points="1916,1095 1952,1092 1996,1092 2041,1092 2086,1092 2131,1092 2176,1092 2220,1092 2265,1092 2310,1092 2355,1092 2399,1092 2444,1092 2489,1092 2534,1092 2579,1092 2623,1092"/>
+				<TextEquiv>
+					<Unicode>gen vahen ſein boßheit. vn̄ er wirt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="1909,1168 2049,1144 2622,1157 2622,1101 2562,1095 2256,1115 2175,1096 2123,1119 2010,1096 1909,1128"/>
+				<Baseline points="1916,1146 1961,1143 2005,1143 2050,1143 2095,1143 2140,1143 2184,1143 2229,1143 2274,1143 2319,1143 2364,1143 2408,1143 2453,1143 2498,1143 2543,1143 2587,1146 2626,1149"/>
+				<TextEquiv>
+					<Unicode>gebūden mit den ſtricken ſeiner ſün</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="1917,1203 2571,1215 2619,1210 2618,1159 1916,1157"/>
+				<Baseline points="1922,1190 1967,1193 2011,1193 2056,1193 2101,1193 2146,1193 2190,1193 2235,1193 2280,1193 2325,1193 2370,1193 2414,1193 2459,1193 2504,1193 2549,1193 2593,1196 2620,1196"/>
+				<TextEquiv>
+					<Unicode>den. Vnd er ſtirbet. wan̄ er hat nit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="1916,1251 2355,1247 2486,1273 2626,1253 2607,1207 1916,1203"/>
+				<Baseline points="1922,1244 1967,1244 2011,1244 2056,1244 2101,1244 2146,1244 2190,1244 2235,1244 2280,1244 2325,1244 2370,1247 2414,1247 2459,1244 2504,1244 2549,1247 2593,1250 2629,1247"/>
+				<TextEquiv>
+					<Unicode>die zucht. vnnd er wirt betrogen in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="1916,1303 2035,1302 2054,1320 2215,1302 2405,1315 2405,1267 2378,1248 2287,1267 2142,1247 2071,1265 1916,1252"/>
+				<Baseline points="1922,1298 1961,1298 2005,1298 2050,1298 2095,1295 2140,1295 2184,1298 2229,1295 2274,1295 2319,1295 2364,1298 2408,1295"/>
+				<TextEquiv>
+					<Unicode>der menig ſeiner torheit.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="2005,1516 2352,1495 2435,1526 2595,1514 2593,1406 2499,1438 2004,1416"/>
+				<Baseline points="2011,1492 2056,1492 2101,1489 2146,1489 2190,1489 2235,1486 2280,1486 2325,1486 2370,1489 2414,1492 2459,1495 2504,1495 2549,1495 2593,1495 2596,1495"/>
+				<TextEquiv>
+					<Unicode>Das VI capitel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_15" custom="readingOrder {index:13;}">
+				<Coords points="1934,1563 2267,1554 2351,1577 2406,1557 2499,1580 2618,1560 2609,1504 2452,1526 2380,1497 2339,1526 2279,1503 1932,1504"/>
+				<Baseline points="1940,1552 1984,1552 2029,1552 2074,1552 2119,1552 2164,1552 2208,1552 2253,1552 2298,1555 2343,1552 2387,1555 2432,1555 2477,1555 2522,1558 2567,1558 2611,1552 2620,1555"/>
+				<TextEquiv>
+					<Unicode>Wie der. der ſich für ſeinen freund</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_16" custom="readingOrder {index:14;}">
+				<Coords points="1930,1618 2628,1612 2627,1560 2502,1579 1929,1560"/>
+				<Baseline points="1937,1605 1982,1602 2026,1602 2071,1602 2116,1602 2161,1602 2205,1602 2250,1605 2295,1605 2340,1605 2384,1605 2429,1608 2474,1608 2519,1608 2564,1608 2608,1605 2632,1605"/>
+				<TextEquiv>
+					<Unicode>verhefft fleyſſigklich arbeiten ſoll.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_17" custom="readingOrder {index:15;}">
+				<Coords points="1936,1672 2622,1673 2622,1630 2569,1613 1936,1618"/>
+				<Baseline points="1943,1656 1987,1656 2032,1656 2077,1653 2122,1653 2167,1653 2211,1653 2256,1656 2301,1653 2346,1656 2390,1656 2435,1656 2480,1659 2525,1659 2570,1659 2614,1656 2626,1659"/>
+				<TextEquiv>
+					<Unicode>ſich zuͦ erledigen. von ſtraff des tre¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_18" custom="readingOrder {index:16;}">
+				<Coords points="1925,1724 2630,1710 2628,1677 2571,1661 1924,1673"/>
+				<Baseline points="1931,1707 1976,1707 2020,1704 2065,1704 2110,1704 2155,1704 2199,1704 2244,1704 2289,1704 2334,1707 2379,1707 2423,1707 2468,1710 2513,1710 2558,1707 2602,1707 2632,1707"/>
+				<TextEquiv>
+					<Unicode>gen. vnnd von ſechß ſtücken die der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_19" custom="readingOrder {index:17;}">
+				<Coords points="1923,1766 2614,1779 2626,1719 1922,1723"/>
+				<Baseline points="1928,1755 1973,1755 2017,1755 2062,1752 2107,1752 2152,1755 2196,1755 2241,1755 2286,1755 2331,1758 2376,1758 2420,1758 2465,1758 2510,1761 2555,1758 2599,1758 2629,1758"/>
+				<TextEquiv>
+					<Unicode>herre haſſet. vnd wie die weißheit ir</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_20" custom="readingOrder {index:18;}">
+				<Coords points="1930,1818 2590,1832 2620,1821 2620,1779 1929,1765"/>
+				<Baseline points="1937,1808 1982,1805 2026,1805 2071,1802 2116,1805 2161,1805 2205,1805 2250,1805 2295,1808 2340,1808 2384,1808 2429,1808 2474,1811 2519,1811 2564,1808 2608,1808 2623,1808"/>
+				<TextEquiv>
+					<Unicode>liebhaber bewaret vor boͤſen wey¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_21" custom="readingOrder {index:19;}">
+				<Coords points="1926,1871 1953,1876 1978,1870 1982,1875 1999,1868 2006,1875 2019,1865 2031,1866 2034,1820 2013,1819 1998,1830 1984,1830 1979,1825 1970,1826 1952,1812 1941,1817 1929,1814"/>
+				<Baseline points="1934,1859 1946,1856 1990,1856 2035,1853"/>
+				<TextEquiv>
+					<Unicode>bern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_22" custom="readingOrder {index:20;}">
+				<Coords points="2124,2007 2292,2020 2542,2004 2630,2023 2630,1946 2587,1932 2124,1924"/>
+				<Baseline points="2131,1999 2140,1996 2184,1996 2229,1996 2274,1996 2319,1996 2364,1996 2408,1996 2453,1996 2498,1999 2543,1996 2587,1996 2632,1996"/>
+				<TextEquiv>
+					<Unicode>Ein ſun ob du</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_23" custom="readingOrder {index:21;}">
+				<Coords points="2142,2064 2295,2080 2322,2065 2618,2066 2616,2026 2534,2004 2409,2030 2335,2006 2194,2025 2141,2012"/>
+				<Baseline points="2149,2053 2193,2056 2238,2056 2283,2056 2328,2059 2373,2059 2417,2062 2462,2059 2507,2059 2552,2062 2596,2062 2620,2059"/>
+				<TextEquiv>
+					<Unicode>verheyſeſt vmb deinen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_24" custom="readingOrder {index:22;}">
+				<Coords points="2146,2124 2177,2111 2434,2117 2458,2135 2479,2118 2628,2128 2628,2064 2578,2078 2321,2065 2305,2080 2146,2064"/>
+				<Baseline points="2152,2110 2196,2110 2241,2110 2286,2110 2331,2110 2376,2110 2420,2110 2465,2113 2510,2113 2555,2110 2599,2110 2632,2110"/>
+				<TextEquiv>
+					<Unicode>freund. Du haſt behefft</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_25" custom="readingOrder {index:23;}">
+				<Coords points="1929,2174 2338,2164 2472,2189 2613,2176 2634,2129 1928,2102"/>
+				<Baseline points="1934,2158 1979,2161 2023,2161 2068,2161 2113,2158 2158,2155 2202,2158 2247,2161 2292,2161 2337,2161 2381,2161 2426,2164 2471,2164 2516,2164 2561,2164 2605,2164 2638,2161"/>
+				<TextEquiv>
+					<Unicode>dein ſele bey den außwendigen. Du</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_26" custom="readingOrder {index:24;}">
+				<Coords points="1930,2228 2626,2224 2626,2171 1930,2175"/>
+				<Baseline points="1937,2208 1982,2211 2026,2211 2071,2211 2116,2211 2161,2211 2205,2211 2250,2211 2295,2211 2340,2211 2384,2211 2429,2211 2474,2214 2519,2214 2564,2211 2608,2211 2629,2211"/>
+				<TextEquiv>
+					<Unicode>biſt beſtricket mit den wortē deines</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_27" custom="readingOrder {index:25;}">
+				<Coords points="1928,2276 2628,2270 2628,2230 2493,2217 1928,2230"/>
+				<Baseline points="1934,2262 1979,2262 2023,2262 2068,2262 2113,2262 2158,2265 2202,2262 2247,2262 2292,2262 2337,2265 2381,2265 2426,2265 2471,2265 2516,2265 2561,2265 2605,2262 2632,2265"/>
+				<TextEquiv>
+					<Unicode>munds. vn̄ gefangen in deinen ey.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_28" custom="readingOrder {index:26;}">
+				<Coords points="1930,2323 2644,2332 2644,2267 2610,2264 1930,2281"/>
+				<Baseline points="1937,2313 1982,2313 2026,2313 2071,2313 2116,2313 2161,2313 2205,2310 2250,2313 2295,2313 2340,2313 2384,2313 2429,2316 2474,2316 2519,2316 2564,2316 2608,2316 2647,2313"/>
+				<TextEquiv>
+					<Unicode>gen reden. Darumb mein ſun thuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_29" custom="readingOrder {index:27;}">
+				<Coords points="1930,2365 2416,2388 2634,2367 2634,2324 2609,2318 1930,2312"/>
+				<Baseline points="1937,2361 1982,2364 2026,2364 2071,2364 2116,2364 2161,2364 2205,2364 2250,2364 2295,2361 2340,2364 2384,2367 2429,2367 2474,2367 2519,2367 2564,2367 2608,2367 2638,2364"/>
+				<TextEquiv>
+					<Unicode>das ich rede. vn̄ loͤſe dich ſelber. wan̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_30" custom="readingOrder {index:28;}">
+				<Coords points="1934,2437 2012,2416 2634,2420 2634,2368 2417,2391 2322,2367 1934,2368"/>
+				<Baseline points="1940,2411 1984,2414 2029,2414 2074,2414 2119,2414 2164,2414 2208,2414 2253,2414 2298,2414 2343,2414 2387,2414 2432,2417 2477,2417 2522,2417 2567,2417 2611,2417 2638,2420"/>
+				<TextEquiv>
+					<Unicode>du biſt gefallen in die hende deines</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_31" custom="readingOrder {index:29;}">
+				<Coords points="1934,2467 1998,2490 2093,2468 2626,2479 2614,2423 1934,2435"/>
+				<Baseline points="1940,2462 1984,2465 2029,2465 2074,2465 2119,2465 2164,2465 2208,2462 2253,2465 2298,2465 2343,2465 2387,2465 2432,2468 2477,2468 2522,2468 2567,2468 2611,2465 2629,2465"/>
+				<TextEquiv>
+					<Unicode>nehſten. Lauff vmb. eyl weckauff</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_32" custom="readingOrder {index:30;}">
+				<Coords points="1936,2515 2626,2539 2625,2480 2095,2469 1998,2491 1935,2472"/>
+				<Baseline points="1943,2513 1987,2513 2032,2516 2077,2516 2122,2516 2167,2516 2211,2516 2256,2516 2301,2516 2346,2516 2390,2516 2435,2516 2480,2519 2525,2519 2570,2519 2614,2519 2629,2522"/>
+				<TextEquiv>
+					<Unicode>deinen freund. Nicht gib dē ſchlaff</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_33" custom="readingOrder {index:31;}">
+				<Coords points="1930,2578 2622,2579 2621,2536 2592,2525 2144,2539 1929,2516"/>
+				<Baseline points="1937,2561 1982,2564 2026,2567 2071,2567 2116,2567 2161,2564 2205,2564 2250,2564 2295,2564 2340,2567 2384,2570 2429,2570 2474,2570 2519,2570 2564,2570 2608,2573 2626,2570"/>
+				<TextEquiv>
+					<Unicode>deinen augen. noch ſoͤllen ſchlaffe¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_34" custom="readingOrder {index:32;}">
+				<Coords points="1930,2618 2587,2642 2628,2630 2627,2574 2581,2596 2538,2575 1929,2578"/>
+				<Baseline points="1937,2614 1982,2614 2026,2614 2071,2614 2116,2617 2161,2617 2205,2617 2250,2614 2295,2617 2340,2617 2384,2620 2429,2620 2474,2620 2519,2620 2564,2620 2608,2623 2632,2620"/>
+				<TextEquiv>
+					<Unicode>rig ſeiſe dein augbrawen. Erledige</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_35" custom="readingOrder {index:33;}">
+				<Coords points="1934,2683 2634,2680 2634,2627 1934,2624"/>
+				<Baseline points="1940,2665 1984,2665 2029,2665 2074,2668 2119,2668 2164,2668 2208,2665 2253,2665 2298,2668 2343,2668 2387,2671 2432,2671 2477,2671 2522,2671 2567,2671 2611,2674 2638,2674"/>
+				<TextEquiv>
+					<Unicode>dich von der hande als die wyßel.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_36" custom="readingOrder {index:34;}">
+				<Coords points="1940,2723 2628,2735 2628,2681 1940,2683"/>
+				<Baseline points="1946,2716 1990,2716 2035,2716 2080,2716 2125,2716 2170,2719 2214,2716 2259,2719 2304,2719 2349,2719 2393,2722 2438,2722 2483,2722 2528,2719 2573,2722 2617,2722 2632,2722"/>
+				<TextEquiv>
+					<Unicode>vnnd als der vogel von den heim¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_37" custom="readingOrder {index:35;}">
+				<Coords points="1943,2772 2470,2794 2626,2776 2614,2731 1942,2721"/>
+				<Baseline points="1949,2767 1993,2767 2038,2767 2083,2767 2128,2770 2173,2767 2217,2770 2262,2770 2307,2773 2352,2773 2396,2773 2441,2773 2486,2773 2531,2773 2576,2773 2620,2773 2629,2776"/>
+				<TextEquiv>
+					<Unicode>lichen gerichten des voglers O tre¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416599711_1062_tl_38" custom="readingOrder {index:36;}">
+				<Coords points="1936,2841 2280,2827 2323,2864 2373,2832 2626,2830 2626,2774 1936,2790"/>
+				<Baseline points="1943,2826 1987,2823 2032,2820 2077,2823 2122,2823 2167,2823 2211,2823 2256,2823 2301,2826 2346,2823 2390,2826 2435,2826 2480,2826 2525,2826 2570,2826 2614,2826 2629,2826"/>
+				<TextEquiv>
+					<Unicode>ger gee zuͦ der omayſſen. vnd merck</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>in eim iegklichen zyt. vn̄ ꝺu wolluͤ¬
+ſtige ꝺich emſſigklich in irer liebe O
+mein ſun warumb wirſtu verfüret
+von ꝺer frembꝺen. vn̄ wirſt erzogē
+in ꝺer ſchoß einer anꝺern. Der herꝛ
+ſchawet ꝺie weg ꝺes menſchen vnꝺ
+merckt all ſein geng. Den vngüti¬
+gen vahen ſein boßheit. vn̄ er wirt
+gebūꝺen mit ꝺen ſtricken ſeiner ſün
+ꝺen. Vnꝺ er ſtirbet. wan̄ er hat nit
+ꝺie zucht. vnnꝺ er wirt betrogen in
+ꝺer menig ſeiner toꝛheit.
+Das VI capitel
+Wie ꝺer. ꝺer ſich für ſeinen freunꝺ
+verhefft fleyſſigklich arbeiten ſoll.
+ſich zuͦ erleꝺigen. von ſtraff ꝺes tre¬
+gen. vnnꝺ von ſechß ſtücken ꝺie ꝺer
+herꝛe haſſet. vnꝺ wie ꝺie weißheit ir
+liebhaber bewaret voꝛ boͤſen wey¬
+bern
+Ein ſun ob ꝺu
+verheyſeſt vmb ꝺeinen
+freunꝺ. Du haſt behefft
+ꝺein ſele bey ꝺen außwenꝺigen. Du
+biſt beſtricket mit ꝺen woꝛtē ꝺeines
+munꝺs. vn̄ gefangen in ꝺeinen ey.
+gen reꝺen. Darumb mein ſun thuͦ
+ꝺas ich reꝺe. vn̄ loͤſe ꝺich ſelber. wan̄
+ꝺu biſt gefallen in ꝺie henꝺe ꝺeines
+nehſten. Lauff vmb. eyl weckauff
+ꝺeinen freunꝺ. Nicht gib ꝺē ſchlaff
+ꝺeinen augen. noch ſoͤllen ſchlaffe¬
+rig ſeiſe ꝺein augbrawen. Erleꝺige
+ꝺich von ꝺer hanꝺe als ꝺie wyßel.
+vnnꝺ als ꝺer vogel von ꝺen heim¬
+lichen gerichten ꝺes voglers O tre¬
+ger gee zuͦ ꝺer omayſſen. vnꝺ merck</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

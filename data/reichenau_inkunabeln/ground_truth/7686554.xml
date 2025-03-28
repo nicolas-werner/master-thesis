@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53210:lm=provided:date=04_07_2023_15:35</Creator>
+		<Created>2023-06-29T11:02:59.885+02:00</Created>
+		<LastChange>2023-08-17T14:47:48.948+02:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075093" pageNr="98" tsid="154460219" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=SSTTZEKLGIOLPFCADVBESVGX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UIYQGXFBYONMDCZBDEVPDBLW" imageId="45980190"/>
+	</Metadata>
+	<Page imageFilename="7686554.jpg" imageWidth="3016" imageHeight="3770">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356606838" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="TextRegion_1688416659906_1138"/>
+				<RegionRefIndexed index="1" regionRef="TextRegion_1688416663672_1142"/>
+				<RegionRefIndexed index="2" regionRef="TextRegion_1688416663672_1143"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="header" id="TextRegion_1688416659906_1138" custom="readingOrder {index:0;} structure {type:header;}">
+			<Coords points="254,396 2027,396 2027,581 254,581"/>
+			<TextLine id="line_1688477054792_3015" custom="readingOrder {index:0;}">
+				<Coords points="514,550 661,568 1050,498 1222,550 1570,552 1586,448 1265,440 899,502 714,426 516,441"/>
+				<Baseline points="522,540 537,540 582,537 626,534 671,534 716,531 1328,516 1373,516 1417,516 1462,519 1507,519 1552,522 1587,519"/>
+				<TextEquiv>
+					<Unicode>Der ſpruch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode></Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="TextRegion_1688416663672_1142" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="254,581 1093,581 1153,2966 254,2966"/>
+			<TextLine id="TextRegion_1688416663672_1142_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="341,705 1017,704 1050,692 1051,638 342,634"/>
+				<Baseline points="349,698 382,701 426,701 471,701 516,698 561,698 605,698 650,695 695,695 740,695 785,695 829,692 874,689 919,689 964,686 1008,686 1053,683"/>
+				<TextEquiv>
+					<Unicode>einfeltigklich der geet getrewlich.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="350,754 1046,757 1035,688 748,722 678,701 484,705 449,728 352,710"/>
+				<Baseline points="358,752 379,752 423,752 468,752 513,752 558,749 602,746 647,749 692,746 737,746 782,746 826,743 871,743 916,740 961,737 1005,740 1050,743"/>
+				<TextEquiv>
+					<Unicode>wer aber boͤſert ſein weg der wirt oſ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="357,827 1031,798 1046,756 914,744 833,768 788,748 664,776 624,754 494,774 358,756"/>
+				<Baseline points="364,802 379,805 423,802 468,802 513,802 558,802 602,799 647,799 692,796 737,796 782,796 826,793 871,793 916,791 961,791 1005,791 1050,788"/>
+				<TextEquiv>
+					<Unicode>fenbar. Der do winckt mit den au¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="353,874 1053,850 1054,802 354,821"/>
+				<Baseline points="361,862 385,859 429,856 474,856 519,853 564,856 608,853 653,853 698,850 743,847 788,847 832,847 877,844 922,844 967,841 1011,841 1056,838"/>
+				<TextEquiv>
+					<Unicode>gen. der gibt den ſchmertzen. vn̄ der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="356,919 1058,915 1059,863 990,841 897,866 357,875"/>
+				<Baseline points="364,907 391,907 435,907 480,904 525,907 570,904 614,904 659,904 704,901 749,901 793,901 838,898 883,898 928,892 973,892 1017,889 1062,889"/>
+				<TextEquiv>
+					<Unicode>tor wirt geſchlagen mit den lebſen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="356,958 794,974 834,950 1050,953 1059,915 357,919"/>
+				<Baseline points="364,958 391,961 435,958 480,958 525,958 570,955 614,955 659,952 704,952 749,952 793,949 838,949 883,946 928,946 973,946 1017,943 1062,943"/>
+				<TextEquiv>
+					<Unicode>Der mund des gerechtē iſt ein ader</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="365,1019 959,1001 1010,1027 1054,1003 1055,951 834,951 784,977 754,957 554,981 366,963"/>
+				<Baseline points="373,1011 388,1011 432,1008 477,1008 522,1008 567,1005 611,1005 656,1002 701,1005 746,1002 791,999 835,999 880,999 925,996 970,996 1014,993 1059,991"/>
+				<TextEquiv>
+					<Unicode>des lebens vn̄ der mund der vngü¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="357,1067 1045,1063 1065,1002 1010,1027 922,999 585,1025 358,1010"/>
+				<Baseline points="364,1062 394,1062 438,1062 483,1059 528,1059 573,1059 617,1056 662,1056 707,1053 752,1053 796,1053 841,1050 886,1050 931,1047 976,1047 1020,1047 1065,1050"/>
+				<TextEquiv>
+					<Unicode>tigen bedeckt die boßheit. Der haß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="360,1110 461,1133 497,1113 1066,1109 1067,1067 1014,1051 629,1083 601,1062 361,1070"/>
+				<Baseline points="367,1110 399,1113 444,1113 489,1113 534,1113 579,1110 623,1107 668,1107 713,1107 758,1107 802,1104 847,1104 892,1101 937,1101 982,1095 1026,1098 1071,1098"/>
+				<TextEquiv>
+					<Unicode>erkückt die krieg. vnnd die lieb bede</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="362,1174 1023,1167 1071,1155 1073,1109 744,1109 662,1133 628,1110 545,1133 497,1113 450,1137 364,1114"/>
+				<Baseline points="370,1161 402,1164 447,1164 492,1164 537,1161 582,1161 626,1158 671,1161 716,1158 761,1158 805,1155 850,1155 895,1152 940,1152 985,1149 1029,1152 1074,1149"/>
+				<TextEquiv>
+					<Unicode>cket alle miſſetat. In dē lebßen des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="362,1223 987,1225 1071,1215 1073,1165 362,1181"/>
+				<Baseline points="370,1211 402,1214 447,1214 492,1214 537,1211 582,1211 626,1211 671,1208 716,1208 761,1208 805,1208 850,1205 895,1205 940,1202 985,1199 1029,1199 1074,1199"/>
+				<TextEquiv>
+					<Unicode>weyſen wirt gefunden die weißheyt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="362,1265 1070,1274 1071,1217 1019,1207 364,1237"/>
+				<Baseline points="370,1262 402,1265 447,1265 492,1265 537,1262 582,1262 626,1262 671,1259 716,1262 761,1259 805,1259 850,1256 895,1256 940,1253 985,1253 1029,1253 1074,1250"/>
+				<TextEquiv>
+					<Unicode>vnd die rut auf dem rucken. des der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="369,1322 991,1322 1067,1313 1069,1271 370,1270"/>
+				<Baseline points="376,1319 399,1316 444,1316 489,1316 534,1316 579,1313 623,1313 668,1313 713,1310 758,1310 802,1310 847,1307 892,1307 937,1304 982,1304 1026,1301 1071,1301"/>
+				<TextEquiv>
+					<Unicode>do iſt gebreſtigs hertzen Die weyſen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="370,1383 969,1374 1071,1360 1073,1315 951,1311 913,1336 818,1314 557,1339 372,1323"/>
+				<Baseline points="379,1370 402,1370 447,1370 492,1367 537,1364 582,1367 626,1364 671,1364 716,1361 761,1364 805,1361 850,1358 895,1358 940,1358 985,1358 1029,1355 1074,1355"/>
+				<TextEquiv>
+					<Unicode>verbergen die wiſſenheyt. aber der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="368,1430 1014,1427 1067,1418 1069,1364 369,1386"/>
+				<Baseline points="376,1417 399,1420 444,1420 489,1417 534,1417 579,1417 623,1417 668,1414 713,1414 758,1414 802,1411 847,1411 892,1411 937,1411 982,1408 1026,1405 1071,1408"/>
+				<TextEquiv>
+					<Unicode>mūd des toren iſt nahend der ſchād</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="374,1476 967,1487 1065,1466 1047,1411 987,1434 376,1430"/>
+				<Baseline points="382,1471 396,1471 441,1471 486,1471 531,1468 576,1468 620,1468 665,1465 710,1465 755,1465 799,1465 844,1462 889,1462 934,1459 979,1459 1023,1456 1068,1456"/>
+				<TextEquiv>
+					<Unicode>Die habe des reichen iſt ein ſtat ſei¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="374,1535 1014,1510 1047,1528 1074,1518 1075,1468 374,1495"/>
+				<Baseline points="382,1522 405,1522 450,1522 495,1522 540,1522 585,1522 629,1519 674,1519 719,1516 764,1516 808,1516 853,1516 898,1513 943,1513 988,1510 1032,1507 1077,1510"/>
+				<TextEquiv>
+					<Unicode>ner ſtercke die vorcht der armen iſt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="377,1582 1057,1574 1077,1516 377,1536"/>
+				<Baseline points="385,1576 405,1576 450,1573 495,1573 540,1573 585,1573 629,1573 674,1570 719,1570 764,1567 808,1567 853,1567 898,1564 943,1564 988,1561 1032,1561 1077,1558"/>
+				<TextEquiv>
+					<Unicode>ir gebreſt. Das werck des gerechten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="376,1650 650,1622 1063,1631 1081,1572 377,1591"/>
+				<Baseline points="385,1629 411,1626 456,1626 501,1626 546,1623 591,1623 635,1620 680,1620 725,1620 770,1620 814,1620 859,1620 904,1617 949,1614 993,1614 1038,1611 1083,1611"/>
+				<TextEquiv>
+					<Unicode>iſt zuͦ dem leben. aber die frucht des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="377,1678 633,1695 794,1672 851,1695 1066,1670 1077,1630 488,1628 377,1650"/>
+				<Baseline points="385,1677 405,1677 450,1677 495,1674 540,1674 585,1674 629,1674 674,1671 719,1671 764,1671 808,1668 853,1671 898,1668 943,1668 988,1665 1032,1662 1077,1662"/>
+				<TextEquiv>
+					<Unicode>vngütigen iſt zuͦ der ſünde. Der do</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="374,1746 1079,1727 1081,1670 901,1695 725,1672 638,1698 376,1676"/>
+				<Baseline points="382,1728 411,1728 456,1728 501,1728 546,1728 591,1725 635,1725 680,1725 725,1722 770,1722 814,1722 859,1719 904,1719 949,1719 993,1716 1038,1713 1083,1713"/>
+				<TextEquiv>
+					<Unicode>behüt die lere. der iſt der wege des le</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="381,1790 1081,1774 1081,1728 1049,1719 382,1740"/>
+				<Baseline points="388,1779 411,1779 456,1779 501,1779 546,1779 591,1779 635,1776 680,1776 725,1776 770,1773 814,1773 859,1773 904,1770 949,1770 993,1767 1038,1767 1083,1764"/>
+				<TextEquiv>
+					<Unicode>bēs aber der do laſſet die ſtraffe. der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="384,1835 1089,1826 1090,1768 926,1796 854,1776 761,1798 385,1791"/>
+				<Baseline points="391,1829 420,1832 465,1832 510,1829 555,1829 599,1829 644,1826 689,1826 734,1826 779,1823 823,1823 868,1823 913,1823 958,1820 1002,1817 1047,1814 1092,1814"/>
+				<TextEquiv>
+					<Unicode>irret Die lüglichen lebſen verbergē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="389,1889 1026,1887 1085,1875 1086,1839 1021,1820 886,1843 390,1839"/>
+				<Baseline points="396,1883 417,1883 462,1883 507,1880 552,1880 596,1880 641,1880 686,1880 731,1877 776,1877 820,1877 865,1874 910,1874 955,1871 999,1871 1044,1868 1089,1865"/>
+				<TextEquiv>
+					<Unicode>den haß. der do fürbringet dz laſter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="389,1948 1091,1935 1091,1891 1042,1877 874,1899 390,1889"/>
+				<Baseline points="396,1937 423,1937 468,1934 513,1931 558,1931 602,1931 647,1931 692,1931 737,1931 782,1928 826,1928 871,1925 916,1925 961,1922 1005,1922 1050,1919 1095,1922"/>
+				<TextEquiv>
+					<Unicode>der iſt vnweyß. In vil rede iſt nitt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="386,1988 1091,1989 1093,1939 1035,1921 650,1956 470,1937 386,1969"/>
+				<Baseline points="394,1984 423,1984 468,1984 513,1982 558,1982 602,1982 647,1982 692,1982 737,1979 782,1979 826,1979 871,1979 916,1976 961,1973 1005,1970 1050,1973 1095,1970"/>
+				<TextEquiv>
+					<Unicode>on die ſünde. wer aber maſſet ſein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="386,2059 605,2032 634,2055 732,2031 766,2052 829,2031 1091,2044 1093,1988 388,1995"/>
+				<Baseline points="394,2035 423,2035 468,2035 513,2032 558,2032 602,2032 647,2032 692,2032 737,2029 782,2029 826,2029 871,2026 916,2026 961,2023 1005,2023 1050,2023 1095,2020"/>
+				<TextEquiv>
+					<Unicode>lebßen der iſt der vernünfftigiſt. die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="390,2107 1079,2093 1093,2044 392,2055"/>
+				<Baseline points="399,2089 423,2089 468,2086 513,2086 558,2086 602,2083 647,2083 692,2083 737,2080 782,2080 826,2080 871,2077 916,2077 961,2074 1005,2074 1050,2074 1095,2074"/>
+				<TextEquiv>
+					<Unicode>zung des gerechten iſt ein erweltes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="393,2159 814,2128 1093,2149 1094,2091 1045,2084 394,2105"/>
+				<Baseline points="402,2143 423,2140 468,2137 513,2137 558,2134 602,2134 647,2134 692,2134 737,2134 782,2131 826,2128 871,2128 916,2128 961,2128 1005,2125 1050,2125 1095,2128"/>
+				<TextEquiv>
+					<Unicode>ſilber. dz hertz der vngutigen iſt ge</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="389,2201 1009,2201 1090,2191 1091,2152 813,2129 390,2156"/>
+				<Baseline points="396,2193 423,2190 468,2187 513,2187 558,2187 602,2187 647,2184 692,2187 737,2184 782,2182 826,2182 871,2182 916,2179 961,2182 1005,2179 1050,2176 1095,2173"/>
+				<TextEquiv>
+					<Unicode>habt für nicht. Die lebßen der gere¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="394,2253 1099,2243 1101,2189 1075,2185 825,2191 793,2217 736,2191 396,2205"/>
+				<Baseline points="402,2244 432,2244 477,2241 522,2238 567,2238 611,2238 656,2238 701,2235 746,2232 791,2235 835,2232 880,2232 925,2229 970,2229 1014,2229 1059,2229 1104,2226"/>
+				<TextEquiv>
+					<Unicode>chten leren manig. aber die do ſein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="385,2311 1098,2295 1098,2255 1050,2237 843,2257 625,2237 461,2265 386,2247"/>
+				<Baseline points="394,2298 429,2295 474,2292 519,2292 564,2289 608,2289 653,2286 698,2286 743,2286 788,2286 832,2286 877,2283 922,2283 967,2283 1011,2280 1056,2280 1101,2280"/>
+				<TextEquiv>
+					<Unicode>vngelert. die ſterben in dē gebreſten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_33" custom="readingOrder {index:32;}">
+				<Coords points="390,2352 1097,2345 1078,2285 1018,2308 802,2287 665,2313 624,2291 392,2308"/>
+				<Baseline points="399,2343 426,2343 471,2343 516,2343 561,2343 605,2340 650,2340 695,2340 740,2337 785,2337 829,2337 874,2334 919,2334 964,2334 1008,2334 1053,2331 1098,2334"/>
+				<TextEquiv>
+					<Unicode>des hertzē. Der ſegē des herrē macht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_34" custom="readingOrder {index:33;}">
+				<Coords points="404,2406 710,2392 781,2417 969,2388 1098,2408 1099,2344 1051,2337 881,2363 405,2352"/>
+				<Baseline points="411,2396 429,2396 474,2396 519,2396 564,2393 608,2393 653,2390 698,2390 743,2390 788,2387 832,2387 877,2387 922,2384 967,2384 1011,2381 1056,2384 1101,2381"/>
+				<TextEquiv>
+					<Unicode>die reichen. in wirt nit zuͦgefügt die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_35" custom="readingOrder {index:34;}">
+				<Coords points="397,2465 843,2437 1102,2450 1103,2402 398,2414"/>
+				<Baseline points="405,2447 435,2447 480,2450 525,2447 570,2444 614,2441 659,2441 704,2441 749,2441 793,2441 838,2438 883,2438 928,2438 973,2435 1017,2435 1062,2435 1107,2435"/>
+				<TextEquiv>
+					<Unicode>zwanckſale Der tor wircket die ſün</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_36" custom="readingOrder {index:35;}">
+				<Coords points="397,2513 1089,2501 1110,2448 397,2464"/>
+				<Baseline points="405,2498 438,2498 483,2501 528,2498 573,2498 617,2495 662,2492 707,2495 752,2492 796,2492 841,2492 886,2489 931,2489 976,2489 1020,2486 1065,2486 1110,2486"/>
+				<TextEquiv>
+					<Unicode>de als durch ein gelechter. aber die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_37" custom="readingOrder {index:36;}">
+				<Coords points="401,2557 1095,2558 1097,2505 1041,2488 696,2518 658,2494 401,2522"/>
+				<Baseline points="408,2552 426,2552 471,2552 516,2552 561,2549 605,2546 650,2546 695,2546 740,2543 785,2546 829,2543 874,2543 919,2543 964,2540 1008,2540 1053,2540 1098,2534"/>
+				<TextEquiv>
+					<Unicode>weißheit iſt dem man̄ ein fürſichtig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_38" custom="readingOrder {index:37;}">
+				<Coords points="394,2616 1109,2606 1110,2557 1045,2542 396,2562"/>
+				<Baseline points="402,2599 441,2602 486,2602 531,2602 576,2602 620,2599 665,2596 710,2596 755,2596 799,2596 844,2596 889,2593 934,2593 979,2590 1023,2590 1068,2590 1113,2590"/>
+				<TextEquiv>
+					<Unicode>keyt. Das der vngütig fürcht das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_39" custom="readingOrder {index:38;}">
+				<Coords points="397,2664 998,2664 1110,2653 1111,2605 398,2613"/>
+				<Baseline points="405,2653 441,2653 486,2653 531,2653 576,2653 620,2647 665,2647 710,2647 755,2647 799,2647 844,2644 889,2644 934,2647 979,2644 1023,2641 1068,2641 1113,2641"/>
+				<TextEquiv>
+					<Unicode>kumpt auff in. ſein begerung wirt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_40" custom="readingOrder {index:39;}">
+				<Coords points="406,2722 1110,2713 1110,2654 1086,2646 408,2676"/>
+				<Baseline points="414,2710 441,2707 486,2707 531,2704 576,2704 620,2701 665,2701 710,2698 755,2698 799,2701 844,2698 889,2695 934,2695 979,2695 1023,2692 1068,2695 1113,2698"/>
+				<TextEquiv>
+					<Unicode>gegeben dē gerechten. Der vngütig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_41" custom="readingOrder {index:40;}">
+				<Coords points="401,2760 838,2774 1015,2745 1061,2765 1113,2753 1114,2701 401,2721"/>
+				<Baseline points="408,2758 444,2758 489,2758 534,2755 579,2755 623,2755 668,2752 713,2749 758,2749 802,2749 847,2749 892,2749 937,2749 982,2746 1026,2746 1071,2743 1116,2746"/>
+				<TextEquiv>
+					<Unicode>übergeet als das vngewitter vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_42" custom="readingOrder {index:41;}">
+				<Coords points="404,2814 1081,2812 1103,2810 1105,2752 404,2774"/>
+				<Baseline points="411,2808 435,2808 480,2808 525,2808 570,2805 614,2805 659,2805 704,2802 749,2802 793,2802 838,2802 883,2802 928,2799 973,2802 1017,2799 1062,2796 1107,2796"/>
+				<TextEquiv>
+					<Unicode>wirt nit aber der gerecht iſt als ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1142_tl_43" custom="readingOrder {index:42;}">
+				<Coords points="402,2869 476,2889 729,2862 1110,2869 1110,2813 1051,2804 404,2830"/>
+				<Baseline points="411,2862 441,2862 486,2862 531,2865 576,2862 620,2862 665,2862 710,2859 755,2859 799,2859 844,2859 889,2856 934,2856 979,2856 1023,2856 1068,2850 1113,2847"/>
+				<TextEquiv>
+					<Unicode>ewig gruntueſte. Als der eſſig den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>einfeltigklich ꝺer geet getrewlich.
+wer aber boͤſert ſein weg ꝺer wirt oſ
+fenbar. Der ꝺo winckt mit ꝺen au¬
+gen. ꝺer gibt ꝺen ſchmertzen. vn̄ ꝺer
+toꝛ wirt geſchlagen mit ꝺen lebſen
+Der munꝺ ꝺes gerechtē iſt ein aꝺer
+ꝺes lebens vn̄ ꝺer munꝺ ꝺer vngü¬
+tigen beꝺeckt ꝺie boßheit. Der haß
+erkückt ꝺie krieg. vnnꝺ ꝺie lieb beꝺe
+cket alle miſſetat. In ꝺē lebßen ꝺes
+weyſen wirt gefunꝺen ꝺie weißheyt
+vnꝺ ꝺie rut auf ꝺem rucken. ꝺes ꝺer
+ꝺo iſt gebreſtigs hertzen Die weyſen
+verbergen ꝺie wiſſenheyt. aber ꝺer
+mūꝺ ꝺes toꝛen iſt nahenꝺ ꝺer ſchāꝺ
+Die habe ꝺes reichen iſt ein ſtat ſei¬
+ner ſtercke ꝺie voꝛcht ꝺer armen iſt
+ir gebreſt. Das werck ꝺes gerechten
+iſt zuͦ ꝺem leben. aber ꝺie frucht ꝺes
+vngütigen iſt zuͦ ꝺer ſünꝺe. Der ꝺo
+behüt ꝺie lere. ꝺer iſt ꝺer wege ꝺes le
+bēs aber ꝺer ꝺo laſſet ꝺie ſtraffe. ꝺer
+irꝛet Die lüglichen lebſen verbergē
+ꝺen haß. ꝺer ꝺo fürbringet ꝺz laſter
+ꝺer iſt vnweyß. In vil reꝺe iſt nitt
+on ꝺie ſünꝺe. wer aber maſſet ſein
+lebßen ꝺer iſt ꝺer vernünfftigiſt. ꝺie
+zung ꝺes gerechten iſt ein erweltes
+ſilber. ꝺz hertz ꝺer vngutigen iſt ge
+habt für nicht. Die lebßen ꝺer gere¬
+chten leren manig. aber ꝺie ꝺo ſein
+vngelert. ꝺie ſterben in ꝺē gebꝛeſten
+ꝺes hertzē. Der ſegē ꝺes herrē macht
+ꝺie reichen. in wirt nit zuͦgefügt ꝺie
+zwanckſale Der toꝛ wircket ꝺie ſün
+ꝺe als ꝺurch ein gelechter. aber ꝺie
+weißheit iſt ꝺem man̄ ein fürſichtig
+keyt. Das ꝺer vngütig fürcht ꝺas
+kumpt auff in. ſein begerung wirt
+gegeben ꝺē gerechten. Der vngütig
+übergeet als ꝺas vngewitter vnꝺ
+wirt nit aber ꝺer gerecht iſt als ein
+ewig gruntueſte. Als ꝺer eſſig ꝺen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="TextRegion_1688416663672_1143" custom="readingOrder {index:2;} structure {type:paragraph;}">
+			<Coords points="1093,581 2027,581 2027,2966 1153,2966"/>
+			<TextLine id="TextRegion_1688416663672_1143_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1133,701 1299,676 1682,692 1766,664 1820,686 1834,600 1135,614"/>
+				<Baseline points="1140,677 1164,677 1208,677 1253,674 1298,674 1343,674 1388,671 1432,671 1477,671 1522,668 1567,665 1611,665 1656,665 1701,662 1746,662 1790,662 1835,665"/>
+				<TextEquiv>
+					<Unicode>zenen vn̄ der rauch den augen. alſo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="1139,742 1630,740 1752,714 1834,737 1835,686 1766,664 1682,692 1524,672 1141,696"/>
+				<Baseline points="1146,731 1167,731 1211,731 1256,725 1301,725 1346,725 1390,725 1435,722 1480,722 1525,719 1570,719 1614,716 1659,716 1704,716 1749,713 1793,713 1838,716"/>
+				<TextEquiv>
+					<Unicode>iſt d̓ treg dē die in habē geſant Die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="1139,792 1840,777 1840,750 1794,728 1703,720 1141,741"/>
+				<Baseline points="1146,782 1173,782 1217,782 1262,779 1307,779 1352,776 1396,773 1441,773 1486,773 1531,773 1576,770 1620,770 1665,770 1710,767 1755,767 1799,767 1844,770"/>
+				<TextEquiv>
+					<Unicode>vorcht des herren zuͦleget die tage.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="1139,839 1839,830 1840,792 1755,769 1622,793 1141,792"/>
+				<Baseline points="1146,832 1173,835 1217,832 1262,829 1307,829 1352,826 1396,826 1441,826 1486,823 1531,823 1576,820 1620,820 1665,820 1710,817 1755,817 1799,817 1844,817"/>
+				<TextEquiv>
+					<Unicode>vn̄ die iar der vngütigen werdē ge¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="1138,891 1847,890 1848,839 1756,819 1139,841"/>
+				<Baseline points="1146,886 1179,886 1223,883 1268,880 1313,877 1358,880 1402,877 1447,877 1492,874 1537,874 1582,874 1626,874 1671,871 1716,871 1761,868 1805,868 1850,865"/>
+				<TextEquiv>
+					<Unicode>kürtzet. Die harrung der gerechten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="1139,941 1214,961 1326,934 1396,955 1452,931 1844,937 1846,890 1791,874 1652,897 1141,894"/>
+				<Baseline points="1146,940 1176,937 1220,937 1265,934 1310,931 1355,928 1399,928 1444,928 1489,925 1534,928 1579,925 1623,925 1668,922 1713,922 1758,922 1802,919 1847,919"/>
+				<TextEquiv>
+					<Unicode>iſt ein frewd. aber die zuͦuerſicht der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="1142,997 1670,974 1844,995 1846,938 1142,954"/>
+				<Baseline points="1149,988 1176,988 1220,988 1265,988 1310,982 1355,982 1399,982 1444,979 1489,979 1534,976 1579,976 1623,973 1668,973 1713,973 1758,973 1802,973 1847,973"/>
+				<TextEquiv>
+					<Unicode>vngütigen verdirbet. Der weg des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="1141,1054 1850,1034 1851,1001 1798,982 1293,991 1201,1014 1143,997"/>
+				<Baseline points="1149,1038 1182,1038 1226,1041 1271,1038 1316,1035 1361,1035 1405,1032 1450,1029 1495,1029 1540,1029 1585,1026 1629,1026 1674,1023 1719,1026 1764,1023 1808,1026 1853,1023"/>
+				<TextEquiv>
+					<Unicode>herren iſt ein ſterck des einfeltigen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="1147,1093 1776,1099 1850,1090 1851,1034 1147,1061"/>
+				<Baseline points="1155,1089 1182,1092 1226,1092 1271,1089 1316,1086 1361,1083 1405,1083 1450,1080 1495,1080 1540,1080 1585,1077 1629,1077 1674,1077 1719,1077 1764,1077 1808,1077 1853,1080"/>
+				<TextEquiv>
+					<Unicode>vnd ein vorcht dē die do wircken dz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="1145,1147 1691,1133 1807,1153 1852,1137 1854,1090 1146,1093"/>
+				<Baseline points="1152,1143 1185,1143 1229,1143 1274,1140 1319,1140 1364,1137 1408,1137 1453,1134 1498,1131 1543,1131 1587,1128 1632,1131 1677,1131 1722,1128 1767,1128 1811,1128 1856,1125"/>
+				<TextEquiv>
+					<Unicode>übel Der gerecht wirt nit bewegt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="1143,1213 1459,1185 1711,1202 1844,1182 1846,1135 1804,1154 1696,1134 1145,1147"/>
+				<Baseline points="1152,1193 1176,1193 1220,1193 1265,1190 1310,1190 1355,1190 1399,1188 1444,1185 1489,1185 1534,1182 1579,1182 1623,1182 1668,1179 1713,1179 1758,1179 1802,1179 1847,1176"/>
+				<TextEquiv>
+					<Unicode>ewigklich. aber die vngütigen wer¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="1145,1251 1850,1239 1851,1193 1819,1183 1146,1211"/>
+				<Baseline points="1152,1244 1182,1244 1226,1244 1271,1244 1316,1244 1361,1238 1405,1238 1450,1238 1495,1235 1540,1232 1585,1232 1629,1232 1674,1232 1719,1232 1764,1232 1808,1229 1853,1226"/>
+				<TextEquiv>
+					<Unicode>dē nit wonē auff der erd. Der mūd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="1154,1303 1724,1305 1856,1289 1858,1243 1616,1257 1568,1237 1424,1266 1274,1245 1234,1271 1155,1251"/>
+				<Baseline points="1161,1298 1188,1298 1232,1298 1277,1295 1322,1292 1367,1292 1411,1289 1456,1286 1501,1286 1546,1286 1590,1283 1635,1283 1680,1283 1725,1283 1770,1283 1814,1280 1859,1274"/>
+				<TextEquiv>
+					<Unicode>des gerechten gebirt die weißheit. die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="1145,1379 1207,1352 1858,1339 1859,1287 1832,1285 1462,1317 1147,1299"/>
+				<Baseline points="1152,1355 1188,1352 1232,1346 1277,1346 1322,1343 1367,1343 1411,1340 1456,1337 1501,1337 1546,1337 1590,1337 1635,1337 1680,1334 1725,1334 1770,1334 1814,1331 1859,1328"/>
+				<TextEquiv>
+					<Unicode>zung des boͤſen verdirbet. Die lebß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="1157,1406 1824,1403 1859,1394 1860,1338 1734,1360 1680,1336 1467,1363 1371,1346 1330,1370 1207,1352 1157,1376"/>
+				<Baseline points="1164,1396 1190,1399 1235,1399 1280,1396 1325,1396 1370,1393 1414,1393 1459,1390 1504,1390 1549,1388 1593,1388 1638,1388 1683,1388 1728,1388 1773,1385 1817,1385 1862,1385"/>
+				<TextEquiv>
+					<Unicode>en des gerechten mercken die geuel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="1154,1451 1347,1470 1663,1439 1860,1470 1863,1395 1154,1404"/>
+				<Baseline points="1161,1450 1193,1450 1238,1450 1283,1450 1328,1447 1373,1444 1417,1444 1462,1441 1507,1441 1552,1441 1596,1441 1641,1438 1686,1438 1731,1438 1776,1435 1820,1435 1865,1432"/>
+				<TextEquiv>
+					<Unicode>ligen ding. vn̄ der mund des vngü</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="1154,1506 1347,1518 1552,1495 1663,1520 1664,1466 1614,1444 1398,1450 1348,1470 1270,1454 1242,1474 1155,1454"/>
+				<Baseline points="1161,1504 1176,1504 1220,1501 1265,1501 1310,1501 1355,1498 1399,1495 1444,1495 1489,1492 1534,1489 1579,1492 1623,1489 1668,1492"/>
+				<TextEquiv>
+					<Unicode>tigen die verkerten ding.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="1157,1603 1848,1595 1866,1511 1704,1490 1594,1524 1415,1503 1285,1534 1253,1507 1159,1507"/>
+				<Baseline points="1164,1596 1196,1590 1241,1587 1286,1585 1331,1582 1376,1579 1420,1579 1465,1579 1510,1579 1555,1579 1599,1576 1644,1576 1689,1576 1734,1573 1779,1573 1823,1573 1868,1573"/>
+				<TextEquiv>
+					<Unicode>Das XI capitel das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="1151,1658 1860,1655 1863,1591 1759,1582 1647,1611 1414,1586 1153,1618"/>
+				<Baseline points="1158,1650 1193,1653 1238,1653 1283,1650 1328,1647 1373,1647 1417,1647 1462,1644 1507,1644 1552,1641 1596,1641 1641,1641 1686,1641 1731,1638 1776,1638 1820,1638 1865,1635"/>
+				<TextEquiv>
+					<Unicode>man kein betrieglich wag noch maſ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="1157,1710 1372,1707 1438,1746 1502,1743 1546,1704 1695,1699 1875,1734 1877,1656 1157,1658"/>
+				<Baseline points="1164,1701 1208,1704 1253,1704 1298,1704 1343,1701 1388,1701 1432,1698 1477,1698 1522,1698 1567,1695 1611,1692 1656,1692 1701,1695 1746,1692 1790,1692 1835,1692 1880,1689"/>
+				<TextEquiv>
+					<Unicode>haben vnd in allen dingen gerecht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="1174,1794 1262,1794 1281,1780 1307,1796 1332,1794 1334,1706 1274,1708 1253,1726 1207,1712 1199,1720 1175,1718"/>
+				<Baseline points="1182,1755 1226,1758 1271,1755 1316,1755 1337,1755"/>
+				<TextEquiv>
+					<Unicode>ſein ſoll</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="1419,1873 1456,1880 1550,1847 1616,1864 1682,1842 1722,1862 1862,1847 1860,1743 1768,1760 1747,1748 1698,1779 1419,1754"/>
+				<Baseline points="1426,1826 1471,1832 1516,1841 1561,1841 1605,1841 1650,1841 1695,1841 1740,1838 1785,1838 1829,1838 1865,1835"/>
+				<TextEquiv>
+					<Unicode>Ie trieglich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="1383,1923 1624,1925 1670,1909 1707,1928 1755,1903 1819,1919 1869,1909 1871,1850 1726,1862 1684,1843 1564,1871 1510,1858 1438,1889 1384,1867"/>
+				<Baseline points="1390,1910 1426,1910 1471,1907 1516,1907 1561,1907 1605,1907 1650,1907 1695,1904 1740,1901 1785,1901 1829,1901 1874,1901"/>
+				<TextEquiv>
+					<Unicode>wag iſt ein fluͦch bei got</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="1395,1965 1488,1979 1680,1960 1715,1977 1771,1957 1867,1972 1859,1907 1814,1920 1783,1907 1740,1928 1675,1908 1604,1929 1578,1915 1474,1932 1442,1917 1396,1935"/>
+				<Baseline points="1402,1964 1423,1961 1468,1958 1513,1961 1558,1958 1602,1958 1647,1955 1692,1955 1737,1955 1782,1952 1826,1952 1871,1949"/>
+				<TextEquiv>
+					<Unicode>vn̄ ein gerechtz maß iſt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="1400,2032 1499,2013 1571,2029 1642,2009 1723,2024 1851,2004 1872,2016 1873,1972 1812,1961 1402,1973"/>
+				<Baseline points="1408,2011 1429,2014 1474,2011 1519,2008 1564,2008 1608,2008 1653,2008 1698,2005 1743,2005 1787,2002 1832,2002 1877,2002"/>
+				<TextEquiv>
+					<Unicode>ſein will. Wo die hofart</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="1169,2076 1871,2057 1871,2015 1828,2009 1403,2032 1266,2003 1170,2031"/>
+				<Baseline points="1176,2071 1202,2071 1247,2068 1292,2068 1337,2068 1382,2068 1426,2065 1471,2062 1516,2062 1561,2062 1605,2059 1650,2059 1695,2056 1740,2056 1785,2056 1829,2053 1874,2053"/>
+				<TextEquiv>
+					<Unicode>iſt. do iſt auch laſter. wo aber die de¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="1169,2128 1271,2149 1439,2116 1875,2115 1863,2057 1723,2079 1632,2061 1588,2085 1540,2063 1170,2080"/>
+				<Baseline points="1176,2122 1208,2122 1253,2122 1298,2116 1343,2119 1388,2116 1432,2116 1477,2113 1522,2110 1567,2110 1611,2110 1656,2107 1701,2110 1746,2110 1790,2107 1835,2107 1880,2107"/>
+				<TextEquiv>
+					<Unicode>mütigkeit iſt do iſt auch weißheyt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="1169,2185 1848,2180 1887,2165 1888,2119 1546,2136 1439,2116 1269,2148 1170,2129"/>
+				<Baseline points="1176,2176 1217,2173 1262,2173 1307,2173 1352,2170 1396,2167 1441,2167 1486,2164 1531,2164 1576,2164 1620,2161 1665,2161 1710,2161 1755,2158 1799,2161 1844,2158 1889,2158"/>
+				<TextEquiv>
+					<Unicode>Die einfalt der gerechten ſchickt ſye</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="1181,2229 1875,2228 1867,2172 1182,2191"/>
+				<Baseline points="1188,2226 1208,2223 1253,2223 1298,2223 1343,2220 1388,2220 1432,2217 1477,2217 1522,2214 1567,2214 1611,2211 1656,2214 1701,2211 1746,2211 1790,2211 1835,2208 1880,2208"/>
+				<TextEquiv>
+					<Unicode>vnnd die vnder pflantzung der ver¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="1178,2283 1883,2281 1884,2224 1842,2219 1245,2247 1179,2229"/>
+				<Baseline points="1185,2277 1214,2274 1259,2274 1304,2271 1349,2271 1393,2271 1438,2268 1483,2265 1528,2265 1573,2265 1617,2265 1662,2265 1707,2262 1752,2265 1796,2259 1841,2259 1886,2259"/>
+				<TextEquiv>
+					<Unicode>kertē verwüſt ſie. Die reichtum wer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="1175,2340 1691,2317 1788,2335 1881,2325 1883,2279 1512,2271 1430,2303 1374,2277 1177,2283"/>
+				<Baseline points="1182,2325 1214,2325 1259,2325 1304,2325 1349,2325 1393,2322 1438,2322 1483,2319 1528,2319 1573,2319 1617,2316 1662,2316 1707,2316 1752,2313 1796,2313 1841,2313 1886,2313"/>
+				<TextEquiv>
+					<Unicode>den nit nütz an dē tag der rach aber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="1182,2388 1321,2401 1392,2380 1419,2400 1474,2376 1615,2393 1876,2369 1876,2333 1843,2320 1183,2336"/>
+				<Baseline points="1190,2379 1208,2379 1253,2376 1298,2376 1343,2376 1388,2373 1432,2373 1477,2370 1522,2370 1567,2370 1611,2367 1656,2367 1701,2367 1746,2367 1790,2364 1835,2364 1880,2364"/>
+				<TextEquiv>
+					<Unicode>die gerechtigkeyt erloͤſet vom tod.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_33" custom="readingOrder {index:32;}">
+				<Coords points="1175,2442 1893,2434 1895,2373 1862,2365 1610,2393 1472,2377 1424,2400 1177,2387"/>
+				<Baseline points="1182,2429 1223,2429 1268,2426 1313,2426 1358,2426 1402,2426 1447,2423 1492,2423 1537,2420 1582,2420 1626,2420 1671,2417 1716,2417 1761,2414 1805,2411 1850,2414 1895,2414"/>
+				<TextEquiv>
+					<Unicode>Die gerechtigkeit des einfaltigē ſchi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_34" custom="readingOrder {index:33;}">
+				<Coords points="1175,2489 1888,2485 1866,2418 1177,2445"/>
+				<Baseline points="1182,2480 1220,2483 1265,2480 1310,2480 1355,2477 1399,2477 1444,2477 1489,2474 1534,2474 1579,2471 1623,2471 1668,2468 1713,2471 1758,2468 1802,2468 1847,2465 1892,2465"/>
+				<TextEquiv>
+					<Unicode>cket ſein weg vn̄ der vngütig velt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_35" custom="readingOrder {index:34;}">
+				<Coords points="1178,2540 1859,2537 1885,2533 1887,2485 1179,2490"/>
+				<Baseline points="1185,2534 1217,2534 1262,2531 1307,2531 1352,2528 1396,2528 1441,2528 1486,2525 1531,2522 1576,2522 1620,2522 1665,2522 1710,2522 1755,2519 1799,2519 1844,2516 1889,2519"/>
+				<TextEquiv>
+					<Unicode>in ſeiner vngütigkeit Die gerechtig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_36" custom="readingOrder {index:35;}">
+				<Coords points="1183,2588 1362,2606 1406,2584 1895,2577 1887,2530 1185,2538"/>
+				<Baseline points="1190,2581 1226,2584 1271,2581 1316,2581 1361,2581 1405,2581 1450,2579 1495,2576 1540,2576 1585,2576 1629,2573 1674,2573 1719,2573 1764,2570 1808,2570 1853,2570 1898,2567"/>
+				<TextEquiv>
+					<Unicode>keit der gerechten erloͤſet ſie. wann</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_37" custom="readingOrder {index:36;}">
+				<Coords points="1183,2646 1888,2642 1891,2577 1638,2601 1185,2590"/>
+				<Baseline points="1190,2635 1220,2635 1265,2635 1310,2632 1355,2632 1399,2629 1444,2629 1489,2629 1534,2626 1579,2623 1623,2626 1668,2623 1713,2623 1758,2620 1802,2620 1847,2620 1892,2617"/>
+				<TextEquiv>
+					<Unicode>die vngütigen werden gefangen in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_38" custom="readingOrder {index:37;}">
+				<Coords points="1181,2688 1875,2694 1887,2640 1181,2638"/>
+				<Baseline points="1188,2683 1217,2686 1262,2686 1307,2683 1352,2683 1396,2683 1441,2683 1486,2680 1531,2677 1576,2677 1620,2677 1665,2677 1710,2671 1755,2671 1799,2671 1844,2671 1889,2668"/>
+				<TextEquiv>
+					<Unicode>iren heimlichen heſſen. So der vn¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_39" custom="readingOrder {index:38;}">
+				<Coords points="1187,2769 1249,2740 1470,2754 1694,2726 1900,2750 1901,2693 1783,2677 1190,2702"/>
+				<Baseline points="1196,2737 1232,2737 1277,2740 1322,2737 1367,2737 1411,2734 1456,2731 1501,2734 1546,2728 1590,2728 1635,2725 1680,2725 1725,2725 1770,2725 1814,2725 1859,2725 1904,2722"/>
+				<TextEquiv>
+					<Unicode>gütig menſch ſtirbet. ſo wirt für an</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_40" custom="readingOrder {index:39;}">
+				<Coords points="1189,2800 1488,2808 1787,2777 1888,2797 1889,2740 1691,2728 1412,2758 1366,2737 1189,2769"/>
+				<Baseline points="1196,2790 1220,2787 1265,2790 1310,2787 1355,2787 1399,2787 1444,2784 1489,2784 1534,2784 1579,2781 1623,2778 1668,2778 1713,2778 1758,2778 1802,2776 1847,2776 1892,2776"/>
+				<TextEquiv>
+					<Unicode>kein hoffnung. vnnd die harrung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1688416663672_1143_tl_41" custom="readingOrder {index:40;}">
+				<Coords points="1189,2856 1895,2849 1896,2801 1644,2778 1559,2808 1190,2801"/>
+				<Baseline points="1196,2844 1226,2844 1271,2844 1316,2844 1361,2844 1405,2844 1450,2841 1495,2838 1540,2835 1585,2835 1629,2832 1674,2832 1719,2832 1764,2832 1808,2829 1853,2829 1898,2826"/>
+				<TextEquiv>
+					<Unicode>der ſorgſamen verdirbet. Der ge¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>zenen vn̄ ꝺer rauch ꝺen augen. alſo
+iſt ꝺ̓ treg ꝺē ꝺie in habē geſant Die
+voꝛcht ꝺes herren zuͦleget ꝺie tage.
+vn̄ ꝺie iar ꝺer vngütigen werꝺē ge¬
+kürtzet. Die haꝛrung ꝺer gerechten
+iſt ein frewꝺ. aber ꝺie zuͦuerſicht ꝺer
+vngütigen verꝺirbet. Der weg ꝺes
+heꝛren iſt ein ſterck ꝺes einfeltigen.
+vnꝺ ein voꝛcht ꝺē ꝺie ꝺo wircken ꝺz
+übel Der gerecht wirt nit bewegt
+ewigklich. aber ꝺie vngütigen wer¬
+ꝺē nit wonē auff ꝺer erꝺ. Der mūꝺ
+ꝺes gerechten gebirt ꝺie weißheit. ꝺie
+zung ꝺes boͤſen verꝺirbet. Die lebß
+en ꝺes gerechten mercken ꝺie geuel
+ligen ꝺing. vn̄ ꝺer munꝺ ꝺes vngü
+tigen ꝺie verkerten ꝺing.
+Das XI capitel ꝺas
+man kein betrieglich wag noch maſ
+haben vnꝺ in allen ꝺingen gerecht
+ſein ſoll
+Ie trieglich
+wag iſt ein fluͦch bei got
+vn̄ ein gerechtz maß iſt
+ſein will. Wo ꝺie hofart
+iſt. ꝺo iſt auch laſter. wo aber ꝺie ꝺe¬
+mütigkeit iſt ꝺo iſt auch weißheyt.
+Die einfalt ꝺer gerechten ſchickt ſye
+vnnꝺ ꝺie vnꝺer pflantzung ꝺer ver¬
+kertē verwüſt ſie. Die reichtum wer
+ꝺen nit nütz an ꝺē tag ꝺer rach aber
+ꝺie gerechtigkeyt erloͤſet vom toꝺ.
+Die gerechtigkeit ꝺes einfaltigē ſchi
+cket ſein weg vn̄ ꝺer vngütig velt
+in ſeiner vngütigkeit Die gerechtig
+keit ꝺer gerechten erloͤſet ſie. wann
+ꝺie vngütigen werꝺen gefangen in
+iren heimlichen heſſen. So ꝺer vn¬
+gütig menſch ſtirbet. ſo wirt für an
+kein hoffnung. vnnꝺ ꝺie harꝛung
+ꝺer ſoꝛgſamen verꝺirbet. Der ge¬</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

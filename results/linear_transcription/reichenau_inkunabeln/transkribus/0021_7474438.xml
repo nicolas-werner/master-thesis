@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:28</Creator>
+        <Created>2025-03-21T12:31:02.069+01:00</Created>
+        <LastChange>2025-03-21T17:28:58.981+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0021_7474438.jpg" imageWidth="2102" imageHeight="2796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697299" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="191,637 191,2256 1245,2256 1245,637"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="205,669 1217,678 1209,617 205,599"/>
+                <Baseline points="212,660 262,660 312,662 363,661 413,663 464,663 514,663 565,663 615,663 666,660 716,663 766,663 817,663 867,663 918,663 968,666 1019,666 1069,666 1120,667 1170,669 1221,666"/>
+                <TextEquiv>
+                    <Unicode>Pfeffikon hie zu Ainsideln Begraben Starb anno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="207,728 1217,722 1217,684 1158,671 207,674"/>
+                <Baseline points="215,713 265,710 315,713 365,713 416,713 466,713 516,713 567,713 617,713 667,713 718,713 768,713 818,713 868,713 919,713 969,716 1019,716 1070,716 1120,716 1170,718 1221,722"/>
+                <TextEquiv>
+                    <Unicode>domini. Tausent vierhundert vnd zway iarn des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="204,782 1097,775 1095,739 967,721 202,732"/>
+                <Baseline points="209,764 253,764 298,764 342,764 387,764 431,767 476,767 520,767 565,767 609,767 654,767 698,767 743,764 787,767 832,767 876,770 921,767 965,770 1010,767 1054,767 1099,767"/>
+                <TextEquiv>
+                    <Unicode>muͤter was ain marggraͤfin von Hochberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="202,867 1242,872 1242,836 1081,792 858,837 202,818"/>
+                <Baseline points="209,866 260,869 312,869 364,869 416,869 468,869 519,869 571,869 623,869 675,869 727,869 778,869 830,869 882,869 934,871 986,870 1037,872 1089,870 1141,869 1193,869 1245,866"/>
+                <TextEquiv>
+                    <Unicode>Hugo apt, der neün vnd zwaintzigist, ain Frey¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="202,922 1221,941 1220,872 202,871"/>
+                <Baseline points="209,920 259,917 310,918 361,920 412,920 462,920 513,920 564,920 615,920 665,920 716,920 767,920 818,920 868,920 919,920 970,923 1021,923 1071,922 1122,920 1173,920 1224,926"/>
+                <TextEquiv>
+                    <Unicode>herr von Rossennegk bracht alles / so apt Ludwig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="207,972 1224,977 1224,935 1125,926 207,932"/>
+                <Baseline points="215,967 265,967 316,968 366,970 417,970 468,970 518,970 569,970 619,970 670,973 721,970 771,970 822,970 872,972 923,973 974,970 1024,973 1075,972 1125,970 1176,970 1227,973"/>
+                <TextEquiv>
+                    <Unicode>vBels gethan hat mit grosser fursichtigkait her wi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="202,1023 1218,1036 1218,977 202,976"/>
+                <Baseline points="209,1015 259,1018 310,1019 360,1021 411,1021 462,1021 512,1021 563,1021 613,1021 664,1021 715,1021 765,1021 816,1021 866,1023 917,1024 968,1021 1018,1021 1069,1021 1119,1021 1170,1021 1221,1018"/>
+                <TextEquiv>
+                    <Unicode>der / vnnd verließ dar zu an barfchaft zway vnns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="202,1075 1212,1088 1212,1033 1178,1025 202,1023"/>
+                <Baseline points="209,1069 259,1069 309,1070 359,1072 410,1072 460,1072 510,1072 561,1072 611,1072 661,1072 712,1072 762,1072 812,1072 862,1074 913,1073 963,1072 1013,1072 1064,1072 1114,1072 1164,1072 1215,1072"/>
+                <TextEquiv>
+                    <Unicode>dreissig tausent gulden, regiert sechzehen iar, starb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="202,1130 1215,1126 1215,1085 1163,1076 202,1084"/>
+                <Baseline points="209,1117 259,1120 309,1120 360,1121 410,1124 461,1126 511,1126 562,1126 612,1126 663,1123 713,1123 763,1123 814,1123 864,1123 915,1123 965,1123 1016,1123 1066,1123 1117,1123 1167,1123 1218,1126"/>
+                <TextEquiv>
+                    <Unicode>auch zu pfeffikon Im schlos / was in dem Conciln</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="205,1190 1224,1193 1224,1133 1126,1126 205,1129"/>
+                <Baseline points="212,1170 262,1170 313,1170 364,1171 415,1173 465,1173 516,1173 567,1176 618,1176 668,1175 719,1174 770,1176 821,1176 871,1174 922,1176 973,1173 1024,1173 1074,1173 1125,1173 1176,1173 1227,1173"/>
+                <TextEquiv>
+                    <Unicode>zu Costentz/ was vor pfleger gewesen/ des muͤtter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="205,1222 264,1237 289,1225 416,1241 594,1234 594,1202 487,1178 205,1189"/>
+                <Baseline points="212,1218 237,1220 263,1221 289,1221 314,1222 340,1224 366,1224 391,1224 417,1224 443,1224 468,1224 494,1223 520,1221 545,1221 571,1221 597,1221"/>
+                <TextEquiv>
+                    <Unicode>was von Tengen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="202,1281 1212,1277 1180,1231 910,1211 858,1239 202,1225"/>
+                <Baseline points="209,1272 259,1272 309,1273 359,1275 410,1275 460,1275 510,1275 561,1275 611,1275 661,1275 712,1278 762,1277 812,1275 862,1275 913,1277 963,1275 1013,1275 1064,1275 1114,1275 1164,1275 1215,1275"/>
+                <TextEquiv>
+                    <Unicode>Burckhart appt der dreyssigist / ain Freyherr von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="205,1336 1209,1336 1193,1281 204,1273"/>
+                <Baseline points="212,1323 262,1320 312,1323 362,1323 412,1323 462,1325 512,1326 562,1326 612,1326 662,1326 712,1326 762,1326 812,1326 862,1326 912,1326 962,1326 1012,1326 1062,1326 1112,1326 1162,1326 1212,1326"/>
+                <TextEquiv>
+                    <Unicode>Wissenburg von krengklingen/ tat auch vast wol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="202,1375 1209,1383 1209,1340 1159,1326 202,1333"/>
+                <Baseline points="209,1371 259,1371 309,1372 359,1374 409,1374 459,1374 509,1374 560,1377 610,1377 660,1377 710,1377 760,1377 810,1377 860,1375 911,1376 961,1377 1011,1374 1061,1377 1111,1374 1161,1375 1212,1377"/>
+                <TextEquiv>
+                    <Unicode>vnd verbawt was Im sein vorfaren verliessen in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="205,1434 1212,1441 1212,1384 1180,1379 205,1391"/>
+                <Baseline points="212,1424 262,1421 312,1424 362,1424 412,1425 462,1427 512,1427 563,1424 613,1427 663,1427 713,1427 763,1427 813,1427 863,1427 914,1427 964,1425 1014,1424 1064,1427 1114,1424 1164,1425 1215,1427"/>
+                <TextEquiv>
+                    <Unicode>vnd vor dem gotzhaus/ regiert bey vier vn̄ zwain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="202,1484 1209,1492 1209,1441 1173,1434 202,1434"/>
+                <Baseline points="209,1475 259,1472 309,1473 359,1475 409,1475 459,1477 509,1476 560,1478 610,1475 660,1478 710,1478 760,1478 810,1477 860,1477 911,1476 961,1477 1011,1475 1061,1478 1111,1475 1161,1478 1212,1478"/>
+                <TextEquiv>
+                    <Unicode>zig iaren was probst zu sant Gerolt. Starb anno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="202,1527 1143,1544 1143,1495 1095,1480 202,1483"/>
+                <Baseline points="209,1523 255,1523 302,1526 349,1526 396,1527 443,1529 490,1529 537,1529 584,1529 631,1529 678,1529 724,1529 771,1529 818,1529 865,1529 912,1529 959,1529 1006,1529 1053,1529 1100,1529 1147,1523"/>
+                <TextEquiv>
+                    <Unicode>dni rem. hat sein Botschafft im Concily zu Basel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="196,1635 1203,1635 1203,1585 1072,1561 846,1594 196,1574"/>
+                <Baseline points="203,1625 253,1625 303,1629 353,1631 403,1630 453,1628 503,1630 554,1631 604,1628 654,1628 704,1629 754,1631 804,1631 854,1631 905,1629 955,1628 1005,1631 1055,1631 1105,1631 1155,1630 1206,1628"/>
+                <TextEquiv>
+                    <Unicode>Rüdolff apt der ain vnd dreyssigst, des namens ô</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="198,1685 1209,1689 1209,1645 1167,1633 198,1628"/>
+                <Baseline points="206,1678 256,1678 306,1679 356,1681 407,1681 457,1681 507,1681 558,1681 608,1681 658,1678 709,1678 759,1679 809,1680 859,1678 910,1678 960,1678 1010,1681 1061,1678 1111,1678 1161,1679 1212,1681"/>
+                <TextEquiv>
+                    <Unicode>drytte/ ain Freyherr von der hochen Sagx. Was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="196,1732 1212,1742 1211,1690 194,1686"/>
+                <Baseline points="203,1729 253,1726 304,1729 354,1729 405,1729 456,1729 506,1731 557,1732 607,1729 658,1729 709,1729 759,1729 810,1729 860,1729 911,1729 962,1729 1012,1729 1063,1729 1113,1729 1164,1730 1215,1732"/>
+                <TextEquiv>
+                    <Unicode>vor Lustor/ Regiert bey neün iaren/ hat zu seinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="198,1788 1206,1786 1185,1736 198,1734"/>
+                <Baseline points="206,1777 256,1777 306,1780 356,1781 406,1783 456,1783 506,1783 557,1783 607,1783 657,1783 707,1783 757,1783 807,1783 857,1781 908,1780 958,1780 1008,1780 1058,1780 1108,1780 1158,1780 1209,1777"/>
+                <TextEquiv>
+                    <Unicode>zeitten groß kriege/ half auch vil fride zwischent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="189,1842 1203,1838 1186,1786 189,1791"/>
+                <Baseline points="197,1831 247,1831 297,1831 348,1831 398,1832 449,1834 499,1834 550,1834 600,1831 651,1834 701,1833 751,1831 802,1833 852,1832 903,1831 953,1834 1004,1831 1054,1831 1105,1833 1155,1832 1206,1837"/>
+                <TextEquiv>
+                    <Unicode>herschafft Osterreich vnd der aidgenosschaft mach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="198,1916 1191,1902 1191,1852 1123,1835 198,1841"/>
+                <Baseline points="206,1881 255,1878 304,1881 354,1884 403,1884 453,1884 502,1884 551,1884 601,1884 650,1884 700,1884 749,1884 798,1884 848,1884 897,1884 947,1884 996,1884 1045,1884 1095,1884 1144,1884 1194,1878"/>
+                <TextEquiv>
+                    <Unicode>en/ des muͤter was ain Gräuin von Werdenberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="184,1987 1207,1986 1206,1953 1068,1925 183,1930"/>
+                <Baseline points="191,1983 241,1983 292,1983 343,1984 394,1986 445,1986 496,1986 547,1986 598,1986 649,1986 700,1986 750,1986 801,1984 852,1985 903,1986 954,1986 1005,1986 1056,1986 1107,1986 1158,1986 1209,1983"/>
+                <TextEquiv>
+                    <Unicode>Franciscus appt der zwen vnd dreissigist, Geborn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="196,2035 1200,2045 1200,2005 1123,1988 196,1999"/>
+                <Baseline points="203,2034 253,2034 303,2034 353,2035 403,2037 453,2037 503,2037 553,2037 603,2037 653,2040 703,2037 753,2040 803,2040 853,2038 903,2037 953,2037 1003,2037 1053,2037 1103,2037 1153,2037 1203,2040"/>
+                <TextEquiv>
+                    <Unicode>von Hochennrechberg was mit seinem vorfaren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="189,2092 1196,2099 1196,2056 1133,2043 189,2038"/>
+                <Baseline points="197,2082 247,2082 297,2086 347,2087 397,2086 447,2088 497,2090 548,2088 598,2088 648,2091 698,2091 748,2091 798,2091 848,2089 899,2088 949,2088 999,2091 1049,2091 1099,2088 1149,2088 1200,2088"/>
+                <TextEquiv>
+                    <Unicode>nach gefreundt zwaien schwester kind, regiert bey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="198,2148 1196,2141 1196,2104 1141,2093 198,2087"/>
+                <Baseline points="206,2135 255,2135 305,2135 355,2135 404,2136 454,2138 504,2138 553,2140 603,2141 653,2144 703,2141 752,2141 802,2141 852,2140 901,2140 951,2141 1001,2141 1050,2141 1100,2144 1150,2138 1200,2135"/>
+                <TextEquiv>
+                    <Unicode>sechs iaren. Wo Er lang gelept het Er vil gn̈tz ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="189,2197 1062,2226 1196,2201 1195,2140 188,2154"/>
+                <Baseline points="197,2183 247,2183 297,2184 347,2187 397,2189 447,2191 497,2192 548,2192 598,2195 648,2195 698,2195 748,2195 798,2195 848,2195 899,2195 949,2195 999,2195 1049,2195 1099,2195 1149,2194 1200,2192"/>
+                <TextEquiv>
+                    <Unicode>than-Starb anno dni Tausent vierhundert zwai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="194,2268 235,2262 266,2274 298,2244 342,2239 402,2270 458,2255 507,2270 537,2261 535,2205 506,2198 472,2209 459,2197 398,2195 372,2210 248,2185 192,2200"/>
+                <Baseline points="200,2240 225,2238 251,2237 277,2237 303,2237 329,2237 355,2238 381,2240 407,2242 433,2244 459,2245 485,2245 511,2243 537,2243"/>
+                <TextEquiv>
+                    <Unicode>vnd viertzig iar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=39995:lm=provided:date=07_06_2023_10:03</Creator>
+		<Created>2023-06-07T09:11:03.636+02:00</Created>
+		<LastChange>2023-12-20T15:44:08.739+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075027" pageNr="52" tsid="154460113" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=BKUQYQRWTTXJHMVZQAMNZFCN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ERTENDPIOJJEROQFMIJLIRNQ" imageId="45286716"/>
+	</Metadata>
+	<Page imageFilename="7474428.jpg" imageWidth="2102" imageHeight="2796">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356462512" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686124609976_1013"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686124609976_1013" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="139,990 1199,990 1199,1162 139,1162"/>
+			<TextLine id="region_1686124609976_1013_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="185,1078 1159,1087 1159,1013 1057,999 984,1027 185,1018"/>
+				<Baseline points="191,1066 221,1066 265,1063 310,1066 355,1063 400,1063 445,1063 489,1063 534,1063 579,1063 624,1066 669,1063 713,1063 758,1063 803,1063 848,1063 893,1063 937,1060 982,1060 1027,1060 1072,1060 1117,1060 1162,1063"/>
+				<TextEquiv>
+					<Unicode>Von der loblichen Stifftung des Hochwirdigen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124609976_1013_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="166,1153 493,1129 662,1165 1063,1121 1135,1148 1109,1070 168,1075"/>
+				<Baseline points="173,1123 197,1123 241,1123 286,1123 331,1123 376,1123 421,1123 466,1120 510,1120 555,1120 600,1120 645,1117 690,1117 734,1117 779,1120 824,1120 869,1117 914,1117 958,1117 1003,1117 1048,1114 1093,1114 1138,1117"/>
+				<TextEquiv>
+					<Unicode>Gotzhuß Ainſideln unſer lieben frowen Cronick</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

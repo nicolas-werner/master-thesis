@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:03.514+01:00</Created>
+        <LastChange>2025-03-21T17:29:00.535+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0033_7474459.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697650" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="677,1659 677,1815 817,1815 817,1659"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="668,1801 693,1792 726,1800 744,1784 814,1769 818,1685 777,1685 758,1700 740,1700 718,1714 705,1714 684,1733 671,1729"/>
+                <Baseline points="677,1765 705,1765 733,1765 761,1763 789,1761 817,1759"/>
+                <TextEquiv>
+                    <Unicode>und unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="939,481 939,1946 1998,1946 1998,481"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="934,526 1976,515 1976,435 1908,428 1506,474 1439,439 1184,473 934,432"/>
+                <Baseline points="942,510 993,510 1045,510 1097,510 1149,508 1201,507 1253,507 1305,504 1357,507 1409,507 1461,505 1512,504 1564,507 1616,507 1668,504 1720,505 1772,507 1824,507 1876,507 1928,507 1980,510"/>
+                <TextEquiv>
+                    <Unicode>Noch dem aber dis kint ergreiff das xxv. iorsyns al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="938,577 1980,569 1980,518 938,526"/>
+                <Baseline points="945,560 996,557 1048,557 1100,557 1152,555 1204,556 1256,557 1308,554 1360,557 1412,557 1464,557 1515,557 1567,557 1619,557 1671,556 1723,555 1775,557 1827,557 1879,557 1931,560 1983,560"/>
+                <TextEquiv>
+                    <Unicode>ters / wart es zu diacke vn̄ nit lang dar nach zu priester</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="941,628 1983,619 1983,572 941,578"/>
+                <Baseline points="948,614 999,608 1051,611 1103,608 1155,609 1207,609 1259,608 1311,608 1363,608 1415,608 1467,608 1518,608 1570,608 1622,608 1674,608 1726,608 1778,608 1830,610 1882,611 1934,611 1986,611"/>
+                <TextEquiv>
+                    <Unicode>gewihet durch zu thun syns meysters Erfebaldi. Nun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="943,664 1974,669 1974,618 943,631"/>
+                <Baseline points="951,662 1002,659 1053,659 1104,659 1156,659 1207,659 1258,659 1310,659 1361,659 1412,659 1464,659 1515,661 1566,660 1617,659 1669,662 1720,659 1771,659 1823,661 1874,662 1925,659 1977,656"/>
+                <TextEquiv>
+                    <Unicode>was zu den ziten vnder keiser Ludwig des genanten kei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="941,725 1974,717 1974,677 1920,664 941,665"/>
+                <Baseline points="948,715 999,712 1050,711 1102,710 1153,710 1205,709 1256,709 1308,709 1359,710 1411,711 1462,709 1513,709 1565,711 1616,709 1668,709 1719,709 1771,709 1822,709 1874,709 1925,709 1977,709"/>
+                <TextEquiv>
+                    <Unicode>ser karles sijn in der gemelten inseln / ein abt genant hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="934,767 1976,772 1976,714 934,733"/>
+                <Baseline points="942,763 993,763 1045,760 1097,760 1149,760 1201,760 1253,760 1305,760 1357,760 1409,760 1461,760 1512,762 1564,760 1616,760 1668,762 1720,760 1772,760 1824,762 1876,760 1928,760 1980,763"/>
+                <TextEquiv>
+                    <Unicode>to/ in lere vn̄ guten wercken, ouch adel syner tuget hoch¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="931,819 1988,822 1988,769 931,773"/>
+                <Baseline points="939,811 991,814 1044,812 1096,811 1149,811 1202,811 1254,811 1307,813 1360,814 1412,814 1465,811 1518,811 1570,813 1623,814 1676,814 1728,814 1781,811 1834,811 1886,811 1939,811 1992,808"/>
+                <TextEquiv>
+                    <Unicode>beriembt / der ouch zu Basel bischof gesyn was / Als der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="943,877 1976,866 1921,818 943,825"/>
+                <Baseline points="951,867 1002,862 1053,864 1105,862 1156,862 1208,862 1259,862 1311,862 1362,863 1414,865 1465,864 1516,862 1568,862 1619,862 1671,865 1722,862 1774,862 1825,862 1877,862 1928,862 1980,859"/>
+                <TextEquiv>
+                    <Unicode>selb die gescheffte des wurcklichen Lebens verachtende,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="943,931 1980,922 1956,866 943,877"/>
+                <Baseline points="951,918 1002,915 1054,915 1105,915 1157,915 1209,913 1260,912 1312,912 1363,912 1415,912 1467,913 1518,913 1570,912 1621,915 1673,912 1725,913 1776,914 1828,914 1879,913 1931,912 1983,915"/>
+                <TextEquiv>
+                    <Unicode>vnd zü der schonheit des beschowliches lebens sich begaben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="947,972 1983,978 1983,926 947,933"/>
+                <Baseline points="954,963 1005,966 1057,964 1108,966 1160,964 1212,963 1263,963 1315,963 1366,966 1418,966 1470,966 1521,966 1573,966 1624,966 1676,963 1728,966 1779,966 1831,966 1882,966 1934,963 1986,966"/>
+                <TextEquiv>
+                    <Unicode>wart der gemelt Erleßaldus mit verwilligung keyser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="941,1026 1980,1021 1980,980 1901,968 941,968"/>
+                <Baseline points="948,1020 999,1017 1051,1014 1103,1014 1155,1014 1206,1016 1258,1017 1310,1017 1362,1017 1413,1017 1465,1017 1517,1017 1569,1017 1620,1017 1672,1017 1724,1017 1776,1017 1827,1017 1879,1017 1931,1017 1983,1014"/>
+                <TextEquiv>
+                    <Unicode>Ludwigs von affen brüdern gemeyncklich zu abt der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="943,1088 1976,1072 1947,1018 943,1029"/>
+                <Baseline points="951,1073 1002,1067 1053,1067 1105,1066 1156,1064 1208,1064 1259,1067 1311,1064 1362,1067 1414,1067 1465,1067 1516,1067 1568,1067 1619,1067 1671,1067 1722,1067 1774,1067 1825,1069 1877,1066 1928,1064 1980,1067"/>
+                <TextEquiv>
+                    <Unicode>genanten inseln vnd brüdern erwelt, der ouch so bald</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="943,1126 1985,1123 1972,1070 943,1095"/>
+                <Baseline points="951,1118 1002,1118 1054,1115 1106,1115 1158,1115 1210,1115 1262,1118 1314,1118 1366,1117 1418,1120 1470,1118 1521,1118 1573,1118 1625,1118 1677,1118 1729,1118 1781,1120 1833,1119 1885,1118 1937,1115 1989,1118"/>
+                <TextEquiv>
+                    <Unicode>er solchen gewalt entpfing den obgenanten ersamen man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="947,1173 1987,1179 1975,1121 947,1123"/>
+                <Baseline points="954,1169 1005,1169 1057,1169 1109,1168 1161,1166 1212,1166 1264,1166 1316,1169 1368,1169 1419,1170 1471,1172 1523,1172 1575,1170 1626,1169 1678,1169 1730,1169 1782,1169 1833,1169 1885,1169 1937,1169 1989,1166"/>
+                <TextEquiv>
+                    <Unicode>Weynradum beredt geistlich zucht vnd orden an sich zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="947,1232 1976,1221 1976,1173 947,1188"/>
+                <Baseline points="954,1216 1005,1219 1056,1216 1107,1216 1159,1216 1210,1216 1261,1216 1313,1216 1364,1219 1415,1219 1467,1219 1518,1219 1569,1219 1620,1222 1672,1219 1723,1219 1774,1219 1826,1219 1877,1219 1928,1217 1980,1216"/>
+                <TextEquiv>
+                    <Unicode>nemen vn̄ vnder Ƅ regel vnd myncheschem wesen zu le¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="947,1273 1980,1278 1980,1223 947,1233"/>
+                <Baseline points="954,1264 1005,1267 1056,1269 1108,1267 1159,1267 1211,1265 1262,1267 1314,1267 1365,1270 1417,1270 1468,1270 1519,1270 1571,1270 1622,1273 1674,1270 1725,1270 1777,1271 1828,1271 1880,1270 1931,1267 1983,1267"/>
+                <TextEquiv>
+                    <Unicode>ben Solchem heylsamen rat volgt sant Weynrad wil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="947,1327 1987,1335 1987,1287 1892,1278 947,1277"/>
+                <Baseline points="954,1318 1005,1318 1057,1318 1109,1318 1161,1318 1212,1318 1264,1318 1316,1318 1368,1318 1419,1319 1471,1323 1523,1322 1575,1324 1626,1321 1678,1321 1730,1321 1782,1321 1833,1321 1885,1321 1937,1318 1989,1321"/>
+                <TextEquiv>
+                    <Unicode>licklich vnd gern vn̄ that gehorsame / vnd mit affer ney</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="955,1381 1982,1374 1982,1333 955,1337"/>
+                <Baseline points="963,1369 1014,1369 1065,1368 1116,1366 1167,1366 1218,1366 1269,1369 1320,1369 1371,1369 1422,1370 1473,1373 1524,1375 1575,1373 1626,1372 1677,1372 1728,1372 1779,1374 1830,1371 1881,1369 1932,1369 1983,1369"/>
+                <TextEquiv>
+                    <Unicode>gung fleiß er sich zu haltend syn verheyssung zu gehor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="959,1435 1983,1435 1982,1375 959,1389"/>
+                <Baseline points="966,1416 1017,1416 1068,1416 1119,1416 1170,1416 1221,1416 1272,1416 1323,1419 1374,1419 1425,1422 1476,1422 1527,1422 1578,1422 1629,1424 1680,1422 1731,1422 1782,1422 1833,1422 1884,1422 1935,1420 1986,1419"/>
+                <TextEquiv>
+                    <Unicode>samkeit allzit willig in vasten streng / in beten empsig /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="947,1478 1987,1474 1987,1433 947,1441"/>
+                <Baseline points="954,1470 1005,1467 1057,1467 1109,1467 1161,1467 1212,1467 1264,1467 1316,1467 1368,1470 1419,1471 1471,1473 1523,1473 1575,1473 1626,1473 1678,1473 1730,1473 1782,1473 1833,1473 1885,1471 1937,1470 1989,1467"/>
+                <TextEquiv>
+                    <Unicode>in wercken der barmhertzikeit gydig, vnd vor vß in de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="955,1534 1995,1526 1972,1476 955,1484"/>
+                <Baseline points="963,1521 1014,1518 1066,1518 1118,1518 1170,1518 1221,1520 1273,1521 1325,1521 1377,1521 1428,1522 1480,1524 1532,1524 1584,1524 1635,1524 1687,1526 1739,1524 1791,1524 1842,1524 1894,1522 1946,1521 1998,1521"/>
+                <TextEquiv>
+                    <Unicode>muͤt yederman vndertenig. Vnnd het er vormols wol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="953,1592 1995,1582 1995,1531 953,1534"/>
+                <Baseline points="960,1571 1011,1568 1063,1568 1115,1568 1167,1570 1219,1569 1271,1571 1323,1568 1375,1571 1427,1572 1479,1574 1530,1576 1582,1577 1634,1574 1686,1574 1738,1575 1790,1577 1842,1575 1894,1574 1946,1571 1998,1571"/>
+                <TextEquiv>
+                    <Unicode>gethon in schülerswile vnd priesterlichen stadt so thet er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="955,1619 1985,1638 1976,1577 955,1586"/>
+                <Baseline points="963,1619 1014,1619 1065,1619 1116,1619 1168,1619 1219,1619 1270,1619 1322,1619 1373,1622 1424,1623 1476,1625 1527,1625 1578,1625 1629,1628 1681,1625 1732,1625 1783,1625 1835,1625 1886,1625 1937,1625 1989,1622"/>
+                <TextEquiv>
+                    <Unicode>vil me guͤtheit in klosterlichem wesen / Also das er luch /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="954,1689 1993,1680 1992,1642 1905,1630 953,1634"/>
+                <Baseline points="960,1670 1011,1670 1063,1670 1115,1670 1167,1670 1218,1670 1270,1670 1322,1670 1374,1671 1425,1673 1477,1675 1529,1676 1581,1676 1632,1676 1684,1676 1736,1676 1788,1676 1839,1676 1891,1676 1943,1673 1995,1670"/>
+                <TextEquiv>
+                    <Unicode>tet für alle ander mynch recht als der morgen steren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="953,1729 1992,1734 1992,1680 953,1688"/>
+                <Baseline points="960,1721 1011,1721 1063,1721 1115,1721 1167,1721 1218,1721 1270,1721 1322,1721 1374,1722 1425,1725 1477,1727 1529,1727 1581,1727 1632,1727 1684,1727 1736,1727 1788,1727 1839,1727 1891,1727 1943,1724 1995,1721"/>
+                <TextEquiv>
+                    <Unicode>thuͤt für die andern sterne. Nun was do zemol an dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="959,1784 1992,1787 1992,1742 1889,1731 959,1740"/>
+                <Baseline points="966,1771 1017,1768 1068,1768 1120,1769 1171,1771 1223,1771 1274,1771 1326,1771 1377,1772 1429,1775 1480,1777 1531,1777 1583,1777 1634,1777 1686,1777 1737,1780 1789,1779 1840,1777 1892,1775 1943,1774 1995,1774"/>
+                <TextEquiv>
+                    <Unicode>zurrich See janen oß rapperswile ein Closter gelegen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="964,1827 1992,1834 1991,1781 963,1784"/>
+                <Baseline points="972,1819 1023,1819 1074,1819 1125,1819 1176,1819 1227,1819 1278,1822 1330,1825 1381,1825 1432,1826 1483,1828 1534,1830 1585,1831 1636,1831 1688,1831 1739,1831 1790,1830 1841,1828 1892,1826 1943,1825 1995,1825"/>
+                <TextEquiv>
+                    <Unicode>dar in warent zwölff münch/ das gehort gen richnaw, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="968,1883 1989,1884 1978,1831 968,1826"/>
+                <Baseline points="975,1873 1025,1870 1076,1871 1127,1872 1178,1870 1229,1872 1280,1873 1330,1876 1381,1876 1432,1877 1483,1879 1534,1880 1585,1882 1636,1882 1686,1882 1737,1882 1788,1881 1839,1879 1890,1878 1941,1876 1992,1876"/>
+                <TextEquiv>
+                    <Unicode>selben mönchbatet de vorgemelten irre abt in der richnaw /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="968,1956 1995,1947 1995,1884 968,1883"/>
+                <Baseline points="975,1926 1026,1923 1077,1923 1128,1924 1179,1926 1230,1926 1281,1926 1333,1926 1384,1929 1435,1930 1486,1932 1537,1932 1588,1932 1639,1935 1691,1935 1742,1935 1793,1935 1844,1934 1895,1930 1946,1929 1998,1932"/>
+                <TextEquiv>
+                    <Unicode>das er inen ein münch sante / der irre iungen schüler ferte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

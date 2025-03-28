@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:04.269+01:00</Created>
+        <LastChange>2025-03-21T17:29:01.356+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0040_7474467.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697865" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="945,500 945,2249 2001,2249 2001,500"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="938,539 1903,546 1972,538 1973,477 938,490"/>
+                <Baseline points="945,542 996,539 1047,536 1099,535 1150,533 1202,531 1253,530 1305,530 1356,530 1408,529 1459,527 1510,527 1562,525 1613,524 1665,524 1716,524 1768,525 1819,525 1871,524 1922,524 1974,524"/>
+                <TextEquiv>
+                    <Unicode>Vnd da ruweten sie vn̄ sodent vnd brietent sy die fische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="940,603 1973,584 1973,537 1833,526 942,546"/>
+                <Baseline points="948,590 999,590 1050,586 1102,584 1153,582 1205,581 1256,584 1308,581 1359,578 1411,578 1462,578 1513,578 1565,578 1616,578 1668,575 1719,575 1771,575 1822,575 1874,575 1925,572 1977,572"/>
+                <TextEquiv>
+                    <Unicode>die inen der wiistin über wurden Vnd nach de imbis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="944,646 1980,634 1980,595 1877,578 946,599"/>
+                <Baseline points="951,641 1002,641 1054,638 1105,637 1157,635 1209,635 1260,632 1312,632 1363,632 1415,629 1467,629 1518,629 1570,629 1621,626 1673,626 1725,626 1776,626 1828,626 1879,626 1931,626 1983,623"/>
+                <TextEquiv>
+                    <Unicode>do fuͤrent sy wider hein in 93 closter/ doch ee wenn sy von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="950,699 1986,681 1973,633 950,646"/>
+                <Baseline points="957,694 1008,689 1060,689 1111,688 1163,686 1215,686 1266,683 1318,686 1369,683 1421,683 1473,682 1524,680 1576,680 1627,677 1679,677 1731,677 1782,677 1834,677 1885,677 1937,674 1989,677"/>
+                <TextEquiv>
+                    <Unicode>Hannen furent/ als sant Weynrat vermerckt die genant wit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="939,753 1988,736 1959,677 940,709"/>
+                <Baseline points="948,742 1000,739 1052,736 1104,736 1156,735 1208,733 1260,735 1312,736 1364,733 1416,733 1468,732 1520,730 1572,730 1624,730 1676,727 1728,727 1780,727 1832,727 1884,727 1936,727 1989,724"/>
+                <TextEquiv>
+                    <Unicode>we voll gottes vorch vn zu dienen de gesten gͤtwillig thet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="938,819 1968,796 1968,729 939,763"/>
+                <Baseline points="945,796 996,792 1047,789 1098,787 1150,787 1201,785 1252,784 1304,784 1355,784 1406,784 1458,784 1509,782 1560,781 1611,781 1663,781 1714,779 1765,781 1817,781 1868,779 1919,778 1971,778"/>
+                <TextEquiv>
+                    <Unicode>er ir vff das heymlich anligend syns hertzen vn sprach also</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1263,1873 1278,1874 1304,1891 1308,1887 1317,1887 1323,1893 1360,1887 1366,1810 1356,1807 1340,1816 1321,1814 1304,1824 1283,1805 1270,1809"/>
+                <Baseline points="1273,1852 1304,1848 1335,1845 1366,1843"/>
+                <TextEquiv>
+                    <Unicode>Londres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1123,1885 1140,1886 1149,1896 1161,1890 1171,1902 1184,1906 1202,1898 1227,1904 1239,1829 1224,1826 1205,1834 1192,1817 1183,1821 1168,1817 1133,1820"/>
+                <Baseline points="1133,1876 1159,1874 1185,1869 1211,1865 1237,1861"/>
+                <TextEquiv>
+                    <Unicode>Et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="953,2032 1988,2041 1958,1975 953,1975"/>
+                <Baseline points="960,2028 1011,2025 1062,2026 1114,2028 1165,2028 1217,2030 1268,2031 1320,2031 1371,2029 1423,2030 1474,2029 1525,2031 1577,2029 1628,2028 1680,2028 1731,2028 1783,2028 1834,2028 1886,2028 1937,2028 1989,2031"/>
+                <TextEquiv>
+                    <Unicode>Liebe frow ich haß etwas mit euch zereden heimlich wol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="961,2084 1986,2092 1986,2038 1911,2032 961,2037"/>
+                <Baseline points="969,2076 1020,2076 1071,2077 1122,2077 1173,2078 1224,2078 1275,2078 1326,2078 1377,2078 1428,2081 1479,2081 1530,2079 1581,2078 1632,2078 1683,2081 1734,2081 1785,2078 1836,2078 1887,2080 1938,2081 1989,2081"/>
+                <TextEquiv>
+                    <Unicode>ten ir hören myn anligen doch ee ich daß sag bitt ich das in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="965,2144 1989,2147 1988,2092 1869,2084 964,2083"/>
+                <Baseline points="972,2126 1023,2126 1074,2126 1125,2127 1176,2129 1227,2129 1278,2132 1329,2129 1380,2129 1431,2130 1482,2132 1533,2132 1584,2130 1635,2131 1686,2129 1737,2129 1788,2129 1839,2130 1890,2130 1941,2131 1992,2135"/>
+                <TextEquiv>
+                    <Unicode>mijn wort vn willen Helen, so lang bis ich merck ob ich es mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="968,2186 1989,2197 1955,2136 968,2143"/>
+                <Baseline points="975,2177 1025,2177 1076,2178 1127,2180 1178,2180 1229,2180 1280,2180 1330,2180 1381,2180 1432,2181 1483,2182 1534,2180 1585,2180 1636,2182 1686,2186 1737,2183 1788,2181 1839,2183 1890,2183 1941,2181 1992,2183"/>
+                <TextEquiv>
+                    <Unicode>wercken volbringen mag. Si antwurt dz tün ich gern. do</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="959,2248 1999,2262 1967,2187 959,2186"/>
+                <Baseline points="966,2237 1017,2234 1069,2234 1121,2234 1173,2234 1224,2236 1276,2237 1328,2237 1380,2235 1431,2236 1483,2234 1535,2234 1587,2234 1638,2234 1690,2237 1742,2236 1794,2236 1845,2235 1897,2234 1949,2234 2001,2237"/>
+                <TextEquiv>
+                    <Unicode>sprach sät Heynrat Reine frow oß ein armer priester</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

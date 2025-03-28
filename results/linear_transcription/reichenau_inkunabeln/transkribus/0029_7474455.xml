@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:28</Creator>
+        <Created>2025-03-21T12:31:03.072+01:00</Created>
+        <LastChange>2025-03-21T17:28:59.981+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0029_7474455.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697526" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="939,409 939,2095 2013,2095 2013,409"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="997,475 1900,451 1963,440 1966,392 1000,387"/>
+                <Baseline points="1005,462 1053,459 1101,459 1149,455 1197,448 1245,444 1293,444 1342,441 1390,441 1438,441 1486,438 1534,438 1582,437 1630,435 1679,433 1727,432 1775,432 1823,432 1871,432 1919,432 1968,435"/>
+                <TextEquiv>
+                    <Unicode>Je fahet an ein hübschlesen von de ließen heili</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1105,514 1968,492 1968,443 1840,436 1106,452"/>
+                <Baseline points="1112,507 1157,502 1202,499 1247,496 1292,495 1338,492 1383,492 1428,492 1473,492 1518,489 1564,489 1609,486 1654,486 1699,486 1744,486 1790,483 1835,483 1880,483 1925,483 1971,483"/>
+                <TextEquiv>
+                    <Unicode>gen Herren sant Heynrat / der eins edlen gra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1070,553 1968,554 1970,491 1195,522 1071,484"/>
+                <Baseline points="1077,551 1121,551 1166,551 1211,548 1255,545 1300,545 1345,545 1389,545 1434,542 1479,542 1524,539 1568,539 1613,539 1658,539 1702,539 1747,536 1792,533 1836,536 1881,533 1926,533 1971,533"/>
+                <TextEquiv>
+                    <Unicode>Auen son was / mit namen Graff Berchtold von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="930,603 941,610 953,605 971,623 987,624 1000,618 1014,620 1026,549 1011,540 978,552 961,537 956,539 951,531 943,530"/>
+                <Baseline points="939,593 967,593 995,588 1024,579"/>
+                <TextEquiv>
+                    <Unicode>des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1057,593 1239,619 1975,598 1975,550 1878,537 1336,569 1057,543"/>
+                <Baseline points="1064,578 1109,587 1155,596 1200,599 1246,599 1292,596 1337,596 1383,593 1429,593 1474,593 1520,593 1566,592 1611,590 1657,590 1703,590 1748,589 1794,587 1840,587 1885,586 1931,585 1977,587"/>
+                <TextEquiv>
+                    <Unicode>Sulgon/ vn̄ wie der iung graff sant (Heyn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="949,679 1974,648 1975,597 951,625"/>
+                <Baseline points="957,668 1008,661 1059,658 1110,654 1161,653 1212,653 1263,650 1314,649 1365,647 1416,646 1467,644 1518,644 1569,641 1620,641 1671,641 1722,638 1773,637 1824,637 1875,636 1926,635 1977,635"/>
+                <TextEquiv>
+                    <Unicode>rat gehoren/ vnd bis in das fünffte iar von synen vatter er/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="940,733 1977,695 1977,654 943,677"/>
+                <Baseline points="948,718 999,712 1051,711 1102,708 1154,704 1206,703 1257,700 1309,700 1360,697 1412,696 1464,694 1515,693 1567,694 1618,692 1670,692 1722,689 1773,689 1825,689 1876,689 1928,686 1980,689"/>
+                <TextEquiv>
+                    <Unicode>zogen ward. Dornach wie er ein geistlichs lebe sich ver</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="949,767 1980,746 1981,692 951,736"/>
+                <Baseline points="957,766 1008,762 1059,760 1110,759 1162,755 1213,752 1264,751 1316,751 1367,750 1418,748 1470,746 1521,745 1572,745 1623,742 1675,742 1726,739 1777,739 1829,739 1880,737 1931,736 1983,736"/>
+                <TextEquiv>
+                    <Unicode>williget / vnd wie im syn vatter dar zu hilffig was / vn̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="947,833 1985,803 1987,745 948,774"/>
+                <Baseline points="954,820 1005,814 1057,813 1109,810 1161,807 1212,805 1264,803 1316,802 1368,802 1419,799 1471,798 1523,796 1575,796 1626,796 1678,793 1730,790 1782,790 1833,788 1885,787 1937,787 1989,790"/>
+                <TextEquiv>
+                    <Unicode>furt in jn die Richnaw / do selbst was der abt des egena</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="947,873 1984,853 1948,793 948,831"/>
+                <Baseline points="954,867 1005,865 1057,862 1109,862 1161,861 1212,857 1264,856 1316,853 1368,853 1419,850 1471,850 1523,850 1575,848 1626,850 1678,844 1730,844 1782,843 1833,841 1885,839 1937,838 1989,838"/>
+                <TextEquiv>
+                    <Unicode>ten graff Berchtols öhem / dem befalcher synen sun sant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="953,935 1971,903 1981,855 954,881"/>
+                <Baseline points="960,921 1011,917 1062,914 1113,910 1164,909 1215,906 1266,906 1318,903 1369,905 1420,903 1471,903 1522,901 1573,900 1624,900 1676,897 1727,896 1778,893 1829,891 1880,891 1931,888 1983,888"/>
+                <TextEquiv>
+                    <Unicode>Weynrat / das er in solte lernen geistlich zucht vnd tugent /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="953,982 1957,960 1990,905 954,934"/>
+                <Baseline points="960,969 1011,969 1063,966 1114,965 1166,961 1218,960 1269,957 1321,957 1372,957 1424,954 1476,954 1527,952 1579,951 1630,951 1682,945 1734,945 1785,945 1837,943 1888,940 1940,939 1992,939"/>
+                <TextEquiv>
+                    <Unicode>als auch geschach/ wan der iung herre wuchs vff vn legt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="956,1042 1834,1019 1985,995 1987,961 957,987"/>
+                <Baseline points="963,1020 1014,1017 1065,1017 1116,1016 1168,1012 1219,1009 1270,1011 1322,1011 1373,1007 1424,1005 1476,1005 1527,1003 1578,1002 1629,1002 1681,999 1732,995 1783,993 1835,993 1886,991 1937,990 1989,987"/>
+                <TextEquiv>
+                    <Unicode>wol zu / an libe / an kunsten / vnd an tugenden / vntz das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="952,1081 1990,1057 1993,1000 953,1042"/>
+                <Baseline points="960,1070 1011,1070 1063,1067 1115,1066 1167,1063 1218,1061 1270,1061 1322,1061 1374,1058 1425,1057 1477,1055 1529,1053 1581,1052 1632,1052 1684,1049 1736,1045 1788,1043 1839,1043 1891,1041 1943,1040 1995,1040"/>
+                <TextEquiv>
+                    <Unicode>er priester ward. Sarnach wie er sich hielt in priesterli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="962,1129 1983,1106 1999,1054 963,1080"/>
+                <Baseline points="969,1124 1020,1118 1072,1120 1123,1117 1175,1115 1227,1113 1278,1112 1330,1112 1381,1109 1433,1108 1485,1106 1536,1104 1588,1103 1639,1100 1691,1100 1743,1096 1794,1094 1846,1094 1897,1092 1949,1091 2001,1091"/>
+                <TextEquiv>
+                    <Unicode>chem stat vntz an syn ende das würstu her nach hören in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="958,1190 1992,1151 1955,1093 961,1128"/>
+                <Baseline points="966,1178 1017,1172 1068,1168 1120,1166 1171,1166 1223,1164 1274,1160 1326,1163 1377,1160 1429,1159 1480,1157 1531,1155 1583,1154 1634,1154 1686,1151 1737,1147 1789,1145 1840,1143 1892,1142 1943,1139 1995,1142"/>
+                <TextEquiv>
+                    <Unicode>syner legend vn ist das der anefang wie vnser lieben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="961,1241 1992,1207 1971,1146 963,1186"/>
+                <Baseline points="969,1228 1020,1221 1071,1219 1122,1218 1174,1216 1225,1214 1276,1213 1328,1213 1379,1211 1430,1211 1482,1209 1533,1208 1584,1206 1635,1205 1687,1202 1738,1198 1789,1196 1841,1196 1892,1194 1943,1193 1995,1190"/>
+                <TextEquiv>
+                    <Unicode>frowen cappel zu den einsidlen vnd sant Meynrat selbst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="962,1291 1895,1265 1987,1250 1988,1211 963,1246"/>
+                <Baseline points="969,1282 1020,1272 1071,1269 1122,1267 1173,1267 1224,1264 1275,1261 1326,1261 1377,1261 1428,1261 1479,1259 1530,1258 1581,1255 1632,1255 1683,1252 1734,1248 1785,1246 1836,1244 1887,1245 1938,1243 1989,1240"/>
+                <TextEquiv>
+                    <Unicode>gebuwen wart / mit synen heiligen henden vnd hieß zu de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="957,1333 1922,1316 1997,1299 1999,1247 958,1290"/>
+                <Baseline points="966,1324 1017,1321 1069,1317 1121,1316 1173,1317 1224,1313 1276,1312 1328,1312 1380,1312 1431,1309 1483,1309 1535,1309 1587,1309 1638,1306 1690,1303 1742,1300 1794,1299 1845,1297 1897,1295 1949,1291 2001,1291"/>
+                <TextEquiv>
+                    <Unicode>nen ziten in dem vinstern walnd / wan niemant da gesessen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="957,1375 1708,1375 1993,1356 1994,1316 958,1333"/>
+                <Baseline points="966,1375 1017,1372 1069,1369 1120,1368 1172,1366 1224,1364 1275,1363 1327,1363 1378,1363 1430,1362 1482,1361 1533,1361 1585,1358 1636,1357 1688,1354 1740,1351 1791,1350 1843,1346 1894,1345 1946,1342 1998,1342"/>
+                <TextEquiv>
+                    <Unicode>noch wonend was. Vnd ouch hernach so vint man von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="963,1435 1993,1413 1996,1357 966,1378"/>
+                <Baseline points="972,1428 1023,1422 1074,1421 1125,1419 1177,1417 1228,1416 1279,1413 1331,1413 1382,1413 1433,1412 1485,1410 1536,1408 1587,1407 1638,1407 1690,1404 1741,1403 1792,1400 1844,1396 1895,1395 1946,1392 1998,1392"/>
+                <TextEquiv>
+                    <Unicode>stuck zu stuck gemalt des liebe Herren sant Meynratz le-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="967,1489 2001,1461 2002,1412 969,1437"/>
+                <Baseline points="975,1473 1026,1470 1077,1470 1129,1469 1180,1467 1232,1465 1283,1464 1335,1464 1386,1463 1438,1461 1489,1461 1540,1461 1592,1459 1643,1458 1695,1455 1746,1452 1798,1451 1849,1449 1901,1447 1952,1443 2004,1443"/>
+                <TextEquiv>
+                    <Unicode>ben / vnd wie er ermörder ward von den zwein mordern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="965,1540 1910,1518 2001,1507 2002,1462 966,1489"/>
+                <Baseline points="972,1530 1023,1521 1075,1520 1126,1518 1178,1518 1230,1518 1281,1515 1333,1515 1384,1515 1436,1514 1488,1512 1539,1512 1591,1512 1642,1509 1694,1509 1746,1505 1797,1502 1849,1498 1900,1497 1952,1494 2004,1491"/>
+                <TextEquiv>
+                    <Unicode>geboren vß einer stat geheissen Nörlingen, der ein hieo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="976,1597 2002,1560 2003,1511 978,1541"/>
+                <Baseline points="984,1583 1035,1571 1086,1571 1137,1571 1188,1569 1239,1565 1290,1565 1342,1565 1393,1565 1444,1564 1495,1562 1546,1562 1597,1559 1648,1559 1700,1559 1751,1556 1802,1553 1853,1549 1904,1548 1955,1545 2007,1542"/>
+                <TextEquiv>
+                    <Unicode>Peter / vnd der ander Richart / vn̄ ouch wie die morder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="965,1643 1814,1629 2001,1607 2002,1562 966,1593"/>
+                <Baseline points="972,1628 1023,1625 1075,1624 1126,1622 1178,1620 1230,1619 1281,1619 1333,1616 1384,1616 1436,1613 1488,1613 1539,1613 1591,1611 1642,1610 1694,1607 1746,1604 1797,1603 1849,1601 1900,1599 1952,1595 2004,1592"/>
+                <TextEquiv>
+                    <Unicode>zuͤzürch geuangen worden, vnd vff reder gesetzt, vnnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="966,1690 1952,1665 1999,1658 2002,1606 967,1649"/>
+                <Baseline points="975,1679 1026,1673 1077,1673 1129,1673 1180,1671 1232,1670 1283,1670 1335,1670 1386,1669 1438,1667 1489,1667 1540,1665 1592,1664 1643,1661 1695,1661 1746,1657 1798,1655 1849,1653 1901,1650 1952,1646 2004,1646"/>
+                <TextEquiv>
+                    <Unicode>wie die rappe sant Heynratz alzyt vff die mörder sta¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="974,1740 1984,1715 2002,1658 975,1685"/>
+                <Baseline points="981,1730 1032,1726 1083,1724 1134,1722 1185,1721 1236,1721 1287,1721 1339,1721 1390,1717 1441,1715 1492,1715 1543,1715 1594,1712 1645,1715 1697,1712 1748,1709 1799,1708 1850,1706 1901,1702 1952,1697 2004,1694"/>
+                <TextEquiv>
+                    <Unicode>chent/ vnd nye von ynen kamen biß das sye vff den re-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="971,1794 2001,1756 1971,1704 973,1740"/>
+                <Baseline points="978,1780 1029,1777 1080,1776 1131,1774 1183,1772 1234,1771 1285,1771 1337,1771 1388,1768 1439,1767 1491,1765 1542,1767 1593,1766 1644,1762 1696,1762 1747,1758 1798,1757 1850,1756 1901,1753 1952,1748 2004,1747"/>
+                <TextEquiv>
+                    <Unicode>dern todt waren / so slugent sy wider in den vinsteren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="976,1832 2007,1810 2007,1755 978,1795"/>
+                <Baseline points="984,1828 1035,1827 1086,1825 1137,1825 1189,1823 1240,1822 1291,1822 1343,1819 1394,1819 1445,1818 1497,1816 1548,1816 1599,1816 1650,1816 1702,1813 1753,1810 1804,1809 1856,1805 1907,1802 1958,1798 2010,1798"/>
+                <TextEquiv>
+                    <Unicode>wald / Vnd ouch wie die selbe cappelt sechzig ior wust</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="971,1891 2010,1854 2011,1810 973,1836"/>
+                <Baseline points="978,1879 1029,1879 1081,1879 1133,1878 1185,1876 1236,1874 1288,1873 1340,1873 1392,1873 1443,1872 1495,1869 1547,1867 1599,1867 1650,1867 1702,1864 1754,1863 1806,1858 1857,1858 1909,1854 1961,1849 2013,1846"/>
+                <TextEquiv>
+                    <Unicode>lag nach sät Meynratz todt, vn̄ wie sy da wider gebuwen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="970,1945 1873,1930 2006,1909 2009,1856 973,1891"/>
+                <Baseline points="978,1929 1029,1929 1081,1929 1132,1928 1184,1924 1236,1923 1287,1923 1339,1923 1390,1923 1442,1923 1494,1920 1545,1917 1597,1917 1648,1914 1700,1914 1752,1911 1803,1911 1855,1909 1906,1905 1958,1900 2010,1894"/>
+                <TextEquiv>
+                    <Unicode>ward / Vn̄ darnach wie sy gotselbs wyhet mit synen hei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="976,2009 1994,1970 2005,1910 978,1935"/>
+                <Baseline points="984,1983 1035,1979 1086,1977 1137,1977 1188,1975 1239,1974 1290,1974 1342,1974 1393,1973 1444,1971 1495,1969 1546,1966 1597,1968 1648,1968 1700,1965 1751,1964 1802,1961 1853,1959 1904,1955 1955,1950 2007,1953"/>
+                <TextEquiv>
+                    <Unicode>ligen henden / vnd mit synen lieben engeln in der ere sy=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="971,2041 2010,2010 2011,1970 973,2011"/>
+                <Baseline points="978,2034 1029,2031 1081,2030 1133,2028 1185,2027 1236,2025 1288,2025 1340,2025 1392,2025 1443,2022 1495,2021 1547,2019 1599,2019 1650,2022 1702,2016 1754,2015 1806,2012 1857,2010 1909,2006 1961,2001 2013,1998"/>
+                <TextEquiv>
+                    <Unicode>ner liebenmüter marien, Vnd wie Leo der bapst vn̄ dat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="975,2113 2002,2084 1987,2009 978,2041"/>
+                <Baseline points="984,2084 1035,2084 1086,2084 1137,2084 1188,2082 1239,2081 1290,2081 1342,2081 1393,2078 1444,2077 1495,2076 1546,2074 1597,2073 1648,2073 1700,2073 1751,2069 1802,2067 1853,2064 1904,2059 1955,2053 2007,2052"/>
+                <TextEquiv>
+                    <Unicode>nach Dius der ander die wyhe bestatige hat / als er her /</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

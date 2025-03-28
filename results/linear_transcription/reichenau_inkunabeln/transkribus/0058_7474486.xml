@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:06.180+01:00</Created>
+        <LastChange>2025-03-21T17:29:03.545+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0058_7474486.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698374" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="167,417 167,2168 1234,2168 1234,417"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="173,461 1196,462 1229,458 1228,393 171,404"/>
+                <Baseline points="178,444 230,444 283,444 335,442 388,441 441,441 493,441 546,441 599,441 651,443 704,444 757,444 809,444 862,447 915,447 967,447 1020,447 1073,447 1125,447 1178,448 1231,453"/>
+                <TextEquiv>
+                    <Unicode>Aber die kertz die zu Housten des heiligen von himel ent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="179,506 1232,518 1232,452 179,458"/>
+                <Baseline points="187,498 239,495 291,495 344,495 396,495 448,495 501,495 553,495 605,496 658,498 710,496 762,495 815,498 867,498 919,499 972,501 1024,501 1076,501 1129,501 1181,502 1234,510"/>
+                <TextEquiv>
+                    <Unicode>zündet was brandt biß vff die matzen die vff den heiligen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="174,549 1220,573 1206,507 174,503"/>
+                <Baseline points="181,548 233,548 285,548 337,547 389,547 441,546 493,548 545,548 597,546 649,547 701,547 753,548 805,551 857,551 909,551 961,551 1013,551 1065,551 1117,554 1169,554 1222,557"/>
+                <TextEquiv>
+                    <Unicode>ſib zu Hecken geleit was die selb ouch zum teil vbran also</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="177,609 1213,644 1229,574 175,564"/>
+                <Baseline points="184,605 236,602 289,602 341,602 394,600 446,602 499,602 551,599 604,600 656,600 709,601 761,602 814,602 866,603 919,605 971,605 1024,605 1076,608 1129,608 1181,609 1234,614"/>
+                <TextEquiv>
+                    <Unicode>das das für biß zu dem heiligen lib tam/ So bald es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="166,1881 1219,1901 1219,1837 166,1825"/>
+                <Baseline points="173,1879 225,1883 277,1885 330,1887 382,1888 435,1888 487,1888 540,1891 592,1891 645,1891 697,1891 749,1891 802,1891 854,1891 907,1891 959,1889 1012,1888 1064,1888 1117,1891 1169,1891 1222,1894"/>
+                <TextEquiv>
+                    <Unicode>Den Berurt/ als es dann von got entzindet was/ alz ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="166,1949 1221,1954 1198,1895 551,1913 166,1880"/>
+                <Baseline points="173,1935 225,1936 278,1938 330,1938 383,1940 436,1944 488,1944 541,1944 593,1944 646,1944 699,1944 751,1944 804,1944 856,1943 909,1942 962,1944 1014,1944 1067,1941 1119,1944 1172,1944 1225,1947"/>
+                <TextEquiv>
+                    <Unicode>lescht es ouch vß gottes geschickt C'Von stunden an kan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="171,1997 1212,2012 1186,1951 171,1947"/>
+                <Baseline points="178,1986 229,1986 281,1989 333,1990 385,1994 437,1997 489,1995 541,1995 593,1995 645,1995 697,1995 748,1995 800,1995 852,1995 904,1995 956,1995 1008,1995 1060,1995 1112,1995 1164,1995 1216,1998"/>
+                <TextEquiv>
+                    <Unicode>vß das gerieff synes todes / do den vernam der wirdig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="167,2043 1221,2054 1221,2009 1166,1999 167,1999"/>
+                <Baseline points="175,2040 227,2037 280,2041 332,2043 385,2045 437,2049 490,2049 542,2049 595,2049 647,2049 700,2049 752,2049 805,2049 857,2049 910,2049 962,2047 1015,2046 1067,2046 1120,2046 1172,2049 1225,2046"/>
+                <TextEquiv>
+                    <Unicode>abt waltherus vn̄ die bruͤder die vnder im waren reychten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="174,2107 1213,2124 1187,2054 174,2047"/>
+                <Baseline points="181,2096 232,2091 284,2093 336,2095 388,2098 439,2099 491,2099 543,2099 595,2099 646,2099 698,2099 750,2099 802,2099 853,2099 905,2099 957,2099 1009,2099 1060,2101 1112,2102 1164,2102 1216,2102"/>
+                <TextEquiv>
+                    <Unicode>sie vß der wuͤsten y den liß des heiligen maͤnes vn̄ trnͤ /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="159,2167 1208,2169 1208,2120 1094,2104 159,2121"/>
+                <Baseline points="167,2150 219,2147 271,2148 323,2151 375,2153 428,2156 480,2156 532,2156 584,2156 636,2156 689,2156 741,2156 793,2156 845,2156 897,2155 950,2153 1002,2155 1054,2156 1106,2156 1158,2153 1211,2153"/>
+                <TextEquiv>
+                    <Unicode>gen den in das closter die Eluwe, do er mitt wirdigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

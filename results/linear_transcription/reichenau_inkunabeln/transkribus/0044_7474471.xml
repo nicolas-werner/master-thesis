@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:04.690+01:00</Created>
+        <LastChange>2025-03-21T17:29:01.838+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0044_7474471.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698015" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="954,549 954,2260 2013,2260 2013,549"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="947,605 1965,587 1984,528 948,535"/>
+                <Baseline points="954,584 1005,584 1057,584 1108,584 1160,584 1212,584 1263,584 1315,581 1366,581 1418,578 1470,577 1521,575 1573,575 1624,575 1676,575 1728,575 1779,575 1831,575 1882,573 1934,575 1986,575"/>
+                <TextEquiv>
+                    <Unicode>Got danckuch affes des güten so ir an mich geleit hant /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="953,646 1992,631 1992,576 953,602"/>
+                <Baseline points="960,638 1011,635 1063,635 1115,634 1167,633 1218,633 1270,632 1322,632 1374,629 1425,629 1477,629 1529,629 1581,627 1632,626 1684,626 1736,625 1788,624 1839,624 1891,623 1943,626 1995,626"/>
+                <TextEquiv>
+                    <Unicode>vnď gebuch got darumb de ewigelon/ ich will nit mee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="956,698 1992,688 1993,631 957,653"/>
+                <Baseline points="963,692 1014,686 1066,685 1117,683 1169,683 1221,683 1272,683 1324,683 1375,680 1427,680 1479,680 1530,680 1582,678 1633,680 1685,680 1737,677 1788,677 1840,677 1891,677 1943,674 1995,677"/>
+                <TextEquiv>
+                    <Unicode>hie blibende wan̄ myner wollust ist hie zu vil-sunder will fii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="956,739 1992,739 1992,688 956,706"/>
+                <Baseline points="963,736 1014,736 1066,735 1117,733 1169,733 1221,733 1272,733 1324,733 1375,730 1427,729 1479,727 1530,727 1582,729 1633,727 1685,730 1737,727 1788,727 1840,727 1891,727 1943,724 1995,724"/>
+                <TextEquiv>
+                    <Unicode>rer in den wald ein ander wonung suͤchen do ich den luten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="956,789 1984,785 1984,747 1904,730 956,739"/>
+                <Baseline points="963,787 1014,786 1065,784 1116,784 1167,784 1218,784 1269,784 1321,784 1372,781 1423,781 1474,779 1525,778 1576,778 1627,781 1679,781 1730,778 1781,779 1832,779 1883,778 1934,775 1986,775"/>
+                <TextEquiv>
+                    <Unicode>vnerkant beliße doch wurd ich ich erkant wo ich sy, als wol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="958,844 1994,840 1994,783 958,790"/>
+                <Baseline points="966,838 1017,838 1069,835 1120,835 1172,835 1224,835 1275,835 1327,832 1378,832 1430,832 1482,832 1533,830 1585,829 1636,832 1688,829 1740,829 1791,829 1843,829 1894,829 1946,826 1998,832"/>
+                <TextEquiv>
+                    <Unicode>ich myne wonuͤg in ꝺe wald hab, so sendet ir mir durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="958,904 1976,890 2001,839 960,848"/>
+                <Baseline points="966,891 1017,888 1069,885 1121,885 1173,885 1224,885 1276,883 1328,882 1380,882 1431,882 1483,882 1535,882 1587,882 1638,879 1690,882 1742,879 1794,879 1845,879 1897,879 1949,876 2001,879"/>
+                <TextEquiv>
+                    <Unicode>gotes willc uwer almuͤsen, so üch gotvmane. Hiemit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="965,954 1269,935 1370,973 1874,932 1999,962 2001,884 966,905"/>
+                <Baseline points="972,945 1023,939 1075,939 1126,938 1178,934 1230,933 1281,933 1333,933 1384,933 1436,933 1488,933 1539,933 1591,935 1642,933 1694,930 1746,933 1797,932 1849,930 1900,930 1952,933 2004,933"/>
+                <TextEquiv>
+                    <Unicode>schied er von d frowen vn vnnd syner zelle vn̄ ging vn sſch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1259,1098 1348,1094 1353,1022 1339,1026 1331,1023 1313,1033 1301,1031 1294,1024 1263,1032"/>
+                <Baseline points="1267,1088 1295,1086 1324,1084 1353,1083"/>
+                <TextEquiv>
+                    <Unicode>Vorm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="970,2189 1971,2179 1971,2146 1873,2133 971,2139"/>
+                <Baseline points="978,2186 1027,2184 1077,2186 1127,2186 1177,2186 1227,2185 1276,2184 1326,2186 1376,2186 1426,2186 1476,2183 1525,2183 1575,2180 1625,2180 1675,2179 1725,2177 1774,2177 1824,2175 1874,2174 1924,2174 1974,2171"/>
+                <TextEquiv>
+                    <Unicode>te den finstren wald darinn er vormalsgewesen was.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="992,2262 2010,2246 2011,2152 1809,2204 993,2196"/>
+                <Baseline points="999,2246 1049,2240 1100,2240 1151,2240 1201,2240 1252,2240 1303,2240 1353,2239 1404,2237 1455,2237 1506,2237 1556,2237 1607,2234 1658,2234 1708,2234 1759,2233 1810,2230 1860,2226 1911,2225 1962,2220 2013,2216"/>
+                <TextEquiv>
+                    <Unicode>Vn do er hoch vff den etzel Lam / vn syn brueder O mit im</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

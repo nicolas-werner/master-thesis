@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=39995:lm=none:date=07_06_2023_12:54</Creator>
+		<Created>2023-06-07T09:11:04.886+02:00</Created>
+		<LastChange>2023-12-20T15:44:10.672+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075036" pageNr="59" tsid="154460126" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=KXXEQBUWYHJBUNIZEJJHKHCO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EYDYRIEOQXLIPDUJQFRYDOMF" imageId="45286751"/>
+	</Metadata>
+	<Page imageFilename="7474437.jpg" imageWidth="2102" imageHeight="2796">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356478019" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686133035689_6567"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686133035689_6567" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="872,581 1964,581 1964,2259 872,2259"/>
+			<TextLine id="region_1686133035689_6567_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="945,671 1461,663 1736,704 1849,667 1828,615 944,611"/>
+				<Baseline points="952,651 997,651 1042,654 1087,654 1132,657 1176,657 1221,657 1266,657 1311,657 1356,657 1400,660 1445,660 1490,660 1535,660 1580,663 1625,666 1669,666 1714,669 1759,666 1804,666 1849,666 1852,666"/>
+				<TextEquiv>
+					<Unicode>was vor großkeller/ ward erwelt zuͦ pfeffikon.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="942,765 1905,785 1915,725 941,703"/>
+				<Baseline points="949,755 994,752 1039,752 1084,752 1129,752 1173,755 1218,755 1263,755 1308,758 1353,758 1398,758 1442,758 1487,761 1532,761 1577,761 1622,764 1666,764 1711,767 1756,764 1801,764 1846,767 1890,767 1917,770"/>
+				<TextEquiv>
+					<Unicode>Cuͦnrad apt/ der drey vnd zwaintzigiſt/ ain Frey</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="939,831 1727,843 1784,839 1783,786 1121,785 937,755"/>
+				<Baseline points="946,809 991,803 1036,803 1081,806 1126,806 1170,809 1215,809 1260,809 1305,809 1350,809 1395,809 1439,812 1484,812 1529,812 1574,812 1619,812 1663,815 1708,815 1753,815 1786,815"/>
+				<TextEquiv>
+					<Unicode>herr von Goͤßkon/ des namens der ander.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="934,911 1906,937 1918,870 932,861"/>
+				<Baseline points="940,908 985,905 1030,902 1075,905 1120,908 1165,908 1209,908 1254,908 1299,911 1344,911 1389,911 1433,911 1478,911 1523,911 1568,914 1613,914 1657,917 1702,917 1747,917 1792,914 1837,914 1881,914 1923,917"/>
+				<TextEquiv>
+					<Unicode>Hainrich apt/ der vier vnd zwaintzigiſt an der zal</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="939,965 1920,982 1893,925 939,910"/>
+				<Baseline points="946,955 991,952 1036,952 1081,955 1126,955 1170,958 1215,958 1260,958 1305,958 1350,958 1395,961 1439,961 1484,964 1529,964 1574,961 1619,964 1663,964 1708,964 1753,967 1798,964 1843,964 1887,964 1923,967"/>
+				<TextEquiv>
+					<Unicode>des namens der dryt/ ain Freyherr von Brandis</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="937,1013 1890,1037 1916,982 936,967"/>
+				<Baseline points="943,1003 988,1003 1033,1003 1078,1006 1123,1006 1167,1006 1212,1009 1257,1009 1302,1009 1347,1009 1392,1009 1436,1009 1481,1012 1526,1012 1571,1015 1616,1015 1660,1015 1705,1015 1750,1015 1795,1015 1840,1015 1884,1015 1920,1024"/>
+				<TextEquiv>
+					<Unicode>ward Biſchof zuͦ Coſtentz. vnd vidimiert dem gotz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="934,1065 1869,1091 1918,1074 1918,1035 932,1014"/>
+				<Baseline points="940,1054 985,1054 1030,1051 1075,1054 1120,1054 1165,1057 1209,1057 1254,1057 1299,1060 1344,1060 1389,1060 1433,1060 1478,1060 1523,1060 1568,1063 1613,1063 1657,1063 1702,1063 1747,1063 1792,1063 1837,1063 1881,1063 1920,1066"/>
+				<TextEquiv>
+					<Unicode>haus/ die bull pabſt leonis des achten/ die da lawt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="939,1120 1772,1145 1920,1138 1918,1075 937,1065"/>
+				<Baseline points="946,1105 991,1102 1036,1102 1081,1105 1126,1105 1170,1105 1215,1108 1260,1108 1305,1108 1350,1111 1395,1111 1439,1114 1484,1114 1529,1114 1574,1114 1619,1117 1663,1117 1708,1117 1753,1117 1798,1117 1843,1117 1887,1117 1923,1120"/>
+				<TextEquiv>
+					<Unicode>fu̇r pein vnd schulde/ des ſchweſter was aͤptiſſin zuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="939,1176 1009,1157 1111,1184 1149,1166 1208,1197 1338,1168 1337,1118 1281,1132 1257,1114 1207,1133 1040,1111 1018,1126 986,1111 937,1120"/>
+				<Baseline points="946,1159 991,1153 1036,1153 1081,1156 1126,1156 1170,1159 1215,1159 1260,1159 1305,1159 1341,1159"/>
+				<TextEquiv>
+					<Unicode>Seckingen gefürſt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="928,1259 1921,1275 1901,1216 928,1208"/>
+				<Baseline points="934,1251 979,1251 1024,1254 1069,1254 1114,1254 1159,1257 1203,1257 1248,1257 1293,1257 1338,1260 1383,1260 1427,1263 1472,1263 1517,1263 1562,1263 1607,1263 1651,1266 1696,1266 1741,1266 1786,1266 1831,1266 1875,1263 1920,1266 1923,1266"/>
+				<TextEquiv>
+					<Unicode>Marquart apt/ der fünff vnd zwaintzigſt/ ain frei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="930,1322 1813,1318 1918,1347 1896,1273 929,1264"/>
+				<Baseline points="937,1302 982,1302 1027,1302 1072,1302 1117,1305 1162,1308 1206,1305 1251,1305 1296,1308 1341,1311 1386,1311 1430,1311 1475,1314 1520,1317 1565,1317 1610,1317 1654,1317 1699,1317 1744,1317 1789,1317 1834,1317 1878,1317 1920,1323"/>
+				<TextEquiv>
+					<Unicode>herr vō Grünenberg/ Er kaufft die herſchaft Rich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="925,1368 1027,1362 1070,1379 1207,1364 1266,1393 1297,1376 1410,1390 1407,1321 1211,1333 1154,1313 977,1306 924,1319"/>
+				<Baseline points="932,1350 976,1350 1021,1353 1066,1356 1111,1356 1156,1356 1200,1356 1245,1362 1290,1359 1335,1362 1380,1362 1412,1362"/>
+				<TextEquiv>
+					<Unicode>enburg an das geſtiffte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="925,1453 1479,1494 1920,1474 1905,1400 1693,1436 1523,1401 924,1406"/>
+				<Baseline points="932,1451 976,1448 1021,1451 1066,1451 1111,1454 1156,1454 1200,1454 1245,1457 1290,1457 1335,1460 1380,1463 1424,1466 1469,1466 1514,1469 1559,1466 1604,1469 1648,1469 1693,1469 1738,1469 1783,1466 1828,1469 1872,1466 1917,1469 1923,1469"/>
+				<TextEquiv>
+					<Unicode>Nicolaus apt/ der ſechs vnd zwaintzigiſt/ ain frei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="935,1523 1133,1529 1185,1513 1235,1535 1269,1517 1355,1535 1383,1523 1381,1483 1363,1478 1303,1484 1235,1462 1171,1486 1137,1458 1053,1481 932,1459"/>
+				<Baseline points="940,1502 985,1499 1030,1502 1075,1505 1120,1505 1165,1508 1209,1508 1254,1508 1299,1511 1344,1511 1386,1514"/>
+				<TextEquiv>
+					<Unicode>herr von Guͦttenburg.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="928,1612 1869,1636 1906,1628 1905,1559 1745,1592 1603,1556 1521,1590 1469,1560 1393,1586 1288,1550 1061,1579 926,1554"/>
+				<Baseline points="934,1604 979,1598 1024,1601 1069,1604 1114,1604 1159,1607 1203,1607 1248,1607 1293,1610 1338,1610 1383,1613 1427,1613 1472,1613 1517,1613 1562,1616 1607,1616 1651,1616 1696,1616 1741,1616 1786,1613 1831,1613 1875,1613 1908,1610"/>
+				<TextEquiv>
+					<Unicode>Petrus apt/ der ſiben vnd zwaintzigiſt an der zal/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="923,1659 1851,1681 1911,1676 1911,1637 921,1613"/>
+				<Baseline points="929,1651 973,1648 1018,1651 1063,1651 1108,1651 1153,1654 1197,1654 1242,1657 1287,1657 1332,1660 1377,1660 1421,1660 1466,1663 1511,1663 1556,1666 1601,1663 1645,1663 1690,1663 1735,1663 1780,1663 1825,1663 1869,1663 1914,1663"/>
+				<TextEquiv>
+					<Unicode>des namens der ander/ ain Freyherr vō Wolhau</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="928,1715 1908,1722 1897,1674 928,1659"/>
+				<Baseline points="934,1702 979,1699 1024,1699 1069,1699 1114,1702 1159,1705 1203,1705 1248,1705 1293,1708 1338,1708 1383,1711 1427,1711 1472,1711 1517,1711 1562,1714 1607,1714 1651,1714 1696,1717 1741,1714 1786,1714 1831,1711 1875,1711 1911,1711"/>
+				<TextEquiv>
+					<Unicode>ſen/ erwarb von dem gemellten biſchoff hainrichē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="923,1760 1895,1786 1908,1722 921,1714"/>
+				<Baseline points="929,1750 973,1750 1018,1750 1063,1750 1108,1753 1153,1753 1197,1753 1242,1756 1287,1756 1332,1759 1377,1759 1421,1759 1466,1762 1511,1762 1556,1762 1601,1765 1645,1762 1690,1765 1735,1762 1780,1762 1825,1762 1869,1762 1911,1759"/>
+				<TextEquiv>
+					<Unicode>die bull gevidimiert werden/ des schweſter was aͤp</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="918,1818 1900,1840 1907,1782 916,1758"/>
+				<Baseline points="923,1801 967,1801 1012,1801 1057,1801 1102,1801 1147,1804 1191,1804 1236,1807 1281,1807 1326,1807 1371,1810 1415,1810 1460,1810 1505,1813 1550,1816 1595,1816 1639,1816 1684,1816 1729,1819 1774,1816 1819,1816 1864,1816 1908,1819 1911,1819"/>
+				<TextEquiv>
+					<Unicode>tiſſin zum frawenmünſter zuͦ Zürich gefürst. was</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="923,1865 1559,1889 1613,1869 1612,1836 921,1814"/>
+				<Baseline points="929,1852 973,1852 1018,1852 1063,1852 1108,1855 1153,1855 1197,1855 1242,1858 1287,1858 1332,1858 1377,1861 1421,1861 1466,1861 1511,1864 1556,1864 1601,1864 1616,1864"/>
+				<TextEquiv>
+					<Unicode>vor probſt zuͦ ſant Gerolt geweſen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="916,1962 1898,1977 1897,1922 1815,1913 916,1908"/>
+				<Baseline points="923,1953 967,1953 1012,1950 1057,1950 1102,1953 1147,1953 1191,1953 1236,1956 1281,1959 1326,1959 1371,1959 1415,1962 1460,1962 1505,1962 1550,1962 1595,1962 1639,1965 1684,1965 1729,1965 1774,1965 1819,1962 1864,1962 1902,1962"/>
+				<TextEquiv>
+					<Unicode>Ludwig ain Graf von Tyerſtain/ iſt ain ſched¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="913,2009 1903,2024 1881,1973 913,1963"/>
+				<Baseline points="920,2001 964,2001 1009,2001 1054,2001 1099,2004 1144,2004 1188,2004 1233,2007 1278,2007 1323,2007 1368,2007 1412,2010 1457,2010 1502,2010 1547,2013 1592,2013 1636,2013 1681,2013 1726,2013 1771,2013 1816,2013 1861,2010 1905,2013"/>
+				<TextEquiv>
+					<Unicode>licher apt geweſen/ an der zal der acht vnd zwain¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="923,2061 1905,2072 1903,2024 1854,2019 923,2011"/>
+				<Baseline points="929,2049 973,2052 1018,2049 1063,2052 1108,2052 1153,2052 1197,2055 1242,2055 1287,2058 1332,2058 1377,2058 1421,2061 1466,2061 1511,2061 1556,2061 1601,2061 1645,2061 1690,2064 1735,2064 1780,2064 1825,2064 1869,2061 1908,2061"/>
+				<TextEquiv>
+					<Unicode>zigiſt/ verordnet mit groſſem ſchaden des geſtifftes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="913,2107 1902,2115 1892,2070 1337,2087 913,2048"/>
+				<Baseline points="920,2102 964,2099 1009,2099 1054,2099 1099,2102 1144,2102 1188,2105 1233,2105 1278,2108 1323,2108 1368,2108 1412,2108 1457,2108 1502,2111 1547,2111 1592,2114 1636,2114 1681,2111 1726,2111 1771,2111 1816,2111 1861,2111 1905,2111"/>
+				<TextEquiv>
+					<Unicode>Das Er zuͦ biſchoff zuͦ Straſpurg poſtuliert ward</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="923,2158 1714,2187 1902,2171 1901,2115 921,2109"/>
+				<Baseline points="929,2150 973,2147 1018,2147 1063,2150 1108,2150 1153,2153 1197,2153 1242,2156 1287,2156 1332,2159 1377,2159 1421,2159 1466,2159 1511,2159 1556,2162 1601,2162 1645,2162 1690,2162 1735,2162 1780,2162 1825,2162 1869,2162 1905,2165"/>
+				<TextEquiv>
+					<Unicode>vnd da d̓ von dem gotzhaus abschaiden gen Straß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686133035689_6567_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="908,2216 1900,2243 1877,2171 908,2159"/>
+				<Baseline points="914,2201 958,2201 1003,2201 1048,2201 1093,2204 1138,2207 1182,2207 1227,2207 1272,2210 1317,2210 1362,2213 1406,2213 1451,2210 1496,2213 1541,2213 1586,2216 1631,2216 1675,2216 1720,2216 1765,2216 1810,2216 1855,2216 1899,2216 1902,2216"/>
+				<TextEquiv>
+					<Unicode>burg wolt. Starb Er geschwind in dem Schloſs</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

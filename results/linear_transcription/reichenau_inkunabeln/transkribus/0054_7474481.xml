@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:05.765+01:00</Created>
+        <LastChange>2025-03-21T17:29:03.043+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0054_7474481.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698249" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="999,441 999,2121 2055,2121 2055,441"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="992,497 1996,482 2043,477 2044,407 992,444"/>
+                <Baseline points="999,483 1051,483 1103,480 1156,480 1208,479 1260,478 1313,478 1365,477 1417,474 1470,474 1522,471 1574,471 1627,469 1679,468 1731,465 1784,465 1836,465 1888,465 1941,465 1993,465 2046,465"/>
+                <TextEquiv>
+                    <Unicode>als of ein mensch affe die guten wurtzen, krüter vn̄ sal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1001,536 2052,523 2046,474 1841,466 1002,493"/>
+                <Baseline points="1008,533 1060,534 1112,530 1165,530 1217,527 1269,527 1322,527 1374,527 1426,524 1479,524 1531,521 1583,521 1636,520 1688,519 1740,519 1793,519 1845,518 1897,516 1950,516 2002,516 2055,516"/>
+                <TextEquiv>
+                    <Unicode>be vor diser welt die ye gewuͤchsent oder gem acht wurden ge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="993,602 2048,569 2049,526 995,545"/>
+                <Baseline points="1002,593 1054,585 1107,584 1159,581 1212,581 1264,581 1317,579 1369,578 1422,575 1474,572 1527,572 1579,572 1632,570 1684,569 1737,569 1789,572 1842,569 1894,568 1947,566 1999,566 2052,563"/>
+                <TextEquiv>
+                    <Unicode>schmeckt hette. Vnd do die morder deß gesmacks inne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1001,660 2036,624 1998,573 1002,604"/>
+                <Baseline points="1008,638 1059,638 1111,635 1162,634 1214,632 1266,632 1317,632 1369,629 1420,626 1472,625 1524,623 1575,623 1627,623 1678,623 1730,620 1782,619 1833,617 1885,617 1936,619 1988,617 2040,617"/>
+                <TextEquiv>
+                    <Unicode>würden / do erschracten sy von hertzen wel, vnd spra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="996,698 2048,686 2049,628 997,660"/>
+                <Baseline points="1005,692 1057,690 1109,689 1162,686 1214,685 1266,683 1319,681 1371,680 1423,677 1476,677 1528,676 1580,674 1633,674 1685,674 1737,671 1790,671 1842,671 1894,670 1947,670 1999,669 2052,668"/>
+                <TextEquiv>
+                    <Unicode>chent zu ein ander/ O we wir habent übel thon, vnd spra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1010,753 2046,729 2046,684 1866,673 1012,699"/>
+                <Baseline points="1017,742 1068,741 1120,736 1171,735 1223,733 1275,731 1326,730 1378,730 1429,727 1481,727 1533,726 1584,724 1636,724 1687,724 1739,721 1791,721 1842,721 1894,721 1945,719 1997,718 2049,718"/>
+                <TextEquiv>
+                    <Unicode>cheiner zu dem anderen/ zum bald ein liecht an/ als er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1004,807 2036,787 2049,730 1004,757"/>
+                <Baseline points="1011,793 1063,790 1115,787 1167,786 1219,784 1271,784 1323,784 1375,781 1427,778 1479,778 1531,778 1583,776 1635,775 1687,775 1739,772 1791,772 1843,772 1895,772 1947,772 1999,770 2052,769"/>
+                <TextEquiv>
+                    <Unicode>vns bat h ie vor/ dz es brinne vor synem lichnam vn̄ na</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1010,859 2048,830 2049,783 1012,808"/>
+                <Baseline points="1017,844 1068,841 1120,838 1172,837 1224,835 1275,835 1327,835 1379,832 1431,832 1482,831 1534,829 1586,827 1638,826 1689,823 1741,823 1793,823 1845,823 1896,821 1948,820 2000,820 2052,817"/>
+                <TextEquiv>
+                    <Unicode>ment ein kertzen vff dem alter, vnd einer wolt hin gon¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1001,916 1975,888 2052,880 2053,833 1002,854"/>
+                <Baseline points="1008,897 1060,892 1112,888 1165,888 1217,887 1269,885 1322,883 1374,882 1426,882 1479,879 1531,879 1583,878 1636,876 1688,876 1740,873 1793,873 1845,873 1897,873 1950,873 2002,871 2055,870"/>
+                <TextEquiv>
+                    <Unicode>zu dem ihre die hertzen an zunden vnder des nam der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1006,955 2048,928 2023,875 1008,912"/>
+                <Baseline points="1014,945 1065,942 1117,939 1169,938 1221,936 1273,936 1325,936 1377,933 1429,933 1481,930 1533,930 1584,928 1636,927 1688,927 1740,924 1792,924 1844,924 1896,924 1948,924 2000,921 2052,921"/>
+                <TextEquiv>
+                    <Unicode>ander morder die anderen kertzen, vnd staft die zu de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1016,1008 1919,1010 2053,985 2055,941 1017,956"/>
+                <Baseline points="1023,1005 1074,996 1126,992 1177,990 1229,990 1281,988 1332,987 1384,987 1435,984 1487,983 1539,981 1590,981 1642,981 1693,978 1745,978 1797,976 1848,978 1900,978 1951,976 2003,975 2055,972"/>
+                <TextEquiv>
+                    <Unicode>houbten sant Meynrats, vn̄ so bald er sy ꝺo gestalt do</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1557,1217 1599,1210 1842,1239 1826,1096 1756,1111 1663,1178 1603,1146 1550,1164"/>
+                <Baseline points="1562,1202 1587,1204 1613,1205 1638,1207 1664,1209 1689,1212 1715,1215 1740,1219 1766,1222 1791,1226 1817,1229 1843,1228"/>
+                <TextEquiv>
+                    <Unicode>11.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1129,1959 1157,1971 1197,1965 1213,1979 1245,1951 1266,1947 1294,1968 1381,1961 1381,1867 1182,1879 1152,1866 1129,1871"/>
+                <Baseline points="1136,1938 1163,1940 1191,1941 1218,1941 1246,1940 1273,1938 1301,1938 1328,1938 1356,1938 1384,1938"/>
+                <TextEquiv>
+                    <Unicode>Vierungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1147,2028 1182,2027 1194,2038 1215,2039 1230,2048 1277,2048 1277,1948 1245,1951 1213,1979 1206,1975 1193,1981 1184,1975 1147,1982"/>
+                <Baseline points="1154,2007 1179,2007 1204,2007 1229,2005 1254,2006 1279,2010"/>
+                <TextEquiv>
+                    <Unicode>Vous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1206,2116 1231,2102 1247,2113 1277,2111 1287,2119 1306,2114 1302,2047 1274,2051 1270,2057 1260,2051 1249,2055 1241,2049 1230,2063 1218,2056 1203,2060"/>
+                <Baseline points="1213,2102 1245,2100 1277,2102 1309,2108"/>
+                <TextEquiv>
+                    <Unicode>vrare</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

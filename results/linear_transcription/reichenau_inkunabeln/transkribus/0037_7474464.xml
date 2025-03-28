@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:03.937+01:00</Created>
+        <LastChange>2025-03-21T17:29:01.012+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0037_7474464.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697767" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="101,489 101,991 1136,991 1136,489"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="107,531 1132,534 1132,465 1017,452 928,489 107,457"/>
+                <Baseline points="113,513 164,516 215,516 266,516 317,516 368,518 419,516 471,516 522,519 573,519 624,519 675,519 726,519 777,521 829,521 880,521 931,521 982,522 1033,524 1084,526 1136,527"/>
+                <TextEquiv>
+                    <Unicode>schentz willen vß komen / vnd wenn die iungen münche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="107,587 1123,582 1123,534 892,520 107,533"/>
+                <Baseline points="113,572 163,566 214,569 265,569 315,569 366,567 417,566 467,569 518,569 569,570 620,572 670,572 721,572 772,572 822,572 873,575 924,575 974,576 1025,578 1076,578 1127,578"/>
+                <TextEquiv>
+                    <Unicode>sprachent. Meister wir hant fisch genug / So spracher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="103,628 1123,647 1123,582 103,594"/>
+                <Baseline points="110,620 160,620 211,620 262,620 313,620 364,620 415,620 465,620 516,620 567,623 618,623 669,623 720,625 771,626 821,623 872,626 923,629 974,629 1025,629 1076,627 1127,626"/>
+                <TextEquiv>
+                    <Unicode>almoll / wir sollen noch mee fischen. Das thet er darüb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="103,678 1123,693 1123,644 101,626"/>
+                <Baseline points="110,668 160,671 211,671 262,671 313,673 364,672 415,671 465,671 516,674 567,674 618,674 669,675 720,677 771,677 821,674 872,677 923,678 974,680 1025,680 1076,680 1127,680"/>
+                <TextEquiv>
+                    <Unicode>das er die wüstin wolt daß besehen / ob sy im gelegen wer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="100,728 1004,764 1123,738 1123,693 99,683"/>
+                <Baseline points="107,721 158,724 209,723 260,722 311,724 362,724 413,724 464,724 515,724 566,725 617,728 668,730 719,730 770,730 821,730 872,733 923,733 974,733 1025,733 1076,733 1127,736"/>
+                <TextEquiv>
+                    <Unicode>dar in zewonen. Vnd die wüstin gefiel im wol syn le /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="94,795 415,778 602,801 592,739 512,750 440,730 377,746 341,730 289,750 94,729"/>
+                <Baseline points="101,772 126,774 151,775 176,775 201,775 227,775 252,775 277,775 302,775 327,775 353,775 378,775 403,775 428,775 453,775 479,776 504,778 529,778 554,778 579,780 605,778"/>
+                <TextEquiv>
+                    <Unicode>ben darinne zu volbringen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="100,852 1130,868 1130,806 1069,784 1000,814 100,801"/>
+                <Baseline points="107,841 158,844 209,843 260,842 312,842 363,843 414,847 466,847 517,847 568,847 620,847 671,847 722,847 773,847 825,850 876,850 927,850 979,850 1030,850 1081,852 1133,856"/>
+                <TextEquiv>
+                    <Unicode>Hie sucht sant Peynrad ein flecken in der wüstin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="222,972 284,951 299,965 345,960 359,976 402,987 407,878 389,881 372,867 349,879 327,867 270,878 254,865 226,872"/>
+                <Baseline points="229,960 254,955 280,948 305,948 331,948 356,948 382,948 408,948"/>
+                <TextEquiv>
+                    <Unicode>H.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="160,996 187,1009 213,982 239,994 266,985 276,990 291,981 290,953 272,951 255,963 235,968 202,938 190,946 177,935 159,938"/>
+                <Baseline points="167,981 192,978 218,975 243,977 269,979 295,981"/>
+                <TextEquiv>
+                    <Unicode>Köllte</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

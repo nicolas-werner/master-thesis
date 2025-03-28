@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:09.445+01:00</Created>
+        <LastChange>2025-03-21T17:29:07.366+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0088_7710956.jpg" imageWidth="2786" imageHeight="3730">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817699350" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="322,568 322,2927 1823,2927 1823,568"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="324,615 1807,616 1805,559 1507,495 1144,559 816,510 322,549"/>
+                <Baseline points="334,605 407,605 481,604 555,599 629,601 703,599 777,602 850,602 924,602 998,602 1072,601 1146,599 1220,602 1294,605 1367,605 1441,605 1515,605 1589,608 1663,608 1737,608 1811,611"/>
+                <TextEquiv>
+                    <Unicode>ein track vn̄ bedeüt das alter-wan̄ wie sich ƒ wurm krům</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="311,687 1788,687 1807,618 309,628"/>
+                <Baseline points="322,671 396,671 470,668 545,668 619,668 694,668 768,668 843,669 917,668 992,668 1066,668 1140,668 1215,671 1289,671 1364,671 1438,671 1513,674 1587,674 1662,674 1736,674 1811,674"/>
+                <TextEquiv>
+                    <Unicode>met vnd in mangerleij knöpffe schlinget, also stat dem al¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="324,754 1803,760 1766,682 324,682"/>
+                <Baseline points="334,740 407,738 481,737 555,734 628,735 702,734 776,737 849,737 923,734 997,734 1071,734 1144,734 1218,734 1292,734 1365,734 1439,737 1513,737 1586,740 1660,740 1734,740 1808,740"/>
+                <TextEquiv>
+                    <Unicode>ter manigerley vngemach zu vnd verworren knoͤpff Des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="333,831 1807,818 1805,762 1678,747 332,756"/>
+                <Baseline points="343,811 416,805 489,802 563,802 636,800 710,801 783,799 856,801 930,801 1003,799 1077,799 1150,799 1223,802 1297,800 1370,802 1444,802 1517,802 1590,805 1664,805 1737,805 1811,805"/>
+                <TextEquiv>
+                    <Unicode>geleichē habent die poeten thijer erdichtet-ypocenthaus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="326,885 1807,898 1807,818 326,833"/>
+                <Baseline points="337,874 410,869 484,869 558,868 631,868 705,865 779,868 852,868 926,865 1000,866 1074,865 1147,865 1221,868 1295,868 1368,868 1442,867 1516,868 1589,871 1663,871 1737,871 1811,874"/>
+                <TextEquiv>
+                    <Unicode>genemnet, die halb menschen vnd halb pferd sind, zu bedeüten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="324,935 1816,959 1814,903 322,888"/>
+                <Baseline points="334,933 408,933 482,933 556,933 631,931 705,931 779,931 854,933 928,932 1002,931 1077,931 1151,931 1225,933 1299,933 1374,931 1448,933 1522,936 1597,936 1671,939 1745,937 1820,936"/>
+                <TextEquiv>
+                    <Unicode>die kùrcze des lebens- ꝺas schnell vnd eylend hijn lauft als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="324,1008 1816,1015 1816,957 1689,942 324,937"/>
+                <Baseline points="334,996 408,999 482,997 556,996 631,996 705,996 779,999 854,999 928,999 1002,999 1077,996 1151,996 1225,999 1299,997 1374,999 1448,999 1522,1001 1597,1002 1671,1005 1745,1005 1820,1002"/>
+                <TextEquiv>
+                    <Unicode>die pferd-Ettlich die siten der menschen zu beweisen. Als in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="326,1075 1814,1078 1814,1013 326,1008"/>
+                <Baseline points="337,1062 411,1065 485,1065 559,1065 633,1064 707,1063 781,1065 855,1065 929,1065 1003,1065 1077,1062 1151,1062 1225,1062 1299,1062 1373,1062 1447,1064 1521,1065 1595,1065 1669,1068 1743,1068 1817,1068"/>
+                <TextEquiv>
+                    <Unicode>der fabel Oracij redt ein maus mit der anderen- vnd die wi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="335,1147 1816,1151 1816,1073 335,1073"/>
+                <Baseline points="346,1133 419,1130 493,1130 567,1130 640,1130 714,1130 788,1127 861,1130 935,1127 1009,1127 1083,1127 1156,1129 1230,1127 1304,1128 1377,1130 1451,1130 1525,1133 1598,1133 1672,1135 1746,1133 1820,1130"/>
+                <TextEquiv>
+                    <Unicode>sel mit dem fuchß- vnd werdent all sölich fabel erdichte/ int</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="330,1207 1808,1229 1808,1158 1686,1140 330,1153"/>
+                <Baseline points="340,1196 413,1196 487,1196 560,1196 634,1196 707,1196 781,1196 854,1194 928,1193 1001,1193 1075,1193 1149,1193 1222,1193 1296,1194 1369,1196 1443,1196 1516,1197 1590,1199 1663,1202 1737,1199 1811,1196"/>
+                <TextEquiv>
+                    <Unicode>das sy also beschehen sind, sunder zu bedeüten menschliches</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="333,1272 1812,1276 1812,1229 1604,1203 333,1209"/>
+                <Baseline points="343,1259 416,1262 490,1262 564,1262 637,1262 711,1262 785,1259 858,1259 932,1259 1006,1259 1080,1259 1153,1259 1227,1259 1301,1259 1374,1259 1448,1262 1522,1263 1595,1265 1669,1267 1743,1265 1817,1265"/>
+                <TextEquiv>
+                    <Unicode>wesen vn̄ leben Also sind die fabeln esopi auff die sitten der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="330,1337 1812,1356 1812,1276 1719,1268 330,1285"/>
+                <Baseline points="340,1327 413,1327 487,1327 561,1327 635,1325 709,1324 783,1324 856,1324 930,1324 1004,1324 1078,1324 1152,1324 1226,1324 1300,1325 1373,1327 1447,1327 1521,1327 1595,1327 1669,1329 1743,1330 1817,1330"/>
+                <TextEquiv>
+                    <Unicode>menschen geordnet, Vnd wir finden des geleichen in de bu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="330,1399 1803,1421 1803,1363 1710,1335 330,1335"/>
+                <Baseline points="340,1390 413,1393 486,1393 560,1393 633,1391 707,1390 780,1390 853,1390 927,1390 1000,1390 1074,1390 1147,1390 1220,1390 1294,1390 1367,1393 1441,1393 1514,1393 1587,1396 1661,1396 1734,1396 1808,1396"/>
+                <TextEquiv>
+                    <Unicode>che der richter-do die laume eines küniges begerten vii re¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="335,1464 1816,1462 1816,1419 1754,1401 335,1399"/>
+                <Baseline points="346,1459 419,1459 493,1459 567,1459 640,1456 714,1456 788,1456 861,1458 935,1459 1009,1456 1083,1456 1156,1456 1230,1456 1304,1456 1377,1456 1451,1456 1525,1459 1598,1459 1672,1462 1746,1462 1820,1456"/>
+                <TextEquiv>
+                    <Unicode>de ten mit dem oͤlbaum-feijgenbaum· weinreben- vnd praͤn¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="330,1533 1812,1535 1812,1464 330,1470"/>
+                <Baseline points="340,1521 413,1524 487,1522 561,1524 635,1522 709,1521 783,1521 856,1523 930,1524 1004,1521 1078,1521 1152,1521 1226,1520 1300,1521 1373,1521 1447,1521 1521,1521 1595,1524 1669,1526 1743,1527 1817,1527"/>
+                <TextEquiv>
+                    <Unicode>berstanden, das beschicht je alles die sitten der menschen zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="333,1594 1812,1609 1812,1553 1687,1529 1486,1559 333,1524"/>
+                <Baseline points="343,1590 416,1590 490,1590 564,1590 637,1590 711,1587 785,1590 858,1589 932,1587 1006,1587 1080,1587 1153,1587 1227,1587 1301,1587 1374,1590 1448,1589 1522,1590 1595,1590 1669,1590 1743,1591 1817,1590"/>
+                <TextEquiv>
+                    <Unicode>bedeuten/ daz nijm durch erdichte ding zu der warheijt der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="330,1658 1808,1686 1786,1607 330,1592"/>
+                <Baseline points="340,1656 413,1656 487,1656 560,1659 634,1656 707,1656 781,1656 854,1653 928,1653 1001,1654 1075,1655 1149,1653 1222,1653 1296,1653 1369,1653 1443,1655 1516,1656 1590,1656 1663,1657 1737,1656 1811,1656"/>
+                <TextEquiv>
+                    <Unicode>man begeren ist koͤmen müge-Also hat auch Demostenes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="335,1727 1807,1747 1807,1684 1745,1667 335,1661"/>
+                <Baseline points="346,1718 419,1721 492,1721 565,1721 639,1721 712,1720 785,1718 858,1718 932,1718 1005,1718 1078,1718 1151,1718 1225,1718 1298,1718 1371,1718 1444,1720 1518,1722 1591,1724 1664,1724 1737,1724 1811,1721"/>
+                <TextEquiv>
+                    <Unicode>der hoch wol lerendt meyster zu athenis geton gegen dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="333,1805 1808,1812 1808,1749 1758,1728 333,1725"/>
+                <Baseline points="343,1787 416,1789 490,1790 563,1790 637,1787 710,1786 784,1784 857,1784 931,1784 1004,1784 1078,1784 1152,1784 1225,1784 1299,1784 1372,1784 1446,1784 1519,1787 1593,1787 1666,1790 1740,1789 1814,1790"/>
+                <TextEquiv>
+                    <Unicode>künig philippo, ꝺo er vonden burgern zu athenis begeet im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="339,1864 1801,1862 1801,1822 1570,1792 339,1805"/>
+                <Baseline points="349,1856 421,1853 494,1855 567,1856 640,1853 713,1853 785,1850 858,1850 931,1850 1004,1850 1077,1850 1149,1850 1222,1850 1295,1850 1368,1850 1441,1851 1513,1853 1586,1855 1659,1853 1732,1853 1805,1856"/>
+                <TextEquiv>
+                    <Unicode>zehen der weijsesten zu senden, so wolle er von der stat zwe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="333,1931 1812,1939 1784,1861 333,1859"/>
+                <Baseline points="343,1921 416,1920 490,1919 564,1918 637,1918 711,1918 785,1918 858,1915 932,1915 1006,1915 1080,1915 1153,1915 1227,1913 1301,1913 1374,1915 1448,1918 1522,1919 1595,1921 1669,1921 1743,1921 1817,1921"/>
+                <TextEquiv>
+                    <Unicode>hen die von im belegeret was. Do dichtet er die fabel wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="335,1997 1814,1995 1814,1943 1760,1924 335,1931"/>
+                <Baseline points="346,1984 419,1984 493,1984 566,1984 640,1984 713,1984 787,1984 860,1983 934,1981 1007,1981 1081,1981 1155,1981 1228,1981 1302,1981 1375,1981 1449,1981 1522,1984 1596,1984 1669,1984 1743,1984 1817,1984"/>
+                <TextEquiv>
+                    <Unicode>der wolff von dem hyrten begeret den hundt-so woͤlt er frid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="335,2058 1816,2077 1816,1995 1781,1993 335,1998"/>
+                <Baseline points="346,2052 419,2050 493,2051 567,2052 640,2051 714,2050 788,2050 861,2047 935,2047 1009,2047 1083,2049 1156,2044 1230,2045 1304,2044 1377,2047 1451,2049 1525,2050 1598,2050 1672,2050 1746,2052 1820,2052"/>
+                <TextEquiv>
+                    <Unicode>mit den schaffen haben, dannt wolt er widerraten das d̄ ku</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="330,2125 1812,2121 1812,2067 330,2069"/>
+                <Baseline points="340,2115 413,2116 487,2118 561,2118 635,2118 709,2115 783,2115 856,2112 930,2113 1004,2112 1078,2114 1152,2112 1226,2112 1300,2112 1373,2112 1447,2113 1521,2115 1595,2115 1669,2117 1743,2117 1817,2109"/>
+                <TextEquiv>
+                    <Unicode>nig het begeret, als die fabel in dem lesen esopi auß weyset¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="335,2194 1808,2196 1808,2118 335,2149"/>
+                <Baseline points="346,2184 419,2184 492,2182 566,2184 639,2184 713,2184 786,2181 859,2181 933,2181 1006,2181 1080,2181 1153,2179 1226,2178 1300,2180 1373,2178 1447,2178 1520,2181 1593,2181 1667,2183 1740,2181 1814,2181"/>
+                <TextEquiv>
+                    <Unicode>wann zu geleicher weiß sprach der meyster-Wije der wolff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="335,2267 1805,2265 1790,2190 335,2201"/>
+                <Baseline points="346,2249 419,2249 492,2249 565,2249 638,2249 711,2246 784,2246 857,2246 930,2246 1003,2245 1077,2246 1150,2243 1223,2243 1296,2243 1369,2243 1442,2246 1515,2246 1588,2246 1661,2249 1734,2249 1808,2249"/>
+                <TextEquiv>
+                    <Unicode>von dem hyrten der hundt begerte, darumb das er die schaff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="341,2317 1820,2334 1769,2257 341,2265"/>
+                <Baseline points="352,2315 425,2315 499,2315 572,2315 646,2315 719,2313 793,2312 866,2312 940,2312 1013,2311 1087,2312 1161,2312 1234,2309 1308,2310 1381,2312 1455,2312 1528,2312 1602,2312 1675,2317 1749,2315 1823,2315"/>
+                <TextEquiv>
+                    <Unicode>danach on sorg mocht würgen. Also begeret ꝺ kumg phi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="345,2393 1816,2386 1816,2332 1758,2321 345,2321"/>
+                <Baseline points="355,2384 428,2384 501,2384 574,2383 648,2381 721,2380 794,2378 867,2378 941,2378 1014,2378 1087,2376 1160,2375 1234,2378 1307,2378 1380,2378 1453,2378 1527,2378 1600,2381 1673,2381 1746,2380 1820,2381"/>
+                <TextEquiv>
+                    <Unicode>lippus im über weisen haubtleut zu senden ꝺas er euch hijn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="333,2460 1812,2451 1794,2386 333,2397"/>
+                <Baseline points="343,2446 416,2448 490,2451 564,2449 637,2446 711,2446 785,2443 858,2443 932,2443 1006,2443 1080,2440 1153,2440 1227,2440 1301,2441 1374,2443 1448,2443 1522,2443 1595,2443 1669,2446 1743,2443 1817,2443"/>
+                <TextEquiv>
+                    <Unicode>füre dester leichter mocht nyderdrucken vnd vernichten so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="337,2535 1808,2524 1808,2457 1719,2451 339,2464"/>
+                <Baseline points="349,2509 422,2514 495,2514 568,2515 641,2514 714,2512 787,2512 860,2509 933,2509 1006,2509 1080,2506 1153,2509 1226,2509 1299,2512 1372,2509 1445,2509 1518,2509 1591,2509 1664,2509 1737,2509 1811,2509"/>
+                <TextEquiv>
+                    <Unicode>die huͤtter von eüch käment-Fürbaß so mercke den vnder¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="348,2600 1699,2602 1808,2585 1810,2522 350,2522"/>
+                <Baseline points="358,2581 430,2581 503,2581 576,2581 649,2578 722,2578 794,2576 867,2575 940,2574 1013,2572 1086,2574 1158,2575 1231,2575 1304,2576 1377,2575 1450,2575 1522,2575 1595,2578 1668,2578 1741,2575 1814,2575"/>
+                <TextEquiv>
+                    <Unicode>scheyd vnder fabel-hijstori, vnd argument-hystorie sind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="341,2650 1820,2667 1820,2606 1760,2583 341,2598"/>
+                <Baseline points="352,2643 425,2645 499,2645 572,2646 646,2643 719,2643 793,2643 866,2641 940,2643 1013,2640 1087,2640 1161,2640 1234,2640 1308,2640 1381,2643 1455,2640 1528,2643 1602,2643 1675,2643 1749,2643 1823,2643"/>
+                <TextEquiv>
+                    <Unicode>ware geschehne ding-Argument sind die ob sij nit gehe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="341,2734 1816,2717 1816,2669 1745,2650 341,2656"/>
+                <Baseline points="352,2712 425,2712 498,2712 572,2712 645,2710 719,2709 792,2709 865,2709 939,2709 1012,2709 1086,2706 1159,2706 1232,2709 1306,2709 1379,2709 1453,2709 1526,2709 1599,2709 1673,2709 1746,2709 1820,2706"/>
+                <TextEquiv>
+                    <Unicode>hen sind, so ist doch müglichen das sij beschehen. Als die co</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="341,2786 1816,2781 1775,2714 341,2736"/>
+                <Baseline points="352,2778 425,2778 498,2778 572,2775 645,2775 719,2775 792,2775 865,2775 939,2774 1012,2772 1086,2772 1159,2772 1232,2772 1306,2774 1379,2775 1453,2775 1526,2776 1599,2778 1673,2775 1746,2774 1820,2772"/>
+                <TextEquiv>
+                    <Unicode>medi-terenti vnd ettlich plauti, vnd der selben geleich-Fa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="335,2848 1818,2876 1797,2779 335,2784"/>
+                <Baseline points="346,2843 419,2843 493,2843 567,2840 641,2840 715,2840 789,2840 862,2840 936,2837 1010,2837 1084,2837 1158,2837 1232,2839 1306,2840 1379,2840 1453,2840 1527,2840 1601,2840 1675,2840 1749,2840 1823,2837"/>
+                <TextEquiv>
+                    <Unicode>bel sind die-die nit geschehen sind noch müglichen sond zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="1578,2948 1615,2937 1656,2943 1669,2935 1687,2950 1700,2943 1732,2952 1754,2946 1754,2850 1732,2855 1725,2848 1661,2848 1626,2872 1605,2859 1578,2865"/>
+                <Baseline points="1587,2903 1615,2905 1644,2906 1673,2906 1702,2906 1731,2905 1760,2903"/>
+                <TextEquiv>
+                    <Unicode>-a-iij-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="330,2917 510,2960 928,2922 1391,2952 1391,2868 1348,2855 330,2851"/>
+                <Baseline points="340,2909 392,2909 445,2911 498,2912 551,2909 604,2909 656,2909 709,2909 762,2909 815,2912 868,2909 920,2908 973,2906 1026,2906 1079,2906 1132,2909 1184,2907 1237,2909 1290,2907 1343,2906 1396,2903"/>
+                <TextEquiv>
+                    <Unicode>beschehen, wann sij sind wider die natur¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

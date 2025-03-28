@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:36</Creator>
+		<Created>2023-06-07T09:11:11.199+02:00</Created>
+		<LastChange>2023-12-20T15:42:18.999+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075004" pageNr="29" tsid="154460076" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=AIIMZTZJLQZQYLMBTEGIPFBI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DUXPMGIDQGGGFTKAMBWBRHBZ" imageId="45286845"/>
+	</Metadata>
+	<Page imageFilename="7474485.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356412267" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573398607_225"/>
+				<RegionRefIndexed index="1" regionRef="region_1686573401975_228"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573398607_225" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="928,412 2056,412 2056,827 928,827"/>
+			<TextLine id="region_1686573398607_225_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="958,500 2003,507 1987,423 1807,461 1579,426 1534,466 958,439"/>
+				<Baseline points="966,495 1011,492 1055,492 1100,492 1145,489 1190,492 1234,492 1279,489 1324,489 1369,489 1413,492 1458,489 1503,489 1548,492 1592,495 1637,495 1682,495 1727,492 1771,492 1816,495 1861,495 1905,495 1950,495 1995,498 2004,501"/>
+				<TextEquiv>
+					<Unicode>lichen gericht wurden geantwurt für morder do ꝟiahē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573398607_225_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="968,565 1999,562 1999,508 968,504"/>
+				<Baseline points="975,554 1017,545 1061,545 1106,545 1151,542 1196,542 1240,542 1285,542 1330,542 1375,539 1419,539 1464,539 1509,539 1554,542 1598,542 1643,545 1688,542 1732,545 1777,545 1822,545 1867,545 1911,545 1956,545 2001,548"/>
+				<TextEquiv>
+					<Unicode>ſy dz ſy ſchuldig weren des mordes/ vn̄ den heyligē mā</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573398607_225_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="968,618 1999,621 1999,570 1888,552 968,566"/>
+				<Baseline points="975,599 1020,596 1064,593 1109,593 1154,593 1199,593 1243,593 1288,593 1333,593 1378,593 1422,590 1467,593 1512,593 1557,593 1601,596 1646,596 1691,596 1735,596 1780,596 1825,596 1870,596 1914,596 1959,596 2001,602"/>
+				<TextEquiv>
+					<Unicode>ermordet hette/ vn̄ ſeyten offenlich alle die zeichē die da</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573398607_225_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="974,655 1999,660 1999,621 1922,607 974,622"/>
+				<Baseline points="981,647 1026,644 1070,644 1115,644 1160,644 1205,644 1249,644 1294,641 1339,644 1384,644 1428,644 1473,644 1518,644 1562,644 1607,647 1652,647 1697,647 1741,647 1786,647 1831,647 1876,647 1920,647 1965,647 2001,647"/>
+				<TextEquiv>
+					<Unicode>warent geſchehen/ do namen die erſamen fürſichtigen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573398607_225_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="962,707 1995,718 1984,657 962,664"/>
+				<Baseline points="969,700 1014,697 1058,694 1103,694 1148,694 1193,694 1237,694 1282,694 1327,694 1372,694 1416,694 1461,694 1506,694 1551,697 1595,697 1640,697 1685,697 1730,697 1774,697 1819,697 1864,697 1908,697 1953,697 1998,703"/>
+				<TextEquiv>
+					<Unicode>vn̄ wyſen herren vn̄ burger d̓ erwirdigen ſtatt vō zürch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573398607_225_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="962,760 1988,765 1988,718 1874,708 962,712"/>
+				<Baseline points="969,751 1008,748 1052,748 1097,745 1142,745 1187,745 1231,742 1276,745 1321,745 1366,745 1410,745 1455,748 1500,748 1545,748 1589,748 1634,748 1679,745 1724,748 1768,745 1813,748 1858,748 1903,748 1947,748 1992,748"/>
+				<TextEquiv>
+					<Unicode>vn̄ ſchleifften die morder vß vn̄ nach rechter vrteil vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573398607_225_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="968,814 2001,818 2001,761 968,760"/>
+				<Baseline points="975,802 1020,802 1064,799 1109,796 1154,796 1199,796 1243,796 1288,796 1333,796 1378,799 1422,799 1467,799 1512,799 1557,802 1601,799 1646,799 1691,799 1735,799 1780,799 1825,799 1870,799 1914,799 1959,802 2004,799"/>
+				<TextEquiv>
+					<Unicode>keyſerlichen rechten wurdent ſy vnder graff albrechten</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1686573401975_228" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="917,1992 2033,1992 2033,2244 917,2244"/>
+			<TextLine id="region_1686573401975_228_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="958,2074 1992,2057 1986,1992 1882,2022 1721,1982 1560,2017 1333,1981 1222,2023 1086,1988 960,2017"/>
+				<Baseline points="966,2055 1011,2049 1055,2049 1100,2046 1145,2046 1190,2046 1234,2046 1279,2046 1324,2046 1369,2046 1413,2049 1458,2046 1503,2046 1548,2049 1592,2049 1637,2049 1682,2049 1727,2049 1771,2049 1816,2049 1861,2049 1905,2046 1950,2043 1995,2043"/>
+				<TextEquiv>
+					<Unicode>geredert vn̄ noch lebend ꝟbrant/ vn̄ wolten die rappen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573401975_228_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="965,2118 1990,2112 1990,2060 1955,2055 965,2074"/>
+				<Baseline points="972,2102 1008,2096 1052,2096 1097,2096 1142,2099 1187,2096 1231,2096 1276,2096 1321,2099 1366,2099 1410,2096 1455,2096 1500,2096 1545,2099 1589,2099 1634,2099 1679,2099 1724,2099 1768,2099 1813,2099 1858,2099 1903,2099 1947,2096 1992,2096"/>
+				<TextEquiv>
+					<Unicode>vō dem gericht vn̄ vō den redern nie komen vntz dz ſie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573401975_228_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="962,2172 1988,2165 1968,2107 962,2118"/>
+				<Baseline points="969,2156 1008,2150 1052,2147 1097,2147 1142,2147 1187,2147 1231,2150 1276,2150 1321,2150 1366,2150 1410,2150 1455,2147 1500,2147 1545,2147 1589,2147 1634,2150 1679,2153 1724,2150 1768,2150 1813,2150 1858,2150 1903,2147 1947,2147 1992,2147"/>
+				<TextEquiv>
+					<Unicode>ſturbēt do flugēt ſy wid̓ heim in dē finſtrē wald/ do mā</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573401975_228_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="953,2220 1988,2227 1988,2165 1918,2157 953,2173"/>
+				<Baseline points="960,2204 1005,2204 1049,2204 1094,2204 1139,2204 1184,2204 1228,2204 1273,2207 1318,2207 1363,2210 1407,2210 1452,2207 1497,2204 1542,2207 1586,2207 1631,2207 1676,2207 1721,2207 1765,2207 1810,2204 1855,2204 1900,2204 1944,2201 1989,2204 1992,2204"/>
+				<TextEquiv>
+					<Unicode>noch alle ior an ſāt Meynrats obēt ſicht vff dē minſter.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

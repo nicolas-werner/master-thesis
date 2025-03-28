@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:06.813+01:00</Created>
+        <LastChange>2025-03-21T17:29:04.309+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0064_7474492.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698525" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="113,495 113,2255 1199,2255 1199,495"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="138,538 1190,557 1188,485 137,480"/>
+                <Baseline points="146,519 198,521 250,521 303,521 355,523 407,524 460,527 512,527 564,527 617,529 669,532 721,533 774,533 826,536 878,537 931,541 983,542 1035,542 1088,542 1140,546 1193,551"/>
+                <TextEquiv>
+                    <Unicode>ten nach ein ander zu dem Heilig man. Thun was zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="146,592 1187,603 1157,551 145,536"/>
+                <Baseline points="152,569 203,572 255,573 307,575 359,575 411,577 463,578 515,578 567,581 619,581 671,583 722,586 774,587 826,590 878,590 930,591 982,593 1034,595 1086,596 1138,596 1190,605"/>
+                <TextEquiv>
+                    <Unicode>straßburg gesessen ein herr / der hieß Eberhardus / vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="136,630 1191,661 1178,602 136,592"/>
+                <Baseline points="143,620 195,623 248,623 300,625 353,626 405,629 458,632 510,632 563,632 615,634 668,635 720,638 773,641 825,641 878,642 930,644 983,646 1035,647 1088,650 1140,650 1193,653"/>
+                <TextEquiv>
+                    <Unicode>was ein dechen vff dem hohen thüm / der was also wyß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="136,686 1180,706 1179,665 134,628"/>
+                <Baseline points="143,674 195,677 247,677 299,678 351,680 403,680 455,683 507,683 559,684 611,687 663,689 715,691 767,692 819,692 871,694 923,695 975,697 1027,699 1079,700 1131,700 1184,703"/>
+                <TextEquiv>
+                    <Unicode>das künig vnnd keyser vnd landes herren nuit theten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="138,733 1196,768 1194,700 137,686"/>
+                <Baseline points="146,727 198,728 251,729 303,729 356,730 409,733 461,733 514,737 567,739 619,739 672,741 725,742 777,742 830,746 883,748 935,748 988,748 1041,751 1093,752 1146,754 1199,757"/>
+                <TextEquiv>
+                    <Unicode>on syn rott/ zu dem kam ouch die gottes stimme die sel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="129,794 1187,826 1186,769 1123,756 128,731"/>
+                <Baseline points="137,778 189,781 242,781 294,783 347,784 400,787 452,790 505,791 558,793 610,793 663,793 716,796 768,799 821,800 874,802 926,802 979,804 1032,805 1084,805 1137,806 1190,805"/>
+                <TextEquiv>
+                    <Unicode>bedry nechte / vnnd redt mit yme als hie vor geschriben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="648,1432 657,1432 661,1428 685,1428 694,1437 723,1432 723,1354 717,1354 692,1377 682,1375 667,1389 648,1386"/>
+                <Baseline points="656,1425 691,1425 727,1425"/>
+                <TextEquiv>
+                    <Unicode>de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="723,1493 734,1497 747,1495 762,1502 771,1495 801,1503 809,1497 816,1498 821,1440 805,1443 779,1464 762,1462 738,1480 725,1482"/>
+                <Baseline points="730,1498 760,1492 790,1489 820,1491"/>
+                <TextEquiv>
+                    <Unicode>16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="646,1834 655,1833 660,1838 675,1834 701,1834 705,1838 743,1835 743,1758 714,1755 702,1744 680,1761 665,1764 646,1760"/>
+                <Baseline points="653,1804 683,1806 714,1806 745,1804"/>
+                <TextEquiv>
+                    <Unicode>Londres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="119,2068 1154,2092 1153,2026 116,2000"/>
+                <Baseline points="125,2052 176,2056 228,2063 279,2067 331,2067 383,2069 434,2070 486,2073 537,2076 589,2076 641,2076 692,2077 744,2078 795,2078 847,2078 899,2081 950,2081 1002,2081 1053,2081 1105,2084 1157,2087"/>
+                <TextEquiv>
+                    <Unicode>stet. ChIun was der heilig man Gregorus der 80 zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="113,2109 1158,2151 1157,2096 112,2068"/>
+                <Baseline points="119,2102 171,2106 223,2112 275,2117 327,2120 379,2120 431,2123 483,2126 535,2127 587,2129 639,2129 691,2131 743,2132 795,2129 847,2132 899,2132 951,2134 1003,2135 1055,2135 1107,2135 1160,2135"/>
+                <TextEquiv>
+                    <Unicode>rome was gesessen, in so grosser sorge wie er volfürte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="112,2165 1151,2211 1149,2149 1095,2142 111,2112"/>
+                <Baseline points="119,2156 170,2160 222,2166 274,2169 326,2171 377,2173 429,2174 481,2177 533,2178 584,2180 636,2182 688,2183 740,2183 791,2183 843,2184 895,2186 947,2186 998,2188 1050,2189 1102,2189 1154,2189"/>
+                <TextEquiv>
+                    <Unicode>das gebott gottes das yme gott gebotten hette, das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="105,2217 415,2262 1148,2270 1145,2207 1030,2190 104,2169"/>
+                <Baseline points="113,2207 164,2213 216,2218 268,2223 320,2227 371,2228 423,2231 475,2231 527,2234 578,2235 630,2237 682,2239 734,2240 785,2240 837,2241 889,2242 941,2242 992,2241 1044,2240 1096,2240 1148,2243"/>
+                <TextEquiv>
+                    <Unicode>ernit wüste wo hin er solte in tiischen landen oder wo</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

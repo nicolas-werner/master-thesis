@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:28</Creator>
+        <Created>2025-03-21T12:31:02.426+01:00</Created>
+        <LastChange>2025-03-21T17:28:59.347+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0024_7474441.jpg" imageWidth="2102" imageHeight="2796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697372" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="896,615 896,2234 1917,2234 1917,615"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="916,652 979,645 1008,662 1033,650 1064,657 1104,648 1116,658 1163,639 1163,594 1123,593 1092,612 1071,612 1030,588 999,596 977,582 916,583"/>
+                <Baseline points="923,642 950,642 977,642 1004,642 1031,642 1058,642 1085,642 1112,642 1139,641 1167,639"/>
+                <TextEquiv>
+                    <Unicode>sten vieren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="928,701 1294,702 1389,729 1584,714 1582,658 1449,617 1262,662 1209,639 1176,660 927,646"/>
+                <Baseline points="934,693 966,691 999,691 1031,693 1064,693 1097,693 1129,693 1162,693 1194,693 1227,693 1260,694 1292,696 1325,696 1357,697 1390,699 1423,699 1455,697 1488,696 1520,696 1553,694 1586,693"/>
+                <TextEquiv>
+                    <Unicode>Item zum ersten ain groß keller.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="927,759 980,744 1086,759 1113,749 1139,766 1172,745 1193,757 1252,744 1281,753 1281,711 1265,705 1148,702 1116,714 1086,701 1045,719 996,696 927,693"/>
+                <Baseline points="934,740 959,740 984,740 1009,742 1034,743 1059,743 1084,743 1109,743 1134,743 1159,743 1184,743 1209,743 1234,741 1259,741 1284,743"/>
+                <TextEquiv>
+                    <Unicode>Item ain portner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="913,804 1448,801 1448,739 1172,745 1142,766 956,749 913,779"/>
+                <Baseline points="920,800 946,794 973,791 999,791 1026,793 1052,794 1079,794 1105,794 1132,794 1158,794 1185,794 1212,794 1238,794 1265,794 1291,794 1318,794 1344,794 1371,795 1397,796 1424,797 1451,797"/>
+                <TextEquiv>
+                    <Unicode>Item vnd ain Spitelherr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="907,862 1909,881 1908,789 1801,818 1557,785 1466,815 906,804"/>
+                <Baseline points="914,851 963,842 1013,842 1063,842 1113,843 1163,845 1213,845 1262,845 1312,845 1362,848 1412,848 1462,848 1512,849 1562,851 1611,853 1661,852 1711,851 1761,851 1811,854 1861,854 1911,857"/>
+                <TextEquiv>
+                    <Unicode>Item dise vorgeschriben ampter sind lange zeit nit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="913,932 1011,921 1091,937 1237,900 1326,931 1383,927 1383,871 1320,853 1227,867 1154,851 1130,866 951,845 913,861"/>
+                <Baseline points="920,896 945,896 971,896 997,896 1023,896 1049,896 1075,896 1101,896 1127,896 1153,896 1178,896 1204,896 1230,896 1256,894 1282,893 1308,895 1334,897 1360,898 1386,899"/>
+                <TextEquiv>
+                    <Unicode>alle in brauch gewesen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="907,1015 1911,1006 1910,936 906,937"/>
+                <Baseline points="914,1000 964,994 1014,995 1064,997 1114,997 1164,997 1214,999 1264,1000 1314,1000 1364,1000 1414,1000 1464,1001 1514,1003 1564,1003 1614,1003 1664,1005 1714,1003 1764,1003 1814,1003 1864,1003 1914,1003"/>
+                <TextEquiv>
+                    <Unicode>Zewissent ist das auß dem Capittel vnd Conuente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="911,1053 1902,1057 1890,1007 911,1020"/>
+                <Baseline points="917,1048 966,1045 1015,1048 1065,1048 1114,1048 1164,1048 1213,1048 1262,1048 1312,1050 1361,1051 1411,1051 1460,1051 1509,1054 1559,1054 1608,1054 1658,1054 1707,1054 1756,1054 1806,1054 1855,1054 1905,1054"/>
+                <TextEquiv>
+                    <Unicode>auch den obgemelten aͤpten vnnd amptherren des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="907,1102 1882,1116 1901,1059 906,1063"/>
+                <Baseline points="914,1096 963,1096 1013,1099 1062,1099 1112,1099 1161,1099 1211,1099 1260,1099 1310,1102 1359,1099 1409,1102 1459,1102 1508,1103 1558,1105 1607,1106 1657,1108 1706,1108 1756,1106 1805,1105 1855,1105 1905,1105"/>
+                <TextEquiv>
+                    <Unicode>Gotzhaus Ainnsideln, diß hernach geschriben zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="913,1149 1915,1165 1905,1107 913,1104"/>
+                <Baseline points="920,1144 969,1144 1019,1147 1069,1147 1119,1148 1169,1150 1219,1150 1268,1150 1318,1150 1368,1153 1418,1153 1468,1153 1518,1154 1568,1156 1617,1156 1667,1156 1717,1156 1767,1156 1817,1153 1867,1153 1917,1153"/>
+                <TextEquiv>
+                    <Unicode>Bischoffen, äpten vnd prelaten auf ander gestifften</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="911,1204 1535,1237 1908,1214 1885,1158 911,1153"/>
+                <Baseline points="917,1197 966,1197 1016,1197 1066,1198 1115,1201 1165,1201 1215,1200 1264,1202 1314,1203 1364,1203 1414,1203 1463,1204 1513,1206 1563,1207 1612,1207 1662,1208 1712,1209 1761,1206 1811,1206 1861,1206 1911,1206"/>
+                <TextEquiv>
+                    <Unicode>vnd Gotzheusern für vnd für postuliert sind vnnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="906,1279 939,1275 1002,1299 1091,1290 1086,1208 1058,1203 1045,1215 1024,1215 1001,1199 977,1209 956,1200 946,1212 930,1214 902,1209"/>
+                <Baseline points="911,1248 937,1246 963,1246 989,1247 1015,1249 1041,1251 1067,1254 1093,1257"/>
+                <TextEquiv>
+                    <Unicode>erbiret-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="904,1347 1519,1384 1905,1360 1894,1304 904,1303"/>
+                <Baseline points="911,1344 960,1347 1010,1350 1060,1350 1110,1350 1160,1352 1210,1353 1259,1353 1309,1356 1359,1356 1409,1356 1459,1359 1509,1359 1559,1359 1608,1359 1658,1359 1708,1359 1758,1359 1808,1359 1858,1359 1908,1356"/>
+                <TextEquiv>
+                    <Unicode>Sannt Wolfganng Bischoffe zu Regenspurg ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="916,1406 1482,1448 1604,1416 1900,1429 1899,1360 1518,1383 916,1349"/>
+                <Baseline points="923,1400 974,1398 1026,1399 1077,1400 1129,1400 1180,1402 1232,1403 1283,1403 1335,1406 1386,1407 1438,1409 1489,1411 1541,1412 1592,1412 1644,1412 1695,1412 1747,1412 1798,1410 1850,1409 1902,1412"/>
+                <TextEquiv>
+                    <Unicode>Techant hie zu Ainsideln vor gewesen, ayn Graf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="911,1471 978,1480 1067,1452 1154,1476 1229,1452 1228,1415 1198,1410 1168,1422 999,1402 944,1419 909,1407"/>
+                <Baseline points="917,1448 943,1448 969,1448 996,1448 1022,1448 1048,1448 1075,1450 1101,1451 1127,1451 1154,1451 1180,1451 1206,1452 1233,1454"/>
+                <TextEquiv>
+                    <Unicode>von Veringen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="900,1556 1612,1582 1609,1513 1492,1491 1429,1510 1373,1483 1302,1505 1250,1485 1198,1518 1105,1518 898,1472"/>
+                <Baseline points="908,1544 943,1544 978,1546 1013,1548 1049,1550 1084,1550 1119,1552 1154,1553 1190,1553 1225,1553 1260,1553 1295,1555 1331,1557 1366,1560 1401,1562 1436,1560 1472,1561 1507,1562 1542,1562 1577,1562 1613,1559"/>
+                <TextEquiv>
+                    <Unicode>Warmannus Bischof zu Costentz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="911,1601 1497,1613 1542,1638 1539,1579 1454,1561 1334,1580 1210,1552 909,1551"/>
+                <Baseline points="917,1595 948,1595 979,1596 1011,1598 1042,1600 1073,1601 1105,1601 1136,1601 1167,1603 1199,1604 1230,1604 1261,1606 1293,1607 1324,1607 1355,1609 1387,1610 1418,1610 1449,1610 1481,1612 1512,1612 1544,1610"/>
+                <TextEquiv>
+                    <Unicode>Rumaldus bischof zu Losientz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="897,1651 1883,1687 1913,1603 1499,1628 895,1595"/>
+                <Baseline points="902,1645 952,1648 1003,1648 1054,1648 1105,1650 1155,1651 1206,1653 1257,1657 1308,1657 1358,1660 1409,1661 1460,1663 1511,1663 1561,1663 1612,1666 1663,1666 1714,1666 1764,1663 1815,1663 1866,1663 1917,1663"/>
+                <TextEquiv>
+                    <Unicode>Hainrich Bischof zu Costentz. Ain Freyherr von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="904,1721 1209,1707 1293,1750 1358,1713 1392,1717 1391,1666 1374,1661 1194,1674 1115,1652 1020,1666 903,1651"/>
+                <Baseline points="911,1702 936,1700 961,1699 987,1701 1012,1701 1038,1699 1063,1700 1089,1702 1114,1702 1140,1702 1165,1704 1191,1705 1216,1705 1242,1705 1267,1705 1293,1705 1318,1705 1344,1707 1369,1709 1395,1711"/>
+                <TextEquiv>
+                    <Unicode>Brandis was vor apte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="898,1807 1908,1819 1906,1750 1783,1737 1556,1778 897,1746"/>
+                <Baseline points="905,1801 955,1798 1005,1801 1055,1801 1106,1802 1156,1804 1206,1806 1257,1810 1307,1810 1357,1813 1408,1813 1458,1813 1508,1813 1558,1815 1609,1816 1659,1813 1709,1813 1760,1813 1810,1813 1860,1813 1911,1813"/>
+                <TextEquiv>
+                    <Unicode>Hartman bischof zū Chur, der gaß her Sant iusti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="895,1861 1905,1877 1904,1819 894,1807"/>
+                <Baseline points="902,1849 952,1849 1002,1852 1052,1852 1103,1852 1153,1854 1203,1857 1254,1861 1304,1861 1354,1861 1405,1864 1455,1866 1505,1866 1555,1866 1606,1868 1656,1869 1706,1866 1757,1864 1807,1866 1857,1864 1908,1861"/>
+                <TextEquiv>
+                    <Unicode>vnd sant Sigmunds des küngs der hayligen mar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="899,1909 940,1900 983,1911 999,1902 1088,1918 1120,1902 1137,1915 1185,1918 1184,1881 1154,1871 1123,1875 1081,1858 1066,1866 1029,1855 1002,1867 980,1858 960,1869 927,1855 898,1863"/>
+                <Baseline points="905,1896 930,1898 956,1899 982,1899 1007,1900 1033,1902 1059,1902 1085,1902 1110,1902 1136,1902 1162,1900 1188,1902"/>
+                <TextEquiv>
+                    <Unicode>terer heupter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="904,1953 1887,1990 1887,1925 903,1904"/>
+                <Baseline points="911,1953 962,1950 1014,1953 1065,1954 1117,1956 1168,1956 1220,1959 1271,1959 1323,1962 1374,1962 1426,1962 1477,1962 1529,1962 1580,1965 1632,1965 1683,1968 1735,1967 1786,1965 1838,1967 1890,1962"/>
+                <TextEquiv>
+                    <Unicode>Vlrich Bischof zu Chur, ain Graf von Ryburg,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="895,2018 1703,2024 1702,1976 1623,1967 895,1956"/>
+                <Baseline points="902,2010 942,2007 982,2007 1022,2005 1062,2006 1102,2007 1142,2008 1183,2010 1223,2011 1263,2013 1303,2013 1343,2016 1383,2016 1423,2016 1464,2016 1504,2016 1544,2016 1584,2016 1624,2016 1664,2016 1705,2013"/>
+                <TextEquiv>
+                    <Unicode>styfft den hailigen berg ob Winterthur¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="889,2125 1899,2134 1883,2057 1716,2090 1539,2046 1367,2078 1166,2033 1045,2070 888,2043"/>
+                <Baseline points="896,2102 946,2105 996,2103 1046,2105 1096,2105 1146,2107 1196,2110 1247,2114 1297,2114 1347,2114 1397,2115 1447,2117 1497,2118 1547,2120 1598,2120 1648,2120 1698,2120 1748,2120 1798,2117 1848,2117 1899,2120"/>
+                <TextEquiv>
+                    <Unicode>Herman Bischos zu Chur, ain Frey von eschibach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="898,2162 1271,2178 1386,2165 1386,2132 1298,2113 1080,2132 1030,2113 897,2116"/>
+                <Baseline points="905,2156 930,2154 955,2153 981,2155 1006,2156 1032,2156 1057,2157 1083,2159 1108,2159 1134,2159 1159,2161 1185,2162 1210,2162 1236,2162 1261,2162 1287,2162 1312,2162 1338,2162 1363,2162 1389,2162"/>
+                <TextEquiv>
+                    <Unicode>was vor apt zū pfeffers.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="897,2240 1447,2220 1648,2257 1707,2222 1770,2252 1783,2182 895,2163"/>
+                <Baseline points="902,2204 946,2207 990,2207 1034,2210 1078,2213 1123,2213 1167,2216 1211,2219 1255,2219 1299,2222 1344,2219 1388,2219 1432,2219 1476,2221 1520,2222 1565,2222 1609,2222 1653,2222 1697,2222 1741,2222 1786,2219"/>
+                <TextEquiv>
+                    <Unicode>Eberhart bischof zu Chum in Lamparten¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:05.244+01:00</Created>
+        <LastChange>2025-03-21T17:29:02.440+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0049_7474476.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698137" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="119,501 119,2246 1145,2246 1145,501"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="277,551 337,527 963,549 963,485 888,468 534,496 452,461 277,459"/>
+                <Baseline points="283,533 317,531 351,530 385,530 419,530 453,528 487,527 522,527 556,527 590,527 624,527 658,528 692,530 726,530 761,530 795,531 829,534 863,536 897,536 931,536 966,539"/>
+                <TextEquiv>
+                    <Unicode>Von den zween mordern die sant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="282,622 345,609 492,627 571,606 595,623 642,600 667,619 727,596 801,600 801,543 282,546"/>
+                <Baseline points="289,587 314,587 340,587 365,585 391,584 417,584 442,584 468,584 494,584 519,584 545,584 571,584 596,584 622,584 648,584 673,584 699,584 725,584 750,585 776,587 802,587"/>
+                <TextEquiv>
+                    <Unicode>Dey nrat ermordet hant/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="603,1809 617,1804 625,1812 637,1813 641,1808 652,1811 683,1804 703,1811 699,1709 679,1705 651,1723 641,1718 632,1726 619,1726 609,1737 600,1737"/>
+                <Baseline points="608,1771 639,1771 671,1772 703,1777"/>
+                <TextEquiv>
+                    <Unicode>R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="856,1809 894,1811 902,1804 922,1822 945,1813 1005,1821 1023,1808 1033,1811 1029,1732 1020,1731 1001,1750 988,1741 974,1746 954,1733 933,1751 896,1734 853,1741"/>
+                <Baseline points="862,1780 890,1784 919,1786 948,1786 977,1784 1006,1786 1035,1795"/>
+                <TextEquiv>
+                    <Unicode>quarante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="118,1903 509,1941 1133,1916 1133,1856 1004,1843 897,1880 584,1857 508,1885 118,1847"/>
+                <Baseline points="125,1903 175,1908 226,1909 276,1912 327,1914 377,1914 428,1916 478,1917 529,1917 579,1917 630,1917 681,1917 731,1917 782,1917 832,1917 883,1914 933,1914 984,1913 1034,1911 1085,1910 1136,1908"/>
+                <TextEquiv>
+                    <Unicode>Noch dem aber gottes fründt sant Meynrad in di¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="124,1970 892,1992 1142,1964 1128,1913 509,1941 124,1907"/>
+                <Baseline points="131,1959 181,1960 232,1964 283,1965 333,1968 384,1968 435,1968 485,1968 536,1968 587,1968 638,1968 688,1970 739,1968 790,1968 840,1967 891,1965 942,1965 992,1965 1043,1965 1094,1960 1145,1956"/>
+                <TextEquiv>
+                    <Unicode>ser wuͤstny sechs vnd zweintzig io¬ sin leben vertriben vn̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="124,2022 1136,2022 1136,1965 124,1972"/>
+                <Baseline points="131,2010 181,2010 231,2014 282,2017 332,2019 383,2023 433,2023 483,2022 534,2022 584,2022 635,2022 685,2022 735,2022 786,2020 836,2019 887,2019 937,2019 987,2019 1038,2018 1088,2016 1139,2016"/>
+                <TextEquiv>
+                    <Unicode>sich in dem dienst gottes / mit wachen / beten vn̄ abbruch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="124,2073 1132,2091 1111,2019 124,2026"/>
+                <Baseline points="131,2061 181,2061 231,2065 281,2068 331,2071 381,2073 431,2075 481,2078 531,2076 581,2073 632,2073 682,2074 732,2076 782,2074 832,2073 882,2073 932,2073 982,2073 1032,2073 1082,2070 1133,2070"/>
+                <TextEquiv>
+                    <Unicode>aller weltlichen ding gefestiget het. Begab es sich durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="118,2130 1133,2129 1133,2092 1040,2069 448,2099 118,2066"/>
+                <Baseline points="125,2108 175,2114 226,2118 276,2121 327,2123 377,2125 428,2126 478,2126 529,2126 579,2126 630,2126 681,2126 731,2126 782,2126 832,2124 883,2123 933,2123 984,2123 1034,2123 1085,2122 1136,2123"/>
+                <TextEquiv>
+                    <Unicode>ungeſung des syndes der durch den mundt der schlan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="112,2168 1132,2189 1132,2126 112,2133"/>
+                <Baseline points="119,2162 169,2163 220,2169 271,2172 321,2176 372,2177 423,2179 473,2177 524,2180 575,2180 626,2179 676,2177 727,2177 778,2177 828,2180 879,2177 930,2177 980,2176 1031,2174 1082,2174 1133,2171"/>
+                <TextEquiv>
+                    <Unicode>gen die erste menschen betriegend vß de paradis vtreib</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="117,2249 221,2280 379,2239 1132,2263 1130,2191 1006,2175 752,2204 115,2167"/>
+                <Baseline points="122,2213 172,2219 223,2223 273,2226 324,2230 374,2231 425,2233 475,2234 526,2234 576,2234 627,2234 678,2234 728,2234 779,2234 829,2234 880,2231 930,2231 981,2231 1031,2230 1082,2228 1133,2231"/>
+                <TextEquiv>
+                    <Unicode>daß zween moͤrder an den zürchsee komen die waren biirtig</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

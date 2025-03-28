@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:05.971+01:00</Created>
+        <LastChange>2025-03-21T17:29:03.290+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0056_7474484.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698315" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="131,478 131,1381 1175,1381 1175,478"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="135,508 1168,530 1167,487 1077,457 787,472 724,434 496,423 358,477 134,436"/>
+                <Baseline points="143,504 194,504 245,501 297,502 348,504 400,504 451,504 503,507 554,507 606,508 657,510 708,510 760,512 811,516 863,513 914,516 966,516 1017,516 1069,518 1120,519 1172,521"/>
+                <TextEquiv>
+                    <Unicode>Aber die morder sassen zu zürrich vff den merckt in eins</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="135,574 1164,590 1163,539 1034,522 134,509"/>
+                <Baseline points="143,554 194,554 245,554 296,554 347,556 398,555 449,557 501,557 552,560 603,560 654,560 705,562 756,565 807,563 859,566 910,569 961,570 1012,572 1063,572 1114,574 1166,581"/>
+                <TextEquiv>
+                    <Unicode>offen wirts Huß ob tische vn̄ assent/ die wyl flugen die rap</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="130,621 1159,638 1158,594 1062,573 130,572"/>
+                <Baseline points="137,608 188,605 239,604 290,603 342,605 393,607 444,608 496,611 547,612 598,614 650,614 701,616 752,617 803,617 855,620 906,621 957,623 1009,623 1060,623 1111,625 1163,626"/>
+                <TextEquiv>
+                    <Unicode>pen vmb die fenster vn schussen zu inen in die stuben al/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="137,675 1168,681 1167,646 135,619"/>
+                <Baseline points="143,662 194,658 245,657 297,658 348,659 400,659 451,662 503,662 554,662 606,663 657,665 708,665 760,668 811,671 863,671 914,674 966,674 1017,676 1069,675 1120,677 1172,680"/>
+                <TextEquiv>
+                    <Unicode>so vast das sy den mördern den win vn die spyß vff dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="130,711 1163,733 1097,677 130,679"/>
+                <Baseline points="137,709 188,706 239,706 291,707 342,709 394,711 445,712 497,712 548,713 600,715 651,715 702,717 754,720 805,721 857,721 908,722 960,724 1011,724 1063,724 1114,727 1166,727"/>
+                <TextEquiv>
+                    <Unicode>tische vmbschiitten / vnd kratzten vnd stachent die mörder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="135,772 977,802 1172,787 1172,737 134,724"/>
+                <Baseline points="143,757 194,757 246,760 297,760 349,762 401,763 452,763 504,766 555,767 607,769 659,769 710,769 762,772 813,775 865,775 917,775 968,775 1020,777 1071,778 1123,778 1175,784"/>
+                <TextEquiv>
+                    <Unicode>sere vnderiiren ougen so grüslich das nyeman mocht inen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="139,818 1137,851 1163,802 138,770"/>
+                <Baseline points="146,811 197,808 248,811 299,811 350,813 401,814 452,817 503,817 554,817 605,820 656,820 707,822 758,823 809,823 860,823 911,826 962,829 1013,829 1064,829 1115,831 1166,832"/>
+                <TextEquiv>
+                    <Unicode>das wern / wenn almechtig got wolt es also hon / do das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="135,870 1168,897 1167,843 134,817"/>
+                <Baseline points="143,859 194,859 245,862 297,862 348,864 400,867 451,867 503,867 554,868 606,870 657,870 708,872 760,873 811,873 863,876 914,877 966,879 1017,881 1069,882 1120,882 1172,885"/>
+                <TextEquiv>
+                    <Unicode>ter zymmerman vn syn bruder ersachet/ do gien get sy vn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="130,933 1166,935 1164,897 1080,882 130,890"/>
+                <Baseline points="137,912 188,912 240,913 291,915 343,915 395,917 446,918 498,921 549,921 601,922 653,924 704,924 756,924 807,927 859,927 911,930 962,930 1014,932 1065,933 1117,933 1169,933"/>
+                <TextEquiv>
+                    <Unicode>erschrockenlich in die Stuben darinn die morder sassent /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="125,977 1158,1009 1167,935 124,940"/>
+                <Baseline points="131,963 183,963 235,964 287,966 339,968 391,969 443,969 495,972 547,972 599,973 651,975 703,975 755,978 807,978 859,979 911,981 963,983 1015,986 1067,987 1119,987 1172,984"/>
+                <TextEquiv>
+                    <Unicode>vn fielen sy an für moörder / vn antwurteten sy de gericht zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="126,1033 1164,1052 1131,995 125,977"/>
+                <Baseline points="134,1020 185,1017 237,1018 288,1020 340,1020 392,1022 443,1023 495,1023 546,1026 598,1027 650,1029 701,1029 753,1032 804,1035 856,1035 908,1036 959,1039 1011,1040 1062,1040 1114,1040 1166,1040"/>
+                <TextEquiv>
+                    <Unicode>zürch. So thett got syn gnade/ wann als bald sy den welt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="779,1200 800,1194 813,1205 819,1201 824,1205 832,1201 838,1205 866,1202 857,1125 845,1123 834,1131 828,1125 815,1129 795,1121 770,1125"/>
+                <Baseline points="782,1162 809,1166 837,1170 865,1172"/>
+                <TextEquiv>
+                    <Unicode>Né à¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="658,1287 673,1287 677,1282 690,1287 718,1288 746,1280 745,1228 705,1222 685,1223 666,1215 655,1217"/>
+                <Baseline points="663,1272 691,1273 719,1273 748,1276"/>
+                <TextEquiv>
+                    <Unicode>„ —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="660,1314 676,1313 680,1317 693,1314 723,1321 731,1318 744,1323 741,1284 732,1283 714,1289 688,1284 684,1286 673,1279 656,1280"/>
+                <Baseline points="667,1312 694,1312 721,1314 748,1321"/>
+                <TextEquiv>
+                    <Unicode>beaucoup</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="778,1379 785,1382 796,1377 810,1392 835,1386 843,1392 848,1388 857,1391 870,1296 860,1296 844,1284 830,1288 815,1279 793,1275"/>
+                <Baseline points="789,1358 815,1349 841,1343 867,1348"/>
+                <TextEquiv>
+                    <Unicode>bezug</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="455,1409 464,1409 474,1400 485,1399 491,1390 508,1379 526,1381 531,1375 541,1375 535,1322 514,1321 512,1325 498,1317 485,1323 474,1319 469,1323 445,1322"/>
+                <Baseline points="456,1357 484,1357 513,1360 542,1366"/>
+                <TextEquiv>
+                    <Unicode>seule</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

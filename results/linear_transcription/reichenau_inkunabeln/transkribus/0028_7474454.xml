@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:28</Creator>
+        <Created>2025-03-21T12:31:02.932+01:00</Created>
+        <LastChange>2025-03-21T17:28:59.864+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0028_7474454.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697505" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="232,585 232,1581 1202,1581 1202,585"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="227,623 1160,648 1158,577 1018,587 968,549 795,574 702,529 551,564 487,530 426,560 224,546"/>
+                <Baseline points="232,614 278,611 325,611 371,614 418,617 464,621 511,623 557,623 604,623 650,624 697,627 744,632 790,635 837,635 883,635 930,637 976,638 1023,638 1069,638 1116,640 1163,647"/>
+                <TextEquiv>
+                    <Unicode>Vonsant Meynrat ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="296,693 1173,723 1198,670 294,624"/>
+                <Baseline points="301,680 346,680 391,680 436,680 481,683 526,686 571,686 616,689 661,689 706,689 751,692 796,694 841,694 886,697 931,697 976,697 1021,700 1066,700 1111,703 1156,703 1202,703"/>
+                <TextEquiv>
+                    <Unicode>hübschlieplichlesen was effend vnd armuͤt er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="292,748 1182,784 1195,712 348,684 290,708"/>
+                <Baseline points="298,733 343,730 388,733 433,733 478,736 523,739 568,742 613,742 658,742 703,742 748,745 793,748 838,748 883,751 928,751 973,754 1018,754 1063,757 1108,757 1153,754 1199,757"/>
+                <TextEquiv>
+                    <Unicode>erlitten hat, vß der latinischen hystorien gezogen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="488,1476 508,1483 528,1473 541,1478 556,1475 576,1488 603,1485 603,1404 592,1401 581,1410 573,1406 557,1422 509,1392 488,1401"/>
+                <Baseline points="495,1470 522,1475 550,1471 577,1472 605,1474"/>
+                <TextEquiv>
+                    <Unicode>M r</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="245,1586 261,1589 271,1584 320,1605 332,1597 338,1598 345,1526 323,1524 313,1531 305,1525 290,1531 287,1527 282,1531 262,1527 250,1531"/>
+                <Baseline points="253,1568 284,1564 315,1561 346,1559"/>
+                <TextEquiv>
+                    <Unicode>Le</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="1264,299 1264,452 1357,452 1357,299"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1257,400 1271,397 1283,408 1294,404 1299,408 1313,400 1340,403 1355,397 1356,352 1335,350 1312,331 1299,332 1283,348 1258,346"/>
+                <Baseline points="1264,402 1295,400 1326,399 1357,399"/>
+                <TextEquiv>
+                    <Unicode>11</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

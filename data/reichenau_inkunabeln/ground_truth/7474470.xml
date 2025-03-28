@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_15:00</Creator>
+		<Created>2023-06-12T14:33:29.19+02:00</Created>
+		<LastChange>2024-01-10T09:51:04.126+01:00</LastChange>
+		<Comments>
+                Measurement unit: pixel
+                PrimaryLanguage:
+                Producer: Transkribus
+            </Comments>
+		<TranskribusMetadata docId="1895716" pageId="67074991" pageNr="16" tsid="154460053" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=TXSETFILRJMHHHNSVGRANXHI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UHBRKOJLUAQOQZNWGTRDPFGE" imageId="45286792"/>
+	</Metadata>
+	<Page imageFilename="7474470.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356384140" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573269920_126"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573269920_126" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="95,472 1177,472 1177,1053 95,1053"/>
+			<TextLine id="region_1686573269920_126_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="124,566 1133,571 1133,511 1025,499 124,494"/>
+				<Baseline points="131,548 175,548 220,548 265,548 310,548 354,548 399,548 444,548 489,548 533,548 578,548 623,548 668,548 712,551 757,548 802,551 847,551 891,551 936,551 981,554 1026,554 1070,554 1115,557 1136,557"/>
+				<TextEquiv>
+					<Unicode>dienet er got mit ernſt vn̄ mit andacht/ vn̄ mit ſtrēgen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573269920_126_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="124,612 1137,623 1108,570 124,570"/>
+				<Baseline points="131,602 175,602 220,599 265,599 310,599 354,599 399,599 444,599 489,599 533,599 578,599 623,599 668,599 712,602 757,602 802,602 847,602 891,602 936,605 981,605 1026,605 1070,605 1115,608 1139,608"/>
+				<TextEquiv>
+					<Unicode>vn̄ herten leben/ mit vaſten/ wachen/ betten/ ſyngē vn̄ le</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573269920_126_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="121,672 1134,676 1134,633 1020,614 121,613"/>
+				<Baseline points="128,656 173,653 217,650 262,650 307,650 351,653 396,653 441,653 486,653 530,653 575,653 620,653 665,653 709,653 754,653 799,656 844,656 888,656 933,656 978,656 1023,656 1067,659 1112,662 1136,662"/>
+				<TextEquiv>
+					<Unicode>ſen/ vn̄ mit aller guͦter uͤbung/ ſo dan̄ ein menſch in got</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573269920_126_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="118,731 1132,730 1119,672 118,670"/>
+				<Baseline points="125,706 170,703 214,703 259,703 304,703 348,703 393,703 438,703 483,703 527,703 572,703 617,706 662,706 706,706 751,706 796,706 841,706 885,709 930,709 975,709 1020,709 1064,709 1109,712 1133,718"/>
+				<TextEquiv>
+					<Unicode>tes willē getuͦn kan oder mag. Alſo ward gar ein groß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573269920_126_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="115,774 1130,783 1130,731 988,719 115,732"/>
+				<Baseline points="122,757 167,754 211,754 256,754 301,754 346,754 390,754 435,754 480,757 524,757 569,757 614,757 659,757 703,760 748,760 793,763 838,760 882,760 927,760 972,760 1017,760 1061,763 1106,763 1133,766"/>
+				<TextEquiv>
+					<Unicode>zuͦ louffen zuͦ im vō erbern ſeligen vn̄ guͦtten andechtigē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573269920_126_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="119,826 1124,828 1123,789 1073,773 118,774"/>
+				<Baseline points="125,808 170,805 214,805 259,805 304,805 348,805 393,808 438,808 483,808 527,808 572,808 617,811 662,811 706,814 751,811 796,814 841,811 885,811 930,811 975,814 1020,814 1064,814 1109,814 1127,811"/>
+				<TextEquiv>
+					<Unicode>lüten die in do heim ſuͦchtē/ vmb ſyn guͦt ſelig vn̄ ande¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573269920_126_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="115,873 1133,894 1114,827 115,826"/>
+				<Baseline points="122,859 167,859 211,856 256,856 301,859 346,859 390,859 435,859 480,862 524,862 569,862 614,862 659,865 703,862 748,862 793,862 838,865 882,862 927,865 972,865 1017,865 1061,867 1106,870 1136,870"/>
+				<TextEquiv>
+					<Unicode>chtig lebē/ Als er an diſem ort ſyben ior die ritterſchafft</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573269920_126_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="118,919 1132,934 1132,893 993,875 118,873"/>
+				<Baseline points="125,909 170,906 214,909 259,909 304,909 348,909 393,909 438,912 483,912 527,912 572,912 617,915 662,912 706,915 751,915 796,915 841,915 885,912 930,915 975,915 1020,915 1064,918 1109,918 1133,921"/>
+				<TextEquiv>
+					<Unicode>des himeliſchen künigs volbracht het vn̄ betrachtet das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573269920_126_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="121,971 1113,990 1130,936 119,921"/>
+				<Baseline points="128,960 173,960 217,960 262,960 307,960 351,960 396,963 441,963 486,963 530,963 575,966 620,963 665,963 709,966 754,966 799,969 844,969 888,966 933,966 978,969 1023,969 1067,972 1112,975 1133,978"/>
+				<TextEquiv>
+					<Unicode>die welt alſo ſere zuͦ im zoch/ do wolt er fliehē lyblich wol</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573269920_126_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="121,1026 1137,1043 1136,987 1047,979 121,972"/>
+				<Baseline points="128,1017 173,1014 217,1014 262,1014 307,1014 351,1014 396,1017 441,1014 486,1017 530,1017 575,1017 620,1017 665,1017 709,1017 754,1020 799,1023 844,1020 888,1020 933,1023 978,1023 1023,1023 1067,1026 1112,1026 1139,1032"/>
+				<TextEquiv>
+					<Unicode>luſt vn̄ weltlich ruͦme dē er do het/ vn̄ ſprach zuͦ d̓ frowē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>dienet er got mit ernſt vn̄ mit andacht/ vn̄ mit ſtrēgen
+vn̄ herten leben/ mit vaſten/ wachen/ betten/ ſyngē vn̄ le
+ſen/ vn̄ mit aller guͦter uͤbung/ ſo dan̄ ein menſch in got
+tes willē getuͦn kan oder mag. Alſo ward gar ein groß
+zuͦ louffen zuͦ im vō erbern ſeligen vn̄ guͦtten andechtigē
+lüten die in do heim ſuͦchtē/ vmb ſyn guͦt ſelig vn̄ ande¬
+chtig lebē/ Als er an diſem ort ſyben ior die ritterſchafft
+des himeliſchen künigs volbracht het vn̄ betrachtet das
+die welt alſo ſere zuͦ im zoch/ do wolt er fliehē lyblich wol
+luſt vn̄ weltlich ruͦme dē er do het/ vn̄ ſprach zuͦ d̓ frowē</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

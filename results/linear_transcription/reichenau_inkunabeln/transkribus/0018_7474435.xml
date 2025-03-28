@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:28</Creator>
+        <Created>2025-03-21T12:31:01.734+01:00</Created>
+        <LastChange>2025-03-21T17:28:58.626+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0018_7474435.jpg" imageWidth="2102" imageHeight="2796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697219" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="908,560 908,2170 1917,2170 1917,560"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="906,595 1905,598 1905,556 1722,526 1358,557 1269,520 978,554 906,529"/>
+                <Baseline points="914,588 963,585 1013,588 1063,585 1112,586 1162,588 1212,588 1261,588 1311,586 1361,585 1411,585 1460,585 1510,585 1560,583 1609,585 1659,586 1709,588 1758,588 1808,588 1858,588 1908,585"/>
+                <TextEquiv>
+                    <Unicode>die aptey auf wider mengklichs willen. Anno do¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="910,653 1914,662 1914,602 1850,595 910,602"/>
+                <Baseline points="917,642 967,639 1017,639 1067,639 1117,639 1167,639 1217,639 1267,641 1317,639 1367,636 1417,636 1467,637 1517,639 1567,639 1617,639 1667,639 1717,639 1767,642 1817,642 1867,642 1917,642"/>
+                <TextEquiv>
+                    <Unicode>mini rc Tausent hundert zway vnd neuntzigisten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="917,696 933,692 960,699 968,693 985,693 1038,701 1054,692 1053,662 1014,651 990,653 977,662 961,658 942,644 915,650"/>
+                <Baseline points="923,687 949,687 976,688 1003,689 1030,689 1057,687"/>
+                <TextEquiv>
+                    <Unicode>iaren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="906,755 1909,750 1909,703 1745,669 1471,712 1288,679 906,698"/>
+                <Baseline points="914,740 963,740 1013,741 1063,742 1113,740 1163,740 1213,740 1262,740 1312,740 1362,737 1412,737 1462,738 1512,740 1562,740 1611,740 1661,740 1711,740 1761,740 1811,740 1861,740 1911,743"/>
+                <TextEquiv>
+                    <Unicode>Vlrich der vierzehend apte, ain Graf von Rapers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="910,798 1914,798 1884,745 910,752"/>
+                <Baseline points="917,791 967,791 1017,789 1067,791 1117,791 1167,791 1217,791 1267,791 1317,791 1367,788 1417,791 1467,791 1517,791 1567,791 1617,791 1667,791 1717,791 1767,791 1817,791 1867,791 1917,794"/>
+                <TextEquiv>
+                    <Unicode>wil/ vastschedlich vnd vnnütz, mit seiner vnzym</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="910,853 1914,853 1914,807 1808,799 910,799"/>
+                <Baseline points="917,845 967,842 1017,842 1067,842 1117,842 1167,842 1217,842 1267,842 1317,842 1367,842 1417,842 1467,845 1517,842 1567,843 1617,844 1667,842 1717,844 1767,845 1817,845 1867,842 1917,842"/>
+                <TextEquiv>
+                    <Unicode>lichen regierung / ward abgesetzt Anno &amp;c Tausent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="910,906 1151,925 1226,899 1401,924 1475,896 1516,908 1515,860 1353,842 1246,865 910,853"/>
+                <Baseline points="917,899 947,895 977,893 1007,895 1037,895 1067,893 1097,893 1128,893 1158,893 1188,893 1218,893 1248,893 1278,893 1308,893 1339,893 1369,893 1399,893 1429,893 1459,893 1489,892 1520,890"/>
+                <TextEquiv>
+                    <Unicode>zwayhundert vnd sechs iarn¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="913,1002 1909,1007 1909,962 1721,941 913,953"/>
+                <Baseline points="920,994 969,991 1019,994 1068,993 1118,991 1167,993 1217,992 1266,993 1316,994 1365,994 1415,994 1465,994 1514,994 1564,994 1613,994 1663,996 1712,997 1762,997 1811,997 1861,994 1911,997"/>
+                <TextEquiv>
+                    <Unicode>Berchtold der fünffzehend apte, ain Freyher von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="917,1053 1901,1062 1901,1011 1824,992 917,1004"/>
+                <Baseline points="923,1045 972,1042 1021,1043 1070,1044 1119,1042 1168,1042 1217,1042 1266,1044 1315,1045 1364,1045 1414,1045 1463,1045 1512,1045 1561,1045 1610,1045 1659,1045 1708,1045 1757,1045 1806,1045 1855,1045 1905,1048"/>
+                <TextEquiv>
+                    <Unicode>Walse, des stamens der grafen vom hailigenberg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="910,1108 1913,1114 1913,1055 910,1062"/>
+                <Baseline points="917,1099 966,1096 1016,1094 1066,1095 1116,1093 1166,1093 1216,1093 1265,1095 1315,1096 1365,1096 1415,1096 1465,1096 1515,1095 1565,1094 1614,1096 1664,1096 1714,1096 1764,1096 1814,1096 1864,1096 1914,1099"/>
+                <TextEquiv>
+                    <Unicode>gaß auch die aptey auf/ ain wißringer aller mis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="906,1154 1915,1155 1915,1112 1836,1098 906,1111"/>
+                <Baseline points="914,1144 964,1144 1014,1144 1064,1144 1114,1144 1164,1144 1214,1144 1265,1144 1315,1144 1365,1144 1415,1147 1465,1146 1515,1145 1565,1147 1616,1145 1666,1146 1716,1147 1766,1150 1816,1147 1866,1147 1917,1150"/>
+                <TextEquiv>
+                    <Unicode>würckung seines vorfaren, Was in den freyenkün</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="913,1208 1905,1207 1904,1168 1822,1151 912,1150"/>
+                <Baseline points="920,1200 969,1194 1018,1194 1068,1194 1117,1194 1167,1194 1216,1194 1265,1196 1315,1195 1364,1194 1414,1194 1463,1191 1512,1194 1562,1194 1611,1195 1661,1197 1710,1197 1759,1197 1809,1197 1858,1197 1908,1197"/>
+                <TextEquiv>
+                    <Unicode>sten fur ander hochgelert vnd grosser philosophus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="919,1251 1915,1257 1915,1206 1846,1202 919,1203"/>
+                <Baseline points="926,1245 975,1245 1025,1244 1074,1242 1124,1243 1173,1243 1223,1242 1272,1244 1322,1245 1371,1245 1421,1245 1471,1246 1520,1248 1570,1248 1619,1248 1669,1248 1718,1248 1768,1248 1817,1248 1867,1248 1917,1245"/>
+                <TextEquiv>
+                    <Unicode>Stars anno etc. Tausend zwayhuntert vierzehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="917,1302 1005,1300 1020,1310 1059,1295 1087,1308 1132,1309 1134,1255 1108,1265 1045,1247 1037,1255 1028,1247 978,1260 962,1250 946,1260 918,1250"/>
+                <Baseline points="923,1296 949,1296 976,1295 1002,1293 1029,1293 1055,1293 1082,1293 1108,1293 1135,1293"/>
+                <TextEquiv>
+                    <Unicode>den iaren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="910,1347 1914,1365 1901,1302 910,1303"/>
+                <Baseline points="917,1347 967,1344 1017,1343 1067,1341 1117,1341 1167,1343 1217,1344 1267,1346 1317,1344 1367,1344 1417,1344 1467,1344 1517,1345 1567,1347 1617,1347 1667,1347 1717,1347 1767,1347 1817,1347 1867,1348 1917,1353"/>
+                <TextEquiv>
+                    <Unicode>Cūnrad der sechzehend apte-ain Graf von kyßurg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="910,1404 1914,1404 1914,1364 1865,1356 910,1361"/>
+                <Baseline points="917,1400 967,1395 1017,1392 1067,1392 1117,1392 1167,1394 1217,1395 1267,1395 1317,1395 1367,1395 1417,1395 1467,1395 1517,1395 1567,1395 1617,1395 1667,1397 1717,1398 1767,1398 1817,1398 1867,1398 1917,1400"/>
+                <TextEquiv>
+                    <Unicode>genant von thun/ ain grosser poet vnd gelerter pre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="913,1448 1911,1458 1911,1411 1060,1394 913,1424"/>
+                <Baseline points="920,1442 969,1442 1019,1442 1069,1441 1118,1440 1168,1442 1218,1444 1267,1443 1317,1442 1367,1442 1417,1445 1466,1445 1516,1445 1566,1445 1615,1445 1665,1447 1715,1448 1764,1448 1814,1448 1864,1448 1914,1448"/>
+                <TextEquiv>
+                    <Unicode>lat/ vnder dem verbran zum andern mal das gotz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="910,1497 1913,1510 1884,1456 910,1448"/>
+                <Baseline points="917,1493 966,1493 1016,1493 1066,1493 1116,1493 1166,1493 1216,1493 1265,1493 1315,1493 1365,1496 1415,1496 1465,1496 1515,1496 1565,1496 1614,1496 1664,1496 1714,1496 1764,1496 1814,1499 1864,1496 1914,1499"/>
+                <TextEquiv>
+                    <Unicode>haus schädlich, das Er vor seinem tod widerumb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="906,1544 1911,1564 1911,1509 906,1500"/>
+                <Baseline points="914,1544 964,1544 1014,1543 1064,1541 1114,1542 1164,1544 1214,1542 1264,1543 1314,1544 1364,1547 1414,1546 1464,1544 1514,1545 1564,1547 1614,1547 1664,1547 1714,1547 1764,1550 1814,1550 1864,1550 1914,1547"/>
+                <TextEquiv>
+                    <Unicode>Bauwt in kurtzer zeit, er hat drey Bruͤter was ainer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="906,1601 1896,1617 1909,1566 905,1543"/>
+                <Baseline points="914,1595 963,1592 1013,1592 1063,1592 1113,1592 1163,1594 1213,1595 1262,1593 1312,1595 1362,1595 1412,1598 1462,1595 1512,1595 1562,1596 1611,1598 1661,1598 1711,1598 1761,1601 1811,1601 1861,1601 1911,1604"/>
+                <TextEquiv>
+                    <Unicode>kriechischer kaiser, der ander Ertzbischof zu Saltz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="913,1651 1910,1656 1909,1612 1865,1603 913,1598"/>
+                <Baseline points="920,1645 969,1642 1019,1642 1068,1642 1118,1642 1167,1642 1217,1642 1266,1644 1316,1648 1365,1648 1415,1648 1465,1647 1514,1645 1564,1645 1613,1646 1663,1648 1712,1648 1762,1648 1811,1648 1861,1648 1911,1648"/>
+                <TextEquiv>
+                    <Unicode>burg/ Der dryt Bischof zu Basel-Starb vol aller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="906,1714 1909,1706 1909,1669 1817,1651 906,1659"/>
+                <Baseline points="914,1699 963,1693 1013,1693 1063,1693 1113,1693 1163,1693 1213,1695 1262,1696 1312,1696 1362,1696 1412,1696 1462,1697 1512,1698 1562,1696 1611,1696 1661,1698 1711,1699 1761,1699 1811,1699 1861,1699 1911,1699"/>
+                <TextEquiv>
+                    <Unicode>guͤtten wuürckung. Anno Tausent zwayhundert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="906,1746 1913,1768 1911,1707 906,1716"/>
+                <Baseline points="914,1738 964,1744 1014,1744 1064,1744 1114,1744 1164,1744 1214,1744 1264,1744 1314,1744 1364,1744 1414,1747 1464,1747 1514,1748 1564,1748 1614,1749 1664,1750 1714,1750 1764,1753 1814,1750 1864,1753 1914,1750"/>
+                <TextEquiv>
+                    <Unicode>vnd in den vier vnd ꝺreysigisten iarn Stifft Sant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="901,1810 1728,1832 1740,1766 900,1744"/>
+                <Baseline points="908,1795 949,1795 991,1795 1032,1795 1074,1795 1116,1795 1157,1795 1199,1795 1241,1796 1282,1798 1324,1798 1366,1798 1407,1798 1449,1798 1491,1798 1532,1801 1574,1798 1616,1800 1657,1801 1699,1801 1741,1798"/>
+                <TextEquiv>
+                    <Unicode>katherinen altar dauor Er begraben ligt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="901,1903 1711,1925 1914,1914 1914,1872 1754,1839 1643,1867 1564,1826 1471,1858 1331,1826 900,1856"/>
+                <Baseline points="908,1893 958,1896 1008,1896 1059,1896 1109,1896 1160,1896 1210,1896 1261,1896 1311,1899 1362,1899 1412,1900 1462,1901 1513,1899 1563,1899 1614,1901 1664,1902 1715,1902 1765,1905 1816,1904 1866,1903 1917,1905"/>
+                <TextEquiv>
+                    <Unicode>Annßhelm apt der sißentzehend/ ain Freyher von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="919,1956 1891,1972 1903,1918 918,1905"/>
+                <Baseline points="926,1947 977,1944 1029,1946 1080,1945 1132,1947 1183,1947 1235,1947 1286,1947 1338,1950 1389,1951 1441,1953 1492,1951 1544,1950 1595,1950 1647,1953 1698,1953 1750,1953 1801,1953 1853,1953 1905,1953"/>
+                <TextEquiv>
+                    <Unicode>Swanden Landtherr auß Glaris, ain zemal lob¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="910,2012 1908,2010 1906,1964 1860,1958 909,1952"/>
+                <Baseline points="917,1998 966,1998 1016,1995 1066,1994 1115,1993 1165,1997 1215,1998 1264,1998 1314,2001 1364,2001 1414,2004 1463,2002 1513,2004 1563,2004 1612,2004 1662,2004 1712,2004 1761,2004 1811,2004 1861,2004 1911,2004"/>
+                <TextEquiv>
+                    <Unicode>licher apte, bauwte das schloß pfeffikon, vnnd des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="910,2060 1908,2067 1906,2011 1870,2007 909,2012"/>
+                <Baseline points="917,2055 966,2047 1016,2048 1066,2046 1115,2046 1165,2046 1215,2048 1264,2049 1314,2052 1364,2052 1414,2052 1463,2052 1513,2051 1563,2050 1612,2052 1662,2052 1712,2054 1761,2058 1811,2058 1861,2058 1911,2058"/>
+                <TextEquiv>
+                    <Unicode>gotzhaus hofe zu Zürich Starb anno 7c. Tausent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="910,2107 1736,2108 1736,2078 1675,2057 910,2060"/>
+                <Baseline points="917,2097 958,2097 999,2097 1040,2097 1081,2097 1122,2097 1163,2097 1204,2098 1245,2099 1286,2100 1327,2102 1368,2102 1409,2102 1450,2105 1491,2105 1532,2105 1573,2105 1614,2103 1655,2102 1696,2101 1738,2102"/>
+                <TextEquiv>
+                    <Unicode>zwayhundert siben vnd sechtzigisten iar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="906,2166 1916,2182 1886,2110 906,2107"/>
+                <Baseline points="914,2150 964,2147 1014,2147 1064,2148 1114,2150 1164,2150 1214,2152 1265,2153 1315,2156 1365,2156 1415,2156 1465,2156 1515,2157 1565,2157 1616,2156 1666,2158 1716,2156 1766,2159 1816,2159 1866,2159 1917,2159"/>
+                <TextEquiv>
+                    <Unicode>Vlrich apt der achtzehend, des namens der ander</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:03.831+01:00</Created>
+        <LastChange>2025-03-21T17:29:00.899+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0036_7474462.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697739" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="110,529 110,2250 1157,2250 1157,529"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="121,560 1147,573 1145,513 1087,495 558,525 121,486"/>
+                <Baseline points="128,557 179,554 230,554 281,554 332,554 383,556 434,557 485,557 536,557 587,557 638,557 689,557 740,559 791,560 842,560 893,563 944,563 995,563 1046,563 1097,563 1148,560"/>
+                <TextEquiv>
+                    <Unicode>Hiefert sant Deynrat über de zurrich See mit sy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="112,613 974,640 1153,631 1153,578 110,556"/>
+                <Baseline points="119,608 170,608 222,608 274,608 326,608 378,608 430,611 482,611 534,611 586,611 638,611 689,611 741,611 793,611 845,614 897,615 949,617 1001,617 1053,617 1105,617 1157,617"/>
+                <TextEquiv>
+                    <Unicode>ne iungen schuͤlern / vn̄ wellent in den wald fischen / vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="119,683 953,675 952,639 835,618 118,618"/>
+                <Baseline points="125,662 166,659 208,659 249,661 291,662 333,662 374,662 416,662 457,662 499,663 541,665 582,665 624,665 665,665 707,665 749,665 790,665 832,665 873,665 915,667 957,668"/>
+                <TextEquiv>
+                    <Unicode>das er mög sehen wo es im eßen sy ze wonen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="562,1827 607,1813 687,1831 720,1808 814,1820 884,1797 986,1821 1018,1810 1021,1730 909,1755 800,1713 721,1746 565,1735"/>
+                <Baseline points="569,1801 594,1804 619,1804 644,1799 669,1792 695,1793 720,1795 745,1791 770,1789 796,1789 821,1789 846,1789 871,1790 896,1792 922,1789 947,1786 972,1786 997,1788 1023,1792"/>
+                <TextEquiv>
+                    <Unicode>Johannes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="182,1857 199,1849 235,1862 251,1853 262,1864 273,1857 287,1864 351,1864 345,1761 317,1764 247,1751 199,1787 178,1779"/>
+                <Baseline points="187,1816 214,1818 241,1820 269,1821 296,1823 323,1825 351,1822"/>
+                <TextEquiv>
+                    <Unicode>Kämmerin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="109,1926 1095,1949 1134,1943 1134,1886 304,1895 108,1859"/>
+                <Baseline points="116,1908 167,1917 218,1921 269,1923 320,1925 371,1926 422,1929 473,1929 524,1929 575,1929 626,1930 677,1932 728,1932 779,1932 830,1932 881,1932 932,1932 983,1932 1034,1930 1085,1929 1136,1929"/>
+                <TextEquiv>
+                    <Unicode>CAlso furent sy den See abhin gen richliswiler, da wa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="103,1978 1109,2000 1134,1943 101,1923"/>
+                <Baseline points="110,1962 161,1969 212,1975 264,1977 315,1979 367,1980 418,1980 470,1980 521,1983 573,1982 624,1981 675,1983 727,1983 778,1983 830,1983 881,1984 933,1985 984,1985 1036,1986 1087,1983 1139,1986"/>
+                <TextEquiv>
+                    <Unicode>rent hüser / aber oberthalben dem See was kein huß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="112,2036 1143,2048 1142,1987 110,1974"/>
+                <Baseline points="119,2019 170,2022 221,2023 272,2026 324,2030 375,2031 426,2034 478,2034 529,2035 580,2037 632,2036 683,2034 734,2034 785,2037 837,2037 888,2037 939,2037 991,2037 1042,2035 1093,2034 1145,2031"/>
+                <TextEquiv>
+                    <Unicode>Vnd do sy da hin kament, do gingen sy in einer erberen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="106,2077 1116,2107 1134,2049 105,2027"/>
+                <Baseline points="113,2067 164,2073 215,2077 266,2079 318,2081 369,2081 420,2084 472,2084 523,2087 574,2087 626,2086 677,2086 728,2087 779,2087 831,2087 882,2087 933,2087 985,2087 1036,2087 1087,2085 1139,2084"/>
+                <TextEquiv>
+                    <Unicode>witwen Huß/ dar in liessent sy ir gewant das sy es nit zer/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="109,2123 749,2165 1127,2156 1140,2107 108,2078"/>
+                <Baseline points="116,2117 167,2123 218,2127 269,2130 321,2132 372,2132 423,2135 475,2138 526,2138 577,2138 629,2138 680,2138 731,2138 782,2141 834,2138 885,2138 936,2139 988,2140 1039,2138 1090,2138 1142,2135"/>
+                <TextEquiv>
+                    <Unicode>brechent in der wiistin / vnd kerten gegen einem wald an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="112,2174 442,2218 1144,2207 1143,2155 1097,2143 112,2134"/>
+                <Baseline points="119,2171 170,2174 221,2179 272,2184 324,2186 375,2188 426,2192 478,2192 529,2195 580,2195 632,2195 683,2195 734,2195 785,2195 837,2195 888,2195 939,2194 991,2192 1042,2192 1093,2192 1145,2195"/>
+                <TextEquiv>
+                    <Unicode>einem Bach durch vff vntz an ein anderswasser/ heisset</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="116,2243 130,2247 151,2240 161,2248 184,2236 210,2246 240,2240 275,2246 290,2239 287,2199 268,2199 227,2182 216,2188 190,2184 183,2191 134,2178 112,2183"/>
+                <Baseline points="122,2228 150,2228 178,2229 207,2231 235,2234 263,2237 292,2237"/>
+                <TextEquiv>
+                    <Unicode>die Sie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

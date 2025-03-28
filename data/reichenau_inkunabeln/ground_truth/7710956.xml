@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53254:lm=provided:date=11_07_2023_08:46</Creator>
+		<Created>2023-07-10T15:37:08.734+02:00</Created>
+		<LastChange>2023-08-20T20:31:07.438+02:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075108" pageNr="113" tsid="154460248" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=DTEDLVZCTYHALAXYAXGWWCVG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RVVXWQYGMGYFESTXNSOGXVIV" imageId="46338776"/>
+	</Metadata>
+	<Page imageFilename="7710956.jpg" imageWidth="2786" imageHeight="3730">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356678809" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1689057884034_51"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1689057884034_51" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="238,507 1935,507 1935,2977 238,2977"/>
+			<TextLine id="region_1689057884034_51_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="327,630 1065,600 1816,634 1797,550 1388,517 933,561 764,511 327,563"/>
+				<Baseline points="337,605 381,602 426,602 471,599 516,599 560,599 605,599 650,599 695,599 740,599 784,599 829,599 874,599 919,599 963,596 1008,599 1053,596 1098,596 1142,596 1187,596 1232,599 1277,599 1321,602 1366,602 1411,602 1456,599 1500,602 1545,602 1590,602 1635,605 1679,605 1724,605 1769,605 1814,611 1820,611"/>
+				<TextEquiv>
+					<Unicode>ein track. vn̄ bedeüt das alter. wan̄ wie ſich d̓ wurm krüm</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="322,678 1809,693 1796,617 322,625"/>
+				<Baseline points="331,668 375,668 420,668 465,668 510,668 555,665 599,665 644,665 689,665 734,665 778,665 823,665 868,665 913,665 957,665 1002,665 1047,665 1092,665 1136,665 1181,665 1226,665 1271,668 1315,668 1360,668 1405,668 1450,668 1494,668 1539,668 1584,668 1629,671 1674,671 1718,671 1763,671 1808,671 1814,674"/>
+				<TextEquiv>
+					<Unicode>met vnd in manigerleÿ knoͤpffe ſchlinget. alſo ſtat dem al¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="318,744 1803,762 1766,680 318,701"/>
+				<Baseline points="328,734 373,734 417,734 462,734 507,734 552,734 596,734 641,731 686,731 731,731 775,731 820,734 865,734 910,731 954,731 999,731 1044,731 1089,731 1133,731 1178,731 1223,731 1268,734 1312,734 1357,731 1402,734 1447,734 1492,734 1536,734 1581,737 1626,734 1671,737 1715,737 1760,737 1805,737 1808,737"/>
+				<TextEquiv>
+					<Unicode>ter manigerleÿ vngemach zuͦ vnd verworren knoͤpff Des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="329,827 1809,812 1809,762 1636,747 329,753"/>
+				<Baseline points="340,808 381,802 426,799 471,799 516,799 560,796 605,796 650,796 695,796 740,796 784,799 829,796 874,796 919,796 963,796 1008,796 1053,796 1098,796 1142,796 1187,796 1232,796 1277,799 1321,799 1366,799 1411,799 1456,799 1500,799 1545,799 1590,799 1635,802 1679,802 1724,802 1769,802 1814,802"/>
+				<TextEquiv>
+					<Unicode>geleichē habent die poeten thÿer erdichtet. ypocenthaurus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="327,885 1816,903 1816,816 1744,807 327,829"/>
+				<Baseline points="337,874 381,868 426,868 471,865 516,865 560,865 605,865 650,862 695,862 740,862 784,862 829,862 874,865 919,862 963,862 1008,862 1053,862 1098,862 1142,862 1187,862 1232,862 1277,865 1321,865 1366,865 1411,862 1456,865 1500,862 1545,862 1590,865 1635,868 1679,868 1724,868 1769,868 1814,871 1820,874"/>
+				<TextEquiv>
+					<Unicode>genēnet. die halb menſchen vnd halb pferd ſind. zuͦ bedeütē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="329,941 1805,952 1805,898 1673,874 329,887"/>
+				<Baseline points="340,931 384,931 429,931 474,931 519,931 563,931 608,928 653,928 698,928 743,928 787,931 832,928 877,928 922,928 966,928 1011,928 1056,928 1101,928 1145,928 1190,928 1235,928 1280,928 1324,931 1369,931 1414,931 1459,931 1503,933 1548,931 1593,931 1638,933 1682,933 1727,933 1772,933 1808,936"/>
+				<TextEquiv>
+					<Unicode>die kürcze des lebens. das ſchnell vnd eÿlend hÿnlauft als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="329,1007 1823,1015 1823,955 1760,944 329,937"/>
+				<Baseline points="340,996 384,996 429,996 474,996 519,996 563,993 608,993 653,993 698,993 743,996 787,993 832,993 877,996 922,996 966,993 1011,993 1056,993 1101,993 1145,993 1190,993 1235,993 1280,993 1324,993 1369,993 1414,996 1459,996 1503,996 1548,999 1593,999 1638,999 1682,1002 1727,1002 1772,1002 1817,1002 1826,1002"/>
+				<TextEquiv>
+					<Unicode>die pferd. Ettlich die ſitten der menſchē zuͦbeweiſen. Als in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="333,1071 1809,1082 1809,1013 333,1009"/>
+				<Baseline points="343,1065 387,1062 432,1062 477,1062 522,1062 566,1062 611,1059 656,1059 701,1059 746,1062 790,1062 835,1062 880,1062 925,1062 969,1059 1014,1059 1059,1062 1104,1059 1148,1059 1193,1059 1238,1059 1283,1059 1327,1059 1372,1059 1417,1059 1462,1062 1506,1062 1551,1062 1596,1062 1641,1065 1685,1068 1730,1065 1775,1065 1811,1065"/>
+				<TextEquiv>
+					<Unicode>der fabel Oracij redt ein mauß mit der anderen. vnd die wi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="327,1147 1812,1149 1812,1078 327,1076"/>
+				<Baseline points="337,1130 381,1127 426,1127 471,1127 516,1127 560,1127 605,1127 650,1127 695,1124 740,1124 784,1124 829,1124 874,1124 919,1124 963,1124 1008,1124 1053,1124 1098,1124 1142,1124 1187,1124 1232,1124 1277,1127 1321,1127 1366,1127 1411,1127 1456,1127 1500,1127 1545,1130 1590,1130 1635,1130 1679,1130 1724,1130 1769,1130 1814,1133 1817,1133"/>
+				<TextEquiv>
+					<Unicode>ſel mit dem fuchß. vnd werdent all ſoͤlich fabel erdichte. nit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="336,1201 1816,1229 1816,1151 1717,1139 336,1145"/>
+				<Baseline points="346,1193 390,1193 435,1193 480,1193 525,1193 569,1193 614,1193 659,1190 704,1190 748,1190 793,1190 838,1190 883,1190 928,1190 972,1190 1017,1190 1062,1190 1107,1190 1151,1190 1196,1190 1241,1190 1286,1190 1330,1193 1375,1193 1420,1193 1465,1193 1509,1193 1554,1193 1599,1196 1644,1196 1688,1196 1733,1196 1778,1196 1820,1199"/>
+				<TextEquiv>
+					<Unicode>das ſÿ alſo beſchehen ſind. ſunder zuͦ bedeüten menſchliches</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="336,1270 1812,1273 1810,1229 1602,1203 335,1214"/>
+				<Baseline points="346,1259 390,1259 435,1259 480,1259 525,1259 569,1259 614,1259 659,1259 704,1256 748,1256 793,1256 838,1256 883,1259 928,1256 972,1256 1017,1256 1062,1259 1107,1256 1151,1256 1196,1256 1241,1256 1286,1256 1330,1259 1375,1256 1420,1259 1465,1256 1509,1259 1554,1262 1599,1262 1644,1262 1688,1262 1733,1262 1778,1262 1817,1268"/>
+				<TextEquiv>
+					<Unicode>weſen vn̄ leben Alſo ſind die fabeln eſopi auff die ſitten der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="333,1340 1809,1355 1786,1271 333,1271"/>
+				<Baseline points="343,1324 387,1321 432,1321 477,1324 522,1324 566,1321 611,1324 656,1324 701,1321 746,1321 790,1321 835,1321 880,1318 925,1321 969,1321 1014,1321 1059,1321 1104,1321 1148,1321 1193,1321 1238,1321 1283,1321 1327,1321 1372,1321 1417,1321 1462,1324 1506,1324 1551,1324 1596,1327 1641,1327 1685,1327 1730,1327 1775,1327 1814,1330"/>
+				<TextEquiv>
+					<Unicode>menſchen geordnet. Vnd wir finden des geleichen in dē buͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="336,1403 1807,1420 1807,1359 1708,1335 336,1355"/>
+				<Baseline points="346,1387 390,1390 435,1390 480,1390 525,1390 569,1387 614,1387 659,1387 704,1387 748,1387 793,1387 838,1387 883,1387 928,1387 972,1387 1017,1387 1062,1387 1107,1387 1151,1387 1196,1384 1241,1387 1286,1387 1330,1387 1375,1387 1420,1387 1465,1390 1509,1390 1554,1390 1599,1393 1644,1393 1688,1393 1733,1393 1778,1393 1811,1396"/>
+				<TextEquiv>
+					<Unicode>che der richter. do die baume eines küniges begerten vn̄ re¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="336,1465 1807,1465 1807,1420 1740,1401 336,1400"/>
+				<Baseline points="346,1453 390,1456 435,1453 480,1456 525,1456 569,1456 614,1453 659,1453 704,1453 748,1453 793,1453 838,1453 883,1453 928,1453 972,1456 1017,1456 1062,1453 1107,1453 1151,1453 1196,1453 1241,1453 1286,1453 1330,1453 1375,1453 1420,1453 1465,1453 1509,1453 1554,1453 1599,1456 1644,1459 1688,1459 1733,1459 1778,1459 1811,1453"/>
+				<TextEquiv>
+					<Unicode>deten mit dem oͤlbaum. feÿgenbaum. wein reben. vnd praͤn¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="333,1526 1812,1552 1799,1465 333,1470"/>
+				<Baseline points="343,1518 387,1521 432,1521 477,1518 522,1521 566,1521 611,1521 656,1518 701,1518 746,1518 790,1518 835,1518 880,1518 925,1518 969,1518 1014,1518 1059,1518 1104,1518 1148,1515 1193,1518 1238,1518 1283,1518 1327,1518 1372,1518 1417,1518 1462,1518 1506,1521 1551,1521 1596,1521 1641,1521 1685,1524 1730,1524 1775,1524 1817,1527"/>
+				<TextEquiv>
+					<Unicode>berſtauden. das beſchicht ÿe alles die ſitten der menſchen zuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="336,1597 1809,1608 1809,1548 1727,1533 336,1532"/>
+				<Baseline points="346,1587 390,1587 435,1587 480,1587 525,1587 569,1584 614,1587 659,1584 704,1584 748,1584 793,1584 838,1584 883,1584 928,1584 972,1584 1017,1584 1062,1584 1107,1584 1151,1584 1196,1584 1241,1584 1286,1584 1330,1584 1375,1584 1420,1584 1465,1587 1509,1584 1554,1587 1599,1587 1644,1587 1688,1590 1733,1587 1778,1590 1814,1593"/>
+				<TextEquiv>
+					<Unicode>bedeüten. das nÿm̄ durch erdichte ding zuͦ der warheÿt der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="336,1660 1809,1684 1809,1608 1493,1589 336,1613"/>
+				<Baseline points="346,1650 390,1653 435,1653 480,1653 525,1653 569,1653 614,1653 659,1653 704,1653 748,1650 793,1650 838,1650 883,1650 928,1650 972,1650 1017,1650 1062,1650 1107,1650 1151,1650 1196,1650 1241,1647 1286,1647 1330,1650 1375,1650 1420,1650 1465,1650 1509,1653 1554,1653 1599,1653 1644,1653 1688,1653 1733,1653 1778,1653 1814,1656"/>
+				<TextEquiv>
+					<Unicode>man begeren iſt kōmen müge. Alſo hat auch Demoſtenes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="338,1723 1816,1751 1816,1682 1717,1673 338,1665"/>
+				<Baseline points="349,1715 393,1718 438,1718 483,1718 528,1718 572,1715 617,1715 662,1718 707,1718 751,1715 796,1715 841,1715 886,1715 931,1715 975,1715 1020,1712 1065,1715 1110,1715 1154,1712 1199,1712 1244,1712 1289,1712 1333,1715 1378,1715 1423,1715 1468,1718 1512,1718 1557,1718 1602,1718 1647,1721 1691,1721 1736,1718 1781,1718 1820,1721"/>
+				<TextEquiv>
+					<Unicode>der hoch wol lerendt meyſter zuͦ athenis geton gegen dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="329,1792 1809,1812 1809,1751 1744,1729 840,1755 329,1719"/>
+				<Baseline points="340,1784 384,1784 429,1787 474,1787 519,1784 563,1784 608,1784 653,1784 698,1784 743,1781 787,1781 832,1781 877,1781 922,1778 966,1781 1011,1781 1056,1781 1101,1781 1145,1781 1190,1781 1235,1781 1280,1778 1324,1778 1369,1781 1414,1781 1459,1781 1503,1784 1548,1784 1593,1784 1638,1787 1682,1787 1727,1787 1772,1784 1814,1787"/>
+				<TextEquiv>
+					<Unicode>künig philippo. do er vō den burgern zuͦ athenis begeet jm</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="342,1864 1801,1862 1764,1797 342,1796"/>
+				<Baseline points="352,1850 396,1850 441,1850 486,1850 531,1850 575,1850 620,1850 665,1850 710,1850 754,1847 799,1847 844,1847 889,1847 933,1847 978,1847 1023,1847 1068,1847 1113,1844 1157,1844 1202,1844 1247,1844 1292,1844 1336,1847 1381,1847 1426,1850 1471,1850 1515,1850 1560,1850 1605,1850 1650,1850 1694,1850 1739,1853 1784,1850 1805,1850"/>
+				<TextEquiv>
+					<Unicode>czehen der weÿſeſten zuͦ ſenden. ſo woͤlt er von der ſtat zÿe¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="338,1933 1814,1941 1784,1861 338,1862"/>
+				<Baseline points="349,1912 393,1915 438,1915 483,1915 528,1918 572,1918 617,1915 662,1915 707,1915 751,1915 796,1912 841,1912 886,1912 931,1912 975,1912 1020,1912 1065,1909 1110,1909 1154,1909 1199,1909 1244,1909 1289,1909 1333,1912 1378,1912 1423,1915 1468,1915 1512,1915 1557,1915 1602,1918 1647,1915 1691,1918 1736,1918 1781,1918 1817,1918"/>
+				<TextEquiv>
+					<Unicode>hen die von jm belegeret was. Do dichtet er die fabel wie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="342,1991 1812,1989 1760,1922 342,1931"/>
+				<Baseline points="352,1984 396,1981 441,1981 486,1981 531,1981 575,1981 620,1981 665,1981 710,1981 754,1981 799,1978 844,1978 889,1975 933,1978 978,1978 1023,1978 1068,1978 1113,1978 1157,1978 1202,1978 1247,1978 1292,1978 1336,1978 1381,1978 1426,1978 1471,1981 1515,1981 1560,1981 1605,1981 1650,1981 1694,1981 1739,1981 1784,1981 1817,1984"/>
+				<TextEquiv>
+					<Unicode>der wolff von dem hyrtē begeret den hundt. ſo woͤlt er frid</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="336,2059 1812,2067 1812,1989 336,1994"/>
+				<Baseline points="346,2050 384,2047 429,2047 474,2047 519,2047 563,2047 608,2047 653,2047 698,2044 743,2044 787,2044 832,2044 877,2044 922,2044 966,2044 1011,2044 1056,2044 1101,2044 1145,2041 1190,2044 1235,2044 1280,2041 1324,2041 1369,2044 1414,2044 1459,2047 1503,2047 1548,2047 1593,2047 1638,2047 1682,2047 1727,2047 1772,2047 1817,2047"/>
+				<TextEquiv>
+					<Unicode>mit den ſchaffen haben. damit wolt er widerraten das d̓ kü</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="336,2138 1803,2125 1803,2069 1652,2054 336,2061"/>
+				<Baseline points="346,2115 375,2115 420,2112 465,2112 510,2112 555,2112 599,2115 644,2112 689,2112 734,2112 778,2109 823,2112 868,2109 913,2112 957,2109 1002,2109 1047,2109 1092,2109 1136,2109 1181,2109 1226,2109 1271,2109 1315,2109 1360,2109 1405,2109 1450,2112 1494,2112 1539,2112 1584,2112 1629,2112 1674,2112 1718,2115 1763,2112 1808,2109"/>
+				<TextEquiv>
+					<Unicode>nig het begeret. als die fabel in dem leſen eſopi auß weÿſet.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="338,2201 1805,2193 1805,2119 338,2147"/>
+				<Baseline points="349,2181 393,2178 438,2178 483,2178 528,2178 572,2181 617,2181 662,2181 707,2181 751,2178 796,2178 841,2175 886,2175 931,2178 975,2175 1020,2175 1065,2175 1110,2175 1154,2175 1199,2175 1244,2175 1289,2175 1333,2175 1378,2175 1423,2175 1468,2175 1512,2178 1557,2178 1602,2178 1647,2178 1691,2178 1736,2178 1781,2178 1808,2181"/>
+				<TextEquiv>
+					<Unicode>wann zuͦ geleicher weiß ſprach der meyſter. Wÿe der wolff</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="338,2257 1801,2271 1788,2191 338,2201"/>
+				<Baseline points="349,2246 393,2246 438,2246 483,2246 528,2246 572,2246 617,2246 662,2243 707,2243 751,2243 796,2243 841,2240 886,2240 931,2240 975,2240 1020,2240 1065,2240 1110,2240 1154,2240 1199,2240 1244,2240 1289,2240 1333,2240 1378,2240 1423,2243 1468,2243 1512,2243 1557,2243 1602,2246 1647,2246 1691,2246 1736,2246 1781,2246 1805,2246"/>
+				<TextEquiv>
+					<Unicode>von dem hyrten der hundt begerte. darūb das er die ſchaff</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="342,2316 1812,2331 1768,2255 342,2257"/>
+				<Baseline points="352,2312 396,2312 441,2312 486,2312 531,2309 575,2309 620,2309 665,2312 710,2309 754,2309 799,2309 844,2306 889,2306 933,2306 978,2306 1023,2306 1068,2306 1113,2306 1157,2306 1202,2303 1247,2306 1292,2306 1336,2309 1381,2309 1426,2309 1471,2309 1515,2309 1560,2309 1605,2309 1650,2312 1694,2312 1739,2309 1784,2312 1817,2315"/>
+				<TextEquiv>
+					<Unicode>darnach on ſorg moͤcht würgen. Alſo begeret d̓ künig phi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="342,2394 1812,2387 1812,2331 1710,2320 342,2314"/>
+				<Baseline points="352,2378 396,2378 441,2381 486,2378 531,2378 575,2378 620,2378 665,2378 710,2375 754,2375 799,2375 844,2375 889,2375 933,2372 978,2372 1023,2372 1068,2372 1113,2372 1157,2372 1202,2372 1247,2372 1292,2375 1336,2375 1381,2375 1426,2375 1471,2375 1515,2375 1560,2375 1605,2375 1650,2378 1694,2375 1739,2378 1784,2378 1817,2378"/>
+				<TextEquiv>
+					<Unicode>lippus jm überweiſen haubtleüt zuͦ ſenden das er eüch hÿn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="338,2463 1809,2461 1796,2387 340,2396"/>
+				<Baseline points="349,2446 381,2443 426,2446 471,2443 516,2443 560,2443 605,2443 650,2443 695,2443 740,2440 784,2440 829,2440 874,2440 919,2440 963,2437 1008,2440 1053,2437 1098,2437 1142,2437 1187,2437 1232,2437 1277,2437 1321,2440 1366,2440 1411,2440 1456,2440 1500,2440 1545,2440 1590,2440 1635,2440 1679,2440 1724,2440 1769,2440 1814,2443"/>
+				<TextEquiv>
+					<Unicode>füre deſter leichter moͤcht niderdrucken vnnd vernichten ſo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="342,2524 1809,2524 1809,2461 1717,2450 342,2463"/>
+				<Baseline points="352,2506 396,2509 441,2509 486,2509 531,2512 575,2512 620,2509 665,2509 710,2509 754,2506 799,2506 844,2506 889,2506 933,2506 978,2506 1023,2503 1068,2503 1113,2503 1157,2503 1202,2503 1247,2503 1292,2509 1336,2506 1381,2506 1426,2506 1471,2506 1515,2506 1560,2506 1605,2506 1650,2506 1694,2506 1739,2506 1784,2506 1814,2509"/>
+				<TextEquiv>
+					<Unicode>die huͤtter von eüch kaͤment. Fürbaß ſo merckē den vnder¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="344,2599 1807,2586 1807,2526 1738,2513 344,2528"/>
+				<Baseline points="355,2581 378,2578 423,2578 468,2575 513,2575 558,2575 602,2575 647,2575 692,2575 737,2572 781,2572 826,2572 871,2572 916,2572 960,2569 1005,2569 1050,2569 1095,2569 1139,2572 1184,2572 1229,2572 1274,2572 1318,2572 1363,2572 1408,2572 1453,2569 1497,2572 1542,2572 1587,2572 1632,2572 1677,2575 1721,2575 1766,2572 1811,2572"/>
+				<TextEquiv>
+					<Unicode>ſcheyd vnder fabel. hÿſtori. vnd argument. Hyſtorie ſind</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="348,2651 1823,2675 1823,2604 1758,2582 348,2610"/>
+				<Baseline points="358,2640 402,2640 447,2643 492,2640 537,2643 581,2643 626,2643 671,2640 716,2640 760,2640 805,2640 850,2637 895,2637 939,2637 984,2637 1029,2637 1074,2637 1119,2637 1163,2637 1208,2637 1253,2637 1298,2637 1342,2637 1387,2640 1432,2637 1477,2637 1521,2640 1566,2640 1611,2640 1656,2640 1700,2640 1745,2640 1790,2640 1826,2640"/>
+				<TextEquiv>
+					<Unicode>ware geſchehne ding. Argument ſind die ob ſÿ nit geſche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_33" custom="readingOrder {index:32;}">
+				<Coords points="342,2734 1812,2723 1812,2669 1751,2651 342,2654"/>
+				<Baseline points="352,2709 384,2709 429,2706 474,2709 519,2706 563,2703 608,2706 653,2706 698,2706 743,2706 787,2706 832,2706 877,2706 922,2703 966,2703 1011,2703 1056,2703 1101,2703 1145,2703 1190,2703 1235,2706 1280,2703 1324,2706 1369,2706 1414,2703 1459,2703 1503,2703 1548,2703 1593,2703 1638,2703 1682,2703 1727,2706 1772,2706 1817,2703"/>
+				<TextEquiv>
+					<Unicode>hen ſind. ſo iſt doch müglichen das ſÿ beſchehen. Als die co</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_34" custom="readingOrder {index:33;}">
+				<Coords points="342,2786 1822,2783 1783,2712 342,2732"/>
+				<Baseline points="352,2775 393,2775 438,2775 483,2775 528,2775 572,2775 617,2775 662,2772 707,2772 751,2772 796,2772 841,2772 886,2772 931,2769 975,2769 1020,2769 1065,2769 1110,2769 1154,2769 1199,2769 1244,2769 1289,2772 1333,2772 1378,2772 1423,2769 1468,2769 1512,2769 1557,2772 1602,2772 1647,2772 1691,2769 1736,2769 1781,2766 1826,2769"/>
+				<TextEquiv>
+					<Unicode>medi. terenti. vnd ettlich plauti. vnd der ſelben geleich. Fa</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_35" custom="readingOrder {index:34;}">
+				<Coords points="338,2853 1816,2866 1797,2777 340,2783"/>
+				<Baseline points="349,2837 393,2840 438,2840 483,2840 528,2840 572,2840 617,2837 662,2837 707,2837 751,2840 796,2837 841,2837 886,2837 931,2837 975,2834 1020,2834 1065,2834 1110,2834 1154,2834 1199,2834 1244,2834 1289,2834 1333,2837 1378,2837 1423,2837 1468,2837 1512,2837 1557,2840 1602,2837 1647,2837 1691,2837 1736,2834 1781,2834 1820,2837"/>
+				<TextEquiv>
+					<Unicode>bel ſind die. die nit geſchehen ſind. noch müglichen ſind zuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_37" custom="readingOrder {index:35;}">
+				<Coords points="336,2942 1387,2955 1388,2868 1349,2855 338,2851"/>
+				<Baseline points="346,2909 364,2906 408,2912 453,2909 498,2909 543,2909 587,2909 632,2906 677,2906 722,2906 766,2906 811,2906 856,2906 901,2903 945,2903 990,2903 1035,2903 1080,2903 1124,2903 1169,2906 1214,2906 1259,2906 1304,2903 1348,2903 1393,2903"/>
+				<TextEquiv>
+					<Unicode>beſchehen. wann ſÿ ſind wider die natur.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1689057884034_51_tl_36" custom="readingOrder {index:36;}">
+				<Coords points="1582,2944 1610,2952 1628,2939 1656,2944 1667,2937 1688,2950 1723,2946 1749,2952 1747,2853 1690,2846 1675,2861 1641,2857 1630,2868 1619,2861 1580,2862"/>
+				<Baseline points="1590,2900 1635,2903 1679,2903 1724,2903 1751,2900"/>
+				<TextEquiv>
+					<Unicode>.a. iij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>ein track. vn̄ beꝺeüt ꝺas alter. wan̄ wie ſich ꝺ̓ wurm krüm
+met vnꝺ in manigerleÿ knoͤpffe ſchlinget. alſo ſtat ꝺem al¬
+ter manigerleÿ vngemach zuͦ vnꝺ verwoꝛren knoͤpff Des
+geleichē habent ꝺie poeten thÿer erꝺichtet. ypocenthaurus
+genēnet. ꝺie halb menſchen vnꝺ halb pferꝺ ſinꝺ. zuͦ beꝺeütē
+ꝺie kürcze ꝺes lebens. ꝺas ſchnell vnꝺ eÿlenꝺ hÿnlauft als
+ꝺie pferꝺ. Ettlich ꝺie ſitten ꝺer menſchē zuͦbeweiſen. Als in
+ꝺer fabel Oꝛacij reꝺt ein mauß mit ꝺer anꝺeren. vnꝺ ꝺie wi
+ſel mit ꝺem fuchß. vnꝺ werꝺent all ſoͤlich fabel erꝺichte. nit
+ꝺas ſÿ alſo beſchehen ſinꝺ. ſunꝺer zuͦ beꝺeüten menſchliches
+weſen vn̄ leben Alſo ſinꝺ ꝺie fabeln eſopi auff ꝺie ſitten ꝺer
+menſchen geoꝛꝺnet. Vnꝺ wir finꝺen ꝺes geleichen in ꝺē buͦ
+che ꝺer richter. ꝺo ꝺie baume eines küniges begerten vn̄ re¬
+ꝺeten mit ꝺem oͤlbaum. feÿgenbaum. wein reben. vnꝺ pꝛaͤn¬
+berſtauꝺen. ꝺas beſchicht ÿe alles ꝺie ſitten ꝺer menſchen zuͦ
+beꝺeüten. ꝺas nÿm̄ ꝺurch erꝺichte ꝺing zuͦ ꝺer warheÿt ꝺer
+man begeren iſt kōmen müge. Alſo hat auch Demoſtenes
+ꝺer hoch wol lerenꝺt meyſter zuͦ athenis geton gegen ꝺem
+künig philippo. ꝺo er vō ꝺen burgern zuͦ athenis begeet jm
+czehen ꝺer weÿſeſten zuͦ ſenꝺen. ſo woͤlt er von ꝺer ſtat zÿe¬
+hen ꝺie von jm belegeret was. Do ꝺichtet er ꝺie fabel wie
+ꝺer wolff von ꝺem hyrtē begeret ꝺen hunꝺt. ſo woͤlt er friꝺ
+mit ꝺen ſchaffen haben. ꝺamit wolt er wiꝺerꝛaten ꝺas ꝺ̓ kü
+nig het begeret. als ꝺie fabel in ꝺem leſen eſopi auß weÿſet.
+wann zuͦ geleicher weiß ſpꝛach ꝺer meyſter. Wÿe ꝺer wolff
+von ꝺem hyrten ꝺer hunꝺt begerte. ꝺarūb ꝺas er ꝺie ſchaff
+ꝺarnach on ſoꝛg moͤcht würgen. Alſo begeret ꝺ̓ künig phi
+lippus jm überweiſen haubtleüt zuͦ ſenꝺen ꝺas er eüch hÿn
+füre ꝺeſter leichter moͤcht niꝺerꝺꝛucken vnnꝺ vernichten ſo
+ꝺie huͤtter von eüch kaͤment. Fürbaß ſo merckē ꝺen vnꝺer¬
+ſcheyꝺ vnꝺer fabel. hÿſtoꝛi. vnꝺ argument. Hyſtoꝛie ſinꝺ
+ware geſchehne ꝺing. Argument ſinꝺ ꝺie ob ſÿ nit geſche
+hen ſinꝺ. ſo iſt ꝺoch müglichen ꝺas ſÿ beſchehen. Als ꝺie co
+meꝺi. terenti. vnꝺ ettlich plauti. vnꝺ ꝺer ſelben geleich. Fa
+bel ſinꝺ ꝺie. ꝺie nit geſchehen ſinꝺ. noch müglichen ſinꝺ zuͦ
+beſchehen. wann ſÿ ſinꝺ wiꝺer ꝺie natur.
+.a. iij.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

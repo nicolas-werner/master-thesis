@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52663:lm=provided:date=08_06_2023_08:33</Creator>
+		<Created>2023-06-07T09:11:03.920+02:00</Created>
+		<LastChange>2023-12-20T15:44:09.237+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075028" pageNr="53" tsid="154460114" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=OJEOSWFJMFAQKNLSRWKELCWC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DMCIQYBEFKGQNZFMHYAWTMSC" imageId="45286722"/>
+	</Metadata>
+	<Page imageFilename="7474430.jpg" imageWidth="2102" imageHeight="2796">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356464644" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686124624424_1022"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686124624424_1022" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="132,464 1265,464 1265,2212 132,2212"/>
+			<TextLine id="region_1686124624424_1022_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="205,566 1001,602 1173,581 1172,515 718,538 633,506 203,507"/>
+				<Baseline points="212,558 256,558 301,561 346,561 391,561 436,564 480,564 525,564 570,564 615,564 660,567 704,567 749,564 794,567 839,567 884,567 929,567 973,567 1018,570 1063,570 1108,573 1153,570 1176,573"/>
+				<TextEquiv>
+					<Unicode>Von der loblichen Stifftung des Hochwirdigen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="187,636 757,622 983,651 983,590 187,569"/>
+				<Baseline points="194,615 238,612 283,615 328,615 373,615 418,615 463,615 507,615 552,615 597,618 642,618 687,618 731,618 776,618 821,621 866,621 911,618 955,618 985,618"/>
+				<TextEquiv>
+					<Unicode>Gotzhuß Ainſideln unſer lieben frowen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="318,730 1173,732 1173,678 1132,660 1045,689 786,650 318,676"/>
+				<Baseline points="325,719 370,716 415,716 460,716 504,716 549,719 594,719 639,719 684,719 728,719 773,719 818,722 863,719 908,719 952,719 997,722 1042,719 1087,722 1132,719 1176,725 1179,722"/>
+				<TextEquiv>
+					<Unicode>Ls nun Otto der Goͤtliche/ vnnd der aller</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="300,776 1166,786 1165,734 885,728 856,753 300,713"/>
+				<Baseline points="307,770 352,764 397,764 442,767 486,767 531,767 576,770 621,770 666,770 710,770 755,770 800,770 845,773 890,773 934,770 979,770 1024,773 1069,773 1114,773 1159,770 1167,770"/>
+				<TextEquiv>
+					<Unicode>erſte teütſche Kayſer (ain geborner Her¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1686206090962_355" custom="readingOrder {index:4;}">
+				<Coords points="299,773 314,769 498,797 1173,779 1173,830 299,839"/>
+				<Baseline points="299,818 337,818 382,818 427,818 471,818 516,818 561,818 606,821 651,821 696,821 740,821 785,821 830,821 875,821 920,824 964,824 1009,824 1054,824 1099,824 1144,821 1176,821"/>
+				<TextEquiv>
+					<Unicode>tzog von Sachſſen) die vorgeſchrbnen wū</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="178,880 1170,892 1158,833 177,828"/>
+				<Baseline points="185,869 230,866 274,866 319,866 364,866 409,869 454,869 498,869 543,869 588,869 633,872 678,872 722,872 767,872 812,872 857,872 902,872 946,872 991,875 1036,872 1081,875 1126,875 1170,878 1173,878"/>
+				<TextEquiv>
+					<Unicode>derzaichen von Sant Cuͦnraten Biſchofe zuͦ Coſt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="176,930 1173,937 1173,890 1081,880 176,886"/>
+				<Baseline points="182,920 227,917 271,923 316,923 361,920 406,920 451,920 495,920 540,920 585,920 630,923 675,923 719,923 764,923 809,923 854,926 899,926 943,923 988,923 1033,923 1078,926 1123,926 1167,926 1176,929"/>
+				<TextEquiv>
+					<Unicode>tentz (geborn Grauen von Alltorff) auch andern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="169,983 1167,985 1167,948 1102,934 169,929"/>
+				<Baseline points="176,976 221,970 265,967 310,967 355,967 400,970 445,970 489,970 534,970 579,970 624,970 669,970 713,970 758,973 803,973 848,973 893,973 937,973 982,973 1027,973 1072,973 1117,976 1162,976 1170,976"/>
+				<TextEquiv>
+					<Unicode>gloubhaftigē vernomen hat vnd gruntlich bericht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="172,1029 1170,1044 1170,1000 1124,983 172,985"/>
+				<Baseline points="179,1018 224,1018 268,1015 313,1018 358,1018 403,1021 448,1021 492,1021 537,1021 582,1021 627,1021 672,1021 716,1021 761,1021 806,1024 851,1024 896,1024 940,1024 985,1024 1030,1024 1075,1024 1120,1024 1165,1027 1173,1027"/>
+				<TextEquiv>
+					<Unicode>was. Ward ſein Mayeſtat durch hailigkait diſer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="172,1078 1168,1087 1168,1043 1087,1033 974,1059 172,1029"/>
+				<Baseline points="179,1066 224,1069 268,1069 313,1069 358,1072 403,1072 448,1072 492,1072 537,1072 582,1072 627,1072 672,1072 716,1072 761,1072 806,1072 851,1075 896,1072 940,1072 985,1075 1030,1075 1075,1075 1120,1075 1165,1075 1170,1078"/>
+				<TextEquiv>
+					<Unicode>vber ſeligen hoff ſtat bewegt herzuͦ keren/ taͤd ſiner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="172,1131 1168,1142 1158,1086 172,1078"/>
+				<Baseline points="179,1120 224,1120 268,1120 313,1120 358,1120 403,1123 448,1123 492,1123 537,1123 582,1123 627,1123 672,1123 716,1123 761,1123 806,1123 851,1123 896,1123 940,1126 985,1123 1030,1126 1075,1126 1120,1126 1165,1126 1170,1129"/>
+				<TextEquiv>
+					<Unicode>kayſerlichen Maieſtat Erſten gemahel frow Edgi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="169,1175 1167,1188 1167,1145 1049,1133 169,1130"/>
+				<Baseline points="176,1167 221,1170 265,1170 310,1170 355,1170 400,1173 445,1173 489,1173 534,1173 579,1173 624,1173 669,1173 713,1176 758,1173 803,1173 848,1173 893,1176 937,1173 982,1173 1027,1173 1072,1176 1117,1176 1162,1176 1170,1179"/>
+				<TextEquiv>
+					<Unicode>den geborn küngin von Engellant Elichen bruder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="167,1229 1167,1237 1156,1187 166,1172"/>
+				<Baseline points="173,1218 218,1221 262,1221 307,1221 352,1221 397,1224 442,1224 486,1224 531,1224 576,1224 621,1224 666,1224 710,1224 755,1224 800,1224 845,1227 890,1224 934,1224 979,1227 1024,1224 1069,1224 1114,1224 1159,1227 1170,1230"/>
+				<TextEquiv>
+					<Unicode>Sant Gregorium ainen münch Sant Benedictē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="169,1278 1167,1298 1167,1237 1131,1232 169,1229"/>
+				<Baseline points="176,1272 221,1269 265,1272 310,1272 355,1272 400,1272 445,1272 489,1275 534,1275 579,1275 624,1275 669,1275 713,1275 758,1275 803,1275 848,1275 893,1275 937,1275 982,1275 1027,1275 1072,1275 1117,1275 1162,1281 1170,1284"/>
+				<TextEquiv>
+					<Unicode>ordens vngeuarlich alhye finden/ dann der ſelbig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="166,1330 1153,1352 1162,1298 164,1280"/>
+				<Baseline points="173,1320 218,1320 262,1320 307,1323 352,1323 397,1323 442,1326 486,1326 531,1326 576,1326 621,1326 666,1326 710,1326 755,1326 800,1326 845,1326 890,1326 934,1326 979,1326 1024,1326 1069,1326 1114,1326 1159,1326 1165,1326"/>
+				<TextEquiv>
+					<Unicode>lanng dauor/ verloren geweſen. Vnnd als Er bey</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="166,1388 1098,1396 1170,1383 1170,1345 164,1330"/>
+				<Baseline points="173,1377 218,1371 262,1374 307,1374 352,1374 397,1374 442,1374 486,1374 531,1377 576,1377 621,1377 666,1377 710,1377 755,1377 800,1377 845,1380 890,1377 934,1380 979,1377 1024,1377 1069,1377 1114,1377 1159,1377 1173,1380"/>
+				<TextEquiv>
+					<Unicode>ſchlaffen ſolt in der Ee haymlich vmb gottes liebe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="163,1434 1135,1453 1166,1388 162,1389"/>
+				<Baseline points="170,1421 215,1418 259,1421 304,1424 349,1424 394,1427 439,1427 483,1424 528,1424 573,1424 618,1427 663,1427 707,1427 752,1427 797,1427 842,1427 887,1427 932,1427 976,1427 1021,1427 1066,1427 1111,1427 1156,1427 1170,1430"/>
+				<TextEquiv>
+					<Unicode>willen in den gemellten orden/ vnd das ellende ge</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="169,1506 1163,1490 1156,1441 169,1437"/>
+				<Baseline points="176,1478 221,1472 265,1475 310,1472 355,1475 400,1472 445,1478 489,1475 534,1475 579,1475 624,1475 669,1478 713,1478 758,1478 803,1478 848,1478 893,1478 937,1478 982,1478 1027,1478 1072,1478 1117,1478 1162,1478 1167,1481"/>
+				<TextEquiv>
+					<Unicode>gangen was. Taͤd ouch vnb gottes vnd desſelben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="172,1540 1162,1545 1153,1488 172,1495"/>
+				<Baseline points="179,1523 224,1523 268,1523 313,1523 358,1523 403,1526 448,1526 492,1526 537,1526 582,1526 627,1526 672,1526 716,1526 761,1526 806,1529 851,1529 896,1529 940,1529 985,1529 1030,1529 1075,1529 1120,1529 1165,1532"/>
+				<TextEquiv>
+					<Unicode>ſeinen lieben Swagers willen die Kayſerlich an¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="161,1579 1167,1588 1167,1547 1083,1535 161,1536"/>
+				<Baseline points="167,1574 212,1574 256,1574 301,1577 346,1577 391,1577 436,1577 480,1580 525,1577 570,1577 615,1577 660,1580 704,1580 749,1580 794,1580 839,1580 884,1580 929,1580 973,1577 1018,1580 1063,1580 1108,1580 1153,1580 1170,1583"/>
+				<TextEquiv>
+					<Unicode>dechtigkait Riegal im Brißgoͤw/ mit etlichē Stet</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="161,1638 1158,1647 1158,1589 1057,1581 990,1609 161,1590"/>
+				<Baseline points="167,1625 212,1625 256,1625 301,1628 346,1628 391,1628 436,1628 480,1628 525,1628 570,1628 615,1628 660,1628 704,1631 749,1631 794,1628 839,1628 884,1631 929,1628 973,1631 1018,1628 1063,1628 1108,1628 1153,1631 1162,1631"/>
+				<TextEquiv>
+					<Unicode>ten kentzingen Endingen ouch Rotwile/ vnd aber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="163,1682 1163,1690 1163,1647 1099,1639 163,1637"/>
+				<Baseline points="170,1675 215,1675 259,1675 304,1675 349,1678 394,1678 439,1678 483,1678 528,1678 573,1678 618,1681 663,1681 707,1681 752,1681 797,1681 842,1678 887,1678 932,1678 976,1678 1021,1681 1066,1678 1111,1678 1156,1681 1167,1681"/>
+				<TextEquiv>
+					<Unicode>mit acht gerichten/ ſo Ich vmb kurtzwillen fallen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="164,1741 1163,1742 1147,1689 163,1685"/>
+				<Baseline points="170,1726 215,1726 259,1726 304,1726 349,1726 394,1726 439,1729 483,1729 528,1729 573,1732 618,1732 663,1732 707,1732 752,1732 797,1729 842,1729 887,1729 932,1732 976,1732 1021,1729 1066,1729 1111,1732 1156,1732 1167,1735"/>
+				<TextEquiv>
+					<Unicode>laß/ an dits loblich Gotzhuß vnd Stiffte geben vn̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="157,1782 1162,1797 1162,1746 1119,1742 157,1737"/>
+				<Baseline points="164,1777 209,1777 253,1777 298,1777 343,1780 388,1780 433,1780 477,1780 522,1780 567,1780 612,1783 657,1780 701,1780 746,1780 791,1780 836,1780 881,1783 926,1783 970,1783 1015,1783 1060,1780 1105,1780 1150,1780 1165,1783"/>
+				<TextEquiv>
+					<Unicode>alſo ain vil loblicher ſtiffter diß Gotzhuß mitſampt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="166,1842 1156,1855 1156,1802 1086,1788 166,1785"/>
+				<Baseline points="173,1828 218,1825 262,1828 307,1828 352,1828 397,1831 442,1831 486,1831 531,1831 576,1831 621,1831 666,1834 710,1831 755,1834 800,1831 845,1831 890,1831 934,1831 979,1831 1024,1831 1069,1831 1114,1831 1159,1831"/>
+				<TextEquiv>
+					<Unicode>ſeinem andren gemahel Sant Adelhaitten der kay</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="163,1896 1160,1890 1160,1855 1004,1837 163,1844"/>
+				<Baseline points="170,1878 215,1875 259,1878 304,1878 349,1881 394,1881 439,1881 483,1881 528,1881 573,1881 618,1887 663,1884 707,1884 752,1881 797,1884 842,1884 887,1884 932,1881 976,1884 1021,1884 1066,1884 1111,1881 1156,1884 1162,1884"/>
+				<TextEquiv>
+					<Unicode>ſerin/ die küng Ruͦdolffs von Burgund Tochter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="157,1930 978,1957 1150,1943 1150,1906 156,1899"/>
+				<Baseline points="164,1926 209,1926 253,1926 298,1929 343,1929 388,1932 433,1932 477,1932 522,1935 567,1935 612,1935 657,1935 701,1932 746,1932 791,1935 836,1932 881,1932 926,1935 970,1935 1015,1932 1060,1935 1105,1935 1150,1938 1153,1938"/>
+				<TextEquiv>
+					<Unicode>was/ vnd vor kayſer Lotharii gemahel geweſen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="154,1985 1157,2000 1157,1950 1104,1945 154,1935"/>
+				<Baseline points="161,1980 206,1977 250,1980 295,1980 340,1980 385,1983 430,1983 474,1983 519,1983 564,1983 609,1986 654,1983 699,1983 743,1983 788,1983 833,1983 878,1983 923,1983 967,1983 1012,1986 1057,1986 1102,1986 1147,1986 1159,1983"/>
+				<TextEquiv>
+					<Unicode>Ditz ſind die Stiffter vnd erſten begaber dyß Ge¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="163,2041 1160,2059 1158,2003 1072,1993 162,1988"/>
+				<Baseline points="170,2031 215,2031 259,2028 304,2028 349,2031 394,2034 439,2034 483,2034 528,2034 573,2034 618,2037 663,2037 707,2037 752,2034 797,2037 842,2037 887,2037 932,2037 976,2037 1021,2037 1066,2037 1111,2034 1156,2037 1162,2037"/>
+				<TextEquiv>
+					<Unicode>ſtifftes mitſampt Hertzog Burckharten von Swa</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="157,2085 946,2113 1160,2098 1160,2059 156,2044"/>
+				<Baseline points="164,2079 209,2076 253,2079 298,2079 343,2082 388,2082 433,2085 477,2085 522,2088 567,2085 612,2088 657,2085 701,2085 746,2085 791,2088 836,2088 881,2088 926,2088 970,2088 1015,2088 1060,2088 1105,2085 1150,2085 1162,2085"/>
+				<TextEquiv>
+					<Unicode>ben/ der das Münſter vnd das gotzhuß am Erſten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686124624424_1022_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="162,2155 599,2184 722,2149 1152,2159 1151,2096 161,2092"/>
+				<Baseline points="167,2135 212,2132 256,2132 301,2135 346,2135 391,2138 436,2138 480,2138 525,2138 570,2138 615,2141 660,2141 704,2141 749,2138 794,2138 839,2141 884,2141 929,2141 973,2141 1018,2141 1063,2141 1108,2141 1153,2144"/>
+				<TextEquiv>
+					<Unicode>Sant Eberharten dem Thuͦmtechen von Straß</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:28</Creator>
+        <Created>2025-03-21T12:31:02.321+01:00</Created>
+        <LastChange>2025-03-21T17:28:59.224+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0023_7474440.jpg" imageWidth="2102" imageHeight="2796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697347" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="197,621 197,2264 1233,2264 1233,621"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="369,664 773,669 805,648 996,671 997,593 937,577 833,615 762,590 593,619 522,579 370,589"/>
+                <Baseline points="376,654 407,652 438,651 469,651 500,651 532,651 563,651 594,651 625,651 656,651 688,651 719,651 750,651 781,651 812,649 844,648 875,647 906,645 937,645 968,645 1000,645"/>
+                <TextEquiv>
+                    <Unicode>Des gotzhaus vier Probsteien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="189,715 1213,697 1213,638 189,657"/>
+                <Baseline points="197,707 247,703 298,701 349,701 400,701 451,704 502,704 553,701 604,701 655,701 706,701 756,701 807,701 858,701 909,701 960,699 1011,699 1062,699 1113,697 1164,696 1215,696"/>
+                <TextEquiv>
+                    <Unicode>Die erst im Gotzhaus sol ain brobst sein 6 die welt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="198,762 767,764 750,713 419,706 360,728 198,710"/>
+                <Baseline points="206,758 234,755 262,755 290,755 318,755 347,755 375,755 403,755 431,755 459,755 488,753 516,752 544,752 572,752 600,752 629,752 657,752 685,752 713,752 741,751 770,749"/>
+                <TextEquiv>
+                    <Unicode>lichkait aines aptes regieret.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="196,811 1215,804 1174,746 196,760"/>
+                <Baseline points="203,806 253,806 304,806 355,806 406,806 456,806 507,806 558,806 609,806 659,806 710,806 761,804 812,803 862,803 913,801 964,802 1015,800 1065,800 1116,800 1167,797 1218,797"/>
+                <TextEquiv>
+                    <Unicode>Die anter probstey-ist zu Sannt Gerolt zu frysen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="196,869 1179,874 1210,813 197,811"/>
+                <Baseline points="203,863 253,858 303,859 354,860 404,857 455,857 505,858 556,859 606,857 657,857 707,857 757,857 808,857 858,854 909,854 959,854 1010,854 1060,852 1111,851 1161,848 1212,848"/>
+                <TextEquiv>
+                    <Unicode>hat sant Gerolt ain Hertzog von Saxen mit zway</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="196,915 1186,914 1217,869 196,872"/>
+                <Baseline points="203,911 253,910 304,908 355,908 406,908 456,908 507,908 558,909 609,910 659,908 710,908 761,908 812,908 862,905 913,907 964,905 1015,904 1065,904 1116,903 1167,899 1218,902"/>
+                <TextEquiv>
+                    <Unicode>en seinen hailigen Sünen gestifftet Hainrichen vn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="196,969 1217,960 1209,905 197,916"/>
+                <Baseline points="203,961 253,959 304,961 355,961 406,961 457,961 508,961 559,961 610,960 661,959 712,961 762,959 813,958 864,958 915,958 966,957 1017,954 1068,952 1119,952 1170,952 1221,949"/>
+                <TextEquiv>
+                    <Unicode>Lomo vnd an ditz gotzhaus vor vil hundert iaren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="193,1023 1218,1008 1206,958 195,970"/>
+                <Baseline points="200,1018 251,1012 302,1012 353,1012 404,1012 455,1012 506,1012 557,1014 608,1012 659,1012 710,1010 761,1009 812,1009 863,1009 914,1009 965,1008 1016,1006 1067,1004 1118,1003 1169,1003 1221,1003"/>
+                <TextEquiv>
+                    <Unicode>gegeben/ die sune sind worden Sant Benedictz or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="193,1066 1215,1059 1193,1008 195,1023"/>
+                <Baseline points="200,1063 250,1061 301,1063 352,1063 403,1063 454,1063 505,1066 556,1066 607,1066 658,1063 709,1062 759,1061 810,1060 861,1060 912,1060 963,1057 1014,1057 1065,1057 1116,1055 1167,1051 1218,1048"/>
+                <TextEquiv>
+                    <Unicode>den Im gotzhaus Ainsidlen Sant Como was et¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="193,1120 1220,1132 1193,1057 193,1071"/>
+                <Baseline points="200,1111 251,1114 302,1114 353,1114 404,1116 456,1117 507,1117 558,1117 609,1117 660,1116 712,1114 763,1114 814,1114 865,1114 916,1111 968,1111 1019,1110 1070,1108 1121,1108 1172,1108 1224,1111"/>
+                <TextEquiv>
+                    <Unicode>wan techan/ sind auch bey dem vatter zu sant Ge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="189,1171 272,1188 352,1174 390,1193 460,1173 483,1190 519,1180 558,1192 558,1139 531,1134 390,1133 354,1119 293,1133 238,1116 189,1132"/>
+                <Baseline points="197,1165 223,1165 249,1165 275,1165 301,1166 327,1167 353,1166 379,1165 405,1165 431,1165 457,1167 483,1167 509,1167 535,1167 561,1167"/>
+                <TextEquiv>
+                    <Unicode>rolden begraben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="193,1275 1217,1268 1217,1210 786,1237 193,1211"/>
+                <Baseline points="200,1266 250,1268 301,1266 352,1268 403,1269 454,1269 505,1269 556,1271 607,1269 658,1269 709,1269 759,1269 810,1269 861,1269 912,1266 963,1265 1014,1263 1065,1263 1116,1263 1167,1260 1218,1257"/>
+                <TextEquiv>
+                    <Unicode>Die dryt Probstey, ist das gotzhaus Vare an der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="198,1321 418,1342 443,1322 812,1335 812,1294 787,1280 539,1271 495,1293 198,1271"/>
+                <Baseline points="206,1320 236,1317 266,1317 297,1318 327,1320 358,1320 388,1320 419,1320 449,1322 480,1323 510,1322 540,1320 571,1320 601,1320 632,1320 662,1320 693,1320 723,1320 754,1318 784,1317 815,1317"/>
+                <TextEquiv>
+                    <Unicode>lindtmagt dem flusse gelegen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="193,1379 1220,1382 1213,1309 193,1322"/>
+                <Baseline points="200,1374 251,1371 302,1371 353,1371 404,1371 456,1374 507,1374 558,1374 609,1373 660,1372 712,1372 763,1371 814,1368 865,1368 916,1368 968,1366 1019,1367 1070,1365 1121,1363 1172,1362 1224,1365"/>
+                <TextEquiv>
+                    <Unicode>Die vierd probstey ist zerstöret, vnd yetz ayn dorff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="196,1423 1229,1424 1229,1389 1120,1366 196,1387"/>
+                <Baseline points="203,1421 254,1418 306,1421 357,1421 409,1423 460,1424 512,1424 563,1424 615,1423 666,1421 718,1421 769,1421 821,1421 872,1418 924,1418 975,1418 1027,1419 1078,1419 1130,1418 1181,1415 1233,1415"/>
+                <TextEquiv>
+                    <Unicode>vnd gericht mit klainer anzaigung ainer probstey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="189,1499 387,1477 613,1504 789,1473 1059,1496 1059,1438 972,1424 189,1431"/>
+                <Baseline points="197,1478 240,1473 283,1472 326,1472 370,1474 413,1475 456,1475 500,1476 543,1477 586,1475 630,1475 673,1475 716,1475 759,1474 803,1473 846,1475 889,1472 933,1472 976,1472 1019,1469 1063,1466"/>
+                <TextEquiv>
+                    <Unicode>genant Erlibach am Zürich See gelegen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="378,1592 701,1576 887,1595 954,1576 1000,1594 1013,1518 760,1537 666,1510 461,1546 378,1527"/>
+                <Baseline points="385,1580 416,1577 448,1577 479,1577 511,1577 542,1578 574,1580 605,1577 637,1575 668,1574 700,1574 731,1574 763,1575 794,1577 826,1575 857,1574 889,1574 920,1574 952,1574 983,1574 1015,1574"/>
+                <TextEquiv>
+                    <Unicode>Dar nach sollent im gotzhaus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="401,1641 458,1652 503,1630 540,1643 563,1630 633,1668 701,1651 756,1669 857,1660 858,1592 842,1588 655,1579 607,1598 588,1583 402,1597"/>
+                <Baseline points="409,1631 434,1629 459,1631 484,1631 509,1630 534,1629 559,1629 584,1631 609,1630 634,1628 659,1628 684,1628 709,1626 734,1625 759,1625 784,1625 809,1625 834,1626 860,1628"/>
+                <TextEquiv>
+                    <Unicode>ein vier hoche ampter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="189,1728 1175,1730 1175,1679 189,1682"/>
+                <Baseline points="197,1729 246,1729 295,1729 344,1729 393,1730 442,1732 491,1730 540,1729 589,1729 638,1729 688,1729 737,1729 786,1728 835,1726 884,1726 933,1726 982,1726 1031,1726 1080,1724 1129,1723 1179,1723"/>
+                <TextEquiv>
+                    <Unicode>Ain Techn sol des aptes gaistlichkait regieren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="196,1797 472,1786 612,1826 1094,1782 1227,1811 1228,1740 1169,1728 197,1739"/>
+                <Baseline points="203,1786 254,1780 305,1780 357,1782 408,1783 459,1783 511,1780 562,1783 613,1783 665,1783 716,1781 767,1782 819,1781 870,1780 921,1780 973,1780 1024,1780 1075,1780 1127,1782 1178,1780 1230,1777"/>
+                <TextEquiv>
+                    <Unicode>Item ayn senger sol zu hochen tagen andern Im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="198,1852 273,1839 340,1864 418,1851 552,1875 552,1809 517,1798 448,1804 402,1787 342,1799 254,1785 198,1797"/>
+                <Baseline points="206,1834 232,1834 259,1834 286,1834 313,1834 340,1834 367,1834 393,1834 420,1834 447,1836 474,1836 501,1835 528,1833 555,1831"/>
+                <TextEquiv>
+                    <Unicode>Chor vor singen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="217,1951 1081,1968 1220,1955 1220,1893 843,1861 747,1892 215,1883"/>
+                <Baseline points="224,1935 274,1932 324,1933 374,1935 424,1936 474,1938 524,1938 574,1938 624,1935 674,1938 724,1938 774,1937 824,1935 874,1935 924,1935 974,1935 1024,1935 1074,1938 1124,1938 1174,1938 1224,1938"/>
+                <TextEquiv>
+                    <Unicode>Item ain Custor zū ꝺem hailtum vn̄ &amp;en gotzhaus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="197,2007 207,2010 242,1992 249,1999 276,1995 309,2022 322,2017 327,2022 371,1996 372,1959 284,1937 264,1951 228,1956 215,1947 198,1952"/>
+                <Baseline points="206,1992 234,1987 262,1986 291,1986 319,1986 347,1986 376,1986"/>
+                <TextEquiv>
+                    <Unicode>zierden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="211,2090 762,2133 964,2093 1223,2130 1201,2017 1106,2054 211,2035"/>
+                <Baseline points="218,2085 268,2085 318,2089 368,2091 419,2091 469,2091 519,2091 570,2091 620,2091 670,2094 721,2094 771,2094 821,2094 871,2092 922,2091 972,2091 1022,2091 1073,2091 1123,2091 1173,2091 1224,2091"/>
+                <TextEquiv>
+                    <Unicode>Item ain kamerer sol sein ayn pfleger vn̄ furmůn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="200,2172 254,2156 309,2184 378,2165 478,2181 570,2147 639,2174 666,2165 665,2114 527,2094 340,2107 268,2086 232,2101 198,2085"/>
+                <Baseline points="206,2138 231,2138 257,2138 283,2138 308,2139 334,2141 360,2142 386,2144 411,2144 437,2144 463,2144 488,2144 514,2144 540,2144 566,2144 591,2144 617,2144 643,2144 669,2141"/>
+                <TextEquiv>
+                    <Unicode>der den iungen herren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="198,2262 1218,2275 1191,2186 1102,2213 1043,2184 198,2186"/>
+                <Baseline points="206,2252 256,2246 307,2246 358,2246 409,2248 459,2249 510,2249 561,2249 612,2252 662,2249 713,2249 764,2250 815,2250 865,2249 916,2249 967,2249 1018,2249 1068,2249 1119,2249 1170,2249 1221,2252"/>
+                <TextEquiv>
+                    <Unicode>Item aber sollend sein drey Empter vnder den naͤch</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

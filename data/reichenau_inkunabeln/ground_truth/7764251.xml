@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.4.0:model_id=54840:lm=provided:date=16_10_2023_13:42</Creator>
+		<Created>2023-09-11T14:08:27.944+02:00</Created>
+		<LastChange>2023-10-16T15:54:44.548+02:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075149" pageNr="154" tsid="154460318" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=TJUHCJHEGTVNJXOQOQCFSFBV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JJGNDEHWZIBIZDTCLCLHOOEX" imageId="48050372"/>
+	</Metadata>
+	<Page imageFilename="7764251.jpg" imageWidth="2786" imageHeight="3640">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356937966" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="TextRegion_1697463472753_3856"/>
+				<RegionRefIndexed index="1" regionRef="TextRegion_1697463472753_3857"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="TextRegion_1697463472753_3856" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="814,518 1709,518 1809,3066 814,3066"/>
+			<TextLine id="line_1697463509463_3868" custom="readingOrder {index:0;}">
+				<Coords points="921,700 1429,670 1486,643 1571,670 1711,657 1712,618 1560,597 1229,638 923,635"/>
+				<Baseline points="917,682 960,677 1005,677 1050,674 1094,671 1139,668 1184,668 1229,665 1274,665 1318,674 1488,662 1509,662 1554,656 1599,653 1643,650 1688,656 1714,656"/>
+				<TextEquiv>
+					<Unicode>Pelagius ein ketzer. lxx.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463519682_3881" custom="readingOrder {index:1;}">
+				<Coords points="925,750 1672,708 1673,677 1604,661 1443,698 1302,662 927,701"/>
+				<Baseline points="921,731 954,728 999,725 1044,725 1089,722 1133,719 1178,719 1223,716 1268,716 1312,713 1357,716 1402,716 1444,707 1500,698 1545,707 1590,701 1635,698 1675,698"/>
+				<TextEquiv>
+					<Unicode>Peregrinus ein biſchoff lvj.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463516746_3876" custom="readingOrder {index:2;}">
+				<Coords points="925,799 1677,766 1675,702 1441,754 1336,724 927,751"/>
+				<Baseline points="930,784 951,778 996,775 1041,775 1086,772 1130,769 1175,766 1220,766 1265,763 1309,763 1354,760 1399,760 1444,763 1497,754 1542,754 1587,751 1632,748 1679,748"/>
+				<TextEquiv>
+					<Unicode>Pilgerim worden getoͤttet. cxviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3856_tl_7" custom="readingOrder {index:3;}">
+				<Coords points="929,850 1683,821 1685,761 931,801"/>
+				<Baseline points="936,832 957,826 1002,826 1047,823 1092,823 1136,817 1181,817 1226,817 1271,814 1315,814 1360,811 1405,811 1450,811 1494,805 1539,808 1584,805 1629,802 1685,802"/>
+				<TextEquiv>
+					<Unicode>Permēides. liebhaber der wiſheit xxxij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463524306_3889" custom="readingOrder {index:4;}">
+				<Coords points="926,897 1721,859 1722,826 1653,813 1510,855 1289,823 928,848"/>
+				<Baseline points="933,886 954,877 999,877 1044,874 1089,871 1133,868 1178,868 1223,865 1268,865 1312,865 1357,868 1467,859 1512,862 1557,859 1602,853 1646,853 1691,856 1722,858"/>
+				<TextEquiv>
+					<Unicode>Perpetuus ein biſchoff lxxij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463526258_3893" custom="readingOrder {index:5;}">
+				<Coords points="926,946 1679,919 1677,860 1375,915 1197,877 928,896"/>
+				<Baseline points="933,933 942,933 987,924 1032,924 1077,921 1121,918 1166,918 1211,915 1256,918 1300,927 1570,906 1617,907 1661,901 1682,904"/>
+				<TextEquiv>
+					<Unicode>Perſius ein tichter lij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3856_tl_12" custom="readingOrder {index:6;}">
+				<Coords points="932,999 1683,966 1684,922 1644,904 1500,957 1325,925 934,948"/>
+				<Baseline points="939,984 969,975 1014,975 1059,972 1103,969 1148,969 1193,969 1238,966 1282,966 1327,963 1372,963 1417,963 1461,969 1506,963 1551,960 1596,954 1640,951 1685,951"/>
+				<TextEquiv>
+					<Unicode>Peſtilentz die gar groß was .xlij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3856_tl_13" custom="readingOrder {index:7;}">
+				<Coords points="930,1048 1484,1035 1578,1003 1645,1028 1688,1013 1689,970 1475,1006 1398,974 931,999"/>
+				<Baseline points="936,1035 960,1029 1005,1023 1050,1023 1094,1020 1139,1017 1184,1017 1229,1017 1274,1017 1318,1014 1363,1011 1408,1011 1453,1014 1470,1014 1512,1014 1557,1005 1602,1002 1646,1002 1691,1005"/>
+				<TextEquiv>
+					<Unicode>Peſtilentz die aber groß was. cxx.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3856_tl_14" custom="readingOrder {index:8;}">
+				<Coords points="938,1095 1699,1057 1668,1020 1524,1058 1423,1030 940,1049"/>
+				<Baseline points="945,1083 963,1077 1008,1074 1053,1071 1097,1071 1142,1068 1187,1068 1232,1068 1276,1065 1321,1065 1366,1062 1411,1062 1456,1062 1500,1065 1545,1065 1590,1056 1635,1053 1702,1053"/>
+				<TextEquiv>
+					<Unicode>Peſtilentz die gar ſchwer was xxxvj.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3856_tl_15" custom="readingOrder {index:9;}">
+				<Coords points="941,1147 1690,1119 1681,1056 1564,1091 1482,1065 943,1097"/>
+				<Baseline points="948,1133 978,1124 1023,1121 1068,1121 1112,1118 1157,1118 1202,1118 1247,1115 1291,1115 1336,1112 1381,1112 1426,1112 1470,1109 1515,1106 1560,1109 1605,1106 1649,1100 1694,1106"/>
+				<TextEquiv>
+					<Unicode>Petreius der ſich ſelbs durchſtach xliiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463527475_3897" custom="readingOrder {index:10;}">
+				<Coords points="944,1196 1699,1165 1700,1115 1622,1147 1509,1117 946,1145"/>
+				<Baseline points="951,1184 960,1175 1005,1172 1050,1172 1094,1169 1139,1166 1184,1166 1229,1166 1274,1166 1318,1163 1363,1163 1408,1160 1453,1163 1497,1157 1542,1160 1599,1157 1640,1151 1649,1151 1702,1151"/>
+				<TextEquiv>
+					<Unicode>Petronille ein dochter ſancti petri l</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463538361_3905" custom="readingOrder {index:11;}">
+				<Coords points="947,1243 1696,1223 1697,1174 1637,1161 1482,1206 1356,1172 949,1198"/>
+				<Baseline points="954,1232 990,1223 1035,1220 1080,1220 1124,1217 1169,1217 1214,1214 1259,1214 1303,1214 1348,1211 1393,1214 1566,1211 1611,1202 1655,1202 1700,1205"/>
+				<TextEquiv>
+					<Unicode>Petronille der corpel ⁊cͣ. lxx</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463539783_3909" custom="readingOrder {index:12;}">
+				<Coords points="951,1294 1705,1267 1669,1219 1387,1260 1337,1224 952,1246"/>
+				<Baseline points="957,1279 978,1274 1023,1271 1068,1271 1112,1268 1157,1265 1202,1265 1247,1265 1291,1265 1336,1262 1381,1268 1491,1256 1512,1256 1557,1259 1602,1253 1646,1253 1708,1253"/>
+				<TextEquiv>
+					<Unicode>Petronius ein biſchoff lxxij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463544122_3914" custom="readingOrder {index:13;}">
+				<Coords points="953,1346 1700,1317 1708,1266 1571,1301 1428,1266 955,1293"/>
+				<Baseline points="960,1330 1002,1321 1047,1321 1092,1318 1136,1318 1181,1315 1226,1315 1271,1315 1315,1312 1360,1312 1405,1312 1450,1312 1643,1306 1688,1303 1709,1306"/>
+				<TextEquiv>
+					<Unicode>Petrus ein apoſtel vnd bapſt l</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463546385_3918" custom="readingOrder {index:14;}">
+				<Coords points="950,1391 1699,1370 1701,1322 1628,1310 1442,1353 952,1345"/>
+				<Baseline points="957,1381 978,1372 1023,1369 1068,1369 1112,1372 1521,1357 1568,1359 1614,1351 1658,1351 1703,1357"/>
+				<TextEquiv>
+					<Unicode>Petrus. lxiiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463547772_3922" custom="readingOrder {index:15;}">
+				<Coords points="953,1442 1301,1442 1454,1405 1703,1422 1704,1370 1662,1365 1445,1400 1124,1372 954,1393"/>
+				<Baseline points="960,1429 972,1423 1017,1420 1062,1417 1106,1417 1151,1414 1196,1414 1241,1414 1285,1414 1330,1423 1461,1405 1506,1408 1551,1408 1596,1405 1640,1402 1685,1402 1706,1405"/>
+				<TextEquiv>
+					<Unicode>Petrus damaſcenus. lxxxviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463548935_3926" custom="readingOrder {index:16;}">
+				<Coords points="963,1494 1681,1472 1704,1421 1336,1467 1265,1431 964,1442"/>
+				<Baseline points="969,1476 996,1470 1041,1467 1086,1467 1130,1464 1175,1464 1220,1464 1265,1464 1309,1470 1324,1476 1351,1470 1539,1458 1572,1456 1617,1453 1661,1453 1706,1453"/>
+				<TextEquiv>
+					<Unicode>Petrus damianus cvj.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463550225_3930" custom="readingOrder {index:17;}">
+				<Coords points="966,1540 1713,1510 1665,1459 1551,1500 1437,1487 1351,1513 1207,1475 968,1493"/>
+				<Baseline points="972,1524 1005,1518 1050,1518 1094,1518 1139,1515 1184,1515 1229,1515 1274,1518 1282,1518 1327,1527 1369,1518 1518,1506 1530,1509 1575,1503 1620,1500 1664,1500 1716,1496"/>
+				<TextEquiv>
+					<Unicode>Petrus alfonſus. cxiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463553962_3934" custom="readingOrder {index:18;}">
+				<Coords points="964,1591 1654,1568 1709,1558 1710,1512 1544,1551 965,1543"/>
+				<Baseline points="969,1575 993,1569 1038,1566 1083,1566 1127,1563 1172,1563 1217,1563 1262,1563 1306,1563 1351,1564 1545,1557 1590,1554 1635,1551 1679,1551 1712,1554"/>
+				<TextEquiv>
+					<Unicode>Petrus abaelardus cviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463557523_3939" custom="readingOrder {index:19;}">
+				<Coords points="961,1634 1719,1615 1710,1567 1543,1606 1432,1562 962,1591"/>
+				<Baseline points="966,1623 984,1620 1029,1617 1074,1614 1118,1614 1163,1614 1208,1614 1253,1614 1297,1614 1342,1614 1387,1614 1432,1611 1476,1617 1587,1608 1632,1605 1676,1602 1721,1605"/>
+				<TextEquiv>
+					<Unicode>Petrus lumbard ein biſchoff cx</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463559555_3943" custom="readingOrder {index:20;}">
+				<Coords points="970,1690 1668,1674 1717,1662 1718,1631 1554,1651 1463,1630 1374,1658 1210,1623 971,1642"/>
+				<Baseline points="975,1673 984,1670 1029,1664 1074,1664 1118,1664 1163,1661 1208,1661 1253,1661 1297,1667 1578,1658 1584,1658 1629,1655 1673,1649 1718,1652"/>
+				<TextEquiv>
+					<Unicode>Petrus comeſtor cx.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463560858_3947" custom="readingOrder {index:21;}">
+				<Coords points="973,1737 1720,1717 1721,1662 1426,1708 1337,1674 974,1690"/>
+				<Baseline points="978,1724 1008,1715 1053,1715 1097,1715 1142,1715 1187,1712 1232,1712 1276,1712 1321,1712 1366,1712 1411,1718 1555,1711 1602,1709 1646,1703 1691,1700 1721,1703"/>
+				<TextEquiv>
+					<Unicode>Petrus de tharentaſia xiiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463562582_3951" custom="readingOrder {index:22;}">
+				<Coords points="976,1787 1418,1768 1464,1792 1508,1762 1682,1771 1719,1738 1601,1727 1462,1759 1267,1723 977,1738"/>
+				<Baseline points="981,1772 1002,1766 1047,1763 1092,1763 1136,1763 1181,1763 1226,1763 1271,1763 1315,1763 1360,1766 1405,1769 1563,1760 1587,1760 1632,1754 1676,1751 1721,1754"/>
+				<TextEquiv>
+					<Unicode>Petrus tharentaſien̄. cx.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463564300_3956" custom="readingOrder {index:23;}">
+				<Coords points="979,1840 1015,1820 1677,1824 1719,1809 1720,1768 1507,1807 1216,1772 980,1788"/>
+				<Baseline points="984,1822 1014,1814 1059,1814 1103,1811 1148,1811 1193,1811 1238,1814 1282,1814 1327,1814 1372,1811 1417,1814 1461,1817 1506,1814 1539,1808 1568,1809 1614,1805 1658,1802 1703,1802 1721,1805"/>
+				<TextEquiv>
+					<Unicode>Petrus der nüw marterer cxiiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463570289_3971" custom="readingOrder {index:24;}">
+				<Coords points="976,1884 1725,1870 1726,1817 1422,1856 1217,1823 977,1839"/>
+				<Baseline points="981,1873 990,1867 1035,1864 1080,1861 1124,1861 1169,1861 1214,1861 1259,1861 1303,1864 1575,1861 1593,1858 1638,1852 1682,1852 1727,1858"/>
+				<TextEquiv>
+					<Unicode>Petrus von eliaco cxxij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463572001_3975" custom="readingOrder {index:25;}">
+				<Coords points="979,1936 1703,1917 1703,1866 1582,1860 1381,1911 1216,1876 980,1888"/>
+				<Baseline points="984,1918 1029,1912 1074,1912 1118,1912 1163,1912 1208,1912 1253,1912 1297,1912 1342,1918 1366,1918 1561,1908 1599,1903 1643,1903 1688,1900 1706,1903"/>
+				<TextEquiv>
+					<Unicode>Petrus manienus. lxxxviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463573171_3979" custom="readingOrder {index:26;}">
+				<Coords points="978,1985 1726,1970 1705,1915 1515,1945 980,1934"/>
+				<Baseline points="984,1975 1002,1969 1047,1966 1092,1966 1136,1966 1181,1966 1226,1963 1271,1960 1315,1960 1360,1963 1539,1954 1584,1954 1629,1951 1673,1951 1718,1951 1727,1954"/>
+				<TextEquiv>
+					<Unicode>Perg der gar groß iſt cxiiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463575594_3983" custom="readingOrder {index:27;}">
+				<Coords points="1216,2078 1276,2082 1287,2073 1307,2086 1390,2084 1424,2066 1431,1977 1396,1968 1327,1979 1312,1990 1282,1971 1267,1982 1222,1981"/>
+				<Baseline points="1223,2061 1259,2052 1303,2046 1372,2043 1428,2047"/>
+				<TextEquiv>
+					<Unicode>PI</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3856_tl_53" custom="readingOrder {index:28;}">
+				<Coords points="987,2138 1682,2109 1712,2132 1736,2127 1738,2054 1383,2087 988,2069"/>
+				<Baseline points="993,2121 1023,2115 1068,2112 1112,2109 1157,2112 1202,2112 1247,2112 1291,2112 1336,2109 1381,2109 1426,2106 1470,2106 1515,2106 1560,2103 1605,2103 1649,2103 1694,2100 1739,2106"/>
+				<TextEquiv>
+					<Unicode>Pilatus ein ꝟſeher des lands Iudee xlviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3856_tl_54" custom="readingOrder {index:29;}">
+				<Coords points="987,2185 1731,2163 1731,2127 1692,2119 988,2137"/>
+				<Baseline points="993,2172 1017,2166 1062,2163 1106,2160 1151,2160 1196,2160 1241,2160 1285,2160 1330,2160 1375,2157 1420,2157 1464,2157 1509,2157 1554,2154 1599,2154 1643,2154 1688,2151 1739,2155"/>
+				<TextEquiv>
+					<Unicode>Philemon ein liebhaber d̓ wißheit xxxvj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3856_tl_55" custom="readingOrder {index:30;}">
+				<Coords points="983,2234 1737,2220 1737,2175 1704,2168 983,2188"/>
+				<Baseline points="989,2212 1023,2213 1068,2210 1112,2210 1157,2210 1202,2210 1247,2210 1291,2210 1336,2210 1381,2207 1426,2207 1470,2207 1515,2207 1560,2204 1605,2204 1649,2201 1694,2201 1739,2207"/>
+				<TextEquiv>
+					<Unicode>Piſthuͦß wurdē durch karolū gebuwē xciiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463585604_3990" custom="readingOrder {index:31;}">
+				<Coords points="982,2286 1611,2255 1737,2277 1722,2218 1565,2250 982,2237"/>
+				<Baseline points="987,2266 1047,2261 1092,2261 1136,2258 1181,2261 1226,2261 1518,2258 1563,2258 1608,2255 1652,2252 1697,2252 1739,2258"/>
+				<TextEquiv>
+					<Unicode>Philemon lxiiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3856_tl_58" custom="readingOrder {index:32;}">
+				<Coords points="990,2334 1706,2331 1740,2326 1741,2273 990,2287"/>
+				<Baseline points="996,2321 1026,2315 1071,2309 1115,2309 1160,2309 1205,2309 1250,2309 1294,2309 1339,2309 1384,2309 1429,2309 1473,2306 1518,2306 1563,2309 1608,2309 1652,2303 1697,2306 1742,2312"/>
+				<TextEquiv>
+					<Unicode>Philippus ein künig macedonum xxxiiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463586994_3994" custom="readingOrder {index:33;}">
+				<Coords points="993,2385 1484,2359 1663,2384 1736,2368 1737,2329 1631,2322 1557,2361 1504,2336 1388,2359 1293,2321 994,2338"/>
+				<Baseline points="999,2374 1035,2363 1080,2360 1124,2360 1169,2360 1214,2360 1259,2360 1303,2360 1348,2363 1393,2366 1503,2357 1548,2368 1593,2363 1638,2360 1682,2354 1727,2357 1739,2357"/>
+				<TextEquiv>
+					<Unicode>Philippus ein künig xxxvj.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463588763_3998" custom="readingOrder {index:34;}">
+				<Coords points="999,2438 1764,2426 1780,2360 1630,2404 1452,2405 1392,2367 999,2388"/>
+				<Baseline points="1005,2419 1008,2416 1053,2410 1097,2410 1142,2407 1187,2410 1232,2410 1276,2410 1321,2407 1366,2410 1411,2407 1456,2413 1575,2407 1620,2413 1664,2407 1709,2404 1754,2410 1781,2413"/>
+				<TextEquiv>
+					<Unicode>Philippus ein künig ſirie. xliij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463589859_4002" custom="readingOrder {index:35;}">
+				<Coords points="1002,2486 1780,2464 1780,2422 1749,2419 1580,2451 1428,2453 1374,2423 1002,2437"/>
+				<Baseline points="1008,2470 1017,2464 1062,2461 1106,2461 1151,2458 1196,2461 1241,2458 1285,2458 1330,2458 1375,2461 1593,2458 1638,2461 1682,2458 1727,2458 1772,2461 1781,2461"/>
+				<TextEquiv>
+					<Unicode>Philippus ein apoſtel liij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463591475_4006" custom="readingOrder {index:36;}">
+				<Coords points="1002,2537 1529,2507 1738,2526 1755,2479 1677,2468 1608,2500 1401,2470 1002,2485"/>
+				<Baseline points="1008,2518 1047,2512 1092,2509 1136,2509 1181,2509 1226,2509 1271,2509 1315,2509 1360,2509 1405,2509 1578,2506 1623,2509 1667,2506 1712,2506 1757,2509"/>
+				<TextEquiv>
+					<Unicode>Philippus ein biſchoff lviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463592561_4010" custom="readingOrder {index:37;}">
+				<Coords points="1005,2584 1552,2554 1754,2578 1754,2522 1724,2519 1432,2552 1297,2519 1005,2538"/>
+				<Baseline points="1011,2571 1050,2562 1094,2562 1139,2556 1184,2559 1229,2556 1274,2559 1318,2559 1363,2562 1575,2553 1620,2562 1664,2556 1709,2556 1757,2556"/>
+				<TextEquiv>
+					<Unicode>Philippus prefectus lviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3856_tl_69" custom="readingOrder {index:38;}">
+				<Coords points="999,2632 1754,2621 1754,2578 1713,2571 1587,2604 1498,2568 1438,2590 1309,2568 999,2583"/>
+				<Baseline points="1005,2622 1011,2619 1056,2613 1100,2610 1145,2610 1190,2607 1235,2607 1279,2607 1324,2607 1369,2607 1414,2607 1458,2607 1503,2610 1521,2610 1566,2607 1611,2616 1655,2610 1700,2607 1757,2611"/>
+				<TextEquiv>
+					<Unicode>Philippus ein keiſer der erſt lxij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3856_tl_70" custom="readingOrder {index:39;}">
+				<Coords points="1002,2683 1751,2674 1745,2622 1002,2636"/>
+				<Baseline points="1008,2670 1038,2664 1083,2661 1127,2661 1172,2661 1217,2661 1262,2658 1306,2658 1351,2658 1396,2658 1441,2658 1485,2655 1530,2658 1575,2661 1620,2658 1664,2658 1709,2658 1754,2661"/>
+				<TextEquiv>
+					<Unicode>Philippus ein keiſer der ander lxxxviij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3856_tl_71" custom="readingOrder {index:40;}">
+				<Coords points="1011,2740 1195,2717 1758,2733 1758,2673 1602,2716 1463,2667 1011,2687"/>
+				<Baseline points="1017,2721 1035,2715 1080,2712 1124,2712 1169,2709 1214,2709 1259,2709 1303,2709 1348,2709 1393,2709 1438,2709 1482,2709 1527,2709 1542,2712 1587,2721 1632,2724 1676,2715 1721,2709 1760,2718"/>
+				<TextEquiv>
+					<Unicode>Philippus ein keiſer der drit. cxij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463600737_4017" custom="readingOrder {index:41;}">
+				<Coords points="1005,2783 1785,2768 1731,2722 1636,2760 1513,2756 1447,2720 1005,2737"/>
+				<Baseline points="1011,2768 1029,2765 1074,2762 1118,2759 1163,2759 1208,2759 1253,2759 1297,2759 1342,2759 1387,2759 1432,2759 1476,2762 1640,2768 1652,2765 1697,2759 1742,2759 1787,2765"/>
+				<TextEquiv>
+					<Unicode>Philo der aller verhereſt. l.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463603234_4021" custom="readingOrder {index:42;}">
+				<Coords points="1007,2835 1233,2817 1396,2839 1435,2816 1693,2841 1769,2815 1768,2768 1625,2812 1289,2771 1006,2784"/>
+				<Baseline points="1013,2816 1053,2813 1097,2810 1142,2810 1187,2810 1232,2810 1276,2810 1321,2810 1366,2810 1411,2816 1596,2819 1638,2819 1682,2813 1727,2810 1772,2813"/>
+				<TextEquiv>
+					<Unicode>Philometor ein künig xl.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463604681_4025" custom="readingOrder {index:43;}">
+				<Coords points="1010,2879 1402,2890 1625,2863 1752,2885 1738,2823 1544,2858 1348,2821 1010,2834"/>
+				<Baseline points="1016,2867 1044,2864 1089,2861 1133,2861 1178,2861 1223,2861 1268,2861 1312,2861 1357,2861 1402,2867 1611,2864 1655,2867 1700,2861 1745,2861 1754,2864"/>
+				<TextEquiv>
+					<Unicode>Phinees ein biſchoff. xij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3856_tl_78" custom="readingOrder {index:44;}">
+				<Coords points="1013,2934 1597,2912 1749,2937 1754,2872 1598,2895 1510,2869 1433,2907 1367,2874 1012,2883"/>
+				<Baseline points="1018,2911 1071,2912 1115,2912 1160,2912 1205,2912 1250,2912 1294,2912 1339,2912 1384,2914 1429,2914 1473,2914 1518,2912 1563,2912 1608,2912 1652,2912 1697,2912 1742,2914 1757,2917"/>
+				<TextEquiv>
+					<Unicode>Phinees ein ſun heli xiiij. / lxxxvj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3856_tl_79" custom="readingOrder {index:45;}">
+				<Coords points="1018,3009 1217,2974 1350,3007 1759,2984 1759,2940 1692,2924 1018,2935"/>
+				<Baseline points="1023,2971 1032,2968 1077,2965 1121,2965 1166,2965 1211,2962 1256,2965 1300,2965 1345,2968 1390,2965 1435,2965 1479,2965 1524,2965 1569,2965 1614,2962 1658,2962 1703,2962 1762,2959"/>
+				<TextEquiv>
+					<Unicode>Pipinus ein künig in franckrich der erſte /</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Pelagius ein ketzer. lxx.
+Peregrinus ein biſchoff lvj.
+Pilgerim worden getoͤttet. cxviij
+Permēides. liebhaber der wiſheit xxxij
+Perpetuus ein biſchoff lxxij.
+Perſius ein tichter lij
+Peſtilentz die gar groß was .xlij.
+Peſtilentz die aber groß was. cxx.
+Peſtilentz die gar ſchwer was xxxvj.
+Petreius der ſich ſelbs durchſtach xliiij
+Petronille ein dochter ſancti petri l
+Petronille der corpel ⁊cͣ. lxx
+Petronius ein biſchoff lxxij.
+Petrus ein apoſtel vnd bapſt l
+Petrus. lxiiij
+Petrus damaſcenus. lxxxviij
+Petrus damianus cvj.
+Petrus alfonſus. cxiij.
+Petrus abaelardus cviij
+Petrus lumbard ein biſchoff cx
+Petrus comeſtor cx.
+Petrus de tharentaſia xiiij
+Petrus tharentaſien̄. cx.
+Petrus der nüw marterer cxiiij
+Petrus von eliaco cxxij
+Petrus manienus. lxxxviij
+Perg der gar groß iſt cxiiij.
+PI
+Pilatus ein ꝟſeher des lands Iudee xlviij
+Philemon ein liebhaber d̓ wißheit xxxvj
+Piſthuͦß wurdē durch karolū gebuwē xciiij
+Philemon lxiiij
+Philippus ein künig macedonum xxxiiij
+Philippus ein künig xxxvj.
+Philippus ein künig ſirie. xliij
+Philippus ein apoſtel liij
+Philippus ein biſchoff lviij
+Philippus prefectus lviij
+Philippus ein keiſer der erſt lxij.
+Philippus ein keiſer der ander lxxxviij.
+Philippus ein keiſer der drit. cxij.
+Philo der aller verhereſt. l.
+Philometor ein künig xl.
+Phinees ein biſchoff. xij.
+Phinees ein ſun heli xiiij. / lxxxvj
+Pipinus ein künig in franckrich der erſte /</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="TextRegion_1697463472753_3857" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="1709,518 2666,518 2666,3066 1809,3066"/>
+			<TextLine id="line_1697463721714_4181" custom="readingOrder {index:0;}">
+				<Coords points="1708,660 2282,624 2515,646 2511,578 2233,615 2147,582 2110,607 1850,596 1709,630"/>
+				<Baseline points="1714,656 1733,656 1760,653 1784,644 1828,641 1873,638 1918,635 1963,635 2007,632 2052,632 2097,632 2142,629 2186,632 2371,626 2416,626 2461,623 2506,623 2518,626"/>
+				<TextEquiv>
+					<Unicode>Pipinus ein ſun karoli. xx.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_3" custom="readingOrder {index:1;}">
+				<Coords points="1762,716 2005,691 2435,701 2515,688 2517,647 2404,627 1764,666"/>
+				<Baseline points="1763,702 1802,695 1846,692 1891,689 1936,689 1981,686 2025,683 2070,683 2115,683 2160,683 2204,680 2249,680 2294,680 2339,677 2383,677 2428,674 2473,674 2518,674"/>
+				<TextEquiv>
+					<Unicode>Pitagoras d̓ erſt liebhaber d̓ wiſheit. xxx</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463720017_4177" custom="readingOrder {index:2;}">
+				<Coords points="1763,767 1874,746 2114,764 2331,729 2523,745 2525,683 2298,725 2094,690 1764,717"/>
+				<Baseline points="1759,751 1793,748 1837,742 1882,739 1927,736 1972,736 2016,736 2061,733 2106,730 2151,730 2195,733 2213,736 2258,742 2276,736 2339,725 2383,728 2428,725 2473,722 2518,725 2527,725"/>
+				<TextEquiv>
+					<Unicode>Pius ein bapſt der erſt. lviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_6" custom="readingOrder {index:3;}">
+				<Coords points="1766,814 2521,791 2501,735 2390,773 2151,746 1767,769"/>
+				<Baseline points="1772,805 1811,796 1855,793 1900,790 1945,787 1990,787 2034,784 2079,784 2124,781 2169,781 2213,781 2258,784 2304,780 2322,777 2368,781 2413,778 2458,775 2503,775 2524,781"/>
+				<TextEquiv>
+					<Unicode>Pius ein bapſt der ander cxxvj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463715778_4172" custom="readingOrder {index:4;}">
+				<Coords points="1716,871 2533,840 2534,792 2312,829 2114,792 1718,826"/>
+				<Baseline points="1722,858 1736,859 1745,859 1769,859 1787,853 1831,847 1876,844 1921,841 1966,841 2010,838 2055,838 2100,832 2145,832 2189,832 2234,835 2279,841 2360,838 2389,832 2434,829 2479,829 2535,829"/>
+				<TextEquiv>
+					<Unicode>Pius lodowicus ein künig cx.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_10" custom="readingOrder {index:5;}">
+				<Coords points="2045,951 2083,970 2194,938 2218,951 2251,950 2248,853 2175,847 2129,865 2112,851 2083,857 2069,850 2057,858 2042,851"/>
+				<Baseline points="2050,926 2142,927 2186,927 2231,930 2252,933"/>
+				<TextEquiv>
+					<Unicode>PL</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_14" custom="readingOrder {index:6;}">
+				<Coords points="1771,1035 2537,990 2540,940 2447,936 2387,963 2312,940 2085,969 2021,941 1775,983"/>
+				<Baseline points="1778,1017 1822,1011 1867,1011 1912,1005 1957,1002 2002,993 2046,990 2091,990 2136,987 2181,987 2225,984 2270,984 2315,984 2360,987 2404,984 2449,978 2494,978 2539,978"/>
+				<TextEquiv>
+					<Unicode>Placella ein huſfrow theodoſij lxviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463669867_4120" custom="readingOrder {index:7;}">
+				<Coords points="1769,1081 2530,1046 2533,996 2347,1024 2109,998 1771,1036"/>
+				<Baseline points="1775,1071 1828,1065 1873,1059 1918,1056 1963,1053 2007,1047 2052,1044 2097,1041 2142,1038 2186,1038 2231,1035 2276,1038 2306,1041 2309,1041 2354,1041 2398,1035 2443,1029 2488,1029 2533,1032"/>
+				<TextEquiv>
+					<Unicode>Plage die gar grüſam was xciiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_17" custom="readingOrder {index:8;}">
+				<Coords points="1777,1133 2534,1099 2536,1050 2483,1037 1779,1085"/>
+				<Baseline points="1782,1113 1820,1115 1864,1109 1909,1106 1954,1103 1999,1094 2043,1094 2088,1092 2133,1089 2178,1089 2222,1089 2267,1089 2312,1086 2357,1086 2401,1086 2446,1080 2491,1080 2536,1083"/>
+				<TextEquiv>
+					<Unicode>Plato ein liebhaber der wißheit. xxxiiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_18" custom="readingOrder {index:9;}">
+				<Coords points="1776,1183 2158,1144 2431,1157 2531,1141 2533,1096 2337,1135 2136,1100 1778,1132"/>
+				<Baseline points="1782,1166 1814,1166 1858,1160 1903,1157 1948,1154 1993,1151 2037,1142 2082,1142 2127,1139 2172,1136 2216,1139 2261,1145 2306,1142 2351,1142 2395,1136 2440,1133 2485,1130 2534,1123"/>
+				<TextEquiv>
+					<Unicode>Plautus der wol redend xxxviij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463668682_4116" custom="readingOrder {index:10;}">
+				<Coords points="1788,1237 2019,1202 2475,1181 2508,1201 2537,1196 2540,1140 1790,1184"/>
+				<Baseline points="1793,1223 1808,1217 1852,1211 1897,1208 1942,1205 1987,1202 2031,1196 2076,1193 2121,1190 2166,1187 2210,1187 2255,1187 2300,1187 2345,1190 2380,1184 2425,1184 2470,1181 2515,1181 2539,1184"/>
+				<TextEquiv>
+					<Unicode>Plinius der ander wolredend liiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_21" custom="readingOrder {index:11;}">
+				<Coords points="1785,1284 2537,1246 2539,1196 2419,1188 1787,1237"/>
+				<Baseline points="1790,1274 1822,1268 1867,1259 1912,1256 1957,1253 2002,1253 2046,1247 2091,1241 2136,1241 2181,1241 2225,1241 2270,1238 2315,1238 2360,1238 2404,1238 2449,1238 2494,1235 2539,1235"/>
+				<TextEquiv>
+					<Unicode>Plotius eī wolredēder geſatzte̓ ding. xliiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_22" custom="readingOrder {index:12;}">
+				<Coords points="1795,1335 1878,1318 1974,1330 2057,1310 2135,1314 2177,1301 2181,1264 2035,1261 1938,1282 1916,1267 1799,1287"/>
+				<Baseline points="1802,1321 1822,1318 1867,1309 1912,1306 1957,1306 2002,1303 2046,1297 2091,1291 2136,1291 2181,1291"/>
+				<TextEquiv>
+					<Unicode>Plotinus platonicus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_23" custom="readingOrder {index:13;}">
+				<Coords points="1785,1387 2262,1346 2539,1357 2542,1277 2460,1309 2220,1293 1787,1335"/>
+				<Baseline points="1790,1378 1825,1369 1870,1363 1915,1360 1960,1357 2004,1354 2049,1348 2094,1345 2139,1342 2184,1339 2228,1339 2273,1339 2318,1339 2363,1339 2407,1342 2452,1339 2497,1336 2542,1339"/>
+				<TextEquiv>
+					<Unicode>Plutarcus ein liebhaber d̓ wißheit liiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463687248_4142" custom="readingOrder {index:14;}">
+				<Coords points="2081,1464 2134,1465 2177,1439 2218,1454 2279,1447 2277,1353 2235,1351 2212,1367 2177,1354 2080,1358"/>
+				<Baseline points="2086,1434 2125,1433 2160,1426 2209,1426 2249,1435 2282,1438"/>
+				<TextEquiv>
+					<Unicode>PO</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463665952_4112" custom="readingOrder {index:15;}">
+				<Coords points="1784,1526 2371,1495 2550,1512 2552,1458 2485,1443 2328,1491 2213,1448 1786,1473"/>
+				<Baseline points="1789,1519 1834,1512 1879,1509 1924,1509 1969,1506 2013,1506 2058,1500 2103,1497 2148,1497 2192,1494 2237,1500 2282,1500 2368,1494 2374,1494 2419,1494 2464,1488 2509,1491 2553,1491"/>
+				<TextEquiv>
+					<Unicode>Policarpus ein biſchoff lviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463664734_4108" custom="readingOrder {index:16;}">
+				<Coords points="1797,1585 2232,1546 2534,1560 2552,1511 2492,1498 2380,1538 2102,1513 1799,1533"/>
+				<Baseline points="1802,1575 1822,1569 1867,1560 1912,1560 1957,1557 2002,1554 2046,1551 2091,1548 2136,1551 2181,1545 2380,1545 2419,1545 2464,1542 2509,1542 2553,1542"/>
+				<TextEquiv>
+					<Unicode>Pompeius trogus lvj.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_32" custom="readingOrder {index:17;}">
+				<Coords points="1802,1636 2548,1603 2549,1556 2494,1550 1804,1587"/>
+				<Baseline points="1808,1623 1834,1617 1879,1611 1924,1608 1969,1605 2013,1605 2058,1602 2103,1599 2148,1596 2192,1593 2237,1593 2282,1596 2327,1593 2371,1593 2416,1596 2461,1590 2506,1590 2550,1590"/>
+				<TextEquiv>
+					<Unicode>Pompeius marcellus ratsherren xliiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463658750_4101" custom="readingOrder {index:18;}">
+				<Coords points="1802,1684 2205,1648 2550,1655 2552,1603 2356,1635 2227,1609 1804,1635"/>
+				<Baseline points="1808,1673 1820,1667 1864,1658 1909,1658 1954,1658 1999,1655 2043,1652 2088,1649 2133,1646 2178,1643 2222,1643 2267,1643 2327,1641 2380,1643 2425,1646 2470,1640 2515,1640 2553,1643"/>
+				<TextEquiv>
+					<Unicode>Pontianus ein marterer. lviij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_35" custom="readingOrder {index:19;}">
+				<Coords points="1805,1735 2558,1706 2559,1656 2533,1655 2476,1687 2285,1658 1806,1687"/>
+				<Baseline points="1811,1721 1855,1712 1900,1709 1945,1706 1990,1706 2034,1703 2079,1703 2124,1697 2169,1694 2213,1694 2258,1694 2303,1691 2348,1694 2392,1697 2419,1694 2428,1694 2473,1694 2518,1691 2562,1691"/>
+				<TextEquiv>
+					<Unicode>Poncianus bapſt vnd marterer lx</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_36" custom="readingOrder {index:20;}">
+				<Coords points="1808,1786 2531,1761 2555,1716 2428,1699 1809,1737"/>
+				<Baseline points="1814,1775 1840,1769 1885,1760 1930,1760 1975,1757 2019,1754 2064,1754 2109,1748 2154,1748 2198,1745 2243,1742 2288,1745 2333,1745 2377,1745 2422,1745 2467,1742 2512,1742 2556,1742"/>
+				<TextEquiv>
+					<Unicode>Porphirius ein liebhaber d̓ wiſheit. lxij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463655851_4097" custom="readingOrder {index:21;}">
+				<Coords points="1813,1835 2343,1795 2553,1811 2555,1754 2469,1789 2204,1756 1815,1785"/>
+				<Baseline points="1820,1820 1822,1820 1867,1811 1912,1808 1957,1808 2002,1805 2046,1802 2091,1802 2136,1799 2181,1796 2225,1793 2270,1793 2315,1796 2425,1790 2470,1796 2515,1793 2556,1793"/>
+				<TextEquiv>
+					<Unicode>Potentiana ein Iunckfrow lij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_39" custom="readingOrder {index:22;}">
+				<Coords points="1813,1883 2556,1862 2558,1811 2519,1803 1815,1835"/>
+				<Baseline points="1820,1867 1843,1864 1888,1858 1933,1855 1978,1855 2022,1855 2067,1852 2112,1852 2157,1849 2201,1846 2246,1843 2291,1843 2336,1843 2380,1843 2425,1843 2470,1846 2515,1843 2559,1846"/>
+				<TextEquiv>
+					<Unicode>Potentianus ein Iunger ſancti petri lij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_40" custom="readingOrder {index:23;}">
+				<Coords points="1811,1936 2261,1903 2359,1916 2406,1906 2408,1864 1813,1883"/>
+				<Baseline points="1817,1921 1828,1918 1873,1912 1918,1909 1963,1906 2007,1906 2052,1903 2097,1903 2142,1900 2186,1897 2231,1894 2276,1894 2321,1897 2366,1894 2410,1894"/>
+				<TextEquiv>
+					<Unicode>Poſſeſſion vnd guͤter der kirchen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463675664_4124" custom="readingOrder {index:24;}">
+				<Coords points="2093,2015 2111,2026 2146,2019 2184,1991 2210,2010 2256,1991 2292,2014 2299,1916 2285,1919 2273,1909 2251,1917 2230,1906 2193,1925 2182,1915 2160,1922 2151,1913 2098,1923"/>
+				<Baseline points="2100,1986 2135,1995 2181,1987 2225,1987 2270,1981 2297,1981"/>
+				<TextEquiv>
+					<Unicode>PR</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463650452_4090" custom="readingOrder {index:25;}">
+				<Coords points="1814,2087 2442,2046 2566,2065 2567,1997 2318,2037 2186,2010 1815,2023"/>
+				<Baseline points="1820,2073 1858,2067 1903,2058 1948,2055 1993,2055 2037,2052 2082,2052 2127,2049 2172,2049 2216,2046 2261,2046 2306,2052 2434,2046 2479,2049 2524,2049 2568,2049 2578,2051"/>
+				<TextEquiv>
+					<Unicode>Praxedis ein Iunckfrow lij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463648418_4085" custom="readingOrder {index:26;}">
+				<Coords points="1815,2135 2356,2100 2571,2115 2572,2062 2521,2053 2215,2094 2052,2060 1816,2086"/>
+				<Baseline points="1822,2124 1831,2121 1876,2112 1921,2109 1966,2106 2010,2103 2055,2103 2100,2100 2145,2103 2336,2097 2368,2097 2395,2094 2440,2097 2485,2097 2530,2097 2574,2100"/>
+				<TextEquiv>
+					<Unicode>Praxedis ruͦwet. lviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_47" custom="readingOrder {index:27;}">
+				<Coords points="1852,2181 2440,2149 2570,2166 2571,2114 2456,2106 2361,2146 2253,2109 1853,2141"/>
+				<Baseline points="1822,2169 1903,2160 1948,2157 1993,2157 2037,2154 2082,2151 2127,2151 2172,2151 2216,2148 2261,2148 2306,2148 2351,2151 2395,2154 2440,2148 2485,2148 2530,2148 2574,2148"/>
+				<TextEquiv>
+					<Unicode>Proiectus vnd marinus mar. lxxxvj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463646352_4080" custom="readingOrder {index:28;}">
+				<Coords points="1825,2235 2312,2199 2573,2213 2574,2163 2538,2159 2440,2190 2198,2197 2137,2165 1826,2188"/>
+				<Baseline points="1825,2222 1870,2213 1915,2210 1960,2207 2004,2204 2049,2204 2094,2201 2139,2201 2184,2204 2401,2195 2446,2201 2491,2195 2536,2195 2577,2201"/>
+				<TextEquiv>
+					<Unicode>Priamus ein edeler lxviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463644588_4076" custom="readingOrder {index:29;}">
+				<Coords points="1822,2286 2571,2255 2571,2212 2514,2207 2421,2246 2093,2216 1823,2235"/>
+				<Baseline points="1828,2276 1867,2267 1912,2258 1957,2258 2002,2255 2046,2255 2091,2252 2136,2252 2181,2249 2225,2249 2240,2252 2392,2255 2395,2255 2440,2252 2485,2249 2530,2246 2582,2249"/>
+				<TextEquiv>
+					<Unicode>Primus vnd felicianus lxiiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_53" custom="readingOrder {index:30;}">
+				<Coords points="1824,2331 2387,2301 2577,2319 2578,2263 2481,2253 2416,2291 2252,2257 1825,2286"/>
+				<Baseline points="1831,2324 1867,2315 1912,2309 1957,2309 2002,2306 2046,2306 2091,2303 2136,2303 2181,2303 2225,2303 2270,2300 2315,2306 2332,2302 2377,2294 2422,2303 2467,2300 2512,2297 2556,2300 2580,2303"/>
+				<TextEquiv>
+					<Unicode>Priſcillianus ein biſchoff lxviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_54" custom="readingOrder {index:31;}">
+				<Coords points="1828,2387 2173,2359 2486,2380 2577,2367 2578,2325 2366,2308 1828,2335"/>
+				<Baseline points="1834,2374 1864,2368 1909,2360 1954,2360 1999,2357 2043,2357 2088,2354 2133,2354 2178,2354 2222,2354 2267,2351 2312,2351 2357,2357 2401,2360 2446,2357 2491,2351 2536,2351 2580,2351"/>
+				<TextEquiv>
+					<Unicode>Priſcus tarquinus ein künig xxviij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463635622_4065" custom="readingOrder {index:32;}">
+				<Coords points="1823,2434 2581,2418 2575,2366 2401,2400 2314,2370 1824,2382"/>
+				<Baseline points="1830,2422 1852,2419 1897,2410 1942,2410 1987,2407 2031,2407 2076,2404 2121,2404 2166,2404 2210,2407 2255,2407 2428,2407 2449,2404 2494,2401 2539,2401 2583,2401"/>
+				<TextEquiv>
+					<Unicode>Priſcus ein marterer lxij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463631116_4060" custom="readingOrder {index:33;}">
+				<Coords points="1828,2486 2371,2451 2577,2481 2584,2418 2259,2453 2184,2418 1828,2438"/>
+				<Baseline points="1834,2470 1867,2461 1912,2461 1957,2458 2002,2458 2046,2458 2091,2458 2136,2455 2181,2458 2225,2464 2392,2449 2437,2452 2482,2452 2527,2452 2571,2455 2586,2458"/>
+				<TextEquiv>
+					<Unicode>Priſcus ein marierer lxiiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_59" custom="readingOrder {index:34;}">
+				<Coords points="1837,2538 2488,2509 2584,2527 2584,2480 2552,2467 1838,2488"/>
+				<Baseline points="1843,2524 1870,2518 1915,2512 1960,2512 2004,2509 2049,2509 2094,2506 2139,2506 2184,2506 2228,2503 2273,2503 2318,2506 2363,2506 2407,2503 2452,2503 2497,2506 2542,2506 2586,2509"/>
+				<TextEquiv>
+					<Unicode>Priſcianꝰ eī merer d̓ kunſt gramatica lxxvj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463629660_4056" custom="readingOrder {index:35;}">
+				<Coords points="1832,2585 2296,2557 2570,2577 2584,2527 2548,2515 2479,2554 2232,2526 1833,2537"/>
+				<Baseline points="1837,2573 1891,2562 1936,2562 1981,2559 2025,2559 2070,2556 2115,2556 2160,2556 2204,2556 2249,2556 2461,2559 2497,2565 2542,2559 2586,2556"/>
+				<TextEquiv>
+					<Unicode>Priuatus ein marterer lx</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463628253_4052" custom="readingOrder {index:36;}">
+				<Coords points="1832,2634 2556,2623 2583,2619 2584,2577 2467,2563 2409,2601 2253,2605 2072,2569 1832,2585"/>
+				<Baseline points="1837,2628 1873,2616 1918,2610 1963,2610 2007,2610 2052,2607 2097,2607 2142,2607 2186,2613 2392,2607 2437,2607 2482,2604 2527,2604 2571,2607 2586,2607"/>
+				<TextEquiv>
+					<Unicode>Probus ein keiſer. lxiiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463627118_4048" custom="readingOrder {index:37;}">
+				<Coords points="1835,2684 2586,2672 2563,2620 2395,2660 2251,2659 2199,2632 2145,2652 2073,2620 1835,2636"/>
+				<Baseline points="1840,2673 1846,2673 1891,2661 1936,2661 1981,2661 2025,2661 2070,2661 2115,2658 2160,2664 2407,2667 2410,2664 2455,2664 2500,2658 2545,2655 2589,2661"/>
+				<TextEquiv>
+					<Unicode>Prochas ſiluius. xxij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463623613_4043" custom="readingOrder {index:38;}">
+				<Coords points="1835,2735 2594,2722 2595,2665 2441,2702 2308,2705 2203,2672 1836,2685"/>
+				<Baseline points="1840,2727 1858,2721 1903,2712 1948,2712 1993,2712 2037,2712 2082,2709 2127,2709 2172,2709 2216,2709 2261,2712 2470,2709 2515,2709 2559,2709 2596,2710"/>
+				<TextEquiv>
+					<Unicode>Proceſſus ein marterer lij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_68" custom="readingOrder {index:39;}">
+				<Coords points="1838,2786 2585,2770 2586,2716 1839,2736"/>
+				<Baseline points="1843,2774 1873,2768 1918,2762 1963,2762 2007,2762 2052,2762 2097,2759 2142,2759 2186,2759 2231,2759 2276,2759 2321,2759 2366,2756 2410,2756 2455,2759 2500,2756 2545,2756 2589,2759"/>
+				<TextEquiv>
+					<Unicode>Prometheus d̓ thet d̓ toten menſchen pil¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_69" custom="readingOrder {index:40;}">
+				<Coords points="1828,2835 2534,2835 2592,2828 2593,2781 1829,2786"/>
+				<Baseline points="1834,2813 1879,2813 1924,2813 1969,2813 2013,2813 2058,2813 2103,2810 2148,2810 2192,2810 2237,2810 2282,2810 2327,2810 2371,2807 2416,2810 2461,2810 2506,2810 2550,2807 2595,2810"/>
+				<TextEquiv>
+					<Unicode>der gon vn̄ was d̓ erſt vinder d̓ ſingerring. x</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1697463472753_3857_tl_70" custom="readingOrder {index:41;}">
+				<Coords points="1844,2885 2596,2872 2569,2822 2433,2853 2367,2817 1844,2837"/>
+				<Baseline points="1849,2873 1882,2867 1927,2864 1972,2864 2016,2864 2061,2861 2106,2861 2151,2864 2195,2861 2240,2861 2285,2861 2330,2864 2374,2861 2419,2864 2464,2861 2509,2858 2553,2858 2598,2861"/>
+				<TextEquiv>
+					<Unicode>Proſper ein biſchoff equitanie lxxij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463618464_4038" custom="readingOrder {index:42;}">
+				<Coords points="1850,2942 2597,2920 2578,2881 2500,2869 2361,2910 2066,2872 1850,2889"/>
+				<Baseline points="1855,2926 1891,2917 1936,2914 1981,2914 2025,2914 2070,2912 2115,2914 2160,2912 2204,2912 2249,2912 2294,2914 2318,2914 2351,2917 2395,2917 2419,2914 2464,2914 2509,2909 2553,2909 2598,2912"/>
+				<TextEquiv>
+					<Unicode>Prothaſius ein marterer lxxij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1697463617315_4034" custom="readingOrder {index:43;}">
+				<Coords points="1840,3004 1907,2977 2606,2983 2606,2923 2400,2960 2295,2959 2217,2920 2032,2948 1841,2934"/>
+				<Baseline points="1846,2980 1876,2974 1921,2971 1966,2968 2010,2968 2055,2965 2100,2965 2145,2968 2189,2965 2234,2965 2279,2968 2446,2965 2491,2962 2536,2962 2580,2962 2608,2961"/>
+				<TextEquiv>
+					<Unicode>Prothus vnd iacinctus lviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Pipinus ein ſun karoli. xx.
+Pitagoras d̓ erſt liebhaber d̓ wiſheit. xxx
+Pius ein bapſt der erſt. lviij
+Pius ein bapſt der ander cxxvj
+Pius lodowicus ein künig cx.
+PL
+Placella ein huſfrow theodoſij lxviij
+Plage die gar grüſam was xciiij.
+Plato ein liebhaber der wißheit. xxxiiij.
+Plautus der wol redend xxxviij.
+Plinius der ander wolredend liiij
+Plotius eī wolredēder geſatzte̓ ding. xliiij
+Plotinus platonicus
+Plutarcus ein liebhaber d̓ wißheit liiij.
+PO
+Policarpus ein biſchoff lviij
+Pompeius trogus lvj.
+Pompeius marcellus ratsherren xliiij.
+Pontianus ein marterer. lviij.
+Poncianus bapſt vnd marterer lx
+Porphirius ein liebhaber d̓ wiſheit. lxij.
+Potentiana ein Iunckfrow lij
+Potentianus ein Iunger ſancti petri lij.
+Poſſeſſion vnd guͤter der kirchen
+PR
+Praxedis ein Iunckfrow lij
+Praxedis ruͦwet. lviij
+Proiectus vnd marinus mar. lxxxvj
+Priamus ein edeler lxviij
+Primus vnd felicianus lxiiij
+Priſcillianus ein biſchoff lxviij
+Priſcus tarquinus ein künig xxviij.
+Priſcus ein marterer lxij
+Priſcus ein marierer lxiiij
+Priſcianꝰ eī merer d̓ kunſt gramatica lxxvj
+Priuatus ein marterer lx
+Probus ein keiſer. lxiiij.
+Prochas ſiluius. xxij.
+Proceſſus ein marterer lij
+Prometheus d̓ thet d̓ toten menſchen pil¬
+der gon vn̄ was d̓ erſt vinder d̓ ſingerring. x
+Proſper ein biſchoff equitanie lxxij.
+Prothaſius ein marterer lxxij.
+Prothus vnd iacinctus lviij</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

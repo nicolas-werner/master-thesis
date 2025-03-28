@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:03.616+01:00</Created>
+        <LastChange>2025-03-21T17:29:00.671+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0034_7474460.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697685" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="122,467 122,2166 1163,2166 1163,467"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="121,498 1154,511 1154,458 1086,442 121,449"/>
+                <Baseline points="128,492 179,495 230,497 282,496 333,496 385,495 436,498 488,495 539,498 591,498 642,498 693,500 745,501 796,501 848,498 899,498 951,499 1002,501 1054,499 1105,498 1157,501"/>
+                <TextEquiv>
+                    <Unicode>Cießringt man den abt Sotschaft von einem closter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="115,553 1151,564 1151,507 115,506"/>
+                <Baseline points="122,545 173,548 225,549 276,550 328,548 380,548 431,548 483,548 534,548 586,549 638,551 689,551 741,551 792,551 844,551 896,550 947,549 999,551 1050,551 1102,551 1154,554"/>
+                <TextEquiv>
+                    <Unicode>lag am zurrich See hieß Senaw do man begert sant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="121,609 322,647 439,606 1105,639 1105,584 1021,555 121,563"/>
+                <Baseline points="128,599 177,602 226,602 275,602 324,602 373,602 422,602 471,602 520,602 569,605 618,605 667,605 716,605 765,605 814,605 863,605 912,605 961,605 1010,605 1059,605 1109,611"/>
+                <TextEquiv>
+                    <Unicode>Heynrad zehan in das Closter die iungen zeleren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="225,753 253,749 275,768 280,764 314,761 311,680 294,682 275,671 265,677 222,671"/>
+                <Baseline points="232,745 260,747 288,748 316,748"/>
+                <TextEquiv>
+                    <Unicode>de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="124,1889 1161,1898 1160,1837 1101,1819 865,1854 773,1819 631,1852 435,1806 362,1836 124,1813"/>
+                <Baseline points="131,1879 182,1882 234,1883 285,1885 337,1887 389,1888 440,1891 492,1888 543,1890 595,1889 647,1891 698,1889 750,1888 801,1888 853,1888 905,1888 956,1888 1008,1888 1059,1888 1111,1885 1163,1882"/>
+                <TextEquiv>
+                    <Unicode>Der aßt sant er synen Ohem sant Weynraten zu einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="127,1951 1160,1948 1160,1906 967,1890 127,1894"/>
+                <Baseline points="134,1935 185,1932 236,1936 288,1938 339,1938 391,1938 442,1941 494,1941 545,1941 597,1941 648,1941 699,1939 751,1940 802,1941 854,1941 905,1941 957,1940 1008,1938 1060,1938 1111,1935 1163,1938"/>
+                <TextEquiv>
+                    <Unicode>schulmeister / do mit er de schatz im von gott vertruwet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="124,2001 1157,2000 1156,1950 1091,1941 123,1951"/>
+                <Baseline points="131,1986 182,1984 233,1989 285,1989 336,1991 388,1992 439,1992 491,1992 542,1995 594,1995 645,1994 696,1994 748,1993 799,1992 851,1992 902,1994 954,1992 1005,1990 1057,1989 1108,1989 1160,1989"/>
+                <TextEquiv>
+                    <Unicode>zu de gewyn syns herren in vil vßteilet. Vnd als er et¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="123,2048 1157,2056 1156,2004 121,2000"/>
+                <Baseline points="128,2031 179,2034 231,2038 282,2040 334,2042 386,2045 437,2043 489,2046 540,2046 592,2046 644,2046 695,2044 747,2043 798,2043 850,2046 902,2046 953,2046 1005,2044 1056,2043 1108,2040 1160,2043"/>
+                <TextEquiv>
+                    <Unicode>we vil zyts vnd iaren do gewesen was vnd sich do mitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="127,2109 649,2140 754,2103 830,2134 1158,2109 1134,2048 127,2063"/>
+                <Baseline points="134,2093 185,2090 236,2094 287,2096 339,2096 390,2098 441,2099 493,2099 544,2100 595,2102 647,2101 698,2099 749,2099 800,2099 852,2099 903,2098 954,2096 1006,2096 1057,2094 1108,2093 1160,2096"/>
+                <TextEquiv>
+                    <Unicode>geuͤbet/ ꝺo zoch in sin gewissen in die wijstin/ dar zu ward</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="915,2169 945,2178 958,2165 1007,2184 1025,2173 1042,2184 1068,2187 1073,2102 1027,2102 1015,2112 993,2109 966,2127 950,2115 918,2120"/>
+                <Baseline points="924,2153 953,2153 983,2153 1013,2149 1043,2147 1073,2147"/>
+                <TextEquiv>
+                    <Unicode>a iiij</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

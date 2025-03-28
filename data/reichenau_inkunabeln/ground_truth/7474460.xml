@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52681:lm=provided:date=08_06_2023_10:48</Creator>
+		<Created>2023-06-07T09:11:07.648+02:00</Created>
+		<LastChange>2023-12-20T16:29:32.894+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67074982" pageNr="7" tsid="154460038" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=MDRVOAWISFVZBZRJISZCYDLQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QJWURTCIRIYNTLBDVWCJCASE" imageId="45286765"/>
+	</Metadata>
+	<Page imageFilename="7474460.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356364411" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686214051654_1441"/>
+				<RegionRefIndexed index="1" regionRef="region_1686214059918_1444"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686214051654_1441" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="81,428 1233,428 1233,639 81,639"/>
+			<TextLine id="region_1686214051654_1441_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="130,504 1147,510 1147,455 1083,443 130,436"/>
+				<Baseline points="137,495 181,495 226,492 271,492 316,492 360,492 405,492 450,492 495,492 539,489 584,492 629,492 674,495 718,495 763,495 808,495 853,492 897,492 942,492 987,492 1032,492 1076,495 1121,492 1151,495"/>
+				<TextEquiv>
+					<Unicode>¶ Hie bringt man den abt botſchaft von einem cloſter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686214051654_1441_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="124,556 1154,563 1145,506 124,506"/>
+				<Baseline points="131,545 175,542 220,542 265,542 310,542 354,542 399,545 444,542 489,542 533,542 578,545 623,545 668,545 712,545 757,545 802,545 847,545 891,545 936,545 981,545 1026,545 1070,545 1115,545 1157,551"/>
+				<TextEquiv>
+					<Unicode>lag am zurrich See hieß Senaw do man begert ſant</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686214051654_1441_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="120,615 322,646 436,606 628,636 1099,615 1099,565 1048,558 120,554"/>
+				<Baseline points="128,599 173,596 217,599 262,599 307,599 351,599 396,599 441,596 486,596 530,599 575,599 620,599 665,599 709,599 754,599 799,599 844,599 888,602 933,599 978,599 1023,599 1067,599 1103,605"/>
+				<TextEquiv>
+					<Unicode>Meynrad ze han in das Cloſter die iungen zeleren.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1686214059918_1444" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="85,1809 1204,1809 1204,2111 85,2111"/>
+			<TextLine id="region_1686214059918_1444_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="127,1889 1162,1898 1127,1813 633,1851 435,1805 127,1812"/>
+				<Baseline points="134,1879 178,1876 223,1876 268,1879 313,1879 357,1882 402,1882 447,1885 492,1882 536,1885 581,1885 626,1882 671,1885 715,1882 760,1882 805,1885 850,1882 894,1882 939,1879 984,1879 1029,1882 1073,1879 1118,1879 1163,1882"/>
+				<TextEquiv>
+					<Unicode>Der abt ſant er ſynen Ohem ſant Meynraten zuͦ einē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686214059918_1444_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="124,1952 1163,1950 1163,1897 124,1888"/>
+				<Baseline points="131,1932 175,1929 220,1929 265,1932 310,1932 354,1932 399,1932 444,1935 489,1935 533,1935 578,1935 623,1938 668,1935 712,1935 757,1932 802,1932 847,1935 891,1932 936,1932 981,1932 1026,1932 1070,1932 1115,1929 1160,1935 1166,1935"/>
+				<TextEquiv>
+					<Unicode>ſchuͦlmeiſter/ do mit er dē ſchatz im vō gott vertruwet</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686214059918_1444_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="124,2001 1094,2006 1146,2002 1145,1950 123,1952"/>
+				<Baseline points="131,1983 175,1980 220,1980 265,1983 310,1986 354,1986 399,1986 444,1986 489,1989 533,1989 578,1989 623,1989 668,1989 712,1989 757,1986 802,1986 847,1989 891,1989 936,1986 981,1983 1026,1983 1070,1983 1115,1983 1164,1988"/>
+				<TextEquiv>
+					<Unicode>zuͦ dē gewyn̄ ſyns herren in vil vßteilet. Vnd als er et¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686214059918_1444_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="124,2056 1154,2056 1154,2007 1052,1992 124,2001"/>
+				<Baseline points="131,2031 175,2031 220,2031 265,2034 310,2037 354,2037 399,2037 444,2037 489,2040 533,2040 578,2040 623,2040 668,2040 712,2040 757,2040 802,2040 847,2040 891,2040 936,2037 981,2037 1026,2037 1070,2037 1115,2037 1157,2040"/>
+				<TextEquiv>
+					<Unicode>we vil zyts vnd iaren do geweſen was vnd ſich do mitt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686214059918_1444_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="124,2107 253,2139 1156,2108 1137,2050 124,2056"/>
+				<Baseline points="131,2090 175,2084 220,2087 265,2090 310,2093 354,2090 399,2096 444,2096 489,2099 533,2096 578,2099 623,2096 668,2096 712,2096 757,2096 802,2096 847,2096 891,2093 936,2090 981,2090 1026,2090 1070,2090 1115,2090 1160,2096"/>
+				<TextEquiv>
+					<Unicode>geuͤbet/ do zoch in ſin gewiſſē ī die wuͤſtin/ dar zuͦ ward</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Der abt ſant er ſynen Ohem ſant Meynraten zuͦ einē
+ſchuͦlmeiſter/ do mit er dē ſchatz im vō gott vertruwet
+zuͦ dē gewyn̄ ſyns herren in vil vßteilet. Vnd als er et¬
+we vil zyts vnd iaren do geweſen was vnd ſich do mitt
+geuͤbet/ do zoch in ſin gewiſſē ī die wuͤſtin/ dar zuͦ ward</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

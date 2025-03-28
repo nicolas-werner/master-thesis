@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.3.0:model_id=54775:lm=provided:date=31_08_2023_11:49</Creator>
+		<Created>2023-08-31T11:05:15.935+02:00</Created>
+		<LastChange>2024-01-24T14:34:22.583+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075138" pageNr="143" tsid="154460300" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=EKHEDRPWQQGRSIZSCIHWAUZN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QCXRJGCYIGEQBPMCLHYRFYXJ" imageId="47860205"/>
+	</Metadata>
+	<Page imageFilename="7739821.jpg" imageWidth="4263" imageHeight="5160">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356846709" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="TextRegion_1693482224128_2493"/>
+				<RegionRefIndexed index="1" regionRef="TextRegion_1693482224128_2492"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="TextRegion_1693482224128_2493" custom="readingOrder {index:0;}">
+			<Coords points="734,565 1919,565 1919,4146 734,4146"/>
+			<TextLine id="TextRegion_1693482224128_2493_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="876,795 1541,761 1742,786 1758,700 877,703"/>
+				<Baseline points="883,764 955,764 1045,764 1134,764 1224,764 1313,758 1403,758 1493,758 1582,758 1672,758 1761,758"/>
+				<TextEquiv>
+					<Unicode>die beualh got ſamit Petern bei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="889,850 1696,850 1758,837 1759,776 889,799"/>
+				<Baseline points="895,836 955,836 1045,830 1134,830 1224,830 1313,830 1403,824 1493,824 1582,824 1672,824 1761,830"/>
+				<TextEquiv>
+					<Unicode>de eines von weltlichem gericht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="881,928 1757,923 1758,853 1684,843 883,854"/>
+				<Baseline points="889,907 955,901 1045,901 1134,901 1224,901 1313,895 1403,895 1493,895 1582,895 1672,895 1761,901"/>
+				<TextEquiv>
+					<Unicode>¶ Das ander vō geiſtlichem ge</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="894,991 1758,977 1759,923 1568,904 1367,907 1271,946 1129,908 896,932"/>
+				<Baseline points="901,979 955,973 1045,973 1134,973 1224,967 1313,967 1403,967 1493,967 1582,967 1672,961 1761,961"/>
+				<TextEquiv>
+					<Unicode>richte ¶ Das weltlich ſchwert</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="877,1046 998,1073 1689,1062 1776,1048 1777,988 877,1002"/>
+				<Baseline points="883,1045 973,1045 1063,1045 1152,1039 1242,1039 1331,1039 1421,1033 1510,1033 1600,1033 1690,1033 1779,1033"/>
+				<TextEquiv>
+					<Unicode>des gerichtes dz leyhet der bapſt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="887,1119 1770,1115 1771,1067 1671,1049 889,1066"/>
+				<Baseline points="895,1116 967,1116 1057,1116 1146,1110 1236,1110 1325,1110 1415,1104 1505,1104 1594,1104 1684,1104 1773,1098"/>
+				<TextEquiv>
+					<Unicode>dem keiſer ¶ Das geiſtlich iſt dē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="887,1204 1770,1189 1770,1115 889,1131"/>
+				<Baseline points="895,1188 967,1182 1057,1182 1146,1182 1236,1176 1325,1176 1415,1176 1505,1176 1594,1176 1684,1176 1773,1176"/>
+				<TextEquiv>
+					<Unicode>Bapſt geſeczt daz er damit rich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="894,1278 1763,1251 1764,1197 1690,1181 1566,1211 1324,1188 896,1218"/>
+				<Baseline points="901,1260 961,1260 1051,1254 1140,1248 1230,1248 1319,1248 1409,1248 1499,1248 1588,1242 1678,1242 1767,1236"/>
+				<TextEquiv>
+					<Unicode>te zuͦ beſcheidelicher zeit auff ei¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="894,1338 1764,1325 1764,1266 1709,1252 894,1290"/>
+				<Baseline points="901,1325 961,1319 1051,1319 1140,1319 1230,1319 1319,1319 1409,1313 1499,1313 1588,1313 1678,1313 1767,1319"/>
+				<TextEquiv>
+					<Unicode>nem plancken pfert vnnd der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="877,1406 1661,1406 1752,1389 1754,1325 1286,1351 878,1331"/>
+				<Baseline points="883,1391 949,1391 1039,1391 1128,1385 1218,1385 1307,1385 1397,1385 1487,1385 1576,1385 1666,1379 1785,1373"/>
+				<TextEquiv>
+					<Unicode>bapſt ſol darauff ſiczen So ſol</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="889,1486 1752,1470 1754,1411 890,1414"/>
+				<Baseline points="895,1463 949,1463 1039,1463 1128,1457 1218,1457 1307,1451 1397,1451 1487,1451 1576,1451 1666,1451 1755,1451"/>
+				<TextEquiv>
+					<Unicode>im der keiſer den ſtegreiff heben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="889,1546 1704,1541 1770,1534 1771,1473 1235,1466 889,1505"/>
+				<Baseline points="895,1528 967,1534 1057,1528 1146,1528 1236,1522 1325,1522 1415,1522 1505,1522 1594,1522 1684,1522 1773,1522"/>
+				<TextEquiv>
+					<Unicode>an dem auff ſiczen das ſich der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="889,1606 1290,1623 1684,1595 1764,1620 1765,1553 1678,1531 890,1546"/>
+				<Baseline points="895,1600 961,1600 1051,1600 1140,1600 1230,1594 1319,1594 1409,1594 1499,1594 1588,1588 1678,1588 1767,1594"/>
+				<TextEquiv>
+					<Unicode>ſattel nicht entwinnde Da bey</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="894,1687 1770,1670 1770,1619 1725,1606 1290,1632 894,1607"/>
+				<Baseline points="901,1678 967,1666 1057,1666 1146,1666 1236,1666 1325,1660 1415,1660 1505,1660 1594,1660 1684,1660 1773,1660"/>
+				<TextEquiv>
+					<Unicode>iſt bezeichnet was dem Bapſte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="887,1765 1229,1737 1776,1751 1776,1674 1704,1669 889,1701"/>
+				<Baseline points="895,1737 985,1737 1075,1737 1164,1731 1254,1731 1343,1731 1433,1731 1522,1731 1612,1725 1702,1731 1779,1737"/>
+				<TextEquiv>
+					<Unicode>widerſtee das er mit geiſtlichez</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="900,1828 1765,1825 1777,1751 900,1772"/>
+				<Baseline points="907,1809 997,1809 1086,1803 1176,1803 1266,1803 1355,1803 1445,1797 1534,1803 1624,1797 1714,1797 1779,1809"/>
+				<TextEquiv>
+					<Unicode>gerichte nicht betzwingen mag</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="889,1886 1770,1882 1770,1823 1676,1811 1502,1837 1318,1813 1187,1844 1131,1818 1040,1844 889,1825"/>
+				<Baseline points="895,1881 967,1875 1057,1875 1146,1875 1236,1875 1325,1869 1415,1869 1505,1869 1594,1869 1684,1869 1773,1869"/>
+				<TextEquiv>
+					<Unicode>Das ſol der keiſer vnnd ander</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="894,1963 1770,1954 1770,1898 1641,1882 894,1911"/>
+				<Baseline points="901,1946 967,1946 1057,1946 1146,1940 1236,1946 1325,1940 1415,1940 1505,1940 1594,1940 1684,1940 1773,1935"/>
+				<TextEquiv>
+					<Unicode>weltlich richter betzwingē mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="894,2029 954,2038 975,2026 1051,2046 1103,2026 1216,2026 1216,1972 1200,1966 1170,1977 1112,1960 1080,1978 1054,1967 894,1977"/>
+				<Baseline points="901,2018 991,2018 1080,2018 1170,2018 1218,2018"/>
+				<TextEquiv>
+					<Unicode>der auchte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="900,2170 1782,2160 1783,2089 1218,2115 901,2090"/>
+				<Baseline points="907,2161 979,2155 1069,2150 1158,2150 1248,2150 1337,2150 1427,2150 1516,2144 1606,2144 1696,2150 1785,2155"/>
+				<TextEquiv>
+					<Unicode>¶ Als ein man iſt in dem bann</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="889,2238 1734,2242 1728,2170 890,2167"/>
+				<Baseline points="895,2227 931,2221 1021,2227 1110,2221 1200,2221 1290,2221 1379,2221 1469,2221 1558,2221 1648,2221 1737,2221"/>
+				<TextEquiv>
+					<Unicode>ſechs wochen vnd einen tag.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="889,2379 1776,2374 1789,2309 890,2313"/>
+				<Baseline points="895,2370 985,2365 1075,2359 1164,2359 1254,2359 1343,2359 1433,2359 1522,2353 1612,2353 1702,2353 1791,2359"/>
+				<TextEquiv>
+					<Unicode>¶ Als ein man iſt in dem banne</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="887,2455 1440,2427 1781,2447 1782,2376 1751,2362 1306,2391 1210,2366 1139,2398 889,2379"/>
+				<Baseline points="895,2430 979,2436 1069,2430 1158,2430 1248,2430 1337,2424 1427,2424 1516,2424 1606,2424 1696,2430 1785,2424"/>
+				<TextEquiv>
+					<Unicode>ſechs wochen vnd einen tag ſo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="889,2513 1793,2512 1793,2447 1653,2433 889,2453"/>
+				<Baseline points="895,2502 985,2502 1075,2502 1164,2502 1254,2496 1343,2496 1433,2496 1522,2496 1612,2496 1702,2496 1791,2502 1797,2502"/>
+				<TextEquiv>
+					<Unicode>ſol in der keiſer weltlich richter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="893,2602 1038,2575 1782,2585 1771,2508 894,2528"/>
+				<Baseline points="901,2580 979,2574 1069,2574 1158,2568 1248,2568 1337,2568 1427,2562 1516,2562 1606,2562 1696,2562 1785,2574"/>
+				<TextEquiv>
+					<Unicode>ze auchte thuͦn. Vnd wer auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="889,2662 1788,2649 1788,2587 1700,2572 889,2607"/>
+				<Baseline points="895,2639 985,2639 1075,2639 1164,2633 1254,2633 1343,2633 1433,2633 1522,2633 1612,2633 1702,2633 1791,2639"/>
+				<TextEquiv>
+					<Unicode>in der auchte iſt ſechs wochen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="900,2711 1782,2713 1782,2659 1551,2640 1370,2671 900,2666"/>
+				<Baseline points="907,2705 997,2705 1086,2705 1176,2705 1266,2705 1355,2705 1445,2705 1534,2705 1624,2705 1714,2705 1785,2705"/>
+				<TextEquiv>
+					<Unicode>vnnd einen tag den ſol man ze</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="906,2790 1493,2777 1724,2806 1776,2786 1777,2725 907,2721"/>
+				<Baseline points="913,2783 973,2777 1063,2777 1152,2777 1242,2777 1331,2777 1421,2777 1510,2771 1600,2771 1690,2771 1779,2777"/>
+				<TextEquiv>
+					<Unicode>banne thuͦn ¶ Das recht ſaczte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="900,2857 1782,2857 1782,2785 1716,2808 1452,2779 900,2792"/>
+				<Baseline points="907,2848 979,2848 1069,2848 1158,2848 1248,2842 1337,2842 1427,2842 1516,2842 1606,2842 1696,2842 1785,2836"/>
+				<TextEquiv>
+					<Unicode>ſant Silueſter der bapſt vnd d̓</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="912,2925 1792,2930 1793,2852 913,2864"/>
+				<Baseline points="919,2920 991,2920 1080,2914 1170,2914 1260,2914 1349,2914 1439,2914 1528,2908 1618,2908 1708,2914 1797,2908"/>
+				<TextEquiv>
+					<Unicode>künig Conſtantinus ſant He¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="906,3000 1788,3001 1770,2929 906,2929"/>
+				<Baseline points="913,2986 985,2986 1075,2986 1164,2980 1254,2980 1343,2986 1433,2980 1522,2980 1612,2980 1702,2980 1791,2980"/>
+				<TextEquiv>
+					<Unicode>lenen ſune die das heilig creutz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="900,3062 1254,3060 1291,3086 1788,3056 1788,3001 1677,2986 900,3018"/>
+				<Baseline points="907,3051 997,3051 1086,3051 1176,3051 1266,3051 1355,3051 1445,3051 1534,3045 1624,3045 1714,3045 1791,3051"/>
+				<TextEquiv>
+					<Unicode>vand Die zwen ſacztent diſe re¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_33" custom="readingOrder {index:32;}">
+				<Coords points="900,3129 1793,3135 1793,3054 1394,3086 900,3062"/>
+				<Baseline points="907,3129 991,3123 1080,3123 1170,3123 1260,3123 1349,3117 1439,3117 1528,3117 1618,3117 1708,3117 1797,3117"/>
+				<TextEquiv>
+					<Unicode>chte vn̄ ander recht ein michel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_34" custom="readingOrder {index:33;}">
+				<Coords points="900,3198 1793,3202 1793,3141 1734,3125 1661,3153 900,3147"/>
+				<Baseline points="907,3195 991,3195 1080,3195 1170,3189 1260,3189 1349,3189 1439,3189 1528,3189 1618,3183 1708,3189 1797,3189"/>
+				<TextEquiv>
+					<Unicode>teil an diſem buͦch vnd das ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_35" custom="readingOrder {index:34;}">
+				<Coords points="900,3289 1792,3268 1781,3200 1385,3222 1225,3197 1137,3230 1082,3198 901,3231"/>
+				<Baseline points="907,3266 991,3266 1080,3266 1170,3260 1260,3260 1349,3254 1439,3254 1528,3254 1618,3254 1708,3254 1797,3254"/>
+				<TextEquiv>
+					<Unicode>yeglich criſten menſche das zuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_36" custom="readingOrder {index:35;}">
+				<Coords points="900,3353 1799,3346 1801,3268 901,3289"/>
+				<Baseline points="907,3332 997,3332 1086,3332 1176,3332 1266,3326 1355,3326 1445,3326 1534,3326 1624,3326 1714,3326 1803,3326"/>
+				<TextEquiv>
+					<Unicode>ſeinen tagen kōmen iſt Das ſol</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_37" custom="readingOrder {index:36;}">
+				<Coords points="900,3431 1181,3397 1801,3427 1802,3346 1702,3336 1126,3364 1035,3338 901,3367"/>
+				<Baseline points="907,3398 997,3398 1086,3398 1176,3398 1266,3398 1355,3398 1445,3398 1534,3392 1624,3392 1714,3398 1803,3398"/>
+				<TextEquiv>
+					<Unicode>dreiſtund in dem iare das vogt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_38" custom="readingOrder {index:37;}">
+				<Coords points="912,3485 1793,3484 1795,3426 1073,3406 913,3430"/>
+				<Baseline points="919,3469 991,3469 1080,3469 1170,3469 1260,3463 1349,3463 1439,3463 1528,3463 1618,3463 1708,3463 1797,3463"/>
+				<TextEquiv>
+					<Unicode>ding ſuͦchen der eins vnd zwein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_39" custom="readingOrder {index:38;}">
+				<Coords points="919,3564 1385,3535 1793,3555 1793,3484 1765,3474 919,3497"/>
+				<Baseline points="925,3547 991,3541 1080,3541 1170,3535 1260,3535 1349,3535 1439,3535 1528,3535 1618,3535 1708,3535 1797,3535"/>
+				<TextEquiv>
+					<Unicode>czig iar alt iſt ſo ſol er dz vogt¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_40" custom="readingOrder {index:39;}">
+				<Coords points="919,3616 1687,3627 1793,3613 1795,3554 919,3561"/>
+				<Baseline points="925,3613 991,3613 1080,3607 1170,3607 1260,3601 1349,3607 1439,3601 1528,3601 1618,3601 1708,3601 1797,3601"/>
+				<TextEquiv>
+					<Unicode>ding ſuͦchen in dem Biſtum da</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_41" custom="readingOrder {index:40;}">
+				<Coords points="912,3690 1793,3695 1784,3630 1590,3607 912,3639"/>
+				<Baseline points="919,3678 991,3678 1080,3678 1170,3672 1260,3672 1349,3672 1439,3672 1528,3672 1618,3672 1708,3678 1797,3672"/>
+				<TextEquiv>
+					<Unicode>er in geſeſſen iſt oder in dem ge¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_42" custom="readingOrder {index:41;}">
+				<Coords points="919,3775 1621,3749 1621,3682 920,3702"/>
+				<Baseline points="925,3750 997,3750 1086,3750 1176,3750 1266,3750 1355,3744 1445,3744 1534,3744 1624,3744"/>
+				<TextEquiv>
+					<Unicode>richt da er guͦt inne hat.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2493_tl_43" custom="readingOrder {index:42;}">
+				<Coords points="900,3904 1806,3910 1790,3817 900,3828"/>
+				<Baseline points="907,3881 997,3881 1086,3881 1176,3887 1266,3881 1355,3881 1445,3881 1534,3881 1624,3881 1714,3881 1803,3893 1809,3893"/>
+				<TextEquiv>
+					<Unicode>¶ Von Conſtātino dem künig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>die beualh got ſamit Petern bei
+de eines von weltlichem gericht
+¶ Das ander vō geiſtlichem ge
+richte ¶ Das weltlich ſchwert
+des gerichtes dz leyhet der bapſt
+dem keiſer ¶ Das geiſtlich iſt dē
+Bapſt geſeczt daz er damit rich
+te zuͦ beſcheidelicher zeit auff ei¬
+nem plancken pfert vnnd der
+bapſt ſol darauff ſiczen So ſol
+im der keiſer den ſtegreiff heben
+an dem auff ſiczen das ſich der
+ſattel nicht entwinnde Da bey
+iſt bezeichnet was dem Bapſte
+widerſtee das er mit geiſtlichez
+gerichte nicht betzwingen mag
+Das ſol der keiſer vnnd ander
+weltlich richter betzwingē mit
+der auchte.
+¶ Als ein man iſt in dem bann
+ſechs wochen vnd einen tag.
+¶ Als ein man iſt in dem banne
+ſechs wochen vnd einen tag ſo
+ſol in der keiſer weltlich richter
+ze auchte thuͦn. Vnd wer auch
+in der auchte iſt ſechs wochen
+vnnd einen tag den ſol man ze
+banne thuͦn ¶ Das recht ſaczte
+ſant Silueſter der bapſt vnd d̓
+künig Conſtantinus ſant He¬
+lenen ſune die das heilig creutz
+vand Die zwen ſacztent diſe re¬
+chte vn̄ ander recht ein michel
+teil an diſem buͦch vnd das ein
+yeglich criſten menſche das zuͦ
+ſeinen tagen kōmen iſt Das ſol
+dreiſtund in dem iare das vogt
+ding ſuͦchen der eins vnd zwein
+czig iar alt iſt ſo ſol er dz vogt¬
+ding ſuͦchen in dem Biſtum da
+er in geſeſſen iſt oder in dem ge¬
+richt da er guͦt inne hat.
+¶ Von Conſtātino dem künig</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="TextRegion_1693482224128_2492" custom="readingOrder {index:1;}">
+			<Coords points="1919,565 3225,565 3225,4146 1919,4146"/>
+			<TextLine id="TextRegion_1693482224128_2492_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="2060,781 2941,759 2917,657 2578,698 2060,684"/>
+				<Baseline points="2066,758 2138,758 2227,752 2317,758 2406,758 2496,752 2585,758 2675,758 2765,752 2854,758 2944,752"/>
+				<TextEquiv>
+					<Unicode>¶ Der künig Conſtantinꝰ gab</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="2047,833 2947,842 2947,749 2878,791 2721,764 2603,791 2534,761 2047,781"/>
+				<Baseline points="2054,824 2144,824 2233,824 2323,824 2412,824 2502,824 2591,824 2681,824 2771,824 2860,824 2950,830"/>
+				<TextEquiv>
+					<Unicode>Silueſtro weltlich gewette zuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="2054,899 2913,920 2952,918 2953,860 2833,830 2054,854"/>
+				<Baseline points="2060,889 2150,895 2239,895 2329,895 2418,895 2508,889 2597,895 2687,895 2777,889 2866,889 2956,901"/>
+				<TextEquiv>
+					<Unicode>dem geiſtlichē ſechtzig ſchilling</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="2066,978 2941,972 2941,914 2686,903 2605,940 2536,900 2066,916"/>
+				<Baseline points="2072,967 2161,961 2251,961 2341,961 2430,961 2520,961 2609,961 2699,961 2789,961 2878,967 2944,967"/>
+				<TextEquiv>
+					<Unicode>damit ze zwingen alle die got</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="2047,1047 2947,1041 2947,988 2914,977 2676,1006 2485,970 2047,999"/>
+				<Baseline points="2054,1033 2144,1033 2233,1033 2323,1033 2412,1033 2502,1033 2591,1033 2681,1033 2771,1033 2860,1033 2950,1033"/>
+				<TextEquiv>
+					<Unicode>nicht wolten beſſeren mit dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="2060,1120 2545,1100 2761,1129 2873,1107 2916,1134 2943,1042 2061,1055"/>
+				<Baseline points="2066,1098 2155,1104 2245,1098 2335,1104 2424,1098 2514,1098 2603,1098 2693,1098 2783,1098 2872,1098 2944,1104"/>
+				<TextEquiv>
+					<Unicode>leibe das man ſy dartzuͦ zwing</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="2078,1198 2190,1171 2369,1200 2936,1170 2936,1128 2887,1108 2815,1137 2546,1100 2376,1134 2078,1116"/>
+				<Baseline points="2084,1176 2132,1170 2221,1170 2311,1170 2400,1170 2490,1170 2580,1170 2669,1170 2759,1170 2848,1170 2938,1170"/>
+				<TextEquiv>
+					<Unicode>mit dem guͦt ¶ Alſo ſol weltli¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="2072,1258 2947,1247 2926,1173 2856,1210 2799,1176 2072,1197"/>
+				<Baseline points="2078,1242 2167,1236 2257,1236 2347,1242 2436,1242 2526,1242 2615,1236 2705,1236 2795,1236 2884,1236 2950,1242"/>
+				<TextEquiv>
+					<Unicode>ches vnd geiſtliches gericht üb̓</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="2060,1318 2959,1316 2959,1248 2821,1272 2235,1248 2060,1277"/>
+				<Baseline points="2066,1307 2155,1307 2245,1307 2335,1307 2424,1307 2514,1307 2603,1307 2693,1307 2783,1307 2872,1307 2962,1307"/>
+				<TextEquiv>
+					<Unicode>einander tragen Was dem einē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="2078,1396 2695,1378 2959,1403 2959,1337 2830,1317 2078,1342"/>
+				<Baseline points="2084,1385 2155,1379 2245,1379 2335,1379 2424,1373 2514,1373 2603,1379 2693,1373 2783,1373 2872,1373 2962,1373"/>
+				<TextEquiv>
+					<Unicode>wider ſton welle das helff das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="2072,1460 2959,1451 2959,1404 2825,1382 2729,1414 2676,1385 2546,1412 2072,1399"/>
+				<Baseline points="2078,1451 2167,1451 2257,1451 2347,1445 2436,1451 2526,1445 2615,1445 2705,1445 2795,1445 2884,1445 2962,1451"/>
+				<TextEquiv>
+					<Unicode>an der zwingen gehorſam ze we</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="2060,1535 2947,1524 2947,1461 2910,1454 2716,1484 2619,1457 2488,1493 2389,1455 2301,1489 2060,1465"/>
+				<Baseline points="2066,1516 2155,1516 2245,1516 2335,1516 2424,1516 2514,1516 2603,1516 2693,1516 2783,1516 2872,1516 2950,1516"/>
+				<TextEquiv>
+					<Unicode>ſen vnd rechtz ze pflegen ¶ Der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="2072,1614 2467,1582 2953,1605 2953,1555 2898,1542 2072,1535"/>
+				<Baseline points="2078,1588 2150,1588 2239,1588 2329,1588 2418,1582 2508,1582 2597,1582 2687,1582 2777,1582 2866,1582 2956,1576"/>
+				<TextEquiv>
+					<Unicode>bann ſchadet der ſelen vnd ny¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="2072,1674 2953,1666 2953,1605 2926,1601 2072,1614"/>
+				<Baseline points="2078,1654 2167,1654 2257,1654 2347,1654 2436,1654 2526,1654 2615,1654 2705,1654 2795,1654 2884,1654 2956,1654"/>
+				<TextEquiv>
+					<Unicode>met aber den leib nicht/ noch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="2078,1737 2959,1739 2959,1684 2910,1662 2846,1687 2799,1662 2078,1663"/>
+				<Baseline points="2084,1725 2173,1725 2263,1725 2353,1720 2442,1725 2532,1720 2621,1720 2711,1720 2800,1720 2890,1720 2962,1725"/>
+				<TextEquiv>
+					<Unicode>krenket an lantrecht/ den volg</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="2078,1805 2971,1796 2971,1739 2825,1757 2736,1725 2603,1761 2396,1730 2078,1749"/>
+				<Baseline points="2084,1791 2173,1791 2263,1791 2353,1791 2442,1791 2532,1791 2621,1791 2711,1791 2800,1791 2890,1791 2974,1797"/>
+				<TextEquiv>
+					<Unicode>dem des küniges auchte nach</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="2078,1877 2953,1870 2953,1819 2816,1801 2534,1830 2078,1819"/>
+				<Baseline points="2084,1863 2173,1863 2263,1863 2353,1863 2442,1863 2532,1857 2621,1863 2711,1857 2800,1857 2890,1863 2956,1863"/>
+				<TextEquiv>
+					<Unicode>verueſtenung/ nymmet dē man</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="2072,1960 2959,1938 2941,1867 2072,1899"/>
+				<Baseline points="2078,1935 2167,1935 2257,1935 2347,1929 2436,1929 2526,1929 2615,1929 2705,1929 2795,1929 2884,1929 2962,1935"/>
+				<TextEquiv>
+					<Unicode>den leibe/ ob er darinne begriffen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="2083,2020 2965,2019 2945,1936 2083,1957"/>
+				<Baseline points="2090,2000 2179,2000 2269,2000 2359,2000 2448,2000 2538,2000 2627,2000 2717,2000 2806,2000 2896,2000 2968,2006"/>
+				<TextEquiv>
+					<Unicode>wirt/ vnd nicht ſein rechte ſein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="2089,2087 2232,2100 2684,2073 2684,2012 2649,2008 2615,2036 2525,2019 2490,2039 2418,2015 2276,2042 2090,2020"/>
+				<Baseline points="2096,2078 2150,2078 2239,2078 2329,2072 2418,2072 2508,2072 2597,2072 2705,2071"/>
+				<TextEquiv>
+					<Unicode>lange ere darinne iſt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="2066,2302 2559,2279 2912,2306 3007,2269 3008,2200 2066,2228"/>
+				<Baseline points="2072,2287 2161,2281 2251,2281 2341,2287 2430,2281 2520,2281 2609,2281 2699,2281 2789,2281 2878,2275 2968,2287 3010,2293"/>
+				<TextEquiv>
+					<Unicode>¶ Von auchten vnd von ban¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="2072,2364 2094,2378 2119,2371 2132,2376 2149,2363 2224,2363 2224,2312 2201,2310 2194,2303 2072,2302"/>
+				<Baseline points="2078,2353 2167,2353 2227,2353"/>
+				<TextEquiv>
+					<Unicode>nen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="2089,2504 2977,2506 2978,2409 2089,2425"/>
+				<Baseline points="2096,2484 2173,2490 2263,2490 2353,2490 2442,2490 2532,2490 2621,2484 2711,2490 2800,2484 2890,2484 2980,2478"/>
+				<TextEquiv>
+					<Unicode>¶ Vnd kummet ein man in dē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="2083,2569 2717,2562 2795,2593 2965,2567 2965,2501 2920,2493 2764,2524 2662,2494 2436,2526 2083,2505"/>
+				<Baseline points="2090,2556 2179,2556 2269,2556 2359,2556 2448,2562 2538,2556 2627,2556 2717,2556 2806,2556 2896,2556 2968,2556"/>
+				<TextEquiv>
+					<Unicode>banne/ von geiſtlichem gericht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="2095,2637 2977,2634 2977,2569 2906,2563 2794,2593 2696,2567 2559,2594 2095,2571"/>
+				<Baseline points="2102,2627 2173,2627 2263,2627 2353,2627 2442,2627 2532,2627 2621,2627 2711,2621 2800,2621 2890,2621 2980,2621"/>
+				<TextEquiv>
+					<Unicode>Vnd iſt dar inne ſechs wochē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="2101,2716 2977,2713 2977,2634 2738,2663 2403,2635 2101,2653"/>
+				<Baseline points="2108,2699 2173,2693 2263,2693 2353,2693 2442,2693 2532,2693 2621,2693 2711,2693 2800,2693 2890,2693 2980,2693"/>
+				<TextEquiv>
+					<Unicode>vnd einen tage/ man mag in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="2083,2790 2384,2767 2903,2791 2977,2764 2978,2720 2730,2700 2085,2725"/>
+				<Baseline points="2090,2765 2173,2765 2263,2765 2353,2765 2442,2765 2532,2765 2621,2765 2711,2765 2800,2765 2890,2759 2980,2759"/>
+				<TextEquiv>
+					<Unicode>mit recht vor weltlichem geri¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="2088,2851 2977,2835 2977,2803 2826,2770 2660,2801 2505,2770 2089,2788"/>
+				<Baseline points="2096,2842 2173,2836 2263,2836 2353,2836 2442,2836 2532,2830 2621,2830 2711,2830 2800,2830 2890,2830 2980,2830"/>
+				<TextEquiv>
+					<Unicode>chte zuͦ auchte tuͦn/ vnd kum¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="2095,2923 2990,2914 2980,2832 2799,2863 2538,2838 2447,2867 2095,2863"/>
+				<Baseline points="2102,2908 2191,2908 2281,2902 2370,2902 2460,2902 2550,2902 2639,2902 2729,2902 2818,2902 2908,2902 2992,2908"/>
+				<TextEquiv>
+					<Unicode>met er vor weltlichem gerichte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="2095,2994 2714,2971 2853,2997 2977,2987 2978,2923 2096,2923"/>
+				<Baseline points="2102,2980 2173,2974 2263,2974 2353,2974 2442,2974 2532,2974 2621,2968 2711,2968 2800,2974 2890,2968 2980,2968"/>
+				<TextEquiv>
+					<Unicode>ze auchte/ man tuͦt in vor geiſt¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="2095,3065 2977,3046 2977,2987 2932,2975 2741,3008 2653,2979 2095,2994"/>
+				<Baseline points="2102,3045 2173,3045 2263,3045 2353,3045 2442,3039 2532,3039 2621,3039 2711,3039 2800,3039 2890,3039 2980,3039"/>
+				<TextEquiv>
+					<Unicode>lichem gerichte ze bann/ vnd kū</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="2095,3135 2990,3114 2990,3044 2870,3073 2497,3049 2095,3076"/>
+				<Baseline points="2102,3117 2185,3111 2275,3111 2365,3111 2454,3111 2544,3111 2633,3111 2723,3111 2812,3105 2902,3105 2992,3111"/>
+				<TextEquiv>
+					<Unicode>met er ee in den banne ee dan̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_33" custom="readingOrder {index:32;}">
+				<Coords points="2101,3195 2977,3190 2959,3122 2102,3144"/>
+				<Baseline points="2108,3183 2173,3183 2263,3183 2353,3183 2442,3183 2532,3183 2621,3177 2711,3177 2800,3177 2890,3177 2980,3177"/>
+				<TextEquiv>
+					<Unicode>in die auchte/ man ſol in auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_34" custom="readingOrder {index:33;}">
+				<Coords points="2095,3272 2982,3261 2991,3190 2259,3190 2095,3221"/>
+				<Baseline points="2102,3254 2185,3254 2275,3248 2365,3248 2454,3248 2544,3248 2633,3248 2723,3248 2812,3248 2902,3242 2992,3242"/>
+				<TextEquiv>
+					<Unicode>ee auß dem ban̄ laſſen Ee dan̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_35" custom="readingOrder {index:34;}">
+				<Coords points="2101,3332 2944,3332 2982,3323 2984,3258 2754,3282 2477,3257 2356,3289 2228,3263 2102,3296"/>
+				<Baseline points="2108,3320 2179,3320 2269,3320 2359,3320 2448,3320 2538,3320 2627,3314 2717,3314 2806,3314 2896,3314 2986,3314"/>
+				<TextEquiv>
+					<Unicode>auß der aucht. Kōmet er auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_36" custom="readingOrder {index:35;}">
+				<Coords points="2108,3402 2941,3400 2981,3391 2982,3339 2109,3349"/>
+				<Baseline points="2114,3392 2179,3392 2269,3386 2359,3386 2448,3386 2538,3386 2627,3386 2717,3386 2806,3386 2896,3380 2986,3386"/>
+				<TextEquiv>
+					<Unicode>ee in die auchte er dan̄ in den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_37" custom="readingOrder {index:36;}">
+				<Coords points="2114,3471 2932,3478 2975,3461 2977,3400 2115,3402"/>
+				<Baseline points="2120,3463 2173,3457 2263,3457 2353,3457 2442,3457 2532,3457 2621,3457 2711,3451 2800,3457 2890,3451 2980,3451"/>
+				<TextEquiv>
+					<Unicode>banne/ er ſoll er auß der auchte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_38" custom="readingOrder {index:37;}">
+				<Coords points="2114,3549 2447,3526 2879,3551 2990,3528 2991,3464 2735,3490 2548,3459 2378,3497 2115,3475"/>
+				<Baseline points="2120,3535 2185,3529 2275,3529 2365,3523 2454,3523 2544,3523 2633,3523 2723,3523 2812,3523 2902,3517 2992,3529"/>
+				<TextEquiv>
+					<Unicode>kommen ee dan̄ auß dem ban̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_39" custom="readingOrder {index:38;}">
+				<Coords points="2107,3616 3001,3600 2994,3526 2108,3548"/>
+				<Baseline points="2114,3595 2203,3601 2293,3601 2382,3595 2472,3595 2562,3595 2651,3589 2741,3595 2830,3589 2920,3589 3004,3595"/>
+				<TextEquiv>
+					<Unicode>Ein yeglicher richter ſol in auſ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_40" custom="readingOrder {index:39;}">
+				<Coords points="2108,3680 2982,3669 2982,3601 2108,3617"/>
+				<Baseline points="2114,3666 2179,3666 2269,3666 2359,3660 2448,3660 2538,3660 2627,3660 2717,3660 2806,3660 2896,3660 2986,3660"/>
+				<TextEquiv>
+					<Unicode>ſer den banden laſſen ee er von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_41" custom="readingOrder {index:40;}">
+				<Coords points="2108,3743 2338,3782 2497,3743 2890,3751 2923,3744 2924,3663 2785,3693 2547,3670 2108,3700"/>
+				<Baseline points="2114,3738 2120,3738 2209,3738 2299,3738 2388,3738 2478,3738 2568,3732 2657,3732 2747,3732 2836,3732 2926,3732"/>
+				<TextEquiv>
+					<Unicode>der er eren ſchulde kōmen iſt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1693482224128_2492_tl_42" custom="readingOrder {index:41;}">
+				<Coords points="2155,3891 2391,3886 2463,3917 2551,3889 2959,3877 2959,3795 2926,3792 2155,3819"/>
+				<Baseline points="2161,3881 2245,3875 2335,3875 2424,3875 2514,3875 2603,3875 2693,3875 2783,3875 2872,3875 2962,3870"/>
+				<TextEquiv>
+					<Unicode>¶ Von den fridlichen tagen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>¶ Der künig Conſtantinꝰ gab
+Silueſtro weltlich gewette zuͦ
+dem geiſtlichē ſechtzig ſchilling
+damit ze zwingen alle die got
+nicht wolten beſſeren mit dem
+leibe das man ſy dartzuͦ zwing
+mit dem guͦt ¶ Alſo ſol weltli¬
+ches vnd geiſtliches gericht üb̓
+einander tragen Was dem einē
+wider ſton welle das helff das
+an der zwingen gehorſam ze we
+ſen vnd rechtz ze pflegen ¶ Der
+bann ſchadet der ſelen vnd ny¬
+met aber den leib nicht/ noch
+krenket an lantrecht/ den volg
+dem des küniges auchte nach
+verueſtenung/ nymmet dē man
+den leibe/ ob er darinne begriffen
+wirt/ vnd nicht ſein rechte ſein
+lange ere darinne iſt.
+¶ Von auchten vnd von ban¬
+nen.
+¶ Vnd kummet ein man in dē
+banne/ von geiſtlichem gericht
+Vnd iſt dar inne ſechs wochē
+vnd einen tage/ man mag in
+mit recht vor weltlichem geri¬
+chte zuͦ auchte tuͦn/ vnd kum¬
+met er vor weltlichem gerichte
+ze auchte/ man tuͦt in vor geiſt¬
+lichem gerichte ze bann/ vnd kū
+met er ee in den banne ee dan̄
+in die auchte/ man ſol in auch
+ee auß dem ban̄ laſſen Ee dan̄
+auß der aucht. Kōmet er auch
+ee in die auchte er dan̄ in den
+banne/ er ſoll er auß der auchte
+kommen ee dan̄ auß dem ban̄
+Ein yeglicher richter ſol in auſ
+ſer den banden laſſen ee er von
+der er eren ſchulde kōmen iſt.
+¶ Von den fridlichen tagen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

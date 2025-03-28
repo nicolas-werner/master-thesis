@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52817:lm=provided:date=18_06_2023_15:44</Creator>
+		<Created>2023-06-14T14:00:48.690+02:00</Created>
+		<LastChange>2023-12-20T15:45:45.104+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075054" pageNr="69" tsid="154460151" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=NRYDADOUIQAJSEMYKNDIWYUX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TYHCWPFTMQCDTDSQWXMYRCCE" imageId="45478105"/>
+	</Metadata>
+	<Page imageFilename="7474186.jpg" imageWidth="2148" imageHeight="2648">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356499762" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1687095310571_10950"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1687095310571_10950" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="164,360 1457,360 1457,2179 164,2179"/>
+			<TextLine id="region_1687095310571_10950_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="549,504 1378,487 1378,397 549,405"/>
+				<Baseline points="558,492 576,483 620,480 665,477 710,477 755,477 800,477 844,477 889,477 934,477 979,477 1023,477 1068,474 1113,474 1158,474 1203,474 1247,474 1292,474 1337,474 1382,471"/>
+				<TextEquiv>
+					<Unicode>It glucklicher fart Am vier</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="538,555 1149,538 1277,561 1366,535 1366,495 1251,484 1213,507 538,500"/>
+				<Baseline points="546,540 564,540 609,537 653,537 698,534 743,534 788,534 832,534 877,534 922,534 967,534 1012,534 1056,534 1101,534 1146,534 1191,534 1235,534 1280,534 1325,534 1370,528"/>
+				<TextEquiv>
+					<Unicode>zehenden tag des monats Mayen/ Tu¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="541,609 821,590 1160,618 1372,589 1372,551 1318,539 541,554"/>
+				<Baseline points="549,591 570,588 614,588 659,588 704,588 749,585 794,585 838,585 883,588 928,585 973,585 1018,585 1062,588 1107,588 1152,585 1197,585 1241,585 1286,585 1331,585 1376,579"/>
+				<TextEquiv>
+					<Unicode>ſent fünffhūdert eyn Iars/ ſchieden wir</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="532,640 748,663 1366,643 1356,590 1160,618 532,602"/>
+				<Baseline points="540,638 564,638 609,638 653,641 698,638 743,638 788,638 832,638 877,638 922,638 967,635 1012,635 1056,638 1101,638 1146,638 1191,638 1235,635 1280,638 1325,635 1370,629"/>
+				<TextEquiv>
+					<Unicode>von Oliſpppo nach gebott des obgenan¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="535,693 1381,712 1371,641 535,650"/>
+				<Baseline points="543,689 579,695 623,689 668,689 713,689 758,689 803,689 847,689 892,689 937,689 982,689 1026,686 1071,689 1116,689 1161,689 1206,689 1250,689 1295,689 1340,689 1385,686"/>
+				<TextEquiv>
+					<Unicode>ten künigs mit dryen ſchiffen zuͦ erſuͦchē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1687095797447_11287" custom="readingOrder {index:5;}">
+				<Coords points="530,766 1369,763 1356,694 530,700"/>
+				<Baseline points="539,740 576,743 620,740 665,743 710,740 755,743 800,740 844,740 889,743 934,740 979,740 1023,740 1068,740 1113,740 1158,737 1203,740 1247,740 1292,740 1337,737 1373,740"/>
+				<TextEquiv>
+					<Unicode>nuwe land gegen Auſter/ vnd tzweintzig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_8" custom="readingOrder {index:6;}">
+				<Coords points="224,796 1394,795 1394,761 1298,744 224,761"/>
+				<Baseline points="232,794 277,794 322,794 367,794 411,791 456,791 501,794 546,794 591,794 635,794 680,794 725,791 770,794 814,794 859,794 904,794 949,791 994,791 1038,794 1083,794 1128,794 1173,791 1218,791 1262,788 1307,791 1352,791 1397,791"/>
+				<TextEquiv>
+					<Unicode>Monet on vnderlaß fuͦren wir gegen mittag der ſelben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_9" custom="readingOrder {index:7;}">
+				<Coords points="232,864 1387,862 1387,795 232,807"/>
+				<Baseline points="241,847 271,847 316,847 361,847 406,847 450,844 495,844 540,844 585,844 629,844 674,844 719,844 764,844 809,844 853,844 898,844 943,844 988,844 1032,841 1077,844 1122,844 1167,841 1212,841 1256,841 1301,841 1346,841 1391,844"/>
+				<TextEquiv>
+					<Unicode>ſchiffung. vnd fart ordnung vnd wiſe iſt alſo/ Diſe ſchif</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_10" custom="readingOrder {index:8;}">
+				<Coords points="235,915 1384,913 1384,861 1315,850 235,862"/>
+				<Baseline points="244,898 268,898 313,898 358,898 403,898 447,898 492,898 537,898 582,898 626,898 671,898 716,898 761,898 806,895 850,898 895,895 940,895 985,898 1029,895 1074,895 1119,895 1164,895 1209,892 1253,892 1298,889 1343,892 1388,892"/>
+				<TextEquiv>
+					<Unicode>fung iſt geweſen durch die fortunaten Inſalen/ vor ziten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_11" custom="readingOrder {index:9;}">
+				<Coords points="226,957 1387,962 1387,913 1327,902 226,910"/>
+				<Baseline points="235,949 271,949 316,949 361,949 406,949 450,949 495,949 540,949 585,949 629,949 674,949 719,946 764,949 809,946 853,946 898,946 943,949 988,946 1032,946 1077,946 1122,946 1167,946 1212,946 1256,946 1301,943 1346,943 1391,943"/>
+				<TextEquiv>
+					<Unicode>alſo genant/ Aber zuͦ dyſen werden ſy genant die inſulen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_12" custom="readingOrder {index:10;}">
+				<Coords points="226,1014 1387,1016 1388,962 1315,950 228,972"/>
+				<Baseline points="235,1003 271,1000 316,1000 361,1000 406,1000 450,1000 495,1000 540,1000 585,1000 629,1000 674,1000 719,1000 764,1000 809,1000 853,1000 898,1000 943,997 988,997 1032,997 1077,997 1122,997 1167,997 1212,997 1256,997 1301,994 1346,994 1391,997"/>
+				<TextEquiv>
+					<Unicode>magne canarie/ der groſſen Canarie/ die da ſindt im drit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_13" custom="readingOrder {index:11;}">
+				<Coords points="229,1055 1382,1056 1382,1016 1217,1005 229,1014"/>
+				<Baseline points="238,1050 265,1053 310,1050 355,1053 400,1053 444,1050 489,1053 534,1050 579,1053 623,1053 668,1053 713,1053 758,1053 803,1050 847,1053 892,1050 937,1050 982,1047 1026,1047 1071,1047 1116,1047 1161,1047 1206,1047 1250,1047 1295,1047 1340,1047 1385,1047"/>
+				<TextEquiv>
+					<Unicode>ten Clima der ſibenfaltigē vßteilung der welt vnd am an</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_14" custom="readingOrder {index:12;}">
+				<Coords points="232,1124 1378,1103 1378,1058 1306,1052 232,1062"/>
+				<Baseline points="241,1107 262,1104 307,1101 352,1104 397,1104 441,1107 486,1104 531,1104 576,1101 620,1104 665,1104 710,1104 755,1104 800,1104 844,1101 889,1104 934,1101 979,1101 1023,1098 1068,1101 1113,1098 1158,1101 1203,1101 1247,1098 1292,1095 1337,1095 1382,1098"/>
+				<TextEquiv>
+					<Unicode>ſtoß vnd gegē der wonhafftigē landen der ſonnē nyder¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_15" custom="readingOrder {index:13;}">
+				<Coords points="232,1172 1387,1157 1387,1112 1321,1102 232,1127"/>
+				<Baseline points="241,1158 271,1158 316,1155 361,1155 406,1158 450,1155 495,1155 540,1155 585,1155 629,1155 674,1155 719,1155 764,1155 809,1155 853,1155 898,1152 943,1152 988,1152 1032,1152 1077,1152 1122,1152 1167,1152 1212,1152 1256,1152 1301,1149 1346,1149 1391,1149"/>
+				<TextEquiv>
+					<Unicode>gangs/ Dannen durch das groß mer Occeanū dē gātzē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_16" custom="readingOrder {index:14;}">
+				<Coords points="228,1223 1353,1226 1382,1176 371,1187 229,1154"/>
+				<Baseline points="238,1212 265,1209 310,1209 355,1209 400,1209 444,1209 489,1209 534,1209 579,1209 623,1206 668,1209 713,1206 758,1206 803,1206 847,1203 892,1203 937,1203 982,1203 1026,1203 1071,1203 1116,1200 1161,1203 1206,1203 1250,1200 1295,1200 1340,1200 1385,1197"/>
+				<TextEquiv>
+					<Unicode>ſtaden affricum vn̄ eyn teil der Moͤren lands durchren̄t</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_17" custom="readingOrder {index:15;}">
+				<Coords points="224,1284 1378,1251 1150,1204 224,1220"/>
+				<Baseline points="232,1259 262,1259 307,1259 352,1259 397,1259 441,1259 486,1259 531,1256 576,1259 620,1259 665,1259 710,1256 755,1256 800,1256 844,1256 889,1256 934,1253 979,1253 1023,1253 1068,1253 1113,1253 1158,1253 1203,1253 1247,1253 1292,1253 1337,1250 1382,1250"/>
+				<TextEquiv>
+					<Unicode>biß zuͦ den hochbergen der Moren ſo alſo von Ptolomeo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_18" custom="readingOrder {index:16;}">
+				<Coords points="224,1328 1381,1306 1381,1246 224,1284"/>
+				<Baseline points="232,1313 265,1310 310,1310 355,1310 400,1310 444,1310 489,1310 534,1310 579,1310 623,1310 668,1310 713,1310 758,1310 803,1307 847,1307 892,1307 937,1307 982,1304 1026,1307 1071,1307 1116,1307 1161,1307 1206,1304 1250,1304 1295,1301 1340,1301 1385,1301"/>
+				<TextEquiv>
+					<Unicode>genēpt wirt/ Das zuͦ dißen zeitē von den vnſern dz grün̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_19" custom="readingOrder {index:17;}">
+				<Coords points="226,1369 1379,1369 1379,1305 226,1325"/>
+				<Baseline points="235,1364 262,1361 307,1361 352,1361 397,1361 441,1364 486,1364 531,1361 576,1364 620,1361 665,1361 710,1361 755,1361 800,1358 844,1358 889,1358 934,1358 979,1358 1023,1358 1068,1358 1113,1355 1158,1355 1203,1355 1247,1355 1292,1355 1337,1352 1382,1355"/>
+				<TextEquiv>
+					<Unicode>houpt genempt wirt/ vn̄ von den Morē beſeglitte/ vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_20" custom="readingOrder {index:18;}">
+				<Coords points="224,1416 1387,1413 1387,1375 1268,1365 224,1371"/>
+				<Baseline points="232,1415 271,1415 316,1412 361,1415 406,1415 450,1415 495,1415 540,1412 585,1412 629,1415 674,1415 719,1415 764,1412 809,1412 853,1412 898,1409 943,1409 988,1409 1032,1406 1077,1409 1122,1409 1167,1409 1212,1406 1256,1406 1301,1406 1346,1406 1391,1403"/>
+				<TextEquiv>
+					<Unicode>die ſelbe lantſchafft Mandinglia vierzehē gradus innert</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_21" custom="readingOrder {index:19;}">
+				<Coords points="232,1477 1378,1464 1353,1409 232,1422"/>
+				<Baseline points="241,1465 262,1465 307,1465 352,1465 397,1465 441,1465 486,1465 531,1462 576,1465 620,1465 665,1462 710,1465 755,1465 800,1462 844,1462 889,1462 934,1459 979,1459 1023,1459 1068,1459 1113,1459 1158,1459 1203,1456 1247,1459 1292,1459 1337,1456 1382,1450"/>
+				<TextEquiv>
+					<Unicode>der krummen ſchnuͦr genāt Torrida zona/ von der lyniē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_22" custom="readingOrder {index:20;}">
+				<Coords points="224,1526 1381,1508 1381,1464 1327,1461 224,1483"/>
+				<Baseline points="232,1516 265,1516 310,1519 355,1516 400,1516 444,1516 489,1513 534,1516 579,1516 623,1516 668,1516 713,1516 758,1513 803,1513 847,1513 892,1513 937,1513 982,1510 1026,1510 1071,1507 1116,1510 1161,1510 1206,1510 1250,1510 1295,1507 1340,1507 1385,1504"/>
+				<TextEquiv>
+					<Unicode>equinoctiali gegen Mitternacht die von ſchwartzen lü¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_23" custom="readingOrder {index:21;}">
+				<Coords points="224,1575 1387,1565 1365,1511 225,1530"/>
+				<Baseline points="232,1567 271,1567 316,1567 361,1567 406,1567 450,1567 495,1567 540,1567 585,1567 629,1567 674,1567 719,1567 764,1567 809,1564 853,1564 898,1561 943,1564 988,1561 1032,1561 1077,1561 1122,1561 1167,1561 1212,1561 1256,1561 1301,1558 1346,1558 1391,1558"/>
+				<TextEquiv>
+					<Unicode>ten vnd voͤlckern bewōt wirt/ da ſelbs nach raſtung vn̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_24" custom="readingOrder {index:22;}">
+				<Coords points="229,1632 1232,1638 1390,1621 1391,1571 229,1585"/>
+				<Baseline points="238,1618 274,1618 319,1618 364,1621 408,1621 453,1621 498,1615 543,1621 588,1618 632,1618 677,1618 722,1618 767,1615 812,1615 856,1615 901,1615 946,1615 991,1612 1035,1609 1080,1612 1125,1612 1170,1612 1215,1612 1259,1609 1304,1609 1349,1609 1394,1609"/>
+				<TextEquiv>
+					<Unicode>widerlabung vnſer krafft vnnd nottürfftiger dingen zuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_25" custom="readingOrder {index:23;}">
+				<Coords points="224,1682 1398,1679 1356,1616 224,1628"/>
+				<Baseline points="232,1668 235,1668 280,1671 325,1671 370,1671 414,1671 459,1671 504,1671 549,1671 594,1668 638,1668 683,1665 728,1668 773,1665 817,1665 862,1665 907,1665 952,1662 997,1662 1041,1662 1086,1662 1131,1662 1176,1662 1221,1662 1265,1662 1310,1659 1355,1659 1400,1659"/>
+				<TextEquiv>
+					<Unicode>vnſer ſchiffung/ huͦben wir die encker vff vn̄ zertan̄tē die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_26" custom="readingOrder {index:24;}">
+				<Coords points="243,1742 1384,1733 1385,1664 244,1678"/>
+				<Baseline points="250,1725 268,1722 313,1722 358,1722 403,1722 447,1722 492,1722 537,1722 582,1722 626,1719 671,1719 716,1719 761,1716 806,1719 850,1716 895,1716 940,1716 985,1716 1029,1713 1074,1716 1119,1713 1164,1716 1209,1713 1253,1713 1298,1713 1343,1713 1388,1710"/>
+				<TextEquiv>
+					<Unicode>ſegel in winde vnd in vnſern weg durch das allerwildeſt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_27" custom="readingOrder {index:25;}">
+				<Coords points="232,1790 1390,1777 1390,1733 1283,1716 232,1749"/>
+				<Baseline points="241,1776 274,1773 319,1773 364,1776 408,1773 453,1773 498,1773 543,1773 588,1773 632,1773 677,1770 722,1770 767,1770 812,1767 856,1770 901,1767 946,1767 991,1767 1035,1764 1080,1764 1125,1764 1170,1764 1215,1764 1259,1764 1304,1764 1349,1764 1394,1761"/>
+				<TextEquiv>
+					<Unicode>groß mere Occeanum/ vnd fuͦrē gegen dem wider sibēge</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_28" custom="readingOrder {index:26;}">
+				<Coords points="232,1841 1387,1822 1387,1777 1115,1767 232,1790"/>
+				<Baseline points="241,1833 271,1827 316,1824 361,1824 406,1824 450,1827 495,1824 540,1824 585,1824 629,1824 674,1821 719,1824 764,1821 809,1821 853,1821 898,1821 943,1821 988,1818 1032,1818 1077,1818 1122,1815 1167,1818 1212,1818 1256,1818 1301,1818 1346,1815 1391,1815"/>
+				<TextEquiv>
+					<Unicode>ſtirn gen Ancarticies/ ein wenig gegē der Sonnē nyder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_29" custom="readingOrder {index:27;}">
+				<Coords points="229,1900 1390,1882 1353,1821 231,1847"/>
+				<Baseline points="238,1880 274,1877 319,1877 364,1877 408,1877 453,1874 498,1874 543,1874 588,1874 632,1874 677,1874 722,1871 767,1871 812,1871 856,1868 901,1868 946,1868 991,1868 1035,1868 1080,1868 1125,1868 1170,1868 1215,1868 1259,1868 1304,1868 1349,1865 1394,1868"/>
+				<TextEquiv>
+					<Unicode>gang wandten wir durch den wynd genant vulturnus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_30" custom="readingOrder {index:28;}">
+				<Coords points="226,1933 1384,1942 1384,1891 1331,1872 226,1898"/>
+				<Baseline points="235,1928 268,1925 313,1925 358,1925 403,1925 447,1925 492,1925 537,1928 582,1925 626,1928 671,1925 716,1925 761,1925 806,1922 850,1922 895,1922 940,1922 985,1922 1029,1919 1074,1919 1119,1919 1164,1919 1209,1919 1253,1919 1298,1919 1343,1916 1388,1913"/>
+				<TextEquiv>
+					<Unicode>vnd von dem tag als wir abſchieden von dē gemelten ho</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_31" custom="readingOrder {index:29;}">
+				<Coords points="229,2000 1387,1971 1387,1930 1306,1924 229,1945"/>
+				<Baseline points="238,1976 271,1979 316,1976 361,1979 406,1976 450,1979 495,1979 540,1976 585,1976 629,1979 674,1979 719,1976 764,1976 809,1976 853,1976 898,1973 943,1973 988,1973 1032,1973 1077,1970 1122,1973 1167,1970 1212,1970 1256,1970 1301,1970 1346,1970 1391,1967"/>
+				<TextEquiv>
+					<Unicode>chgebürg zwen Monet vn̄ drig tag ſchyfften wir ee das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_32" custom="readingOrder {index:30;}">
+				<Coords points="232,2040 1390,2024 1391,1981 1295,1971 234,1996"/>
+				<Baseline points="241,2030 274,2030 319,2027 364,2030 408,2030 453,2030 498,2030 543,2033 588,2033 632,2030 677,2030 722,2027 767,2027 812,2027 856,2027 901,2027 946,2024 991,2027 1035,2024 1080,2024 1125,2024 1170,2024 1215,2021 1259,2021 1304,2021 1349,2021 1394,2018"/>
+				<TextEquiv>
+					<Unicode>vnß land oder ertrich ze ſehen ward/ Was wir aber in ſo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_33" custom="readingOrder {index:31;}">
+				<Coords points="229,2116 957,2131 1204,2078 1378,2113 1378,2038 1320,2025 229,2040"/>
+				<Baseline points="238,2080 262,2080 307,2083 352,2083 397,2083 441,2083 486,2083 531,2086 576,2083 620,2083 665,2083 710,2083 755,2083 800,2080 844,2080 889,2080 934,2080 979,2080 1023,2077 1068,2077 1113,2077 1158,2074 1203,2074 1247,2074 1292,2071 1337,2074 1382,2065"/>
+				<TextEquiv>
+					<Unicode>licher willde des Mers/ gelitten haben/ vnd was ſorgkli¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095310571_10950_tl_34" custom="readingOrder {index:32;}">
+				<Coords points="1169,2138 1187,2142 1211,2160 1236,2168 1268,2161 1276,2087 1264,2081 1252,2087 1244,2085 1232,2094 1226,2087 1216,2082 1208,2084 1204,2079 1175,2085"/>
+				<Baseline points="1179,2131 1188,2131 1232,2125 1277,2122"/>
+				<TextEquiv>
+					<Unicode>A ii</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

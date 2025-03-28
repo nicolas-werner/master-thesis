@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:09.008+01:00</Created>
+        <LastChange>2025-03-21T17:29:06.861+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0084_7503481.jpg" imageWidth="2780" imageHeight="3602">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817699181" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="997,501 997,2801 2455,2801 2455,501"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="990,593 2357,554 2428,539 2430,478 2209,464 2065,509 1975,469 1821,512 1585,457 992,519"/>
+                <Baseline points="1000,573 1071,573 1143,570 1214,567 1286,567 1357,564 1429,564 1500,563 1572,561 1643,560 1715,558 1787,556 1858,555 1930,553 2001,548 2073,546 2144,544 2216,539 2287,537 2359,534 2431,531"/>
+                <TextEquiv>
+                    <Unicode>dauon spricht Salomon, ipse interrogabit opera sim viam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="990,645 2432,626 2434,543 992,593"/>
+                <Baseline points="1000,639 1071,639 1143,639 1215,636 1287,632 1359,627 1431,630 1502,630 1574,627 1646,626 1718,624 1790,621 1862,618 1934,618 2005,614 2077,612 2149,609 2221,608 2293,604 2365,600 2437,597"/>
+                <TextEquiv>
+                    <Unicode>cogitationis. Er fragt nach den wercken vnnd gedancken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="990,712 2432,690 2434,627 992,645"/>
+                <Baseline points="1000,698 1071,704 1143,701 1215,702 1287,700 1359,695 1431,695 1502,695 1574,692 1646,691 1718,689 1790,686 1862,683 1934,681 2005,680 2077,677 2149,675 2221,672 2293,670 2365,666 2437,663"/>
+                <TextEquiv>
+                    <Unicode>Dauon spricht Drisostomus. In illa die celum et terra-nox</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="990,773 2243,768 2423,741 2425,687 992,710"/>
+                <Baseline points="1000,767 1071,769 1142,769 1214,767 1285,764 1357,761 1428,759 1499,758 1571,758 1642,757 1714,755 1785,753 1856,751 1928,749 1999,745 2071,743 2142,741 2213,737 2285,735 2356,733 2428,731"/>
+                <TextEquiv>
+                    <Unicode>dies luma stella et totus mundus stabit aduersus nos An</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="990,845 2428,800 2400,737 992,773"/>
+                <Baseline points="1000,830 1071,835 1143,833 1214,830 1286,829 1357,827 1429,825 1500,824 1572,824 1643,823 1715,821 1787,819 1858,815 1930,813 2001,812 2073,809 2144,806 2216,803 2287,801 2359,799 2431,794"/>
+                <TextEquiv>
+                    <Unicode>ꝺe tag die sun̄. S mon dije stern ꝰ tag dije nacht vnnd alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="985,913 2301,886 2425,870 2427,802 1887,852 1814,821 987,841"/>
+                <Baseline points="997,896 1068,899 1140,899 1212,897 1283,893 1355,893 1427,891 1498,890 1570,890 1642,889 1714,887 1785,884 1857,883 1929,881 2000,877 2072,872 2144,870 2215,869 2287,867 2359,865 2431,857"/>
+                <TextEquiv>
+                    <Unicode>dise welt wirt zeügknus geben über vnser sünd- vn̄ got ô</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="996,965 2427,953 2414,866 998,906"/>
+                <Baseline points="1006,961 1077,963 1148,964 1219,964 1291,961 1362,958 1433,955 1504,954 1576,955 1647,952 1718,952 1789,949 1861,946 1932,946 2003,943 2074,940 2146,938 2217,934 2288,932 2359,930 2431,928"/>
+                <TextEquiv>
+                    <Unicode>wirt vnsselb fragen wie wir alles guͤt gepraucht haben vii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="992,1032 2112,1030 2409,1007 2430,956 994,974"/>
+                <Baseline points="1003,1027 1074,1030 1146,1030 1217,1027 1289,1027 1360,1024 1432,1021 1503,1021 1575,1021 1646,1020 1718,1015 1790,1013 1861,1011 1933,1009 2004,1006 2076,1003 2147,1003 2219,1000 2290,998 2362,996 2434,994"/>
+                <TextEquiv>
+                    <Unicode>Darumb spricht sant Jeronimus. Siueormedam siue bibam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="987,1098 2427,1078 2405,1005 1868,1046 989,1032"/>
+                <Baseline points="997,1096 1068,1093 1140,1093 1212,1091 1283,1090 1355,1087 1427,1087 1498,1087 1570,1087 1642,1084 1714,1081 1785,1078 1857,1077 1929,1075 2000,1072 2072,1069 2144,1069 2215,1066 2287,1064 2359,1063 2431,1063"/>
+                <TextEquiv>
+                    <Unicode>Ich eß oder trinck- ich schlaff oder wach oder was ich thu se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="994,1174 2227,1159 2432,1136 2434,1078 996,1105"/>
+                <Baseline points="1006,1161 1077,1158 1149,1157 1220,1155 1292,1155 1363,1152 1435,1149 1506,1149 1578,1149 1649,1149 1721,1146 1793,1144 1864,1142 1936,1140 2007,1137 2079,1134 2150,1134 2222,1134 2293,1132 2365,1128 2437,1128"/>
+                <TextEquiv>
+                    <Unicode>dunckt mich ich honne in meinen orn die graußlich stym Stet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="996,1233 2292,1221 2432,1206 2434,1147 998,1170"/>
+                <Baseline points="1006,1227 1077,1227 1149,1221 1220,1221 1292,1220 1363,1218 1435,1216 1506,1215 1578,1215 1649,1213 1721,1212 1793,1210 1864,1208 1936,1206 2007,1203 2079,1200 2150,1197 2222,1197 2293,1197 2365,1194 2437,1194"/>
+                <TextEquiv>
+                    <Unicode>auff ir todten vn komenet für gericht vn̄ darumb komt er mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="992,1303 2423,1262 2398,1197 994,1249"/>
+                <Baseline points="1003,1299 1074,1291 1145,1289 1216,1287 1288,1284 1359,1284 1430,1281 1501,1281 1573,1281 1644,1278 1715,1278 1786,1278 1858,1274 1929,1269 2000,1269 2071,1266 2143,1264 2214,1263 2285,1261 2356,1260 2428,1260"/>
+                <TextEquiv>
+                    <Unicode>großen gewalt als ꝺauid spricht. Pfans eius ptans eterna-sey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="996,1371 2425,1334 2427,1258 2232,1296 998,1312"/>
+                <Baseline points="1006,1361 1077,1352 1148,1354 1219,1352 1290,1350 1361,1349 1432,1347 1503,1347 1574,1344 1645,1344 1717,1341 1788,1341 1859,1340 1930,1338 2001,1335 2072,1332 2143,1332 2214,1329 2285,1329 2356,1326 2428,1323"/>
+                <TextEquiv>
+                    <Unicode>gewalt ist ewig. Trisostomus. Pfans eius tam magna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="992,1427 2430,1415 2432,1350 994,1373"/>
+                <Baseline points="1003,1421 1074,1420 1146,1421 1218,1419 1289,1415 1361,1415 1433,1413 1504,1412 1576,1410 1648,1409 1720,1406 1791,1406 1863,1406 1935,1404 2006,1399 2078,1397 2150,1395 2221,1394 2293,1394 2365,1391 2437,1391"/>
+                <TextEquiv>
+                    <Unicode>Seijn gewalt ist als groß dr im nijemant widsten mag. im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="992,1487 2331,1490 2428,1472 2430,1420 994,1427"/>
+                <Baseline points="1003,1484 1074,1484 1145,1484 1217,1484 1288,1481 1360,1478 1431,1478 1502,1478 1574,1478 1645,1480 1717,1475 1788,1473 1859,1469 1931,1466 2002,1466 2074,1466 2145,1463 2216,1463 2288,1461 2359,1462 2431,1460"/>
+                <TextEquiv>
+                    <Unicode>kan nijemant entfliehen. (Zu de dritten werden alle ding ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="992,1560 2428,1535 2430,1470 994,1503"/>
+                <Baseline points="1003,1550 1074,1550 1146,1550 1217,1550 1289,1547 1360,1544 1432,1544 1503,1543 1575,1541 1646,1541 1718,1541 1790,1538 1861,1535 1933,1533 2004,1532 2076,1532 2147,1529 2219,1526 2290,1526 2362,1525 2434,1520"/>
+                <TextEquiv>
+                    <Unicode>urteylt mit gerechtikeit vn̄ nit nach barmhertzigkeit/ als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="996,1636 2391,1611 2443,1549 998,1558"/>
+                <Baseline points="1006,1612 1077,1615 1149,1615 1221,1613 1293,1611 1365,1612 1437,1609 1508,1609 1580,1608 1652,1608 1724,1606 1796,1603 1868,1600 1940,1598 2011,1596 2083,1594 2155,1592 2227,1591 2299,1589 2371,1588 2443,1591"/>
+                <TextEquiv>
+                    <Unicode>dauid spricht, Judicabit populos in iusticia/ er vrteilt die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="1008,1691 2439,1673 2421,1594 1010,1629"/>
+                <Baseline points="1018,1681 1089,1678 1160,1681 1231,1681 1303,1677 1374,1675 1445,1673 1516,1672 1588,1675 1659,1672 1730,1669 1801,1669 1873,1666 1944,1663 2015,1662 2086,1660 2158,1660 2229,1659 2300,1657 2371,1657 2443,1660"/>
+                <TextEquiv>
+                    <Unicode>welt in gerechtigkeit, dann ist der reijch als d'arm-d'bapst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="999,1758 2401,1747 2434,1681 999,1688"/>
+                <Baseline points="1009,1744 1080,1745 1151,1744 1223,1741 1294,1741 1366,1741 1437,1741 1508,1738 1580,1738 1651,1737 1723,1735 1794,1732 1865,1731 1937,1729 2008,1726 2080,1723 2151,1723 2222,1723 2294,1725 2365,1723 2437,1720"/>
+                <TextEquiv>
+                    <Unicode>als der kayser-der edel als der vnedel-wer wol hat getan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="1003,1819 2427,1799 2391,1740 2243,1731 1003,1751"/>
+                <Baseline points="1012,1809 1086,1809 1161,1807 1236,1806 1310,1803 1385,1804 1460,1802 1534,1803 1609,1803 1684,1802 1758,1801 1833,1796 1908,1794 1982,1792 2057,1789 2132,1789 2206,1789 2281,1792 2356,1791 2431,1786"/>
+                <TextEquiv>
+                    <Unicode>der findt es dan̄-dauon spricht Salomon, Nō accipit per¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="1003,1895 2374,1877 2439,1866 2441,1806 1005,1821"/>
+                <Baseline points="1012,1878 1083,1875 1155,1874 1227,1872 1298,1872 1370,1869 1442,1867 1513,1868 1585,1866 1657,1866 1729,1866 1800,1866 1872,1862 1944,1858 2015,1856 2087,1857 2159,1857 2230,1856 2302,1854 2374,1854 2446,1851"/>
+                <TextEquiv>
+                    <Unicode>sonam hominis/ nec timet faciez potentis. Im ist emer als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="1008,1943 2432,1938 2405,1866 1010,1889"/>
+                <Baseline points="1018,1941 1092,1941 1167,1939 1242,1938 1316,1935 1391,1935 1466,1935 1540,1932 1615,1932 1690,1932 1764,1932 1839,1929 1914,1926 1988,1923 2063,1923 2138,1922 2212,1920 2287,1920 2362,1917 2437,1914"/>
+                <TextEquiv>
+                    <Unicode>der ander-er zeücht nit für die person des menschen vnnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="1005,2006 2407,2006 2443,1938 1007,1945"/>
+                <Baseline points="1015,2004 1086,2004 1157,2004 1229,2004 1300,2001 1372,2001 1443,1998 1514,2001 1586,1998 1657,1998 1729,1998 1800,1995 1871,1995 1943,1992 2014,1989 2086,1986 2157,1986 2228,1986 2300,1986 2371,1985 2443,1986"/>
+                <TextEquiv>
+                    <Unicode>voͤrcht nit das antlucz ꝺes gewaltigen, vnnd daim sullen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="1012,2078 2353,2082 2441,2056 2443,1986 1012,2035"/>
+                <Baseline points="1021,2069 1092,2071 1163,2071 1234,2066 1306,2066 1377,2063 1448,2063 1519,2063 1591,2063 1662,2061 1733,2060 1804,2058 1876,2056 1947,2054 2018,2054 2089,2054 2161,2051 2232,2051 2303,2051 2374,2051 2446,2051"/>
+                <TextEquiv>
+                    <Unicode>wir gedencken vn̄ sullen nyemant vrteijln daz wir dan icht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="999,2148 2295,2134 2441,2123 2443,2056 1001,2078"/>
+                <Baseline points="1009,2141 1080,2138 1152,2135 1224,2133 1296,2131 1368,2126 1440,2126 1511,2126 1583,2129 1655,2128 1727,2126 1799,2123 1871,2122 1943,2120 2014,2120 2086,2120 2158,2117 2230,2117 2302,2117 2374,2113 2446,2108"/>
+                <TextEquiv>
+                    <Unicode>geurteylt werden. vn sullen vns huͤten vor den sunden- vn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="1008,2215 2445,2200 2446,2128 1010,2152"/>
+                <Baseline points="1018,2207 1089,2201 1161,2198 1232,2198 1304,2197 1375,2195 1447,2193 1518,2192 1590,2192 1661,2192 1733,2192 1805,2190 1876,2188 1948,2186 2019,2186 2091,2186 2162,2183 2234,2183 2305,2181 2377,2180 2449,2180"/>
+                <TextEquiv>
+                    <Unicode>sollen thuͤn nach der lere sant Bernharts vnd ꝺes weijsen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="1012,2281 2448,2276 2450,2193 1014,2215"/>
+                <Baseline points="1021,2269 1092,2264 1164,2262 1235,2260 1307,2260 1378,2260 1450,2260 1521,2257 1593,2257 1664,2256 1736,2254 1808,2254 1879,2253 1951,2251 2022,2251 2094,2249 2165,2249 2237,2249 2308,2249 2380,2248 2452,2243"/>
+                <TextEquiv>
+                    <Unicode>mans Ecclesiastici an ꝺem - vij. ca. Memorate nouissima</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="1005,2330 2450,2337 2450,2276 2394,2250 1005,2276"/>
+                <Baseline points="1015,2329 1086,2327 1158,2326 1230,2326 1302,2326 1374,2326 1446,2326 1517,2326 1589,2323 1661,2323 1733,2320 1805,2320 1877,2319 1949,2319 2020,2316 2092,2314 2164,2312 2236,2312 2308,2312 2380,2311 2452,2308"/>
+                <TextEquiv>
+                    <Unicode>tua et ineternum non peccabis-Du solt gedencken an ꝺe ijn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="1008,2405 2445,2403 2405,2319 1010,2339"/>
+                <Baseline points="1018,2398 1089,2393 1161,2392 1232,2392 1304,2391 1375,2392 1447,2391 1518,2391 1590,2389 1661,2389 1733,2386 1805,2386 1876,2386 1948,2384 2019,2383 2091,2380 2162,2380 2234,2378 2305,2378 2377,2377 2449,2377"/>
+                <TextEquiv>
+                    <Unicode>lecztes ende so thuͤst du nȳmer mer keyn sunde. Das wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="1012,2461 2441,2445 2441,2403 2348,2382 1012,2400"/>
+                <Baseline points="1021,2455 1092,2458 1163,2458 1234,2458 1306,2455 1377,2455 1448,2455 1519,2455 1591,2455 1662,2453 1733,2455 1804,2452 1876,2449 1947,2449 2018,2449 2089,2446 2161,2443 2232,2444 2303,2446 2374,2443 2446,2446"/>
+                <TextEquiv>
+                    <Unicode>vnns nun wirdigklichen zu seiner zuͤkunfft bereyten ꝺas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="1005,2547 2421,2534 2452,2457 1007,2470"/>
+                <Baseline points="1015,2523 1086,2523 1158,2523 1230,2523 1302,2520 1374,2520 1446,2520 1517,2520 1589,2518 1661,2517 1733,2517 1805,2515 1877,2514 1949,2514 2020,2514 2092,2511 2164,2509 2236,2508 2308,2508 2380,2510 2452,2511"/>
+                <TextEquiv>
+                    <Unicode>wir ewigklichen beij im beleijben-das helff vns der vater</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="1012,2594 2098,2603 2099,2520 1014,2542"/>
+                <Baseline points="1021,2592 1075,2589 1129,2589 1183,2588 1237,2586 1291,2586 1345,2586 1399,2583 1453,2583 1507,2583 1561,2583 1615,2583 1669,2584 1723,2586 1777,2586 1831,2583 1885,2580 1939,2582 1993,2580 2047,2578 2102,2571"/>
+                <TextEquiv>
+                    <Unicode>vnd ꝺer sun vnnd der heylig geyst-Amen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="1181,2657 1584,2651 1616,2675 1931,2650 1931,2610 1826,2585 1780,2610 1183,2594"/>
+                <Baseline points="1191,2658 1228,2655 1265,2655 1302,2652 1339,2652 1377,2650 1414,2649 1451,2649 1488,2649 1525,2649 1563,2649 1600,2649 1637,2649 1674,2649 1711,2649 1749,2649 1786,2649 1823,2649 1860,2648 1897,2645 1935,2640"/>
+                <TextEquiv>
+                    <Unicode>CAn der mit wochen lection¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="1014,2748 2073,2709 2450,2745 2450,2664 2259,2633 1490,2680 1014,2644"/>
+                <Baseline points="1024,2720 1095,2718 1167,2717 1238,2720 1310,2716 1381,2717 1453,2716 1524,2714 1596,2714 1667,2713 1739,2714 1811,2714 1882,2711 1954,2713 2025,2710 2097,2708 2168,2710 2240,2708 2311,2708 2383,2707 2455,2702"/>
+                <TextEquiv>
+                    <Unicode>Cher dicit dominus ꝺeus. Ecce ego mitto angelum meuz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="1007,2808 2114,2783 2326,2817 2328,2729 1008,2747"/>
+                <Baseline points="1018,2783 1083,2786 1149,2786 1215,2786 1280,2786 1346,2786 1412,2783 1477,2783 1543,2783 1609,2783 1675,2780 1740,2780 1806,2783 1872,2781 1937,2780 2003,2780 2069,2777 2134,2775 2200,2774 2266,2772 2332,2768"/>
+                <TextEquiv>
+                    <Unicode>et preparabit viam tuam et cetera. Malachie-iii-ca¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

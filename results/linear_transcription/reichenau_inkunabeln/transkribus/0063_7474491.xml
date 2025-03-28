@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:06.708+01:00</Created>
+        <LastChange>2025-03-21T17:29:04.186+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0063_7474491.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698503" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="966,452 966,2172 1992,2172 1992,452"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="959,492 1928,491 1928,446 1838,421 959,439"/>
+                <Baseline points="966,486 1014,486 1062,486 1110,482 1159,480 1207,480 1255,480 1304,480 1352,478 1400,477 1449,479 1497,477 1545,480 1593,480 1642,480 1690,481 1738,483 1787,483 1835,484 1883,486 1932,489"/>
+                <TextEquiv>
+                    <Unicode>Nun merck von des kunigs sun von Engeffand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1004,546 1174,566 1314,540 1604,559 1657,536 1715,564 1715,502 1651,483 1004,503"/>
+                <Baseline points="1011,545 1046,539 1081,539 1117,536 1152,533 1187,533 1223,533 1258,533 1293,533 1329,533 1364,533 1399,530 1435,530 1470,530 1505,530 1541,530 1576,530 1611,532 1647,532 1682,531 1718,533"/>
+                <TextEquiv>
+                    <Unicode>sant Gregorus vnd sant Eberhart.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1757,744 1768,740 1775,745 1825,713 1833,716 1846,732 1859,734 1863,690 1848,695 1839,692 1828,700 1812,703 1791,687 1767,700 1759,699"/>
+                <Baseline points="1765,730 1798,727 1831,724 1864,724"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1524,748 1545,752 1563,747 1574,752 1587,742 1602,742 1604,747 1611,747 1622,670 1613,666 1592,674 1578,670 1573,675 1566,672 1555,676 1546,670 1532,675"/>
+                <Baseline points="1530,748 1558,740 1587,736 1616,736"/>
+                <TextEquiv>
+                    <Unicode>P.D.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1580,795 1595,801 1621,779 1624,783 1632,777 1635,781 1664,774 1664,714 1655,714 1646,721 1642,719 1621,740 1617,737 1607,747 1597,740 1592,745 1582,743"/>
+                <Baseline points="1589,775 1615,772 1641,770 1667,775"/>
+                <TextEquiv>
+                    <Unicode>Votre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1748,811 1763,805 1770,810 1783,802 1791,811 1806,803 1825,808 1830,772 1824,771 1805,786 1792,790 1788,784 1780,787 1772,778 1764,783 1752,779"/>
+                <Baseline points="1756,802 1781,800 1806,796 1831,793"/>
+                <TextEquiv>
+                    <Unicode>winte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1524,834 1543,839 1583,840 1589,846 1601,843 1601,779 1592,781 1588,778 1585,781 1565,773 1561,777 1558,773 1553,777 1544,774 1531,786 1524,786"/>
+                <Baseline points="1530,832 1567,832 1604,832"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1621,849 1637,844 1653,855 1674,860 1683,869 1689,864 1696,872 1704,872 1703,788 1681,786 1667,790 1650,776 1636,781 1632,777 1621,783"/>
+                <Baseline points="1628,834 1654,835 1680,835 1706,835"/>
+                <TextEquiv>
+                    <Unicode>des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1715,1024 1748,1024 1754,1033 1799,1039 1814,1034 1833,1038 1841,952 1817,950 1806,956 1796,948 1768,952 1757,938 1724,932"/>
+                <Baseline points="1724,1002 1753,1002 1782,998 1811,995 1840,993"/>
+                <TextEquiv>
+                    <Unicode>Vous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1749,1593 1761,1595 1777,1580 1793,1579 1804,1572 1819,1573 1828,1566 1838,1572 1855,1563 1857,1483 1833,1483 1824,1492 1817,1488 1800,1506 1795,1502 1777,1520 1751,1530"/>
+                <Baseline points="1756,1559 1781,1557 1807,1557 1832,1557 1858,1557"/>
+                <TextEquiv>
+                    <Unicode>1/12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1572,1690 1631,1695 1656,1679 1704,1676 1742,1695 1766,1684 1849,1691 1835,1566 1793,1594 1754,1577 1717,1587 1680,1568 1638,1583 1607,1569 1558,1573"/>
+                <Baseline points="1574,1646 1599,1651 1624,1656 1649,1661 1674,1665 1699,1669 1724,1671 1749,1673 1774,1673 1799,1673 1824,1678 1849,1682"/>
+                <TextEquiv>
+                    <Unicode>Vorm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1150,1804 1989,1786 1974,1730 1152,1742"/>
+                <Baseline points="1157,1795 1198,1795 1240,1794 1282,1792 1324,1792 1365,1792 1407,1789 1449,1789 1491,1789 1532,1789 1574,1787 1616,1786 1658,1786 1699,1785 1741,1783 1783,1783 1825,1782 1866,1779 1908,1777 1950,1774 1992,1768"/>
+                <TextEquiv>
+                    <Unicode>Ar nach über sechtzig ioꝛ do kam die siime got</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1150,1846 1989,1845 1990,1787 1640,1811 1152,1802"/>
+                <Baseline points="1157,1846 1198,1846 1240,1845 1282,1843 1324,1843 1365,1843 1407,1843 1449,1843 1491,1841 1532,1840 1574,1840 1616,1838 1658,1837 1699,1836 1741,1834 1783,1834 1825,1833 1866,1830 1908,1828 1950,1825 1992,1825"/>
+                <TextEquiv>
+                    <Unicode>tes zu des kuniges sün von Engeſant der Sa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1158,1907 1920,1899 1974,1884 1975,1835 1159,1854"/>
+                <Baseline points="1166,1894 1206,1897 1247,1897 1287,1895 1328,1894 1368,1894 1409,1894 1449,1893 1490,1891 1530,1891 1571,1891 1612,1891 1652,1889 1693,1888 1733,1886 1774,1885 1814,1884 1855,1881 1895,1879 1936,1876 1977,1873"/>
+                <TextEquiv>
+                    <Unicode>hieß gregorius, vnd ein heiliger clusener was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="979,1942 1006,1937 1037,1950 1061,1946 1071,1936 1088,1940 1096,1730 1058,1739 1047,1733 1009,1757 996,1746 985,1747"/>
+                <Baseline points="987,1920 1013,1919 1040,1917 1066,1917 1093,1916"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1159,1956 1826,1955 1984,1932 1985,1888 1159,1907"/>
+                <Baseline points="1166,1941 1207,1944 1248,1944 1289,1944 1330,1944 1371,1943 1412,1941 1453,1941 1494,1941 1535,1941 1576,1941 1617,1941 1658,1939 1699,1936 1740,1935 1781,1935 1822,1933 1863,1929 1904,1929 1945,1926 1986,1926"/>
+                <TextEquiv>
+                    <Unicode>der was in beschlossen zu rome vff einem berge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="974,1989 1170,2019 1988,1993 1988,1931 1415,1968 974,1950"/>
+                <Baseline points="981,1986 1031,1983 1081,1985 1132,1991 1182,1998 1233,2001 1283,1998 1333,1998 1384,1997 1434,1995 1485,1995 1535,1992 1585,1992 1636,1992 1686,1989 1737,1988 1787,1986 1837,1986 1888,1982 1938,1977 1989,1980"/>
+                <TextEquiv>
+                    <Unicode>der hieß Celio vnd sprach die stim zu im / gregorie du</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="977,2056 1983,2033 1984,1993 1169,2019 979,1993"/>
+                <Baseline points="984,2040 1034,2037 1084,2037 1134,2048 1184,2052 1234,2051 1284,2049 1334,2049 1384,2047 1434,2046 1485,2044 1535,2043 1585,2043 1635,2043 1685,2040 1735,2040 1785,2038 1835,2037 1885,2035 1935,2031 1986,2028"/>
+                <TextEquiv>
+                    <Unicode>solt farc in tutsche land in de finstren wald in sant Meyn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="977,2103 1980,2090 1966,2034 979,2060"/>
+                <Baseline points="984,2087 1036,2090 1089,2090 1141,2094 1194,2100 1246,2100 1299,2099 1352,2099 1404,2096 1457,2096 1509,2095 1562,2095 1614,2094 1667,2090 1720,2090 1772,2089 1825,2087 1877,2085 1930,2079 1983,2078"/>
+                <TextEquiv>
+                    <Unicode>ratz zelle / vnd solt do wonen / wann do wil got wonderlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="976,2172 1589,2154 1756,2187 1986,2149 1988,2086 977,2103"/>
+                <Baseline points="984,2141 1034,2143 1084,2149 1134,2153 1185,2159 1235,2159 1285,2156 1335,2156 1386,2154 1436,2151 1486,2150 1536,2150 1587,2147 1637,2147 1687,2144 1737,2144 1788,2142 1838,2141 1888,2139 1938,2135 1989,2138"/>
+                <TextEquiv>
+                    <Unicode>ding durch dich würcken, vn kam die stim also gry nech</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53254:lm=provided:date=12_07_2023_16:09</Creator>
+		<Created>2023-07-12T14:22:42.318+02:00</Created>
+		<LastChange>2023-08-17T17:21:37.921+02:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075118" pageNr="123" tsid="154460264" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=EOIEIEWLQNTGNQAMZJOGOLAW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EEAMHGFUFVXNGFRCCGLXSMFC" imageId="46378106"/>
+	</Metadata>
+	<Page imageFilename="7544206.jpg" imageWidth="3248" imageHeight="3606">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356725151" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1689169802719_3505"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1689169802719_3505" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="344,928 2083,928 2083,1268 344,1268"/>
+			<TextLine id="line_1689170401803_3867" custom="readingOrder {index:0;}">
+				<Coords points="361,1206 549,1157 972,1233 1138,1203 1325,1242 1652,1176 2071,1231 2069,1004 1748,959 1627,1014 1467,972 1254,1021 1031,933 765,991 440,938 359,970"/>
+				<Baseline points="374,1143 555,1149 600,1149 611,1149 683,1152 728,1149 773,1155 817,1152 862,1152 907,1152 943,1152 1056,1155 1101,1155 1113,1155 1134,1152 1167,1155 1211,1149 1331,1152 1376,1155 1385,1155 1540,1155 1585,1155 1594,1158 1674,1158 1719,1158 1764,1161 1808,1158 1853,1161 1898,1161 1943,1161 2074,1161"/>
+				<TextEquiv>
+					<Unicode>Das ander teÿl der Bibel.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Das anꝺer teÿl ꝺer Bibel.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

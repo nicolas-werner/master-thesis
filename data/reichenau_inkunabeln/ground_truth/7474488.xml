@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:36</Creator>
+		<Created>2023-06-07T09:11:11.625+02:00</Created>
+		<LastChange>2023-12-20T15:42:19.706+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075007" pageNr="32" tsid="154460080" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=ADCIFJTUYGDMMYYSDDHTMYGA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BDKSLZGBLFLDTBVXGNRRQWCB" imageId="45286855"/>
+	</Metadata>
+	<Page imageFilename="7474488.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356419020" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573429991_252"/>
+				<RegionRefIndexed index="1" regionRef="region_1686573433023_255"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573429991_252" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="272,423 1090,423 1090,661 272,661"/>
+			<TextLine id="region_1686573429991_252_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="311,504 1029,519 1028,468 897,445 681,466 521,429 420,457 310,444"/>
+				<Baseline points="316,495 360,492 405,492 450,489 495,492 539,495 584,495 629,495 674,495 718,495 763,498 808,498 853,501 897,501 942,504 987,504 1032,510"/>
+				<TextEquiv>
+					<Unicode>Dar nach ſchüt man die eſchen von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573429991_252_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="319,560 1019,576 1018,533 971,519 318,506"/>
+				<Baseline points="325,548 369,542 414,545 459,545 504,545 548,545 593,545 638,548 683,548 727,548 772,548 817,548 862,551 906,554 951,554 996,557 1020,563"/>
+				<TextEquiv>
+					<Unicode>den moͤrderen vnd von den rederen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573429991_252_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="305,635 629,614 830,624 866,650 1011,638 1010,576 302,548"/>
+				<Baseline points="310,602 354,602 399,599 444,602 489,602 533,602 578,602 623,605 668,608 712,608 757,608 802,608 847,608 891,608 936,611 981,614 1014,617"/>
+				<TextEquiv>
+					<Unicode>in das waſſer das ſy verflieſſen ſolt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1686573433023_255" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="87,1909 1102,1909 1102,2252 87,2252"/>
+			<TextLine id="region_1686573433023_255_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="124,1981 1025,1995 1024,1932 693,1924 467,1958 395,1912 284,1947 123,1907"/>
+				<Baseline points="131,1968 175,1968 220,1971 265,1977 310,1977 354,1980 399,1983 444,1983 489,1983 533,1983 578,1986 623,1983 668,1986 712,1983 757,1983 802,1980 847,1980 891,1980 936,1980 981,1980 1026,1983"/>
+				<TextEquiv>
+					<Unicode>¶ Alſo hant die zwen moͤrder ir end genomen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573433023_255_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="159,2042 482,2055 576,2094 811,2050 1015,2063 1014,1991 682,2015 158,1988"/>
+				<Baseline points="164,2022 208,2025 253,2028 298,2031 343,2034 387,2034 432,2037 477,2040 521,2043 566,2040 611,2043 656,2043 700,2043 745,2040 790,2040 835,2040 879,2040 924,2040 969,2043 1014,2046 1017,2049"/>
+				<TextEquiv>
+					<Unicode>vnd der heilig ſant Meynrat zuͦ dem almech¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573433023_255_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="161,2126 195,2125 224,2101 250,2116 288,2100 320,2120 361,2103 428,2127 489,2109 487,2066 475,2063 452,2072 417,2057 403,2066 245,2045 220,2054 193,2034 157,2040"/>
+				<Baseline points="164,2078 208,2081 253,2087 298,2090 343,2090 387,2093 432,2093 477,2096 492,2096"/>
+				<TextEquiv>
+					<Unicode>tigen got geuaren.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573433023_255_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="429,2232 472,2238 503,2215 552,2233 694,2230 694,2166 655,2147 645,2153 613,2141 554,2156 429,2127"/>
+				<Baseline points="435,2207 480,2207 524,2207 569,2207 614,2207 659,2207 697,2207"/>
+				<TextEquiv>
+					<Unicode>Lob ſyg gott</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

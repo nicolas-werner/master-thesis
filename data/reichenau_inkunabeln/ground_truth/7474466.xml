@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=08_06_2023_12:05</Creator>
+		<Created>2023-06-07T09:11:08.516+02:00</Created>
+		<LastChange>2023-12-20T15:42:14.843+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67074987" pageNr="12" tsid="154460046" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=UHDLNHXOYTXUOZYRNFUBEVKX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZREALCNLGUBESDMRKRFBBWOA" imageId="45286784"/>
+	</Metadata>
+	<Page imageFilename="7474466.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356375357" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686225729830_210"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686225729830_210" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="108,526 1209,526 1209,1098 108,1098"/>
+			<TextLine id="region_1686225729830_210_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="133,613 1148,606 1137,543 940,559 641,515 322,520 281,551 134,521"/>
+				<Baseline points="140,596 167,593 211,590 256,590 301,590 346,590 390,590 435,587 480,590 524,590 569,590 614,590 659,590 703,590 748,587 793,587 838,590 882,587 927,587 972,587 1017,587 1061,587 1106,590 1151,590"/>
+				<TextEquiv>
+					<Unicode>zuͦ inen alſo/ Danck ſagen wir got vnſerm mylten be¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686225729830_210_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="136,660 1160,657 1160,614 1033,599 136,612"/>
+				<Baseline points="143,647 187,644 232,641 277,641 322,641 366,641 411,641 456,641 501,641 545,641 590,641 635,641 680,641 724,641 769,641 814,641 859,644 903,641 948,641 993,641 1038,638 1082,641 1127,644 1163,647"/>
+				<TextEquiv>
+					<Unicode>ſcherer/ der vns ſo barmhertzeklich mit ſynen gaben ver</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686225729830_210_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="133,716 1156,708 1156,660 1033,648 133,663"/>
+				<Baseline points="140,697 175,697 220,694 265,694 310,697 354,694 399,694 444,694 489,694 533,694 578,694 623,694 668,694 712,694 757,694 802,694 847,692 891,694 936,692 981,692 1026,692 1070,692 1115,694 1160,694"/>
+				<TextEquiv>
+					<Unicode>ſorgt hat/ Dar vmb lieben ſün gefelt es uch wellen wir</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686225729830_210_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="127,763 1151,760 1152,711 1106,707 129,715"/>
+				<Baseline points="134,751 170,748 214,748 259,745 304,745 348,745 393,745 438,745 483,745 527,745 572,745 617,745 662,745 706,745 751,745 796,745 841,745 885,742 930,742 975,742 1020,742 1064,742 1109,745 1154,745"/>
+				<TextEquiv>
+					<Unicode>ietz wider heym keren vnd beſehen vnſere wonungen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686225729830_210_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="124,823 1156,815 1148,758 124,761"/>
+				<Baseline points="131,802 175,799 220,799 265,799 310,799 354,799 399,799 444,799 489,799 533,799 578,799 623,799 668,799 712,799 757,799 802,796 847,799 891,796 936,796 981,796 1026,796 1070,799 1115,799 1160,805"/>
+				<TextEquiv>
+					<Unicode>wen̄ wir hand vns gnuͦg ergangē/ vnd hand ouch fiſch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686225729830_210_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="127,876 1156,865 1139,811 127,819"/>
+				<Baseline points="134,856 178,853 223,853 268,850 313,850 357,850 402,850 447,850 492,853 536,850 581,853 626,853 671,850 715,850 760,850 805,853 850,850 894,850 939,850 984,850 1029,850 1073,850 1118,850 1160,856"/>
+				<TextEquiv>
+					<Unicode>gnuͦg/ vnd kamēt wider abhin an dē See gen richliſwil</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686225729830_210_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="127,926 1156,921 1119,863 127,876"/>
+				<Baseline points="134,906 178,903 223,903 268,903 313,900 357,903 402,906 447,903 492,900 536,903 581,903 626,903 671,903 715,903 760,903 805,903 850,903 894,900 939,903 984,900 1029,903 1073,900 1118,900 1160,906"/>
+				<TextEquiv>
+					<Unicode>in der witwē huß/ dar in ſy ir gewād gelaſſen hettent.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686225729830_210_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="210,962 1161,969 1128,912 210,917"/>
+				<Baseline points="217,957 262,954 307,954 351,954 396,957 441,954 486,954 530,954 575,954 620,954 665,954 709,954 754,954 799,957 844,954 888,954 933,954 978,954 1023,951 1067,954 1112,954 1157,960 1163,963"/>
+				<TextEquiv>
+					<Unicode>Hie ſint ſy wider komen vnd ſiedent vnd bratēt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686225729830_210_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="216,1026 1148,1027 1129,962 216,964"/>
+				<Baseline points="223,1011 268,1005 313,1008 357,1005 402,1008 447,1005 492,1005 536,1005 581,1005 626,1005 671,1008 715,1005 760,1005 805,1005 850,1005 894,1008 939,1008 984,1008 1029,1005 1073,1005 1118,1008 1151,1011"/>
+				<TextEquiv>
+					<Unicode>die fiſch/ vnd eſſent by der witwe. vn̄ ſy meint ſy</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686225729830_210_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="210,1071 1148,1082 1148,1030 1080,1015 210,1034"/>
+				<Baseline points="217,1061 262,1058 307,1058 351,1058 396,1058 441,1058 486,1058 530,1058 575,1061 620,1058 665,1058 709,1058 754,1061 799,1058 844,1058 888,1058 933,1061 978,1061 1023,1058 1067,1058 1112,1058 1163,1058"/>
+				<TextEquiv>
+					<Unicode>weren verlorn das ſy als lāge warēt vß geweſen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

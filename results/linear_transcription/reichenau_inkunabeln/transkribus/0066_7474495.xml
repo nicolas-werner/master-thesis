@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:07.018+01:00</Created>
+        <LastChange>2025-03-21T17:29:04.551+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0066_7474495.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698599" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="972,511 972,2228 2007,2228 2007,511"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="964,548 1999,552 1999,491 1904,505 1747,454 1635,494 1241,457 964,488"/>
+                <Baseline points="972,533 1023,533 1074,533 1126,533 1177,533 1229,533 1280,536 1332,536 1383,536 1435,537 1486,539 1537,537 1589,534 1640,536 1692,536 1743,539 1795,539 1846,539 1898,539 1949,539 2001,542"/>
+                <TextEquiv>
+                    <Unicode>vnd thett innen Lunt / das sy sich darnach richtät=er wöle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="973,594 1962,614 1992,552 972,547"/>
+                <Baseline points="981,590 1031,587 1082,586 1133,585 1183,585 1234,584 1285,586 1335,587 1386,584 1437,584 1488,585 1538,587 1589,587 1640,587 1690,587 1741,590 1792,590 1842,590 1893,590 1944,590 1995,593"/>
+                <TextEquiv>
+                    <Unicode>an des Heiligen crütze abent zu herbste by inen syn / vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="968,646 2001,650 1999,613 1922,591 967,605"/>
+                <Baseline points="975,638 1026,638 1077,638 1129,638 1180,636 1232,635 1283,635 1335,638 1386,638 1438,638 1489,638 1540,640 1592,641 1643,641 1695,641 1746,641 1798,641 1849,643 1901,644 1952,641 2004,647"/>
+                <TextEquiv>
+                    <Unicode>wolt innen morgents frü die cappessen wißen, Sant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="968,695 1998,706 1981,648 968,645"/>
+                <Baseline points="975,692 1026,692 1077,689 1128,689 1180,689 1231,689 1282,689 1334,689 1385,689 1436,692 1488,692 1539,690 1590,691 1641,692 1693,689 1744,690 1795,693 1847,694 1898,694 1949,694 2001,694"/>
+                <TextEquiv>
+                    <Unicode>Cūn rat der Bischoff von Costantz nam zū ym sant Vl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="971,744 2003,753 1979,695 971,695"/>
+                <Baseline points="978,739 1029,739 1080,739 1132,739 1183,739 1235,739 1286,739 1338,742 1389,742 1441,742 1492,742 1543,742 1595,742 1646,742 1698,742 1749,742 1801,742 1852,742 1904,744 1955,745 2007,748"/>
+                <TextEquiv>
+                    <Unicode>richen den bischoff von Augspurg vn̄ ander heilig prie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="971,815 2001,814 2001,757 1904,744 1734,771 971,744"/>
+                <Baseline points="978,796 1029,793 1080,790 1131,790 1183,790 1234,792 1285,793 1337,793 1388,793 1439,793 1491,793 1542,793 1593,793 1644,793 1696,793 1747,793 1798,793 1850,794 1901,796 1952,796 2004,796"/>
+                <TextEquiv>
+                    <Unicode>ster vnd zugent hin gegen dem finstren wald vn̄ ꝺo dz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1061,935 1109,937 1123,946 1147,945 1154,939 1175,944 1172,818 1150,816 1139,823 1112,810 1102,816 1080,809 1056,814"/>
+                <Baseline points="1067,903 1094,903 1122,904 1150,906 1178,906"/>
+                <TextEquiv>
+                    <Unicode>Stadt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1156,1222 1161,1218 1212,1217 1218,1213 1151,1092 1146,1096 1128,1094 1120,1101 1106,1103 1105,1110 1098,1114"/>
+                <Baseline points="1137,1174 1165,1189 1193,1204 1221,1220"/>
+                <TextEquiv>
+                    <Unicode>Votre très</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1119,1277 1187,1276 1192,1280 1209,1280 1221,1275 1212,1215 1129,1221 1111,1228"/>
+                <Baseline points="1121,1246 1146,1252 1171,1258 1196,1260 1221,1260"/>
+                <TextEquiv>
+                    <Unicode>e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1098,1360 1105,1357 1116,1360 1118,1357 1125,1362 1128,1357 1152,1360 1154,1356 1161,1360 1175,1353 1160,1302 1148,1304 1141,1300 1132,1308 1105,1308 1096,1303 1082,1307"/>
+                <Baseline points="1093,1316 1120,1319 1148,1325 1176,1343"/>
+                <TextEquiv>
+                    <Unicode>de Ses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1340,1378 1353,1379 1358,1385 1371,1383 1380,1375 1403,1381 1416,1378 1424,1293 1406,1291 1403,1294 1401,1291 1390,1297 1381,1290 1375,1294 1348,1291"/>
+                <Baseline points="1348,1375 1383,1371 1419,1369"/>
+                <TextEquiv>
+                    <Unicode>P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1160,1451 1170,1450 1174,1443 1186,1441 1201,1427 1210,1424 1219,1427 1224,1421 1253,1421 1250,1376 1227,1378 1218,1370 1184,1371 1174,1361 1154,1366"/>
+                <Baseline points="1163,1401 1193,1405 1224,1407 1255,1407"/>
+                <TextEquiv>
+                    <Unicode>Können</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1215,1517 1222,1517 1250,1540 1281,1515 1290,1515 1307,1527 1325,1513 1333,1513 1331,1459 1322,1459 1316,1466 1284,1465 1276,1473 1267,1465 1214,1486"/>
+                <Baseline points="1222,1512 1250,1512 1279,1513 1307,1515 1336,1515"/>
+                <TextEquiv>
+                    <Unicode>Cultivateur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1851,1894 1869,1893 1885,1885 1891,1889 1900,1882 1918,1895 1925,1895 1927,1809 1899,1801 1882,1810 1873,1804 1854,1806"/>
+                <Baseline points="1858,1864 1893,1861 1929,1861"/>
+                <TextEquiv>
+                    <Unicode>G</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1329,2057 2001,2065 1983,1996 1925,2018 1855,1994 1512,2020 1329,1998"/>
+                <Baseline points="1336,2052 1369,2052 1402,2054 1436,2054 1469,2052 1503,2054 1536,2055 1569,2055 1603,2055 1636,2055 1670,2055 1703,2054 1736,2052 1770,2052 1803,2052 1837,2051 1870,2049 1903,2047 1937,2046 1970,2046 2004,2046"/>
+                <TextEquiv>
+                    <Unicode>die in der gegent darumb gesessen wa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="968,2064 997,2073 1006,2068 1018,2075 1042,2066 1052,2073 1062,2064 1085,2061 1087,2012 1044,2015 1016,2006 998,2012 969,2010"/>
+                <Baseline points="975,2061 1003,2061 1031,2061 1059,2060 1088,2058"/>
+                <TextEquiv>
+                    <Unicode>die liii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="971,2118 1854,2127 2001,2102 2002,2064 972,2069"/>
+                <Baseline points="978,2108 1029,2108 1080,2108 1131,2107 1183,2105 1234,2105 1285,2105 1337,2105 1388,2102 1439,2102 1491,2102 1542,2102 1593,2104 1644,2102 1696,2105 1747,2102 1798,2102 1850,2100 1901,2097 1952,2096 2004,2096"/>
+                <TextEquiv>
+                    <Unicode>ren die zogen dar/ rich vn arm iung vn alt mit einander</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="968,2168 1997,2167 1971,2100 969,2115"/>
+                <Baseline points="975,2165 1026,2161 1077,2158 1128,2156 1180,2156 1231,2156 1282,2156 1334,2156 1385,2155 1436,2153 1488,2153 1539,2153 1590,2155 1641,2156 1693,2156 1744,2156 1795,2155 1847,2153 1898,2151 1949,2150 2001,2147"/>
+                <TextEquiv>
+                    <Unicode>in den wald darumb das sy auch der gnaden teilhaff /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="968,2239 1367,2214 1421,2251 1562,2214 1615,2240 1727,2222 1727,2169 968,2182"/>
+                <Baseline points="975,2216 1012,2213 1050,2213 1088,2213 1126,2211 1163,2210 1201,2211 1239,2213 1277,2210 1314,2210 1352,2210 1390,2210 1428,2209 1465,2207 1503,2207 1541,2207 1579,2207 1616,2207 1654,2207 1692,2207 1730,2210"/>
+                <TextEquiv>
+                    <Unicode>tig wurden vnd des aploß des ampts /</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

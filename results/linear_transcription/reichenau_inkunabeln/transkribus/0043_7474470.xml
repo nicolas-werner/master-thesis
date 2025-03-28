@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:04.582+01:00</Created>
+        <LastChange>2025-03-21T17:29:01.719+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0043_7474470.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697975" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="119,530 119,1044 1142,1044 1142,530"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="117,562 1138,579 1137,509 116,493"/>
+                <Baseline points="125,554 175,554 226,554 277,554 328,554 379,554 430,554 480,554 531,554 582,554 633,554 684,556 735,557 786,557 836,557 887,557 938,560 989,560 1040,560 1091,562 1142,563"/>
+                <TextEquiv>
+                    <Unicode>Dienet er göt mit ernst vn mit andacht/ vn̄ mit sit ègen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="112,606 1136,622 1103,569 112,564"/>
+                <Baseline points="119,605 170,608 221,605 272,605 323,605 374,607 425,608 476,605 527,605 578,607 629,606 680,608 731,610 782,609 833,611 884,611 935,612 986,613 1037,613 1088,612 1139,614"/>
+                <TextEquiv>
+                    <Unicode>vn̄ herten leßen / mit vasten / wachen / betten / syngen vn̈ le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="121,673 1136,678 1136,634 1054,620 121,613"/>
+                <Baseline points="128,659 178,659 229,657 279,659 330,659 380,659 431,659 481,659 532,659 582,659 633,660 684,662 734,662 785,662 835,662 886,662 936,662 987,665 1037,665 1088,666 1139,668"/>
+                <TextEquiv>
+                    <Unicode>sen/ vn mit affer guͤter uͤbung/ so dann ein menschin got</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="119,727 1135,727 1122,675 117,674"/>
+                <Baseline points="125,709 175,706 226,709 276,709 327,709 377,709 428,709 478,712 529,709 579,712 630,712 681,712 731,712 782,714 832,715 883,715 933,715 984,715 1034,715 1085,716 1136,718"/>
+                <TextEquiv>
+                    <Unicode>tes wisse getuͤn kan oder mag. Also ward gar ein groß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="112,773 1129,782 1129,730 1078,722 112,738"/>
+                <Baseline points="119,757 169,760 220,759 271,758 321,760 372,760 423,762 473,763 524,763 575,763 626,763 676,763 727,765 778,766 828,766 879,766 930,769 980,768 1031,768 1082,772 1133,772"/>
+                <TextEquiv>
+                    <Unicode>zulauffen zu im vo erbern seligen vn̄ guten an dechtigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="112,831 1129,831 1129,784 111,772"/>
+                <Baseline points="119,811 169,811 220,811 271,811 321,811 372,813 423,814 473,814 524,817 575,814 626,814 676,815 727,817 778,817 828,820 879,817 930,817 980,820 1031,820 1082,820 1133,823"/>
+                <TextEquiv>
+                    <Unicode>liten die in do heim suͤchten / vmb syn gut selig vn̄ an de /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="112,876 1110,891 1132,827 111,831"/>
+                <Baseline points="119,862 169,862 220,862 271,863 322,865 373,865 424,865 474,865 525,867 576,867 627,867 678,867 729,867 780,867 830,870 881,870 932,870 983,871 1034,873 1085,875 1136,873"/>
+                <TextEquiv>
+                    <Unicode>chtig leben/ Als er an disem ort syben io: die ritterschafft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="121,923 1135,937 1135,888 1076,878 121,870"/>
+                <Baseline points="128,912 178,912 228,913 279,915 329,915 380,917 430,918 480,918 531,918 581,918 632,919 682,920 732,920 783,921 833,921 884,921 934,921 984,924 1035,925 1085,927 1136,924"/>
+                <TextEquiv>
+                    <Unicode>des himelischen königs volbracht het vn betrachtet das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="112,967 1133,988 1109,930 112,930"/>
+                <Baseline points="119,963 169,966 220,966 271,966 322,968 373,969 424,969 474,969 525,969 576,972 627,971 678,970 729,972 780,974 830,975 881,975 932,975 983,975 1034,976 1085,978 1136,984"/>
+                <TextEquiv>
+                    <Unicode>die welt also sere zu im zoch / do wolt er fliehen lyblich wol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="119,1050 1140,1045 1138,985 1087,981 117,969"/>
+                <Baseline points="125,1023 175,1020 226,1020 277,1020 328,1020 379,1022 430,1023 480,1023 531,1023 582,1024 633,1026 684,1026 735,1026 786,1028 836,1029 887,1029 938,1030 989,1032 1040,1032 1091,1032 1142,1032"/>
+                <TextEquiv>
+                    <Unicode>lust vn weltlich rüme de er do het / vn sprach zu dfrowen</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

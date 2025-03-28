@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.3.0:model_id=54840:lm=provided:date=11_09_2023_15:16</Creator>
+		<Created>2023-09-11T14:08:28.499+02:00</Created>
+		<LastChange>2024-01-16T11:58:24.059+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075151" pageNr="156" tsid="154460321" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=UCTPAZZEEPRMGKYHJZBEOGKJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BNMWTTFNJNMVUMUVWWUSKVJR" imageId="48050377"/>
+	</Metadata>
+	<Page imageFilename="7764256.jpg" imageWidth="2786" imageHeight="3640">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356946647" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1694437979378_3197"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1694437979378_3197" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="214,423 1881,423 1881,2754 214,2754"/>
+			<TextLine id="region_1694437979378_3197_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="744,538 1838,555 1836,469 1767,453 1603,494 1466,446 743,465"/>
+				<Baseline points="754,522 799,516 844,516 889,516 933,519 978,519 1023,522 1068,519 1112,522 1157,525 1202,525 1247,525 1291,528 1336,528 1381,531 1426,531 1470,531 1515,534 1560,534 1605,537 1649,537 1694,540 1739,543 1784,543 1828,543 1843,546"/>
+				<TextEquiv>
+					<Unicode>Ie gebuͦrt vnd die gebuͦrt wirt lobenn dine werk vnd wirt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="741,602 1846,615 1844,559 1751,542 739,540"/>
+				<Baseline points="751,563 796,563 841,566 886,569 930,569 975,572 1020,572 1065,572 1109,575 1154,575 1199,575 1244,578 1288,578 1333,581 1378,581 1423,584 1467,584 1512,584 1557,587 1602,587 1646,590 1691,593 1736,593 1781,593 1825,593 1849,594"/>
+				<TextEquiv>
+					<Unicode>din macht verkünden das wirt beſchribē in dem cxliiij pſal¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="744,652 800,625 1751,665 1834,656 1834,615 743,594"/>
+				<Baseline points="754,620 799,617 844,617 889,620 933,623 978,623 1023,623 1068,623 1112,626 1157,626 1202,629 1247,629 1291,632 1336,632 1381,635 1426,635 1470,635 1515,638 1560,638 1605,641 1649,641 1694,644 1739,644 1784,647 1828,647 1840,650"/>
+				<TextEquiv>
+					<Unicode>mē. ſiteinmal das die vernünftlich übung der heiligen vaͤtter.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="741,683 1834,712 1817,656 799,625 741,656"/>
+				<Baseline points="751,671 796,668 841,671 886,671 930,674 975,674 1020,677 1065,677 1109,677 1154,677 1199,680 1244,683 1288,686 1333,683 1378,686 1423,686 1467,689 1512,689 1557,692 1602,692 1646,695 1691,695 1736,695 1781,698 1825,698 1840,701"/>
+				<TextEquiv>
+					<Unicode>nit on groſen fliß erkūt berechnet hat die leuf der zit. iſt kein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="756,739 1836,764 1834,710 1755,702 754,685"/>
+				<Baseline points="766,725 811,722 856,722 901,725 945,725 990,728 1035,728 1080,728 1124,730 1169,730 1214,733 1259,733 1303,736 1348,736 1393,739 1438,739 1482,739 1527,742 1572,742 1617,742 1661,745 1706,745 1751,748 1796,748 1839,747"/>
+				<TextEquiv>
+					<Unicode>zwifel dan das groſer nutz geiſtlichen mannen vnnd mit ſund̓¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="752,789 1832,826 1830,770 750,739"/>
+				<Baseline points="763,781 808,772 853,772 898,775 942,775 987,778 1032,781 1077,781 1121,781 1166,784 1211,784 1256,787 1300,787 1345,787 1390,790 1435,790 1479,790 1524,793 1569,796 1614,796 1658,796 1703,796 1748,799 1793,799 1837,802"/>
+				<TextEquiv>
+					<Unicode>heit denen die zuͦ regieren hant die criſtēlich kilchen do von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="741,829 1832,872 1832,826 1736,802 741,802"/>
+				<Baseline points="751,823 796,826 841,826 886,826 930,826 975,829 1020,829 1065,832 1109,832 1154,835 1199,835 1244,838 1288,838 1333,841 1378,841 1423,841 1467,844 1512,844 1557,847 1602,847 1646,847 1691,850 1736,850 1781,853 1825,853 1837,856"/>
+				<TextEquiv>
+					<Unicode>enſprieſſe. Iſt ouch nit gloublich das ſolichs eim yedlichen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="741,893 1830,920 1828,872 1763,862 739,831"/>
+				<Baseline points="751,877 796,877 841,877 886,880 930,880 975,883 1020,883 1065,883 1109,886 1154,886 1199,889 1244,889 1288,889 1333,892 1378,892 1423,892 1467,895 1512,898 1557,898 1602,898 1646,901 1691,901 1736,904 1781,904 1825,907 1834,907"/>
+				<TextEquiv>
+					<Unicode>ſtaͤt der mēſchen groſen nutz bringt iſt eechter ſach das ſie er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694438099746_3204" custom="readingOrder {index:8;}">
+				<Coords points="744,951 1753,980 1828,968 1828,922 743,887"/>
+				<Baseline points="756,926 760,927 805,927 850,927 895,930 939,933 984,933 1029,933 1074,933 1118,936 1163,936 1208,939 1253,945 1297,942 1342,942 1387,945 1432,945 1476,945 1521,948 1566,948 1611,951 1655,951 1700,954 1745,954 1790,954 1834,954"/>
+				<TextEquiv>
+					<Unicode>hebent ir ougen mit meſigez gemüt. zuͦ den hyſtorien vergan</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="293,995 1568,1030 1828,1022 1827,968 291,935"/>
+				<Baseline points="301,981 346,975 390,975 435,975 480,975 525,975 569,978 614,978 659,978 704,981 748,981 793,984 838,981 883,981 927,984 972,984 1017,984 1062,984 1106,987 1151,990 1196,990 1241,990 1285,993 1330,993 1375,996 1420,996 1464,996 1509,999 1554,999 1599,1002 1643,1002 1688,1005 1733,1005 1778,1005 1822,1008 1834,1008"/>
+				<TextEquiv>
+					<Unicode>genner ding die vmb langer gedechniß willen hochgelert lüt beſcriben hant. wie wol</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="282,1040 1828,1078 1827,1022 1730,1015 282,997"/>
+				<Baseline points="292,1029 337,1026 381,1029 426,1029 471,1029 516,1029 560,1029 605,1029 650,1032 695,1032 739,1032 784,1032 829,1032 874,1032 918,1035 963,1035 1008,1035 1053,1038 1097,1038 1142,1041 1187,1041 1232,1041 1276,1044 1321,1044 1366,1047 1411,1047 1456,1050 1500,1050 1545,1053 1590,1053 1635,1056 1679,1056 1724,1056 1769,1059 1814,1059 1831,1059"/>
+				<TextEquiv>
+					<Unicode>ſolichs vil lüt nit vaſt bedenckent furwar es zimpt ſich dannacht das hochwirdig mā</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="287,1097 1823,1136 1823,1082 285,1038"/>
+				<Baseline points="298,1086 343,1080 387,1080 432,1080 477,1080 522,1080 566,1083 611,1083 656,1083 701,1083 745,1086 790,1086 835,1083 880,1086 924,1086 969,1089 1014,1089 1059,1089 1103,1089 1148,1092 1193,1092 1238,1094 1282,1094 1327,1094 1372,1097 1417,1097 1461,1100 1506,1103 1551,1103 1596,1106 1640,1106 1685,1106 1730,1109 1775,1109 1820,1109 1828,1112"/>
+				<TextEquiv>
+					<Unicode>zuͦm dickeren mol wider in gedechniß beruͤfent geſicht vorgangenner ding vf das ſü ler</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="278,1140 1827,1173 1794,1119 278,1094"/>
+				<Baseline points="289,1130 334,1130 378,1130 423,1130 468,1133 513,1136 557,1136 602,1133 647,1133 692,1136 736,1136 781,1136 826,1136 871,1136 915,1136 960,1139 1005,1139 1050,1142 1094,1139 1139,1142 1184,1145 1229,1145 1274,1148 1318,1148 1363,1148 1408,1151 1453,1151 1497,1151 1542,1154 1587,1154 1632,1154 1676,1157 1721,1160 1766,1160 1811,1160 1831,1163"/>
+				<TextEquiv>
+					<Unicode>nent durch guͦtt exempel ſich üben in erlichen ſachen. vnd moͤgent in boͤſen entwichen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="282,1196 1813,1236 1827,1171 280,1140"/>
+				<Baseline points="292,1178 337,1181 381,1181 426,1184 471,1184 516,1184 560,1184 605,1184 650,1187 695,1187 739,1187 784,1187 829,1187 874,1187 918,1190 963,1190 1008,1190 1053,1193 1097,1193 1142,1193 1187,1196 1232,1199 1276,1199 1321,1199 1366,1199 1411,1202 1456,1202 1500,1205 1545,1202 1590,1205 1635,1208 1679,1208 1724,1211 1769,1211 1814,1214 1831,1214"/>
+				<TextEquiv>
+					<Unicode>dem ſchrofen des verluſt wird ouch das koſtbarlich von dem ſchnoͤden nit geſundert</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="287,1244 1798,1286 1823,1227 285,1188"/>
+				<Baseline points="298,1235 343,1235 387,1232 432,1232 477,1235 522,1238 566,1235 611,1238 656,1238 701,1241 745,1238 790,1238 835,1238 880,1241 924,1241 969,1241 1014,1244 1059,1244 1103,1244 1148,1247 1193,1247 1238,1250 1282,1250 1327,1253 1372,1253 1417,1253 1461,1256 1506,1256 1551,1256 1596,1259 1640,1259 1685,1259 1730,1262 1775,1262 1820,1265 1828,1268"/>
+				<TextEquiv>
+					<Unicode>ſo wird die toͤrecht begirlicheit die ir ſelber nüt enzihē mag mit ſchnellez louf ertrengt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="278,1300 1817,1329 1815,1286 1747,1269 278,1246"/>
+				<Baseline points="289,1282 334,1282 378,1285 423,1285 468,1285 513,1288 557,1285 602,1288 647,1288 692,1288 736,1291 781,1291 826,1291 871,1291 915,1291 960,1294 1005,1294 1050,1294 1094,1297 1139,1297 1184,1300 1229,1300 1274,1300 1318,1303 1363,1303 1408,1303 1453,1306 1497,1306 1542,1309 1587,1306 1632,1309 1676,1309 1721,1312 1766,1312 1811,1318 1820,1318"/>
+				<TextEquiv>
+					<Unicode>in der gruͦben der finſterniß dor vmb alß die heiligen doctores geſehen hant das zuͦ ver</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="280,1348 1800,1389 1811,1327 278,1300"/>
+				<Baseline points="289,1333 334,1336 378,1336 423,1336 468,1339 513,1339 557,1339 602,1339 647,1342 692,1342 736,1342 781,1342 826,1342 871,1342 915,1345 960,1345 1005,1345 1050,1348 1094,1348 1139,1348 1184,1351 1229,1351 1274,1354 1318,1354 1363,1354 1408,1357 1453,1357 1497,1357 1542,1357 1587,1360 1632,1360 1676,1363 1721,1363 1766,1366 1802,1369 1830,1367"/>
+				<TextEquiv>
+					<Unicode>ſtentniß der heiligen geſchrift vnd zuͦ eim regiment der kilchen ein überlouffung der hy</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="282,1406 1817,1437 1817,1393 280,1348"/>
+				<Baseline points="292,1387 337,1387 381,1390 426,1390 471,1390 516,1390 560,1390 605,1393 650,1393 695,1393 739,1393 784,1396 829,1396 874,1396 918,1396 963,1396 1008,1396 1053,1399 1097,1402 1142,1402 1187,1402 1232,1405 1276,1405 1321,1405 1366,1408 1411,1408 1456,1411 1500,1411 1545,1411 1590,1411 1635,1414 1679,1411 1724,1414 1769,1417 1814,1423 1822,1426"/>
+				<TextEquiv>
+					<Unicode>ſtorien eins teils not iſt doch ein verſaumūg aller geſchichtē vnnutz vil halb der ding</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="278,1445 1817,1485 1815,1437 1719,1421 278,1410"/>
+				<Baseline points="289,1438 334,1438 378,1441 423,1441 468,1441 513,1444 557,1444 602,1444 647,1447 692,1447 736,1447 781,1447 826,1450 871,1447 915,1447 960,1447 1005,1450 1050,1450 1094,1453 1139,1453 1184,1453 1229,1456 1274,1458 1318,1456 1363,1458 1408,1461 1453,1461 1497,1461 1542,1461 1587,1464 1632,1464 1676,1464 1721,1464 1766,1467 1811,1470 1822,1473"/>
+				<TextEquiv>
+					<Unicode>ouch vnfruchtbarer überleſung überfluſſiger vnd ſchnoͤder ſachē habent ſü vnſ etlich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="282,1508 1817,1535 1780,1477 282,1445"/>
+				<Baseline points="292,1488 337,1488 381,1491 426,1491 471,1491 516,1494 560,1494 605,1494 650,1497 695,1497 739,1497 784,1500 829,1497 874,1497 918,1500 963,1500 1008,1500 1053,1503 1097,1503 1142,1506 1187,1506 1232,1506 1276,1509 1321,1509 1366,1509 1411,1512 1456,1512 1500,1512 1545,1515 1590,1515 1635,1515 1679,1518 1724,1518 1769,1518 1814,1521 1822,1521"/>
+				<TextEquiv>
+					<Unicode>bewert hyſtorien vßgeſunderet. vnd abgethon die verwiſenden fabulen vnd vngeentē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="284,1585 386,1553 1798,1595 1821,1543 282,1506"/>
+				<Baseline points="295,1548 340,1542 384,1542 429,1545 474,1545 519,1545 563,1548 608,1548 653,1548 698,1548 742,1551 787,1551 832,1551 877,1551 921,1551 966,1551 1011,1551 1056,1554 1100,1554 1145,1557 1190,1557 1235,1560 1279,1560 1324,1560 1369,1563 1414,1563 1458,1566 1503,1566 1548,1566 1593,1569 1638,1569 1682,1569 1727,1569 1772,1569 1825,1567"/>
+				<TextEquiv>
+					<Unicode>gebürten geſipten die nütz zuͦ den ſachen dienēt. iſt ouch alſo durch ir großarbeit ver¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="272,1607 1734,1647 1805,1636 1805,1593 270,1558"/>
+				<Baseline points="283,1593 328,1593 372,1593 417,1596 462,1596 507,1596 551,1599 596,1599 641,1599 686,1599 730,1602 775,1602 820,1605 865,1602 910,1602 954,1605 999,1605 1044,1605 1089,1608 1133,1608 1178,1608 1223,1611 1268,1614 1312,1614 1357,1614 1402,1617 1447,1617 1491,1617 1536,1617 1581,1620 1626,1620 1670,1620 1715,1620 1760,1623 1805,1620 1811,1623"/>
+				<TextEquiv>
+					<Unicode>ſchaft das garnoch die gantz hyſtoriē der ziten mit cleinemfliß von yedlichem verſten¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="276,1655 1821,1682 1778,1632 276,1611"/>
+				<Baseline points="286,1640 331,1643 375,1646 420,1646 465,1646 510,1646 554,1649 599,1649 644,1649 689,1652 733,1652 778,1652 823,1652 868,1655 912,1655 957,1655 1002,1655 1047,1655 1092,1658 1136,1658 1181,1661 1226,1661 1271,1664 1315,1664 1360,1664 1405,1667 1450,1670 1494,1667 1539,1667 1584,1667 1629,1670 1673,1670 1718,1670 1763,1673 1826,1672"/>
+				<TextEquiv>
+					<Unicode>digen nit allein on arbeit ſunder mit groſem woluſt des hertzē mag erkunt vnd veruaſ¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="274,1713 1773,1753 1815,1697 272,1661"/>
+				<Baseline points="283,1697 328,1697 372,1697 417,1697 462,1697 507,1700 551,1700 596,1700 641,1703 686,1706 730,1703 775,1706 820,1706 865,1706 910,1706 954,1706 999,1706 1044,1709 1089,1712 1133,1709 1178,1712 1223,1715 1268,1715 1312,1718 1357,1718 1402,1715 1447,1718 1491,1718 1536,1718 1581,1721 1626,1721 1670,1724 1715,1724 1760,1727 1805,1724 1820,1727"/>
+				<TextEquiv>
+					<Unicode>ſet werdē. Es iſt ouch zuͦ der geziert der geſchrift zimlich geſin das ſü ſolicher ſchoͤni</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="272,1757 1809,1800 1807,1742 1720,1734 272,1720"/>
+				<Baseline points="283,1748 328,1748 372,1748 417,1748 462,1751 507,1751 551,1751 596,1751 641,1754 686,1754 730,1757 775,1757 820,1757 865,1757 910,1757 954,1760 999,1760 1044,1763 1089,1760 1133,1763 1178,1763 1223,1766 1268,1766 1312,1766 1357,1766 1402,1769 1447,1769 1491,1772 1536,1772 1581,1772 1626,1775 1670,1775 1715,1775 1760,1775 1805,1778 1814,1778"/>
+				<TextEquiv>
+					<Unicode>nit māgel die allen lüten wie ein durchlüchtendi lucern in einer finſterniß fuͤrzuͦ haltenu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="276,1817 1670,1854 1807,1842 1807,1801 274,1761"/>
+				<Baseline points="286,1799 331,1799 375,1799 420,1799 465,1802 510,1802 554,1805 599,1808 644,1805 689,1808 733,1808 778,1808 823,1808 868,1811 912,1811 957,1808 1002,1811 1047,1811 1092,1814 1136,1814 1181,1817 1226,1820 1271,1820 1315,1820 1360,1820 1405,1820 1450,1822 1494,1822 1539,1825 1584,1825 1629,1825 1673,1825 1718,1825 1763,1828 1808,1828 1811,1828"/>
+				<TextEquiv>
+					<Unicode>was Es ſolt ouch die menſchlich vernunft die do mag lichtiglich begrifen vil ding.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="272,1859 1576,1902 1813,1896 1813,1842 270,1815"/>
+				<Baseline points="283,1849 328,1849 372,1849 417,1852 462,1852 507,1852 551,1855 596,1855 641,1858 686,1855 730,1858 775,1858 820,1858 865,1858 910,1861 954,1861 999,1864 1044,1864 1089,1864 1133,1867 1178,1867 1223,1867 1268,1870 1312,1870 1357,1870 1402,1870 1447,1873 1491,1873 1536,1876 1581,1876 1626,1876 1670,1876 1715,1876 1760,1876 1805,1879 1817,1882"/>
+				<TextEquiv>
+					<Unicode>nit beroubt werdē eins ſolichen wūſamē angers von mancherley bluͦmē geziert in wel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="276,1921 1643,1952 1809,1942 1809,1892 274,1861"/>
+				<Baseline points="286,1900 331,1900 375,1900 420,1903 465,1903 510,1903 554,1906 599,1906 644,1909 689,1909 733,1909 778,1909 823,1912 868,1912 912,1912 957,1915 1002,1918 1047,1915 1092,1915 1136,1918 1181,1918 1226,1918 1271,1918 1315,1921 1360,1924 1405,1924 1450,1924 1494,1924 1539,1930 1584,1927 1629,1927 1673,1930 1718,1927 1763,1930 1808,1930 1814,1933"/>
+				<TextEquiv>
+					<Unicode>lem ſü find vil exempel der tuͦgent dargegen vermerckt ouch vnredlich geſchichtē. do</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="270,1962 1805,2000 1792,1942 270,1923"/>
+				<Baseline points="280,1951 325,1951 369,1954 414,1954 459,1954 504,1957 548,1957 593,1960 638,1960 683,1960 728,1960 772,1963 817,1960 862,1963 907,1963 951,1963 996,1963 1041,1966 1086,1966 1130,1969 1175,1969 1220,1969 1265,1972 1309,1972 1354,1975 1399,1975 1444,1975 1488,1975 1533,1975 1578,1978 1623,1978 1667,1981 1712,1981 1757,1981 1802,1978 1811,1981"/>
+				<TextEquiv>
+					<Unicode>durch wird gewarnet die abzuͦbrechen die andren ſtonzuͦloſſen. Es iſt fürwar überal¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="270,2017 1782,2056 1811,2000 268,1963"/>
+				<Baseline points="280,2002 325,2002 369,2004 414,2004 459,2007 504,2007 548,2010 593,2010 638,2010 683,2010 728,2010 772,2013 817,2013 862,2013 907,2013 951,2013 996,2016 1041,2016 1086,2019 1130,2019 1175,2022 1220,2022 1265,2022 1309,2025 1354,2025 1399,2025 1444,2025 1488,2028 1533,2028 1578,2031 1623,2031 1667,2031 1712,2031 1757,2034 1802,2031 1814,2034"/>
+				<TextEquiv>
+					<Unicode>moß lüſtlich zuͦ wiſſen wie vnſer erſte eltern̄ vō denē wir vnſeren vrſprūg hant geſchaf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="266,2068 1809,2095 1807,2052 1670,2041 266,2012"/>
+				<Baseline points="277,2055 322,2055 366,2055 411,2058 456,2058 501,2058 546,2061 590,2061 635,2061 680,2061 725,2064 769,2064 814,2067 859,2067 904,2067 948,2067 993,2067 1038,2070 1083,2070 1127,2070 1172,2070 1217,2073 1262,2073 1306,2073 1351,2076 1396,2076 1441,2079 1485,2079 1530,2079 1575,2079 1620,2079 1664,2082 1709,2082 1754,2082 1799,2082 1814,2085"/>
+				<TextEquiv>
+					<Unicode>fen ſind vō got dē oͤbreſten ſchepheer aller ding dor noch wie ſü ir zit verbrocht hant</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="278,2116 1807,2156 1794,2091 278,2070"/>
+				<Baseline points="289,2109 334,2106 378,2109 423,2109 468,2109 513,2112 557,2112 602,2112 647,2115 692,2115 736,2115 781,2118 826,2118 871,2118 915,2118 960,2121 1005,2121 1050,2121 1094,2124 1139,2124 1184,2127 1229,2124 1274,2124 1318,2127 1363,2127 1408,2130 1453,2130 1497,2130 1542,2133 1587,2133 1632,2133 1676,2133 1721,2133 1766,2133 1811,2136"/>
+				<TextEquiv>
+					<Unicode>wie ouch die vernüftig creatur zuͦ vnd abgenomē hat in wiſheit tugent macht heilikeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_33" custom="readingOrder {index:32;}">
+				<Coords points="270,2170 1800,2203 1765,2145 270,2114"/>
+				<Baseline points="280,2157 325,2157 369,2160 414,2160 459,2160 504,2163 548,2163 593,2166 638,2166 683,2166 728,2169 772,2169 817,2169 862,2169 907,2172 951,2172 996,2172 1041,2175 1086,2175 1130,2175 1175,2175 1220,2175 1265,2175 1309,2178 1354,2178 1399,2178 1444,2181 1488,2181 1533,2184 1578,2184 1623,2184 1667,2184 1712,2184 1757,2186 1802,2186 1805,2186"/>
+				<TextEquiv>
+					<Unicode>langwirikeit vnd alſo vō andern dingen. ouch in allen dieſen dingē ſich verwūderenn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_34" custom="readingOrder {index:33;}">
+				<Coords points="266,2214 1813,2239 1742,2195 266,2176"/>
+				<Baseline points="277,2207 322,2207 366,2210 411,2210 456,2213 501,2213 546,2213 590,2216 635,2216 680,2219 725,2219 769,2219 814,2219 859,2219 904,2222 948,2222 993,2225 1038,2225 1083,2225 1127,2228 1172,2228 1217,2228 1262,2228 1306,2228 1351,2231 1396,2231 1441,2231 1485,2231 1530,2234 1575,2234 1620,2234 1664,2234 1709,2237 1754,2237 1794,2237 1817,2237"/>
+				<TextEquiv>
+					<Unicode>des goͤtlichen regiments wie wūderbar got ſige in ſinen creaturē der on vnderloß de¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_35" custom="readingOrder {index:34;}">
+				<Coords points="266,2274 1800,2299 1732,2237 266,2220"/>
+				<Baseline points="277,2261 322,2258 366,2261 411,2264 456,2264 501,2264 546,2267 590,2267 635,2270 680,2270 725,2270 769,2270 814,2270 859,2273 904,2273 948,2273 993,2276 1038,2276 1083,2276 1127,2276 1172,2276 1217,2279 1262,2279 1306,2279 1351,2282 1396,2282 1441,2282 1485,2285 1530,2285 1575,2288 1620,2288 1664,2288 1709,2288 1754,2288 1799,2288 1805,2291"/>
+				<TextEquiv>
+					<Unicode>nen die er geſchaffen hat verſicht wie groß ſige langwerikeit vnd barmhertzikeit des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_36" custom="readingOrder {index:35;}">
+				<Coords points="260,2334 1805,2357 1803,2305 1728,2291 260,2282"/>
+				<Baseline points="271,2312 316,2312 361,2315 405,2312 450,2315 495,2315 540,2318 584,2318 629,2321 674,2321 719,2321 763,2321 808,2324 853,2324 898,2324 942,2327 987,2327 1032,2327 1077,2327 1121,2330 1166,2330 1211,2330 1256,2330 1300,2333 1345,2333 1390,2336 1435,2336 1479,2336 1524,2336 1569,2336 1614,2336 1658,2339 1703,2339 1748,2339 1793,2342 1810,2344"/>
+				<TextEquiv>
+					<Unicode>ſchoͤpfers vnd wie vnerfaͤrlich ſige der abgrūd goͤtlicheer vrteil. wan die menſchlich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_37" custom="readingOrder {index:36;}">
+				<Coords points="272,2378 1722,2423 1803,2419 1803,2359 270,2334"/>
+				<Baseline points="283,2366 328,2366 372,2366 417,2366 462,2366 507,2368 551,2368 596,2368 641,2371 686,2374 730,2374 775,2374 820,2374 865,2374 910,2377 954,2377 999,2377 1044,2380 1089,2377 1133,2380 1178,2380 1223,2380 1268,2383 1312,2383 1357,2383 1402,2383 1447,2386 1491,2386 1536,2389 1581,2389 1626,2389 1670,2389 1715,2392 1760,2392 1808,2394"/>
+				<TextEquiv>
+					<Unicode>vernunft die vnd vnzelich ander ding durchflügt mit de federē der innigē beſchoulich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_38" custom="readingOrder {index:37;}">
+				<Coords points="264,2426 1798,2453 1761,2411 1585,2397 264,2380"/>
+				<Baseline points="274,2413 319,2413 364,2416 408,2416 453,2416 498,2419 543,2419 587,2422 632,2422 677,2422 722,2425 766,2425 811,2428 856,2428 901,2428 945,2428 990,2431 1035,2431 1080,2431 1124,2431 1169,2434 1214,2434 1259,2434 1303,2434 1348,2437 1393,2437 1438,2437 1482,2440 1527,2440 1572,2440 1617,2440 1661,2440 1706,2440 1751,2440 1796,2443 1802,2443"/>
+				<TextEquiv>
+					<Unicode>heit. ſo erkünt ſuͤ nit allein vergāgen oder gegenwertig ſund̓ künftige ding wan ſü gat</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_39" custom="readingOrder {index:38;}">
+				<Coords points="272,2480 1711,2525 1794,2515 1794,2459 270,2430"/>
+				<Baseline points="283,2467 328,2464 372,2467 417,2470 462,2470 507,2473 551,2470 596,2473 641,2476 686,2476 730,2476 775,2476 820,2479 865,2479 910,2479 954,2482 999,2482 1044,2482 1089,2485 1133,2485 1178,2488 1223,2485 1268,2485 1312,2485 1357,2488 1402,2488 1447,2491 1491,2491 1536,2491 1581,2491 1626,2494 1670,2491 1715,2494 1760,2494 1799,2497"/>
+				<TextEquiv>
+					<Unicode>von glich zuͦ glichem. wan ouch der ſelben natürlichen vernūft zuͦgefuͤgt wirt ein guͦter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_40" custom="readingOrder {index:39;}">
+				<Coords points="264,2532 1720,2565 1788,2554 1788,2515 262,2488"/>
+				<Baseline points="274,2518 319,2518 364,2518 408,2521 453,2521 498,2521 543,2524 587,2524 632,2530 677,2530 722,2530 766,2530 811,2530 856,2530 901,2533 945,2536 990,2536 1035,2536 1080,2536 1124,2536 1169,2536 1214,2536 1259,2539 1303,2539 1348,2542 1393,2542 1438,2542 1482,2542 1527,2542 1572,2542 1617,2545 1661,2545 1706,2545 1751,2545 1793,2545"/>
+				<TextEquiv>
+					<Unicode>wil ſo erhebt ſü ſich gegen got verdrußhalb diſer herberg in zuͦ loben im zuͦ danckē vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_41" custom="readingOrder {index:40;}">
+				<Coords points="264,2577 1788,2619 1749,2556 264,2542"/>
+				<Baseline points="274,2568 319,2568 364,2571 408,2571 453,2571 498,2574 543,2574 587,2577 632,2577 677,2580 722,2580 766,2580 811,2580 856,2583 901,2583 945,2583 990,2583 1035,2586 1080,2586 1124,2589 1169,2589 1214,2589 1259,2589 1303,2589 1348,2592 1393,2592 1438,2592 1482,2592 1527,2592 1572,2595 1617,2598 1661,2595 1706,2595 1751,2595 1790,2604"/>
+				<TextEquiv>
+					<Unicode>in ſchowlich zuͦ betrachten begert ouch enlidiget zuͦwerden vnd ewenclich zuͦ ſyn by</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_42" custom="readingOrder {index:41;}">
+				<Coords points="266,2640 1792,2658 1738,2604 266,2585"/>
+				<Baseline points="277,2619 322,2619 366,2619 411,2622 456,2622 501,2625 546,2628 590,2628 635,2628 680,2631 725,2631 769,2631 814,2634 859,2634 904,2634 948,2637 993,2637 1038,2637 1083,2640 1127,2640 1172,2640 1217,2640 1262,2643 1306,2643 1351,2643 1396,2646 1441,2646 1485,2646 1530,2646 1575,2646 1620,2646 1664,2646 1709,2646 1754,2646 1796,2646"/>
+				<TextEquiv>
+					<Unicode>chriſto. dor vmb hebt an dieſe ſchowlicheit in einer wūſamē betrachtūg der creaturen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694437979378_3197_tl_43" custom="readingOrder {index:42;}">
+				<Coords points="266,2702 1790,2729 1765,2658 266,2637"/>
+				<Baseline points="277,2673 322,2673 366,2676 411,2679 456,2682 501,2682 546,2682 590,2682 635,2685 680,2685 725,2688 769,2688 814,2691 859,2691 904,2691 948,2691 993,2694 1038,2694 1083,2694 1127,2697 1172,2697 1217,2697 1262,2697 1306,2697 1351,2697 1396,2700 1441,2700 1485,2700 1530,2700 1575,2700 1620,2700 1664,2700 1709,2700 1754,2700 1798,2701"/>
+				<TextEquiv>
+					<Unicode>oder geſchoͤpften. vnd endet ſich in eim ſaͤligeren verdruß der ſelben vnd begird deß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Ie gebuͦrt vnd die gebuͦrt wirt lobenn dine werk vnd wirt
+din macht verkünden das wirt beſchribē in dem cxliiij pſal¬
+mē. ſiteinmal das die vernünftlich übung der heiligen vaͤtter.
+nit on groſen fliß erkūt berechnet hat die leuf der zit. iſt kein
+zwifel dan das groſer nutz geiſtlichen mannen vnnd mit ſund̓¬
+heit denen die zuͦ regieren hant die criſtēlich kilchen do von
+enſprieſſe. Iſt ouch nit gloublich das ſolichs eim yedlichen
+ſtaͤt der mēſchen groſen nutz bringt iſt eechter ſach das ſie er
+hebent ir ougen mit meſigez gemüt. zuͦ den hyſtorien vergan
+genner ding die vmb langer gedechniß willen hochgelert lüt beſcriben hant. wie wol
+ſolichs vil lüt nit vaſt bedenckent furwar es zimpt ſich dannacht das hochwirdig mā
+zuͦm dickeren mol wider in gedechniß beruͤfent geſicht vorgangenner ding vf das ſü ler
+nent durch guͦtt exempel ſich üben in erlichen ſachen. vnd moͤgent in boͤſen entwichen
+dem ſchrofen des verluſt wird ouch das koſtbarlich von dem ſchnoͤden nit geſundert
+ſo wird die toͤrecht begirlicheit die ir ſelber nüt enzihē mag mit ſchnellez louf ertrengt
+in der gruͦben der finſterniß dor vmb alß die heiligen doctores geſehen hant das zuͦ ver
+ſtentniß der heiligen geſchrift vnd zuͦ eim regiment der kilchen ein überlouffung der hy
+ſtorien eins teils not iſt doch ein verſaumūg aller geſchichtē vnnutz vil halb der ding
+ouch vnfruchtbarer überleſung überfluſſiger vnd ſchnoͤder ſachē habent ſü vnſ etlich
+bewert hyſtorien vßgeſunderet. vnd abgethon die verwiſenden fabulen vnd vngeentē
+gebürten geſipten die nütz zuͦ den ſachen dienēt. iſt ouch alſo durch ir großarbeit ver¬
+ſchaft das garnoch die gantz hyſtoriē der ziten mit cleinemfliß von yedlichem verſten¬
+digen nit allein on arbeit ſunder mit groſem woluſt des hertzē mag erkunt vnd veruaſ¬
+ſet werdē. Es iſt ouch zuͦ der geziert der geſchrift zimlich geſin das ſü ſolicher ſchoͤni
+nit māgel die allen lüten wie ein durchlüchtendi lucern in einer finſterniß fuͤrzuͦ haltenu
+was Es ſolt ouch die menſchlich vernunft die do mag lichtiglich begrifen vil ding.
+nit beroubt werdē eins ſolichen wūſamē angers von mancherley bluͦmē geziert in wel
+lem ſü find vil exempel der tuͦgent dargegen vermerckt ouch vnredlich geſchichtē. do
+durch wird gewarnet die abzuͦbrechen die andren ſtonzuͦloſſen. Es iſt fürwar überal¬
+moß lüſtlich zuͦ wiſſen wie vnſer erſte eltern̄ vō denē wir vnſeren vrſprūg hant geſchaf
+fen ſind vō got dē oͤbreſten ſchepheer aller ding dor noch wie ſü ir zit verbrocht hant
+wie ouch die vernüftig creatur zuͦ vnd abgenomē hat in wiſheit tugent macht heilikeit
+langwirikeit vnd alſo vō andern dingen. ouch in allen dieſen dingē ſich verwūderenn
+des goͤtlichen regiments wie wūderbar got ſige in ſinen creaturē der on vnderloß de¬
+nen die er geſchaffen hat verſicht wie groß ſige langwerikeit vnd barmhertzikeit des
+ſchoͤpfers vnd wie vnerfaͤrlich ſige der abgrūd goͤtlicheer vrteil. wan die menſchlich
+vernunft die vnd vnzelich ander ding durchflügt mit de federē der innigē beſchoulich
+heit. ſo erkünt ſuͤ nit allein vergāgen oder gegenwertig ſund̓ künftige ding wan ſü gat
+von glich zuͦ glichem. wan ouch der ſelben natürlichen vernūft zuͦgefuͤgt wirt ein guͦter
+wil ſo erhebt ſü ſich gegen got verdrußhalb diſer herberg in zuͦ loben im zuͦ danckē vnd
+in ſchowlich zuͦ betrachten begert ouch enlidiget zuͦwerden vnd ewenclich zuͦ ſyn by
+chriſto. dor vmb hebt an dieſe ſchowlicheit in einer wūſamē betrachtūg der creaturen
+oder geſchoͤpften. vnd endet ſich in eim ſaͤligeren verdruß der ſelben vnd begird deß</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

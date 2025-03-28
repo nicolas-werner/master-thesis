@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:28</Creator>
+        <Created>2025-03-21T12:31:01.196+01:00</Created>
+        <LastChange>2025-03-21T17:28:57.794+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0013_7474428.jpg" imageWidth="2102" imageHeight="2796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697017" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="173,1036 173,1142 1165,1142 1165,1036"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="173,1071 1162,1073 1150,1002 173,1014"/>
+                <Baseline points="179,1069 228,1069 277,1069 326,1069 376,1069 425,1069 474,1069 524,1069 573,1069 622,1069 672,1069 721,1066 770,1066 819,1066 869,1066 918,1066 967,1064 1017,1063 1066,1063 1115,1063 1165,1066"/>
+                <TextEquiv>
+                    <Unicode>Von der loblichen Stifftung des hochwirdigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="167,1157 1083,1138 1135,1126 1136,1084 168,1076"/>
+                <Baseline points="173,1126 221,1125 269,1128 317,1129 366,1129 414,1126 462,1123 510,1126 559,1123 607,1123 655,1123 703,1123 752,1123 800,1123 848,1123 896,1123 945,1121 993,1120 1041,1120 1089,1117 1138,1117"/>
+                <TextEquiv>
+                    <Unicode>Gotzbuß Ainsideln vnser lieben frowen Lronick</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

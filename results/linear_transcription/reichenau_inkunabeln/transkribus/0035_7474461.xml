@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:03.723+01:00</Created>
+        <LastChange>2025-03-21T17:29:00.784+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0035_7474461.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697707" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="978,566 978,2182 2043,2182 2043,566"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="969,627 2001,597 2002,546 1878,525 1487,568 1386,528 1154,570 972,552"/>
+                <Baseline points="978,614 1029,611 1080,610 1131,607 1183,605 1234,605 1285,602 1337,605 1388,601 1439,599 1491,597 1542,596 1593,596 1644,596 1696,593 1747,593 1798,593 1850,591 1901,590 1952,590 2004,590"/>
+                <TextEquiv>
+                    <Unicode>syn begierd also groß das er eins Tags zu densiungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="974,685 1922,667 1915,595 976,627"/>
+                <Baseline points="981,668 1028,665 1075,662 1122,662 1170,659 1217,659 1264,658 1311,656 1359,655 1406,653 1453,653 1500,652 1548,650 1595,650 1642,650 1689,648 1737,645 1784,644 1831,644 1878,647 1926,647"/>
+                <TextEquiv>
+                    <Unicode>chüleren vnd miinchen die er erzogen hatt sprach¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="995,1982 1898,1969 2040,1951 2041,1898 1340,1933 996,1906"/>
+                <Baseline points="1002,1965 1054,1965 1106,1962 1158,1962 1210,1962 1262,1962 1314,1962 1366,1962 1418,1959 1470,1959 1522,1959 1574,1957 1626,1954 1678,1953 1730,1950 1782,1952 1834,1950 1886,1948 1938,1945 1990,1939 2043,1938"/>
+                <TextEquiv>
+                    <Unicode>Ließen brüdern wollent wir über See faren in die wuͤ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1006,2035 1850,2019 2031,1994 2032,1954 1007,1977"/>
+                <Baseline points="1014,2019 1065,2016 1116,2015 1167,2013 1218,2013 1269,2013 1320,2013 1371,2012 1422,2010 1473,2009 1524,2007 1575,2007 1626,2004 1677,2004 1728,2001 1779,2001 1830,2001 1881,1999 1932,1996 1983,1990 2034,1989"/>
+                <TextEquiv>
+                    <Unicode>stin vnd in die welde das wir do in den sachen vn̄ ruͤn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1007,2080 2040,2045 2041,1986 1834,2023 1008,2033"/>
+                <Baseline points="1014,2070 1065,2067 1116,2067 1168,2066 1219,2064 1271,2064 1322,2064 1374,2064 1425,2061 1477,2061 1528,2060 1579,2058 1631,2058 1682,2058 1734,2055 1785,2055 1837,2054 1888,2050 1940,2047 1991,2041 2043,2037"/>
+                <TextEquiv>
+                    <Unicode>felen die dar inne rinnen fische vahent/ Sprachet sy her</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1009,2126 2038,2115 2032,2045 1011,2080"/>
+                <Baseline points="1017,2120 1068,2117 1119,2117 1170,2116 1222,2114 1273,2114 1324,2114 1376,2114 1427,2114 1478,2113 1530,2111 1581,2111 1632,2113 1683,2111 1735,2108 1786,2108 1837,2107 1889,2103 1940,2100 1991,2094 2043,2090"/>
+                <TextEquiv>
+                    <Unicode>meister ja/ wir woͤsten willig vnd geren faren vnd gen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1009,2182 1555,2197 1556,2136 1519,2123 1011,2126"/>
+                <Baseline points="1017,2168 1044,2171 1071,2171 1098,2171 1125,2171 1152,2171 1179,2171 1206,2171 1233,2169 1260,2168 1287,2168 1314,2168 1341,2168 1368,2168 1395,2167 1422,2165 1449,2165 1476,2165 1503,2165 1530,2165 1557,2165"/>
+                <TextEquiv>
+                    <Unicode>mit euch wa hin ir wollent.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

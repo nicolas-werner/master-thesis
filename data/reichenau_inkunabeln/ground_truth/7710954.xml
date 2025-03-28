@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53254:lm=provided:date=10_07_2023_16:17</Creator>
+		<Created>2023-07-10T15:37:08.458+02:00</Created>
+		<LastChange>2023-08-20T20:31:06.437+02:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075106" pageNr="111" tsid="154460245" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=XUUWFNJKLYACRDITQPRVFJWN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PZFVDKGELSRSSTXKZJPGLVVD" imageId="46338772"/>
+	</Metadata>
+	<Page imageFilename="7710954.jpg" imageWidth="2786" imageHeight="3730">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356669739" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1688998521869_5948"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1688998521869_5948" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="232,486 1904,486 1904,3056 232,3056"/>
+			<TextLine id="region_1688998521869_5948_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="479,623 1673,666 1673,556 1404,562 1271,519 1063,566 477,516"/>
+				<Baseline points="489,611 534,608 578,608 623,611 668,614 713,614 757,617 802,617 847,617 892,617 936,617 981,617 1026,617 1071,617 1116,614 1160,617 1205,617 1250,617 1295,620 1339,620 1384,623 1429,623 1474,623 1518,623 1563,623 1608,623 1653,623 1677,626"/>
+				<TextEquiv>
+					<Unicode>Hye vahet an die vorrede in das buch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="475,727 1660,718 1658,662 1540,636 473,629"/>
+				<Baseline points="483,695 528,695 572,695 617,698 662,698 707,698 751,701 796,701 841,701 886,701 931,701 975,701 1020,701 1065,701 1110,701 1154,701 1199,704 1244,704 1289,704 1333,707 1378,707 1423,707 1468,707 1512,710 1557,710 1602,707 1647,710 1665,710"/>
+				<TextEquiv>
+					<Unicode>des hochberemten fabeltichters Eſopi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="727,827 1152,794 1710,831 1788,809 1788,759 725,731"/>
+				<Baseline points="737,793 781,793 826,790 871,793 916,790 960,790 1005,790 1050,790 1095,790 1139,790 1184,790 1229,790 1274,793 1318,796 1363,796 1408,796 1453,796 1497,799 1542,799 1587,799 1632,802 1677,799 1721,799 1766,799 1793,799"/>
+				<TextEquiv>
+					<Unicode>As leben des hochberuͤmtten fabeltichters</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="736,890 1801,885 1801,814 1766,807 736,824"/>
+				<Baseline points="746,862 790,859 835,862 880,859 925,859 969,856 1014,856 1059,856 1104,859 1148,859 1193,859 1238,859 1283,862 1327,862 1372,862 1417,865 1462,865 1506,868 1551,865 1596,868 1641,865 1685,865 1730,868 1775,868 1805,871"/>
+				<TextEquiv>
+					<Unicode>Eſopi auß kriechiſcher czungen in lateÿn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="744,946 1783,952 1783,877 744,883"/>
+				<Baseline points="754,928 799,925 844,925 889,925 933,925 978,925 1023,925 1068,925 1113,925 1157,925 1202,928 1247,928 1292,928 1336,928 1381,928 1426,928 1471,931 1515,931 1560,933 1605,933 1650,933 1694,933 1739,933 1784,933 1787,933"/>
+				<TextEquiv>
+					<Unicode>durch Remicum gemachet. An den hoch¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="740,1005 1792,1024 1792,966 1729,946 740,950"/>
+				<Baseline points="751,993 796,990 841,990 886,990 931,993 975,993 1020,990 1065,990 1110,990 1154,990 1199,993 1244,993 1289,993 1333,993 1378,996 1423,996 1468,996 1512,999 1557,999 1602,999 1647,999 1691,999 1736,999 1781,999 1796,999"/>
+				<TextEquiv>
+					<Unicode>würdigen vatter herren Anthonium des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="738,1085 1109,1061 1575,1094 1797,1080 1797,1024 736,1004"/>
+				<Baseline points="748,1059 793,1059 838,1059 883,1056 928,1056 972,1056 1017,1056 1062,1056 1107,1056 1151,1056 1196,1059 1241,1059 1286,1059 1330,1059 1375,1062 1420,1062 1465,1062 1509,1062 1554,1065 1599,1065 1644,1062 1688,1062 1733,1062 1778,1065 1802,1068"/>
+				<TextEquiv>
+					<Unicode>Titels ſancti Chriſogoni prieſtern. Car</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="697,1145 1801,1143 1770,1070 697,1070"/>
+				<Baseline points="707,1130 751,1124 796,1124 841,1124 886,1124 931,1121 975,1121 1020,1121 1065,1121 1110,1121 1154,1124 1199,1124 1244,1124 1289,1124 1333,1124 1378,1124 1423,1127 1468,1127 1512,1127 1557,1127 1602,1130 1647,1127 1691,1130 1736,1130 1781,1130 1805,1133"/>
+				<TextEquiv>
+					<Unicode>dinalen Vnnd fürbaß das ſelb leben Eſopi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="308,1208 1794,1208 1794,1146 1634,1132 308,1143"/>
+				<Baseline points="319,1193 322,1193 367,1190 411,1190 456,1190 501,1190 546,1187 590,1190 635,1190 680,1190 725,1190 769,1190 814,1190 859,1190 904,1190 948,1187 993,1187 1038,1187 1083,1187 1127,1190 1172,1190 1217,1190 1262,1190 1306,1190 1351,1190 1396,1190 1441,1193 1486,1193 1530,1193 1575,1193 1620,1196 1665,1196 1709,1196 1754,1196 1799,1190"/>
+				<TextEquiv>
+					<Unicode>mit ſeinen fabeln die ettwo Romulus von athenis ſeinē ſu¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="312,1282 1794,1273 1794,1219 1718,1202 312,1222"/>
+				<Baseline points="322,1259 367,1256 411,1253 456,1256 501,1253 546,1256 590,1256 635,1253 680,1256 725,1256 769,1253 814,1253 859,1256 904,1253 948,1253 993,1253 1038,1253 1083,1259 1127,1256 1172,1256 1217,1256 1262,1256 1306,1256 1351,1256 1396,1259 1441,1259 1486,1262 1530,1262 1575,1262 1620,1262 1665,1262 1709,1262 1754,1262 1796,1262"/>
+				<TextEquiv>
+					<Unicode>ne thÿberino auß kriechiſcher zūgen in latein gebracht hat</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="315,1345 1783,1334 1783,1269 315,1284"/>
+				<Baseline points="325,1330 355,1324 399,1321 444,1318 489,1318 534,1318 578,1318 623,1321 668,1321 713,1321 757,1318 802,1318 847,1318 892,1318 936,1318 981,1318 1026,1321 1071,1321 1116,1321 1160,1321 1205,1321 1250,1321 1295,1321 1339,1324 1384,1324 1429,1324 1474,1324 1518,1324 1563,1327 1608,1327 1653,1327 1697,1327 1742,1324 1787,1321"/>
+				<TextEquiv>
+					<Unicode>geſendet. vn̄ mer ettlich der fabeln Aniani. auch doligami.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="315,1414 1792,1421 1768,1334 315,1347"/>
+				<Baseline points="325,1384 370,1384 414,1384 459,1384 504,1384 549,1381 593,1381 638,1384 683,1384 728,1387 772,1387 817,1384 862,1387 907,1387 951,1387 996,1387 1041,1387 1086,1384 1130,1387 1175,1390 1220,1387 1265,1387 1309,1390 1354,1390 1399,1390 1444,1390 1489,1390 1533,1390 1578,1393 1623,1393 1668,1393 1712,1393 1757,1393 1796,1396"/>
+				<TextEquiv>
+					<Unicode>adelfonſÿ. vnnd ſchimpfreden poggij vnd anderer ÿegklich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="308,1464 1542,1488 1799,1477 1799,1423 306,1401"/>
+				<Baseline points="319,1453 364,1450 408,1453 453,1450 498,1450 543,1450 587,1450 632,1450 677,1450 722,1450 766,1450 811,1450 856,1450 901,1450 945,1453 990,1453 1035,1453 1080,1450 1124,1450 1169,1453 1214,1453 1259,1453 1304,1453 1348,1456 1393,1456 1438,1456 1483,1456 1527,1456 1572,1459 1617,1459 1662,1462 1706,1459 1751,1459 1796,1462 1802,1462"/>
+				<TextEquiv>
+					<Unicode>mit jrem titel obnen verczeÿchnet. auß lateyn von doctore</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="312,1540 1785,1540 1785,1493 1664,1469 312,1464"/>
+				<Baseline points="322,1515 367,1518 411,1518 456,1518 501,1515 546,1515 590,1515 635,1515 680,1518 725,1518 769,1518 814,1515 859,1515 904,1515 948,1518 993,1518 1038,1518 1083,1515 1127,1518 1172,1518 1217,1521 1262,1521 1306,1521 1351,1521 1396,1521 1441,1521 1486,1521 1530,1524 1575,1524 1620,1524 1665,1524 1709,1524 1754,1521 1787,1521"/>
+				<TextEquiv>
+					<Unicode>Heinrico ſteinhobel. ſchlecht vnd verſtentlich geteütſchet.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="308,1595 1790,1610 1790,1540 1744,1530 308,1542"/>
+				<Baseline points="319,1587 364,1584 408,1584 453,1581 498,1581 543,1581 587,1581 632,1584 677,1584 722,1584 766,1584 811,1584 856,1581 901,1584 945,1584 990,1584 1035,1584 1080,1584 1124,1584 1169,1584 1214,1584 1259,1584 1304,1587 1348,1587 1393,1587 1438,1590 1483,1590 1527,1590 1572,1590 1617,1590 1662,1590 1706,1590 1751,1593 1793,1599"/>
+				<TextEquiv>
+					<Unicode>nit wort auß wort. ſunder ſÿn auß ſin vmb mer erleüterūg</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="315,1666 1779,1673 1779,1618 1720,1599 315,1616"/>
+				<Baseline points="325,1650 370,1650 414,1650 459,1650 504,1650 549,1650 593,1653 638,1653 683,1653 728,1653 772,1653 817,1650 862,1650 907,1653 951,1650 996,1650 1041,1650 1086,1650 1130,1650 1175,1653 1220,1653 1265,1653 1309,1653 1354,1653 1399,1653 1444,1653 1489,1656 1533,1656 1578,1656 1623,1656 1668,1656 1712,1656 1757,1656 1784,1656"/>
+				<TextEquiv>
+					<Unicode>wegen des textes offt mit wenig zuͦgelegten oder abgebro¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="315,1720 1783,1736 1783,1682 1710,1668 315,1666"/>
+				<Baseline points="325,1715 370,1715 414,1715 459,1715 504,1715 549,1715 593,1718 638,1718 683,1718 728,1718 772,1718 817,1718 862,1715 907,1715 951,1715 996,1715 1041,1712 1086,1715 1130,1715 1175,1715 1220,1715 1265,1718 1309,1718 1354,1718 1399,1718 1444,1721 1489,1721 1533,1721 1578,1721 1623,1721 1668,1721 1712,1724 1757,1721 1787,1718"/>
+				<TextEquiv>
+					<Unicode>chen wortē geczogen. czuͦ lob vnd eer dem durchleüchtige¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="315,1805 1792,1797 1792,1733 668,1755 315,1720"/>
+				<Baseline points="325,1784 370,1781 414,1781 459,1781 504,1781 549,1781 593,1781 638,1784 683,1784 728,1784 772,1781 817,1784 862,1784 907,1781 951,1781 996,1781 1041,1781 1086,1781 1130,1781 1175,1781 1220,1784 1265,1784 1309,1784 1354,1784 1399,1787 1444,1784 1489,1787 1533,1787 1578,1787 1623,1787 1668,1787 1712,1787 1757,1787 1796,1787"/>
+				<TextEquiv>
+					<Unicode>ſten fürſten herren herren Sigmunden herczogen zuͦ oͤſterei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="317,1866 1792,1868 1775,1794 317,1818"/>
+				<Baseline points="328,1847 373,1847 417,1847 462,1847 507,1847 552,1847 596,1850 641,1850 686,1850 731,1850 775,1850 820,1847 865,1850 910,1847 954,1847 999,1847 1044,1844 1089,1847 1133,1844 1178,1847 1223,1850 1268,1850 1312,1853 1357,1850 1402,1850 1447,1850 1492,1850 1536,1853 1581,1853 1626,1853 1671,1850 1715,1853 1760,1850 1796,1850"/>
+				<TextEquiv>
+					<Unicode>che ettlich ergeczlicheyt darauß zuͦ empfahen. die auch nü¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="315,1940 1785,1944 1785,1861 315,1868"/>
+				<Baseline points="325,1915 370,1915 414,1912 459,1912 504,1912 549,1912 593,1912 638,1912 683,1915 728,1915 772,1915 817,1915 862,1915 907,1912 951,1912 996,1912 1041,1912 1086,1912 1130,1912 1175,1912 1220,1915 1265,1915 1309,1915 1354,1915 1399,1918 1444,1915 1489,1915 1533,1915 1578,1918 1623,1918 1668,1918 1712,1918 1757,1915 1790,1918"/>
+				<TextEquiv>
+					<Unicode>czlich iſt. wo ſÿ verſtaͤntlichē werdent geleſen. nach der le¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="315,1985 1794,1994 1794,1944 1727,1922 315,1942"/>
+				<Baseline points="325,1978 370,1981 414,1978 459,1978 504,1981 549,1981 593,1981 638,1981 683,1981 728,1981 772,1981 817,1981 862,1981 907,1981 951,1978 996,1978 1041,1978 1086,1978 1130,1978 1175,1978 1220,1981 1265,1981 1309,1981 1354,1981 1399,1981 1444,1984 1489,1984 1533,1984 1578,1984 1623,1984 1668,1984 1712,1984 1757,1981 1799,1987"/>
+				<TextEquiv>
+					<Unicode>re ſancti Baſilij das der lerer diß buͤchleins verſtaͤntnuß ha</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="308,2059 1794,2059 1794,2009 1569,1989 827,2015 308,1981"/>
+				<Baseline points="319,2044 364,2044 408,2044 453,2044 498,2047 543,2047 587,2047 632,2047 677,2050 722,2047 766,2050 811,2047 856,2047 901,2047 945,2047 990,2044 1035,2044 1080,2044 1124,2044 1169,2044 1214,2044 1259,2047 1304,2047 1348,2047 1393,2050 1438,2050 1483,2050 1527,2047 1572,2050 1617,2050 1662,2050 1706,2050 1751,2050 1796,2052 1799,2052"/>
+				<TextEquiv>
+					<Unicode>be. der pynen gegen den bluͦmen. die der auſſeren farben nit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="317,2126 1794,2139 1792,2059 317,2070"/>
+				<Baseline points="328,2109 373,2109 417,2109 462,2109 507,2112 552,2112 596,2109 641,2109 686,2112 731,2112 775,2112 820,2112 865,2112 910,2112 954,2109 999,2109 1044,2109 1089,2109 1133,2112 1178,2112 1223,2112 1268,2112 1312,2112 1357,2115 1402,2115 1447,2115 1492,2115 1536,2115 1581,2115 1626,2115 1671,2112 1715,2115 1760,2115 1799,2115"/>
+				<TextEquiv>
+					<Unicode>acht habent. ſunder ſuͦchent ſÿ die ſuͤſſigkeit des hoͤnigs. vn̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="315,2200 1792,2198 1792,2154 1707,2124 315,2128"/>
+				<Baseline points="325,2175 370,2175 414,2178 459,2178 504,2178 549,2175 593,2178 638,2178 683,2178 728,2178 772,2178 817,2178 862,2178 907,2178 951,2178 996,2178 1041,2175 1086,2175 1130,2175 1175,2178 1220,2178 1265,2178 1309,2178 1354,2178 1399,2181 1444,2181 1489,2181 1533,2181 1578,2181 1623,2181 1668,2181 1712,2184 1757,2181 1796,2181"/>
+				<TextEquiv>
+					<Unicode>den nucz des wachß czuͦ jrem bawe das nement ſÿ hyndan.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="325,2256 1794,2261 1794,2209 1554,2187 325,2206"/>
+				<Baseline points="334,2240 378,2240 423,2243 468,2243 513,2243 558,2243 602,2243 647,2243 692,2243 737,2243 781,2243 826,2243 871,2243 916,2246 960,2243 1005,2243 1050,2240 1095,2240 1139,2243 1184,2243 1229,2243 1274,2243 1318,2243 1363,2246 1408,2246 1453,2246 1497,2246 1542,2246 1587,2246 1632,2246 1677,2246 1721,2246 1766,2246 1799,2249"/>
+				<TextEquiv>
+					<Unicode>vn̄ laſſent das überig teÿl der bluͦmen vngeleczet. Alſo wer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="321,2315 1797,2330 1797,2259 1746,2256 321,2254"/>
+				<Baseline points="331,2306 375,2306 420,2309 465,2309 510,2309 555,2309 599,2312 644,2312 689,2309 734,2309 778,2309 823,2309 868,2309 913,2309 957,2309 1002,2309 1047,2309 1092,2306 1136,2309 1181,2309 1226,2312 1271,2309 1315,2309 1360,2312 1405,2312 1450,2312 1494,2312 1539,2312 1584,2312 1629,2312 1674,2312 1718,2315 1763,2315 1802,2318"/>
+				<TextEquiv>
+					<Unicode>daz buͤchlein leſen will. der ſol die farb der bluͦmē. das iſt die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="317,2395 1794,2387 1794,2328 1744,2326 317,2335"/>
+				<Baseline points="328,2372 373,2372 417,2375 462,2372 507,2375 552,2375 596,2375 641,2375 686,2378 731,2378 775,2375 820,2375 865,2378 910,2378 954,2375 999,2375 1044,2375 1089,2375 1133,2375 1178,2375 1223,2375 1268,2378 1312,2378 1357,2378 1402,2378 1447,2378 1492,2378 1536,2378 1581,2378 1626,2381 1671,2378 1715,2378 1760,2378 1799,2381"/>
+				<TextEquiv>
+					<Unicode>maͤrlach oder fabeln nit groß achten. ſunder die guͦtten lere</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="321,2450 1788,2475 1788,2389 321,2391"/>
+				<Baseline points="331,2440 375,2440 420,2440 465,2440 510,2440 555,2443 599,2443 644,2443 689,2440 734,2440 778,2440 823,2440 868,2443 913,2443 957,2440 1002,2440 1047,2440 1092,2440 1136,2440 1181,2440 1226,2443 1271,2443 1315,2446 1360,2446 1405,2443 1450,2443 1494,2443 1539,2446 1584,2446 1629,2446 1674,2443 1718,2446 1763,2443 1793,2443"/>
+				<TextEquiv>
+					<Unicode>darjn̄ begriffen. zuͦ guͦtten ſitten vnd tugenden zuͦlernen. vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="321,2519 1803,2525 1788,2467 321,2450"/>
+				<Baseline points="331,2506 375,2506 420,2506 465,2506 510,2506 555,2506 599,2506 644,2509 689,2506 734,2509 778,2509 823,2509 868,2506 913,2509 957,2509 1002,2506 1047,2506 1092,2509 1136,2509 1181,2509 1226,2509 1271,2509 1315,2509 1360,2509 1405,2509 1450,2509 1494,2512 1539,2515 1584,2515 1629,2515 1674,2515 1718,2515 1763,2512 1808,2515"/>
+				<TextEquiv>
+					<Unicode>boͤſe ding zuͦ ſcheÿhen lernent auſſaugen vnd anſich nemen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="315,2588 1788,2599 1788,2530 1746,2521 315,2532"/>
+				<Baseline points="325,2572 370,2572 414,2572 459,2572 504,2572 549,2575 593,2575 638,2575 683,2575 728,2578 772,2575 817,2575 862,2572 907,2575 951,2575 996,2575 1041,2572 1086,2575 1130,2572 1175,2575 1220,2575 1265,2578 1309,2575 1354,2578 1399,2578 1444,2578 1489,2578 1533,2578 1578,2578 1623,2581 1668,2581 1712,2581 1757,2581 1793,2572"/>
+				<TextEquiv>
+					<Unicode>czuͦ narūg vnd ſpeiß des gemuͤtes vn̄ des leÿbes. wan̄ woͤl¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="317,2669 1799,2679 1799,2614 1738,2591 317,2588"/>
+				<Baseline points="328,2640 373,2637 417,2640 462,2637 507,2637 552,2640 596,2640 641,2640 686,2640 731,2640 775,2637 820,2637 865,2637 910,2637 954,2640 999,2637 1044,2637 1089,2640 1133,2640 1178,2640 1223,2640 1268,2643 1312,2643 1357,2643 1402,2643 1447,2646 1492,2646 1536,2646 1581,2646 1626,2649 1671,2649 1715,2649 1760,2649 1802,2652"/>
+				<TextEquiv>
+					<Unicode>che das nit thuͤnd. ſunder diß buͤchlin allein von der merlin</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="315,2712 1794,2736 1764,2660 315,2667"/>
+				<Baseline points="325,2703 370,2703 414,2703 459,2706 504,2706 549,2706 593,2706 638,2706 683,2706 728,2706 772,2706 817,2706 862,2703 907,2706 951,2706 996,2706 1041,2706 1086,2709 1130,2706 1175,2706 1220,2706 1265,2709 1309,2709 1354,2712 1399,2712 1444,2712 1489,2712 1533,2712 1578,2715 1623,2715 1668,2715 1712,2715 1757,2715 1799,2715"/>
+				<TextEquiv>
+					<Unicode>wegen leſen woͤllent. die bringent nit mer daruon denn der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_33" custom="readingOrder {index:32;}">
+				<Coords points="317,2784 1794,2795 1794,2738 1707,2723 853,2714 801,2749 736,2714 317,2716"/>
+				<Baseline points="328,2769 373,2769 417,2769 462,2772 507,2772 552,2772 596,2772 641,2772 686,2772 731,2772 775,2772 820,2772 865,2772 910,2772 954,2772 999,2769 1044,2772 1089,2772 1133,2772 1178,2772 1223,2775 1268,2775 1312,2775 1357,2778 1402,2778 1447,2778 1492,2778 1536,2778 1581,2781 1626,2781 1671,2781 1715,2781 1760,2781 1799,2781"/>
+				<TextEquiv>
+					<Unicode>han von dem edlen geſtein. der lieber ein gerſten kernlni het</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_34" custom="readingOrder {index:33;}">
+				<Coords points="321,2855 1794,2857 1794,2805 1547,2786 321,2788"/>
+				<Baseline points="331,2837 375,2834 420,2834 465,2837 510,2837 555,2837 599,2837 644,2837 689,2837 734,2837 778,2834 823,2837 868,2837 913,2837 957,2837 1002,2837 1047,2837 1092,2834 1136,2840 1181,2840 1226,2840 1271,2840 1315,2840 1360,2840 1405,2843 1450,2843 1494,2843 1539,2846 1584,2846 1629,2846 1674,2849 1718,2849 1763,2846 1799,2843"/>
+				<TextEquiv>
+					<Unicode>als die erſt fabel Eſopi lernet. Hÿe wirt auch allein die ge¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_35" custom="readingOrder {index:34;}">
+				<Coords points="315,2940 1794,2938 1794,2857 315,2857"/>
+				<Baseline points="325,2903 370,2903 414,2906 459,2906 504,2906 549,2906 593,2906 638,2909 683,2906 728,2906 772,2906 817,2906 862,2903 907,2906 951,2906 996,2906 1041,2906 1086,2906 1130,2906 1175,2906 1220,2906 1265,2906 1309,2912 1354,2909 1399,2912 1444,2912 1489,2912 1533,2915 1578,2915 1623,2915 1668,2912 1712,2915 1757,2915 1799,2918"/>
+				<TextEquiv>
+					<Unicode>meÿn außlegūg nach dem teütſch vngereÿmet geſeczt. nit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998521869_5948_tl_36" custom="readingOrder {index:35;}">
+				<Coords points="1564,3009 1629,3000 1638,3009 1658,3007 1686,3024 1710,3020 1714,2922 1694,2918 1681,2929 1664,2925 1653,2935 1638,2933 1619,2942 1606,2933 1599,2940 1588,2933 1566,2938"/>
+				<Baseline points="1575,2978 1581,2981 1626,2981 1671,2981 1715,2975"/>
+				<TextEquiv>
+					<Unicode>.a. ij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Hye vahet an ꝺie voꝛreꝺe in ꝺas buch
+ꝺes hochberemten fabeltichters Eſopi
+As leben ꝺes hochberuͤmtten fabeltichters
+Eſopi auß kriechiſcher czungen in lateÿn
+ꝺurch Remicum gemachet. An ꝺen hoch¬
+würꝺigen vatter herꝛen Anthonium ꝺes
+Titels ſancti Chꝛiſogoni pꝛieſtern. Car
+ꝺinalen Vnnꝺ fürbaß ꝺas ſelb leben Eſopi
+mit ſeinen fabeln ꝺie ettwo Romulus von athenis ſeinē ſu¬
+ne thÿberino auß kriechiſcher zūgen in latein gebꝛacht hat
+geſenꝺet. vn̄ mer ettlich ꝺer fabeln Aniani. auch ꝺoligami.
+aꝺelfonſÿ. vnnꝺ ſchimpfreꝺen poggij vnꝺ anꝺerer ÿegklich
+mit jrem titel obnen verczeÿchnet. auß lateyn von ꝺoctoꝛe
+Heinrico ſteinhobel. ſchlecht vnꝺ verſtentlich geteütſchet.
+nit woꝛt auß woꝛt. ſunꝺer ſÿn auß ſin vmb mer erleüterūg
+wegen ꝺes textes offt mit wenig zuͦgelegten oꝺer abgebꝛo¬
+chen woꝛtē geczogen. czuͦ lob vnꝺ eer ꝺem ꝺurchleüchtige¬
+ſten fürſten herꝛen herꝛen Sigmunꝺen herczogen zuͦ oͤſterei
+che ettlich ergeczlicheyt ꝺarauß zuͦ empfahen. ꝺie auch nü¬
+czlich iſt. wo ſÿ verſtaͤntlichē werꝺent geleſen. nach ꝺer le¬
+re ſancti Baſilij ꝺas ꝺer lerer ꝺiß buͤchleins verſtaͤntnuß ha
+be. ꝺer pynen gegen ꝺen bluͦmen. ꝺie ꝺer auſſeren farben nit
+acht habent. ſunꝺer ſuͦchent ſÿ ꝺie ſuͤſſigkeit ꝺes hoͤnigs. vn̄
+ꝺen nucz ꝺes wachß czuͦ jrem bawe ꝺas nement ſÿ hynꝺan.
+vn̄ laſſent ꝺas überig teÿl ꝺer bluͦmen vngeleczet. Alſo wer
+ꝺaz buͤchlein leſen will. ꝺer ſol ꝺie farb ꝺer bluͦmē. ꝺas iſt ꝺie
+maͤrlach oꝺer fabeln nit groß achten. ſunꝺer ꝺie guͦtten lere
+ꝺarjn̄ begriffen. zuͦ guͦtten ſitten vnꝺ tugenꝺen zuͦlernen. vnꝺ
+boͤſe ꝺing zuͦ ſcheÿhen lernent auſſaugen vnꝺ anſich nemen
+czuͦ narūg vnꝺ ſpeiß ꝺes gemuͤtes vn̄ ꝺes leÿbes. wan̄ woͤl¬
+che ꝺas nit thuͤnꝺ. ſunꝺer ꝺiß buͤchlin allein von ꝺer merlin
+wegen leſen woͤllent. ꝺie bꝛingent nit mer ꝺaruon ꝺenn ꝺer
+han von ꝺem eꝺlen geſtein. ꝺer lieber ein gerſten kernlni het
+als ꝺie erſt fabel Eſopi lernet. Hÿe wirt auch allein ꝺie ge¬
+meÿn außlegūg nach ꝺem teütſch vngereÿmet geſeczt. nit
+.a. ij.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

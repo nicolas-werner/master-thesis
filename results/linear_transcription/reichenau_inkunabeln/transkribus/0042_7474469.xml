@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:04.479+01:00</Created>
+        <LastChange>2025-03-21T17:29:01.601+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0042_7474469.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697948" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="939,536 939,2204 1992,2204 1992,536"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="941,599 1985,575 1986,491 1319,544 943,512"/>
+                <Baseline points="948,584 1000,582 1052,581 1104,578 1156,578 1208,578 1260,576 1312,575 1364,572 1416,572 1468,571 1520,569 1572,569 1624,566 1676,566 1728,566 1780,565 1832,563 1884,561 1936,560 1989,566"/>
+                <TextEquiv>
+                    <Unicode>syner inget. So spracher frowe vn̄ muͤter ich han mich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="943,650 1742,645 1989,619 1990,581 943,608"/>
+                <Baseline points="951,638 1003,632 1055,632 1107,629 1159,628 1211,626 1263,626 1315,623 1367,623 1419,623 1471,623 1523,621 1575,620 1627,620 1679,617 1731,617 1783,616 1835,614 1887,612 1939,611 1992,614"/>
+                <TextEquiv>
+                    <Unicode>gantz ergeßen/ got der volbringe vn̄ tüge synen willen mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="943,692 1933,681 1977,677 1979,624 943,650"/>
+                <Baseline points="951,686 1002,683 1053,682 1105,680 1156,678 1208,677 1259,677 1311,674 1362,675 1414,676 1465,674 1516,674 1568,672 1619,671 1671,671 1722,670 1774,667 1825,665 1877,665 1928,662 1980,662"/>
+                <TextEquiv>
+                    <Unicode>mir. Vn̄ do die frow syne willen vnden grossen ernst er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="943,750 1981,723 1980,675 1897,669 945,698"/>
+                <Baseline points="951,736 1002,733 1054,732 1105,730 1157,730 1209,728 1260,727 1312,724 1363,724 1415,724 1467,724 1518,724 1570,724 1621,721 1673,721 1725,721 1776,721 1828,719 1879,716 1931,715 1983,712"/>
+                <TextEquiv>
+                    <Unicode>sach das er sich got ergeben hette / vnd so veste vnd stette</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="941,788 1982,775 1982,727 1922,716 942,750"/>
+                <Baseline points="948,784 999,784 1051,784 1103,781 1155,780 1207,778 1259,778 1311,778 1363,775 1415,775 1467,775 1518,775 1570,775 1622,775 1674,775 1726,775 1778,775 1830,773 1882,770 1934,764 1986,766"/>
+                <TextEquiv>
+                    <Unicode>was in synen guͤten willen. So furt sy in von dem See</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="935,855 1592,829 1868,859 1989,847 1990,775 935,797"/>
+                <Baseline points="942,838 994,838 1047,835 1099,835 1152,832 1204,831 1257,829 1309,829 1362,829 1414,829 1467,828 1519,827 1572,829 1624,829 1677,829 1729,829 1782,831 1834,829 1887,827 1939,821 1992,817"/>
+                <TextEquiv>
+                    <Unicode>hin vff in den wald nit fer von dem dorff/ vn macht im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1745,1345 1751,1349 1770,1349 1779,1345 1783,1349 1796,1345 1805,1348 1829,1290 1806,1287 1783,1294 1767,1290"/>
+                <Baseline points="1752,1349 1786,1336 1820,1321"/>
+                <TextEquiv>
+                    <Unicode>Imeld</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1793,1695 1901,1688 1905,1605 1883,1607 1871,1617 1864,1612 1845,1615 1837,1607 1827,1607 1810,1617 1797,1613"/>
+                <Baseline points="1803,1656 1828,1652 1854,1649 1879,1651 1905,1649"/>
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="931,2074 1592,2109 1971,2086 1969,2014 1712,2013 1578,2055 1341,2009 930,2019"/>
+                <Baseline points="939,2070 990,2067 1042,2072 1094,2077 1146,2078 1197,2080 1249,2081 1301,2081 1353,2081 1404,2081 1456,2083 1508,2084 1560,2084 1611,2084 1663,2084 1715,2084 1767,2084 1818,2082 1870,2081 1922,2078 1974,2076"/>
+                <TextEquiv>
+                    <Unicode>da vff die Hoffstat ein zelle / dem man noch spricht Saͤn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="943,2135 1982,2141 1982,2082 1700,2113 943,2094"/>
+                <Baseline points="951,2126 1002,2126 1054,2126 1106,2127 1158,2131 1209,2132 1261,2132 1313,2135 1365,2137 1416,2135 1468,2135 1520,2135 1572,2135 1623,2135 1675,2135 1727,2135 1779,2135 1830,2133 1882,2130 1934,2129 1986,2132"/>
+                <TextEquiv>
+                    <Unicode>Weynrads hofstat. Dar in was er ein gantzes ior das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="938,2187 1001,2223 1138,2195 1453,2229 1529,2195 1784,2231 1981,2190 1948,2136 1701,2164 938,2134"/>
+                <Baseline points="945,2180 996,2180 1048,2180 1100,2181 1152,2185 1204,2188 1256,2189 1308,2189 1360,2189 1412,2190 1464,2190 1515,2189 1567,2192 1619,2192 1671,2192 1723,2192 1775,2190 1827,2187 1879,2186 1931,2183 1983,2180"/>
+                <TextEquiv>
+                    <Unicode>in die frow spißte, vnd im gab all syn notdurft/ da mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

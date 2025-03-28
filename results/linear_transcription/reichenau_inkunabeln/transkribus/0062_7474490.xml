@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:06.603+01:00</Created>
+        <LastChange>2025-03-21T17:29:04.065+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0062_7474490.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698478" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="119,440 119,976 1157,976 1157,440"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="118,466 1156,486 1154,413 1039,442 686,396 442,434 116,400"/>
+                <Baseline points="125,465 176,465 228,465 279,465 331,465 383,465 434,465 486,465 537,465 589,465 641,467 692,468 744,471 795,471 847,471 899,472 950,474 1002,474 1053,476 1105,477 1157,477"/>
+                <TextEquiv>
+                    <Unicode>das Hertz / die kungen vnd lebren / vnd was in im was /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="118,527 1151,540 1149,486 116,480"/>
+                <Baseline points="125,519 176,516 227,516 279,516 330,516 382,516 433,519 485,519 536,517 588,519 639,520 690,521 742,521 793,524 845,524 896,524 948,525 999,527 1051,529 1102,530 1154,530"/>
+                <TextEquiv>
+                    <Unicode>vnd maͤ es Ho begrůb do yetz sant Weynratz cappest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="127,582 975,602 1141,586 1141,540 125,533"/>
+                <Baseline points="134,572 184,569 235,569 285,569 336,569 386,569 437,569 487,572 538,569 588,572 639,572 690,573 740,575 791,575 841,575 892,578 942,578 993,580 1043,579 1094,581 1145,581"/>
+                <TextEquiv>
+                    <Unicode>stat/ dar nachließ er sich vff heben / vnd abstette vnd von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="121,628 1127,653 1148,581 120,577"/>
+                <Baseline points="128,620 179,620 230,620 281,620 332,620 383,620 434,623 486,623 537,623 588,623 639,624 690,626 741,626 792,629 844,629 895,629 946,632 997,632 1048,634 1099,635 1151,635"/>
+                <TextEquiv>
+                    <Unicode>dannen tragen vntz in die richnaw/ do ward er erlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="118,679 1136,700 1136,652 116,630"/>
+                <Baseline points="125,671 175,671 226,671 277,671 327,673 378,674 429,674 479,674 530,674 581,677 632,677 682,678 733,680 784,680 834,680 885,680 936,683 986,686 1037,686 1088,686 1139,686"/>
+                <TextEquiv>
+                    <Unicode>bestattet / vnd lag do hundert ioree das er ward erha /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="112,731 1132,766 1145,697 111,680"/>
+                <Baseline points="119,721 170,721 221,722 273,724 324,724 376,724 427,724 479,727 530,728 582,730 633,730 684,732 736,733 787,733 839,733 890,736 942,736 993,738 1045,739 1096,742 1148,742"/>
+                <TextEquiv>
+                    <Unicode>ben / vnnd Harnach stund sant Meynrats zelle sechtzig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="115,790 629,788 795,823 864,803 855,741 115,732"/>
+                <Baseline points="122,778 159,778 196,776 233,776 270,778 307,778 344,778 382,780 419,781 456,781 493,781 530,781 567,781 604,783 642,784 679,785 716,786 753,784 790,787 827,787 865,787"/>
+                <TextEquiv>
+                    <Unicode>ior / das nie menschlich wonung do was /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="271,976 280,974 291,959 318,966 323,961 342,961 329,882 316,881 311,887 294,877 289,885 281,882 280,885 256,886"/>
+                <Baseline points="274,948 310,955 346,960"/>
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

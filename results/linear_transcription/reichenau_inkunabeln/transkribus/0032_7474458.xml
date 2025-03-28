@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:03.399+01:00</Created>
+        <LastChange>2025-03-21T17:29:00.335+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0032_7474458.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817697615" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="149,463 149,1501 1211,1501 1211,463"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="142,492 1193,510 1193,431 142,433"/>
+                <Baseline points="149,486 201,488 253,486 306,486 358,486 410,486 463,486 515,487 567,488 620,486 672,488 724,489 777,489 829,489 881,489 934,489 986,489 1038,492 1091,492 1143,492 1196,492"/>
+                <TextEquiv>
+                    <Unicode>C Sarumb in dise in sel wart das genant kint von sy /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="145,543 1200,549 1200,506 1099,492 145,504"/>
+                <Baseline points="152,542 204,539 257,538 309,536 362,536 414,539 467,536 519,539 572,538 624,538 677,539 729,542 782,542 834,542 887,542 939,542 992,544 1044,542 1097,539 1149,540 1202,542"/>
+                <TextEquiv>
+                    <Unicode>nem vatter gefurt vnd geben in pfleg eins geistliche Er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="147,607 1196,598 1196,559 1050,545 147,545"/>
+                <Baseline points="155,593 207,590 259,589 311,587 363,589 416,593 468,593 520,590 572,591 624,592 677,590 729,593 781,593 833,593 885,593 938,593 990,593 1042,596 1094,593 1146,593 1199,596"/>
+                <TextEquiv>
+                    <Unicode>samen mynchs genant Erlebaldus, der ouch dem ge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="142,656 1205,658 1205,609 1169,605 142,607"/>
+                <Baseline points="149,644 204,643 260,641 316,643 371,644 427,644 483,644 539,644 594,644 650,646 706,644 762,646 817,644 873,644 929,644 985,646 1040,647 1096,647 1152,647 1208,644"/>
+                <TextEquiv>
+                    <Unicode>melten Grauen sippschaffthals des blütes verwandt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="145,698 1208,703 1207,652 144,663"/>
+                <Baseline points="152,697 207,694 263,694 319,694 374,694 430,694 486,694 542,694 597,694 653,694 709,695 765,697 820,694 876,694 932,695 988,697 1043,697 1099,697 1155,697 1211,697"/>
+                <TextEquiv>
+                    <Unicode>was. Noch dem Her selb das kindt guͤter geschicklicheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="147,763 1203,756 1185,703 147,704"/>
+                <Baseline points="155,748 207,747 260,745 312,745 365,745 417,745 470,745 522,745 575,745 627,745 680,745 732,748 785,748 837,745 890,746 942,748 995,748 1047,748 1100,748 1152,748 1205,748"/>
+                <TextEquiv>
+                    <Unicode>sach/ nam er es guͤtwillig vff zu ziehen vnd leret es mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="154,813 1199,812 1199,769 1115,752 154,763"/>
+                <Baseline points="161,802 213,796 265,796 317,799 369,799 421,797 473,798 525,799 577,796 629,798 681,797 733,799 785,799 837,799 889,796 941,797 993,799 1045,800 1097,800 1149,799 1202,799"/>
+                <TextEquiv>
+                    <Unicode>fliß / brochter es durchler do Hyn, das es die kunst der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="157,856 1205,869 1205,808 1157,801 157,812"/>
+                <Baseline points="164,853 216,849 268,848 320,850 372,852 425,853 477,853 529,850 581,850 633,850 686,852 738,853 790,850 842,853 894,852 947,852 999,853 1051,853 1103,853 1155,853 1208,853"/>
+                <TextEquiv>
+                    <Unicode>heiligen geschrifft gantz in sich fasset. Sann auch das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="142,916 1208,912 1183,857 142,865"/>
+                <Baseline points="149,900 202,900 255,900 308,902 361,903 414,903 467,900 520,903 573,903 626,903 680,903 733,903 786,903 839,903 892,903 945,903 998,903 1051,903 1104,903 1157,903 1211,906"/>
+                <TextEquiv>
+                    <Unicode>kint von syner iugent vff schimpf vn lichtferikeit / do mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="145,966 1207,969 1207,914 1127,902 1082,930 145,912"/>
+                <Baseline points="152,954 204,951 257,951 310,953 363,954 416,954 468,954 521,951 574,951 627,953 680,954 732,954 785,954 838,954 891,954 944,954 996,954 1049,954 1102,956 1155,954 1208,954"/>
+                <TextEquiv>
+                    <Unicode>dande die Lintheit vmbgat sloch/ vnd syn gemyet alleyn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="150,1020 1208,1027 1208,973 1149,962 150,963"/>
+                <Baseline points="158,1005 210,1005 263,1005 315,1007 368,1006 421,1005 473,1005 526,1005 579,1005 631,1005 684,1007 737,1005 789,1008 842,1008 895,1008 947,1008 1000,1008 1053,1008 1105,1008 1158,1008 1211,1011"/>
+                <TextEquiv>
+                    <Unicode>dar vf leit zu entpfohe die vnderwisung synes meysters.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="599,1273 611,1277 627,1274 647,1288 652,1290 655,1286 667,1298 680,1296 674,1189 594,1195"/>
+                <Baseline points="605,1252 630,1255 655,1256 681,1258"/>
+                <TextEquiv>
+                    <Unicode>be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="514,1318 528,1318 542,1325 549,1319 562,1319 570,1314 586,1325 599,1325 599,1270 587,1266 573,1269 550,1288 542,1285 529,1297 514,1293"/>
+                <Baseline points="521,1306 548,1306 575,1306 602,1306"/>
+                <TextEquiv>
+                    <Unicode>of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="263,1331 294,1331 336,1345 345,1337 371,1354 393,1342 411,1349 409,1293 375,1284 335,1248 299,1284 260,1282"/>
+                <Baseline points="271,1327 299,1331 328,1334 356,1336 385,1334 414,1333"/>
+                <TextEquiv>
+                    <Unicode>P.D.H.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="574,1484 587,1492 605,1486 609,1490 635,1475 679,1474 699,1386 655,1386 646,1371 628,1374 611,1385 606,1375 599,1374"/>
+                <Baseline points="581,1485 607,1477 633,1469 659,1465 685,1462"/>
+                <TextEquiv>
+                    <Unicode>0e</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

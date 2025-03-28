@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52817:lm=provided:date=18_06_2023_15:34</Creator>
+		<Created>2023-06-14T14:00:48.470+02:00</Created>
+		<LastChange>2023-12-20T15:45:44.690+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075050" pageNr="67" tsid="154460146" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=KTZNICBZMWMIFUCRJPSARINE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NKXYSSCGBIMAZKLVRGWAHAUK" imageId="45478103"/>
+	</Metadata>
+	<Page imageFilename="7474184.jpg" imageWidth="2148" imageHeight="2648">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356495530" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1687095189026_10912"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1687095189026_10912" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="228,375 1296,375 1296,710 228,710"/>
+			<TextLine id="region_1687095189026_10912_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="343,523 689,516 862,554 904,518 1228,515 1226,430 1123,413 341,413"/>
+				<Baseline points="349,492 394,501 438,501 483,501 528,501 573,501 617,501 662,504 707,504 752,507 797,507 841,507 886,507 931,507 976,507 1020,507 1065,507 1110,507 1155,510 1200,510 1229,507"/>
+				<TextEquiv>
+					<Unicode>Uon der neü gefunden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095189026_10912_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="250,586 1199,604 1205,546 248,535"/>
+				<Baseline points="256,576 301,579 346,576 391,576 435,576 480,576 525,579 570,579 614,579 659,582 704,582 749,582 794,582 838,585 883,585 928,585 973,585 1018,585 1062,585 1107,585 1152,588 1197,588 1209,588"/>
+				<TextEquiv>
+					<Unicode>Region ſo wol ein welt genempt mag werden/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095189026_10912_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="256,635 689,635 882,672 1052,641 1157,685 1219,678 1218,593 254,588"/>
+				<Baseline points="262,629 307,629 352,629 397,629 441,629 486,629 531,632 576,629 620,629 665,632 710,632 755,632 800,635 844,635 889,638 934,638 979,641 1023,638 1068,641 1113,644 1158,644 1203,647 1221,647"/>
+				<TextEquiv>
+					<Unicode>durch den Criſtēlichen künig/ von Portigal/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1687095189026_10912_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="252,685 310,708 388,686 542,707 612,690 714,720 826,695 824,648 805,644 252,644"/>
+				<Baseline points="259,680 304,683 349,680 394,680 438,683 483,683 528,683 573,683 617,686 662,686 707,686 752,689 797,692 829,695"/>
+				<TextEquiv>
+					<Unicode>wunderbarlich erfunden/</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

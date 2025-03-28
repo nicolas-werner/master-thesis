@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:37</Creator>
+		<Created>2023-06-07T09:11:13.967+02:00</Created>
+		<LastChange>2023-12-20T15:42:28.015+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075021" pageNr="46" tsid="154460103" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=FAFKJURFSMYHIZGRXLGRPSPV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KJJHWWZXROWWANHQAIVENPHG" imageId="45286916"/>
+	</Metadata>
+	<Page imageFilename="7474504.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356449346" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573632303_377"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573632303_377" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="104,396 1258,396 1258,2107 104,2107"/>
+			<TextLine id="region_1686573632303_377_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="160,478 1148,489 1181,484 1180,412 159,408"/>
+				<Baseline points="167,456 211,456 256,456 301,456 346,456 390,456 435,456 480,456 524,459 569,459 614,459 659,459 703,459 748,462 793,462 838,462 882,465 927,465 972,465 1017,468 1061,468 1106,471 1151,468 1184,474"/>
+				<TextEquiv>
+					<Unicode>ſo denen die ſolche cappell vnd kilchen heymſuͦchēt/ ver</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="148,521 1078,544 1175,537 1173,487 146,474"/>
+				<Baseline points="155,513 199,510 244,510 289,510 334,507 378,507 423,510 468,510 513,510 557,510 602,513 647,513 692,513 736,513 781,513 826,516 870,516 915,516 960,519 1005,519 1049,521 1094,524 1139,521 1178,521"/>
+				<TextEquiv>
+					<Unicode>lühend vß babſtlicher krafft vnnd beriechtet gewiſſene</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="153,578 1175,594 1173,534 151,522"/>
+				<Baseline points="158,563 202,563 247,560 292,560 337,560 381,560 426,563 471,560 516,560 560,560 605,563 650,563 694,563 739,563 784,566 829,566 873,569 918,569 963,569 1008,569 1052,572 1097,572 1142,575 1178,581"/>
+				<TextEquiv>
+					<Unicode>confirmiert vn̄ beſtatiget vnd durch andere vnſer brief</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="155,635 1166,633 1164,585 1080,576 154,575"/>
+				<Baseline points="161,617 205,614 250,611 295,611 340,611 384,614 429,614 474,614 519,614 563,614 608,614 653,617 697,614 742,617 787,617 832,620 876,620 921,620 966,623 1011,623 1055,623 1100,623 1145,623 1169,626"/>
+				<TextEquiv>
+					<Unicode>gelich lutend indult oder fryheit zuͦ ewigen zytten we¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="148,682 1178,698 1155,630 148,638"/>
+				<Baseline points="155,665 199,665 244,665 289,665 334,665 378,665 423,665 468,665 513,665 557,665 602,665 647,665 692,668 736,668 781,668 826,668 870,671 915,671 960,671 1005,674 1049,674 1094,674 1139,677 1181,680"/>
+				<TextEquiv>
+					<Unicode>rende den ſelben abbt vnnd conuent vnnd iren nach</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="154,730 1175,743 1173,693 1094,683 153,677"/>
+				<Baseline points="161,718 205,715 250,715 295,715 340,715 384,718 429,718 474,718 519,715 563,715 608,718 653,718 697,721 742,718 787,721 832,721 876,721 921,721 966,724 1011,724 1055,727 1100,724 1145,727 1178,727"/>
+				<TextEquiv>
+					<Unicode>kummen gerücht haben zuͦ lyhen/ als dann ſoliches in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="148,787 1167,793 1155,734 148,727"/>
+				<Baseline points="155,772 199,769 244,766 289,766 334,769 378,769 423,769 468,769 513,766 557,766 602,769 647,772 692,772 736,772 781,772 826,772 870,772 915,775 960,775 1005,775 1049,778 1094,778 1139,778 1169,784"/>
+				<TextEquiv>
+					<Unicode>yetweders obgemelten briefen vol kumentlicher begrif¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="151,845 1017,861 1177,841 1177,791 150,793"/>
+				<Baseline points="158,820 202,820 247,820 292,820 337,820 381,823 426,823 471,820 516,820 560,820 605,820 650,823 694,823 739,823 784,826 829,823 873,826 918,826 963,826 1008,829 1052,829 1097,829 1142,829 1181,832"/>
+				<TextEquiv>
+					<Unicode>fen iſt/ Wir begerend das andacht/ der ſelben gloubigē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="151,882 1168,892 1152,831 1018,860 151,845"/>
+				<Baseline points="158,873 202,870 247,870 292,870 337,870 381,873 426,873 471,873 516,873 560,873 605,873 650,876 694,873 739,876 784,876 829,876 873,876 918,876 963,876 1008,876 1052,879 1097,879 1142,879 1172,879"/>
+				<TextEquiv>
+					<Unicode>vnd beſunder der bilgeren ſo zuͦ der cappellen oder kil¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="145,936 1175,950 1173,890 144,890"/>
+				<Baseline points="152,924 196,921 241,921 286,924 331,924 375,924 420,924 465,924 510,927 554,927 599,927 644,930 689,927 733,927 778,927 823,927 867,930 912,930 957,927 1002,930 1046,930 1091,933 1136,933 1178,936"/>
+				<TextEquiv>
+					<Unicode>chen zuͦ kerend/ empſiger vff wachs/ vnd das heyl der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="148,994 1175,1006 1175,950 146,938"/>
+				<Baseline points="155,978 199,972 244,975 289,975 334,978 378,978 423,978 468,978 513,978 557,978 602,981 647,978 692,981 736,981 781,981 826,981 870,981 915,981 960,981 1005,981 1049,981 1094,984 1139,984 1178,984"/>
+				<TextEquiv>
+					<Unicode>ſelen witter ſich erſtreck/ dynen begirden an dem ende</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="151,1051 1134,1057 1172,1051 1172,1005 150,996"/>
+				<Baseline points="158,1032 202,1026 247,1026 292,1026 337,1026 381,1029 426,1029 471,1029 516,1032 560,1032 605,1032 650,1032 694,1032 739,1032 784,1035 829,1035 873,1035 918,1035 963,1035 1008,1035 1052,1035 1097,1038 1142,1035 1175,1035"/>
+				<TextEquiv>
+					<Unicode>zuͦ willforend/ das du/ der als du ſprichſt vß graffen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="149,1098 1168,1100 1167,1057 1064,1046 148,1053"/>
+				<Baseline points="155,1079 199,1076 244,1076 289,1079 334,1079 378,1082 423,1082 468,1082 513,1082 557,1082 602,1082 647,1082 692,1085 736,1085 781,1085 826,1085 870,1085 915,1085 960,1085 1005,1085 1049,1088 1094,1085 1139,1085 1172,1082"/>
+				<TextEquiv>
+					<Unicode>vnd fryhen geſchlecht geboren biſt/ vnd dyn nach kumēd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="146,1143 1175,1161 1163,1096 145,1096"/>
+				<Baseline points="152,1127 196,1127 241,1127 286,1130 331,1130 375,1133 420,1133 465,1133 510,1136 554,1136 599,1136 644,1136 689,1136 733,1136 778,1136 823,1136 867,1139 912,1139 957,1139 1002,1139 1046,1139 1091,1139 1136,1139 1178,1145"/>
+				<TextEquiv>
+					<Unicode>abbt des ſelben cloſters/ des gelichen ouch teglich durch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="145,1196 1172,1205 1134,1146 145,1141"/>
+				<Baseline points="143,1184 196,1181 241,1181 286,1181 331,1184 375,1184 420,1184 465,1187 510,1187 554,1190 599,1187 644,1187 689,1187 733,1190 778,1190 823,1190 867,1190 912,1190 957,1190 1002,1190 1046,1190 1091,1190 1136,1193 1175,1196"/>
+				<TextEquiv>
+					<Unicode>üch geſetzte prieſter zuͦ zyten aller bilgeren ſo zuͦ ſolicher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="145,1244 1146,1268 1166,1214 144,1195"/>
+				<Baseline points="152,1231 196,1234 241,1231 286,1234 331,1234 375,1234 420,1237 465,1237 510,1240 554,1240 599,1240 644,1240 689,1240 733,1240 778,1240 823,1240 867,1240 912,1243 957,1243 1002,1243 1046,1243 1091,1243 1136,1243 1169,1246"/>
+				<TextEquiv>
+					<Unicode>cappell vnd kilchen vff des heyligen crütz tag erhoͤhūg</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="145,1293 1175,1313 1173,1261 1009,1250 145,1247"/>
+				<Baseline points="152,1282 196,1282 241,1285 286,1285 331,1285 375,1285 420,1288 465,1288 510,1291 554,1291 599,1291 644,1291 689,1291 733,1291 778,1291 823,1291 867,1294 912,1294 957,1294 1002,1294 1046,1294 1091,1294 1136,1294 1178,1297"/>
+				<TextEquiv>
+					<Unicode>vnnd viertzehen tag dar nach/ ſo die wyhung der genā</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="146,1345 1175,1372 1173,1321 1104,1306 145,1302"/>
+				<Baseline points="152,1336 196,1336 241,1336 286,1336 331,1339 375,1339 420,1339 465,1342 510,1342 554,1345 599,1342 644,1342 689,1342 733,1342 778,1345 823,1345 867,1345 912,1345 957,1345 1002,1345 1046,1345 1091,1345 1136,1345 1178,1345"/>
+				<TextEquiv>
+					<Unicode>ten Cappell der man ſpricht die Engelwiche von dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="148,1404 1157,1424 1167,1371 146,1345"/>
+				<Baseline points="155,1389 199,1384 244,1386 289,1386 334,1389 378,1392 423,1392 468,1392 513,1392 557,1392 602,1395 647,1395 692,1395 736,1395 781,1395 826,1395 870,1395 915,1395 960,1398 1005,1398 1049,1395 1094,1398 1139,1395 1169,1392"/>
+				<TextEquiv>
+					<Unicode>ſibenden iar zuͦ ſiben iaren allein gewoͤlich iſt zuͦ begon.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="142,1454 1172,1465 1172,1424 1114,1408 142,1408"/>
+				<Baseline points="149,1440 193,1437 238,1437 283,1440 328,1443 372,1443 417,1446 462,1446 507,1446 551,1446 596,1446 641,1449 686,1446 730,1446 775,1446 820,1446 865,1446 909,1449 954,1449 999,1449 1043,1449 1088,1449 1133,1449 1175,1452"/>
+				<TextEquiv>
+					<Unicode>zuͦ kumenden bycht hoͤren/ vnd inen von allen iren ſün</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="145,1510 1168,1515 1139,1462 145,1453"/>
+				<Baseline points="152,1491 196,1488 241,1488 286,1491 331,1494 375,1497 420,1497 465,1500 510,1500 554,1500 599,1500 644,1497 689,1497 733,1500 778,1497 823,1500 867,1500 912,1500 957,1500 1002,1500 1046,1500 1091,1500 1136,1500 1172,1503"/>
+				<TextEquiv>
+					<Unicode>den/ ouch in yeden ſtucken dem gemelten ſtuͦl zuͦ rome</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="142,1549 1168,1566 1150,1510 142,1510"/>
+				<Baseline points="149,1542 193,1539 238,1542 283,1545 328,1545 372,1548 417,1548 462,1551 507,1551 551,1551 596,1551 641,1551 686,1551 730,1551 775,1551 820,1551 865,1551 909,1551 954,1551 999,1551 1043,1551 1088,1551 1133,1551 1172,1551"/>
+				<TextEquiv>
+					<Unicode>vorbehalten/ vß genomen belydigung fryheit der kylch¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="142,1607 1172,1619 1159,1564 142,1558"/>
+				<Baseline points="149,1592 193,1592 238,1592 283,1595 328,1598 372,1598 417,1601 462,1601 507,1601 551,1604 596,1604 641,1604 686,1601 730,1601 775,1601 820,1601 865,1601 909,1604 954,1604 999,1604 1043,1604 1088,1604 1133,1604 1175,1604"/>
+				<TextEquiv>
+					<Unicode>en/ übertretter des interdicts von dem obgemeltē ſtuͦll</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="148,1660 1042,1683 1161,1666 1161,1623 146,1618"/>
+				<Baseline points="155,1643 199,1646 244,1643 289,1649 334,1649 378,1652 423,1652 468,1655 513,1655 557,1655 602,1655 647,1655 692,1655 736,1655 781,1655 826,1655 870,1655 915,1655 960,1655 1005,1655 1049,1655 1094,1655 1139,1655 1177,1658"/>
+				<TextEquiv>
+					<Unicode>vffgeleit/ ſünd der ketzery/ all beleydigung vngehorſa¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="139,1710 1159,1723 1159,1666 139,1662"/>
+				<Baseline points="146,1694 190,1694 235,1697 280,1697 325,1700 369,1703 414,1706 459,1706 504,1709 548,1709 593,1706 638,1706 683,1706 727,1709 772,1706 817,1706 862,1706 906,1706 951,1706 996,1706 1040,1706 1085,1706 1130,1706 1163,1712"/>
+				<TextEquiv>
+					<Unicode>me oder widerſatzung des roͤmiſchen biſchof oder beb/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="145,1769 1166,1777 1166,1734 1122,1722 145,1707"/>
+				<Baseline points="152,1750 196,1747 241,1747 286,1750 331,1753 375,1756 420,1756 465,1759 510,1759 554,1759 599,1759 644,1759 689,1759 733,1759 778,1759 823,1759 867,1759 912,1756 957,1759 1002,1759 1046,1759 1091,1759 1136,1759 1169,1762"/>
+				<TextEquiv>
+					<Unicode>ſtlichen ſtuͦls/ prieſter todſchlag/ perſoͤnlich beleydigung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="139,1817 1166,1822 1166,1778 1066,1765 139,1769"/>
+				<Baseline points="146,1798 190,1798 235,1798 280,1801 325,1807 369,1807 414,1807 459,1810 504,1810 548,1810 593,1813 638,1813 683,1810 727,1810 772,1810 817,1810 862,1813 906,1813 951,1810 996,1810 1040,1810 1085,1810 1130,1810 1169,1810"/>
+				<TextEquiv>
+					<Unicode>eins biſchoffs oder ander prelaten/ angriffer/ reüber od̓</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="145,1869 1164,1876 1164,1834 1072,1822 145,1820"/>
+				<Baseline points="152,1852 196,1849 241,1852 286,1855 331,1858 375,1861 420,1861 465,1864 510,1864 554,1864 599,1864 644,1864 689,1864 733,1864 778,1864 823,1864 867,1861 912,1861 957,1861 1002,1861 1046,1864 1091,1864 1136,1861 1166,1861"/>
+				<TextEquiv>
+					<Unicode>zerſtoͤrer der land ſo der roͤmſchē kilhen on mittels vn¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="145,1919 1168,1936 1168,1874 145,1869"/>
+				<Baseline points="152,1903 196,1903 241,1905 286,1908 331,1908 375,1911 420,1911 465,1914 510,1914 554,1917 599,1917 644,1917 689,1914 733,1914 778,1914 823,1914 867,1917 912,1917 957,1914 1002,1914 1046,1914 1091,1914 1136,1914 1172,1914"/>
+				<TextEquiv>
+					<Unicode>der worffen ſint/ von wegen der pen ſo vff dē hohē dorn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="145,1976 1172,1987 1172,1936 1067,1924 558,1947 145,1909"/>
+				<Baseline points="152,1959 196,1953 241,1959 286,1959 331,1962 375,1962 420,1965 465,1968 510,1968 554,1968 599,1968 644,1968 689,1968 733,1968 778,1968 823,1968 867,1968 912,1968 957,1965 1002,1968 1046,1968 1091,1968 1136,1965 1175,1971"/>
+				<TextEquiv>
+					<Unicode>ſtag vffgeleit werden vnd ouch die angriffen die ſo gon</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573632303_377_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="142,2032 901,2057 1152,2042 1172,1987 141,1978"/>
+				<Baseline points="149,2004 193,2007 238,2010 283,2016 328,2016 372,2019 417,2022 462,2025 507,2025 551,2028 596,2025 641,2025 686,2025 730,2025 775,2022 820,2025 865,2025 909,2025 954,2028 999,2025 1043,2025 1088,2022 1133,2022 1175,2025"/>
+				<TextEquiv>
+					<Unicode>rom ziehen oder all ander zuͦ dem roͤmiſchē hof kumēt</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

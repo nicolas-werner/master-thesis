@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:06.286+01:00</Created>
+        <LastChange>2025-03-21T17:29:03.662+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0059_7474487.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698401" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="927,429 927,878 1968,878 1968,429"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="920,474 1955,495 1964,417 918,395"/>
+                <Baseline points="927,453 979,456 1031,456 1083,456 1135,458 1187,459 1239,459 1291,459 1343,462 1395,462 1447,464 1499,465 1551,465 1603,465 1655,465 1707,465 1759,467 1811,468 1863,468 1915,468 1968,465"/>
+                <TextEquiv>
+                    <Unicode>zeren bestattet wart diser heylig hat gelitten vff den xx.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="923,513 1959,526 1959,482 1844,468 923,473"/>
+                <Baseline points="930,507 981,507 1033,510 1084,510 1136,510 1188,510 1239,510 1291,510 1342,511 1394,513 1446,515 1497,516 1549,516 1600,516 1652,516 1704,517 1755,519 1807,519 1858,519 1910,519 1962,521"/>
+                <TextEquiv>
+                    <Unicode>tag der ienners in dem ior von gottes geburt achthun¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="923,569 1964,587 1963,524 922,513"/>
+                <Baseline points="930,554 981,557 1033,558 1085,560 1137,560 1189,560 1241,560 1293,563 1345,563 1397,564 1449,566 1500,566 1552,566 1604,566 1656,569 1708,570 1760,572 1812,572 1864,572 1916,572 1968,575"/>
+                <TextEquiv>
+                    <Unicode>dert sechtzig vnd dry vnder kunig ludwig von franckrich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="926,628 966,617 1035,634 1080,616 1210,656 1329,629 1407,634 1405,573 1372,568 1304,581 1220,565 1086,581 925,569"/>
+                <Baseline points="933,611 958,611 983,611 1008,611 1033,611 1058,611 1083,612 1108,614 1133,614 1158,614 1184,614 1209,614 1234,614 1259,614 1284,614 1309,614 1334,614 1359,616 1384,617 1410,617"/>
+                <TextEquiv>
+                    <Unicode>im xxviij. io: syns richs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1073,774 1860,771 1861,714 1813,705 1757,731 1615,703 1075,701"/>
+                <Baseline points="1082,763 1121,760 1160,760 1199,762 1238,763 1277,762 1316,760 1355,760 1394,757 1433,760 1473,760 1512,760 1551,760 1590,760 1629,760 1668,760 1707,760 1746,760 1785,760 1824,760 1864,763"/>
+                <TextEquiv>
+                    <Unicode>Hier nach werden ir sehen wie man die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1078,828 1859,817 1859,775 1784,762 1078,774"/>
+                <Baseline points="1085,814 1123,811 1162,811 1201,813 1240,814 1279,814 1317,814 1356,814 1395,811 1434,811 1473,811 1511,813 1550,814 1589,814 1628,814 1667,814 1705,814 1744,814 1783,814 1822,814 1861,814"/>
+                <TextEquiv>
+                    <Unicode>zwen moͤrder Peter vnd Richart mit ꝺe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1075,879 1254,894 1313,879 1373,897 1481,870 1560,883 1592,875 1593,828 1351,814 1306,834 1193,813 1076,827"/>
+                <Baseline points="1082,865 1107,865 1133,865 1158,865 1184,867 1210,867 1235,867 1261,867 1287,867 1312,867 1338,867 1364,865 1389,865 1415,865 1441,863 1466,862 1492,862 1518,862 1543,862 1569,862 1595,862"/>
+                <TextEquiv>
+                    <Unicode>rederen zu eschen verbrent.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

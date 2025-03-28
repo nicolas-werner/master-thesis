@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:37</Creator>
+		<Created>2023-06-07T09:11:14.250+02:00</Created>
+		<LastChange>2023-12-20T15:42:28.428+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075023" pageNr="48" tsid="154460106" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=TWKVPVBASETBOHBQKLOMAYQZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MXSSKKTUUGKAUSEFMANOEZZL" imageId="45286925"/>
+	</Metadata>
+	<Page imageFilename="7474506.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356453649" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573646735_389"/>
+				<RegionRefIndexed index="1" regionRef="region_1686573650959_392"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573646735_389" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="81,429 1224,429 1224,618 81,618"/>
+			<TextLine id="region_1686573646735_389_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="132,534 1124,557 1157,553 1156,471 1006,462 918,507 131,484"/>
+				<Baseline points="137,527 181,527 226,524 271,524 316,524 360,527 405,527 450,527 495,527 539,530 584,527 629,530 674,530 718,530 763,530 808,533 853,536 897,536 942,536 987,536 1032,536 1076,539 1121,539 1160,542"/>
+				<TextEquiv>
+					<Unicode>¶ Nun wil ich hie nach ſagen wie die cappel zuͦ den ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573646735_389_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="133,607 1149,604 1148,553 1083,548 132,544"/>
+				<Baseline points="140,581 184,578 229,578 274,581 319,581 363,581 408,581 453,581 498,584 542,584 587,584 632,584 677,584 721,584 766,584 811,587 856,587 900,587 945,590 990,593 1035,590 1079,593 1124,593 1151,593"/>
+				<TextEquiv>
+					<Unicode>ſidlen gewicht ward vō vnſerē herrē ieſu chriſto ſelbert.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1686573650959_392" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="66,1776 1196,1776 1196,2305 66,2305"/>
+			<TextLine id="region_1686573650959_392_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="239,1875 1112,1869 1088,1810 321,1820 239,1780"/>
+				<Baseline points="247,1855 265,1852 310,1846 354,1846 399,1849 444,1849 489,1849 533,1849 578,1852 623,1852 668,1852 712,1852 757,1855 802,1855 847,1855 891,1855 936,1855 981,1855 1026,1855 1070,1852 1128,1856"/>
+				<TextEquiv>
+					<Unicode>Is iſt wie vnſer herre ieſus chriſtus die cap¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573650959_392_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="237,1908 1126,1921 1126,1864 237,1878"/>
+				<Baseline points="244,1900 289,1897 334,1897 378,1900 423,1900 468,1903 513,1903 557,1903 602,1903 647,1903 692,1903 736,1905 781,1905 826,1905 870,1905 915,1905 960,1905 1005,1905 1049,1905 1094,1905 1130,1908"/>
+				<TextEquiv>
+					<Unicode>pellen zuͦ dē einſidlen ſelber wichte/ vn̄ wer da</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573650959_392_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="237,1972 1112,1970 1111,1926 1006,1916 236,1925"/>
+				<Baseline points="244,1950 289,1950 334,1947 378,1950 423,1953 468,1953 513,1953 557,1956 602,1956 647,1956 692,1956 736,1956 781,1956 826,1959 870,1959 915,1956 960,1956 1005,1956 1049,1956 1094,1956 1115,1956"/>
+				<TextEquiv>
+					<Unicode>zegegen vn̄ da by vn̄ mit was/ Der aller ge¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573650959_392_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="192,2008 1115,2024 1114,1967 751,1989 228,1951 192,1981"/>
+				<Baseline points="199,1998 244,1995 289,1998 334,2001 378,2001 423,2004 468,2004 513,2007 557,2007 602,2007 647,2010 692,2010 736,2010 781,2010 826,2010 870,2010 915,2010 960,2010 1005,2010 1049,2007 1094,2007 1118,2013"/>
+				<TextEquiv>
+					<Unicode>waltigeſt künig der engelen wirdiget noch al¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573650959_392_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="100,2047 483,2086 1108,2071 1083,2019 689,2042 100,1999"/>
+				<Baseline points="96,2035 152,2040 196,2043 241,2046 286,2049 331,2052 375,2055 420,2055 465,2058 510,2058 554,2061 599,2061 644,2061 689,2061 733,2061 778,2064 823,2064 867,2061 912,2061 957,2061 1002,2064 1046,2061 1091,2061 1112,2058"/>
+				<TextEquiv>
+					<Unicode>le zyt die ſyn aller liebſte ſynd/ vnd die vſſerweltē ze ge¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573650959_392_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="93,2104 1107,2139 1120,2066 479,2086 92,2049"/>
+				<Baseline points="101,2087 146,2090 190,2093 235,2099 280,2099 325,2105 369,2105 414,2108 459,2108 504,2111 548,2111 593,2111 638,2111 683,2114 727,2114 772,2114 817,2114 862,2114 906,2114 951,2114 996,2114 1040,2114 1085,2114 1124,2117"/>
+				<TextEquiv>
+					<Unicode>ſehende/ ſo er gotlichen dingen gyt zuͦ ſchowende vn̄ zuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573650959_392_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="91,2150 1110,2182 1108,2131 1060,2122 507,2140 90,2106"/>
+				<Baseline points="98,2138 143,2141 187,2144 232,2150 277,2153 322,2156 366,2159 411,2159 456,2162 501,2162 545,2162 590,2165 635,2165 680,2165 724,2165 769,2165 814,2165 859,2165 903,2168 948,2168 993,2168 1038,2168 1082,2162 1112,2165"/>
+				<TextEquiv>
+					<Unicode>erkennende/ als wir hienach wolmercken mügēt. Do</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573650959_392_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="99,2209 1007,2263 1112,2240 1111,2186 97,2156"/>
+				<Baseline points="104,2195 149,2198 193,2201 238,2207 283,2207 328,2213 372,2216 417,2216 462,2216 507,2219 551,2219 596,2219 641,2222 686,2219 730,2222 775,2222 820,2222 865,2222 909,2222 954,2222 999,2222 1043,2222 1088,2222 1115,2222"/>
+				<TextEquiv>
+					<Unicode>man zalt von gottes geburt/ nünhundert vnd dry vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

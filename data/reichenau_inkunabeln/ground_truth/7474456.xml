@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52681:lm=provided:date=08_06_2023_10:11</Creator>
+		<Created>2023-06-07T09:11:07.103+02:00</Created>
+		<LastChange>2023-12-20T15:42:12.520+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67074978" pageNr="3" tsid="154460031" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=FPKLZUIJILJDVWXUFRSGWYGN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MGVOOMMEMNXJZQDURWHJYDIB" imageId="45286749"/>
+	</Metadata>
+	<Page imageFilename="7474456.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356355714" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686211529132_700"/>
+				<RegionRefIndexed index="1" regionRef="region_1686211536129_703"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686211529132_700" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="84,374 1285,374 1285,674 84,674"/>
+			<TextLine id="region_1686211529132_700_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="121,466 1171,483 1146,380 891,411 121,379"/>
+				<Baseline points="128,453 173,450 217,450 262,450 307,450 351,453 396,450 441,453 486,450 530,450 575,450 620,450 665,450 709,450 754,453 799,453 844,453 888,453 933,453 978,453 1023,450 1067,453 1112,453 1157,453 1175,456"/>
+				<TextEquiv>
+					<Unicode>nach gemalt ſtat. vn̄ darumb ſol yeder mā diſe cappel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686211529132_700_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="121,531 521,507 683,527 683,468 121,466"/>
+				<Baseline points="128,510 149,504 193,501 238,501 283,501 328,504 372,504 417,501 462,504 507,504 551,504 596,504 641,504 686,507"/>
+				<TextEquiv>
+					<Unicode>ſuͦchē in vnſer liebē frowen ere.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686211529132_700_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="127,570 1157,563 1138,491 1022,524 732,496 608,533 127,527"/>
+				<Baseline points="134,557 175,557 220,554 265,554 310,554 354,557 399,557 444,554 489,554 533,554 578,554 623,554 668,554 712,557 757,554 802,554 847,554 891,557 936,554 981,554 1026,551 1070,551 1115,551 1160,554"/>
+				<TextEquiv>
+					<Unicode>¶ Wie graff Berchtold von Sulgow got von himel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686211529132_700_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="121,618 1167,616 1146,562 121,565"/>
+				<Baseline points="128,608 173,605 217,605 262,605 307,608 351,608 396,608 441,605 486,605 530,605 575,605 620,605 665,605 709,605 754,605 799,605 844,605 888,605 933,605 978,605 1023,605 1067,602 1112,605 1157,608 1169,611"/>
+				<TextEquiv>
+					<Unicode>badt vmb ein ſuͦn das er nit on lyb erben ſturbe/ vnnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686211529132_700_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="127,683 1089,668 1089,634 1018,610 127,618"/>
+				<Baseline points="134,662 152,662 196,662 241,662 286,662 331,662 375,662 420,659 465,659 510,662 554,662 599,659 644,659 689,659 733,659 778,659 823,659 867,659 912,659 957,659 1002,656 1046,656 1091,659"/>
+				<TextEquiv>
+					<Unicode>dar vß wolt er einen geiſtlichen menſchen machen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1686211536129_703" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="99,1866 1218,1866 1218,2136 99,2136"/>
+			<TextLine id="region_1686211536129_703_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="139,1924 1169,1920 1155,1856 316,1893 139,1868"/>
+				<Baseline points="146,1908 190,1911 235,1911 280,1914 325,1914 369,1914 414,1914 459,1914 504,1914 548,1911 593,1911 638,1911 683,1911 727,1911 772,1911 817,1911 862,1908 906,1908 951,1908 996,1905 1040,1905 1085,1905 1130,1908 1182,1912"/>
+				<TextEquiv>
+					<Unicode>¶ Zuͦ den zitten keyſer karles des erſten vß den franck¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686211536129_703_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="136,1978 1150,1985 1182,1919 136,1935"/>
+				<Baseline points="143,1965 155,1962 199,1962 244,1965 289,1965 334,1965 378,1965 423,1965 468,1965 513,1965 557,1962 602,1962 647,1965 692,1962 736,1962 781,1962 826,1959 870,1959 915,1959 960,1959 1005,1956 1049,1956 1094,1959 1139,1959 1184,1956"/>
+				<TextEquiv>
+					<Unicode>richſchen künigen zuͦ roͤmiſchen keiſer erwelt/ was zuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686211536129_703_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="141,2023 1178,2028 1178,1974 1036,1962 141,1974"/>
+				<Baseline points="149,2019 152,2016 196,2016 241,2016 286,2016 331,2016 375,2019 420,2016 465,2019 510,2019 554,2016 599,2016 644,2016 689,2016 733,2013 778,2013 823,2013 867,2013 912,2013 957,2010 1002,2010 1046,2007 1091,2010 1136,2010 1181,2016"/>
+				<TextEquiv>
+					<Unicode>Sulgow vff der Tuͦnow ein Graff geſeſſen/ der hieß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686211536129_703_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="139,2075 1175,2078 1175,2036 1072,2020 139,2030"/>
+				<Baseline points="146,2067 149,2064 193,2067 238,2070 283,2070 328,2070 372,2070 417,2070 462,2070 507,2070 551,2070 596,2070 641,2070 686,2067 730,2067 775,2067 820,2064 865,2064 909,2064 954,2061 999,2061 1043,2061 1088,2061 1133,2064 1178,2064"/>
+				<TextEquiv>
+					<Unicode>Graff Berchtolt von Sulgow/ gar edel/ vnd woll ge¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686211536129_703_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="141,2167 1179,2141 1167,2074 143,2079"/>
+				<Baseline points="149,2129 155,2126 199,2123 244,2123 289,2123 334,2126 378,2126 423,2126 468,2126 513,2123 557,2123 602,2123 647,2123 692,2123 736,2126 781,2126 826,2123 870,2123 915,2120 960,2117 1005,2117 1049,2117 1094,2117 1139,2117 1184,2117"/>
+				<TextEquiv>
+					<Unicode>born/ wann das er nit vil zittlichs guͦts hette/ Sunder</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

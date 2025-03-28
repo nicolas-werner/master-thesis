@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52663:lm=provided:date=08_06_2023_08:24</Creator>
+		<Created>2023-06-07T09:11:05.818+02:00</Created>
+		<LastChange>2023-12-20T15:44:12.105+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075046" pageNr="65" tsid="154460139" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=DXUMXHQQUXHQMHWBXUGFNPVH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DPDXJDNLTEJPOPVAQNPZPTJU" imageId="45286779"/>
+	</Metadata>
+	<Page imageFilename="7474444.jpg" imageWidth="2102" imageHeight="2796">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356491085" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686144703439_10832"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686144703439_10832" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="131,429 1247,429 1247,2141 131,2141"/>
+			<TextLine id="region_1686144703439_10832_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="158,538 1159,529 1160,463 1118,443 160,470"/>
+				<Baseline points="167,525 176,525 221,522 265,519 310,519 355,519 400,519 445,519 489,516 534,516 579,513 624,516 669,513 713,513 758,510 803,510 848,510 893,510 937,510 982,507 1027,507 1072,507 1117,504 1162,507"/>
+				<TextEquiv>
+					<Unicode>Des abtes Marſchalck ſol ſein der Graf von Rap</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="166,595 1126,577 1166,528 167,534"/>
+				<Baseline points="173,567 182,573 227,573 271,570 316,570 361,570 406,570 451,570 495,567 540,567 585,567 630,564 675,564 719,564 764,561 809,561 854,561 899,561 943,558 988,558 1033,558 1078,558 1123,558 1167,555"/>
+				<TextEquiv>
+					<Unicode>perswil/ vnd vber das bluͦt zerichten. Vogt vnnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="166,643 1145,633 1164,579 167,595"/>
+				<Baseline points="173,630 182,624 227,624 271,621 316,621 361,621 406,621 451,621 495,621 540,618 585,618 630,618 675,615 719,615 764,612 809,612 854,612 899,612 943,612 988,609 1033,606 1078,606 1123,606 1167,609"/>
+				<TextEquiv>
+					<Unicode>ſtatthalter/ hat darumb zelehen Schlos vnd Stat</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="172,683 1098,680 1166,670 1167,624 172,641"/>
+				<Baseline points="179,675 185,675 230,675 274,672 319,672 364,672 409,672 454,672 498,669 543,669 588,669 633,666 678,666 722,666 767,666 812,663 857,663 902,663 946,663 991,663 1036,660 1081,660 1126,657 1170,660"/>
+				<TextEquiv>
+					<Unicode>Rapperſwil/ Sonnder was von der purg obaͤſten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="167,748 1174,726 1175,677 168,681"/>
+				<Baseline points="176,731 191,728 235,725 280,725 325,722 370,722 415,722 460,722 504,722 549,719 594,719 639,716 684,716 728,716 773,716 818,713 863,713 908,713 952,710 997,710 1042,710 1087,710 1132,707 1176,710"/>
+				<TextEquiv>
+					<Unicode>gratte vnd schne schmeltze ſich gen Ainſideln richte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="166,789 1099,761 1173,790 1174,723 166,750"/>
+				<Baseline points="173,776 191,776 235,773 280,773 325,773 370,773 415,773 460,773 504,773 549,770 594,770 639,767 684,767 728,767 773,767 818,764 863,764 908,764 952,764 997,764 1042,761 1087,761 1132,758 1176,761"/>
+				<TextEquiv>
+					<Unicode>oder herfluſſet/ Des vnder marſchalck ſol ſein der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="175,838 893,826 893,791 861,775 175,789"/>
+				<Baseline points="182,827 224,824 268,824 313,824 358,824 403,824 448,824 492,821 537,821 582,821 627,821 672,818 716,818 761,818 806,815 851,815 896,815"/>
+				<TextEquiv>
+					<Unicode>Ritter oder Edelknecht von vrikon.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="166,889 1178,878 1150,807 167,836"/>
+				<Baseline points="173,881 194,881 238,878 283,878 328,878 373,875 418,875 463,875 507,872 552,872 597,872 642,872 687,869 731,866 776,866 821,869 866,866 911,866 955,866 1000,863 1045,863 1090,860 1135,860 1179,863"/>
+				<TextEquiv>
+					<Unicode>Des aptes Truchſes ſol ſein der Freyher von We</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="166,934 1170,919 1170,870 1124,867 167,890"/>
+				<Baseline points="173,926 188,926 233,929 277,929 322,926 367,926 412,926 457,926 501,923 546,923 591,923 636,923 681,920 725,920 770,917 815,917 860,917 905,914 949,917 994,917 1039,914 1084,911 1129,911 1173,911"/>
+				<TextEquiv>
+					<Unicode>diſwil/ des hat Er auch zelehen die herſchaft We¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="168,988 1186,985 1167,917 170,940"/>
+				<Baseline points="176,976 203,976 247,976 292,979 337,979 382,976 427,976 471,976 516,976 561,976 606,973 651,973 696,970 740,970 785,967 830,967 875,967 920,967 964,967 1009,964 1054,964 1099,964 1144,964 1188,967"/>
+				<TextEquiv>
+					<Unicode>diſwil/ vnder truchſeſs ſol ſein der ritter oder Edel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="172,1041 460,1036 496,1054 737,1023 737,1000 666,980 556,1000 441,983 346,1005 172,986"/>
+				<Baseline points="179,1033 203,1030 247,1027 292,1027 337,1027 382,1027 427,1027 471,1027 516,1027 561,1024 606,1024 651,1024 696,1021 740,1021"/>
+				<TextEquiv>
+					<Unicode>knecht von hum̄brechtykon.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="166,1086 1179,1074 1167,1017 167,1035"/>
+				<Baseline points="173,1084 197,1081 241,1078 286,1078 331,1078 376,1078 421,1078 466,1078 510,1075 555,1075 600,1075 645,1075 690,1072 734,1072 779,1072 824,1072 869,1069 914,1066 958,1066 1003,1066 1048,1066 1093,1066 1138,1063 1182,1066"/>
+				<TextEquiv>
+					<Unicode>Des apts Schencke ſol ſein der Freyher von vſter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="175,1147 893,1123 1150,1157 1186,1148 1188,1073 175,1094"/>
+				<Baseline points="182,1132 203,1129 247,1129 292,1129 337,1129 382,1129 427,1129 471,1129 516,1126 561,1126 606,1126 651,1126 696,1123 740,1123 785,1120 830,1120 875,1120 920,1117 964,1117 1009,1117 1054,1117 1099,1114 1144,1114 1188,1117"/>
+				<TextEquiv>
+					<Unicode>des lehen iſt auß elte verblichen/ des vnder ſchenck</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="168,1186 1069,1184 1070,1138 1008,1126 170,1145"/>
+				<Baseline points="176,1182 221,1179 265,1179 310,1179 355,1179 400,1179 445,1179 489,1179 534,1179 579,1176 624,1176 669,1176 713,1173 758,1173 803,1170 848,1170 893,1170 937,1167 982,1167 1027,1167 1072,1165"/>
+				<TextEquiv>
+					<Unicode>iſt der ritter oder Edelknecht von liebenberg.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="168,1247 1185,1224 1185,1167 1133,1152 1032,1199 170,1193"/>
+				<Baseline points="176,1233 203,1233 247,1233 292,1233 337,1230 382,1230 427,1230 471,1230 516,1227 561,1227 606,1227 651,1227 696,1227 740,1221 785,1221 830,1221 875,1221 920,1218 964,1218 1009,1218 1054,1218 1099,1218 1144,1215 1188,1218"/>
+				<TextEquiv>
+					<Unicode>Des apttes Saͤſſeltrager/ ſo der vnder der Infeln</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="175,1300 1175,1278 1176,1232 1043,1223 176,1255"/>
+				<Baseline points="182,1281 194,1284 238,1281 283,1281 328,1284 373,1281 418,1281 463,1281 507,1281 552,1278 597,1278 642,1278 687,1275 731,1275 776,1275 821,1272 866,1272 911,1272 955,1269 1000,1269 1045,1269 1090,1269 1135,1269 1179,1266"/>
+				<TextEquiv>
+					<Unicode>gat/ ſol ſein der Frey von Regenſperg. Vnd vogt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="177,1354 1181,1331 1183,1276 179,1299"/>
+				<Baseline points="185,1335 200,1332 244,1332 289,1332 334,1332 379,1332 424,1332 468,1332 513,1332 558,1329 603,1329 648,1329 693,1326 737,1326 782,1326 827,1323 872,1323 917,1320 961,1320 1006,1320 1051,1320 1096,1320 1141,1317 1185,1314"/>
+				<TextEquiv>
+					<Unicode>der probſtey zuͦ Vare/ hat darumb zelehen dieſelbē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="175,1398 1184,1392 1185,1340 1132,1324 176,1352"/>
+				<Baseline points="182,1386 203,1383 247,1386 292,1386 337,1386 382,1383 427,1383 471,1383 516,1380 561,1380 606,1380 651,1380 696,1377 740,1377 785,1377 830,1377 875,1374 920,1374 964,1374 1009,1374 1054,1371 1099,1371 1144,1371 1188,1368"/>
+				<TextEquiv>
+					<Unicode>vogtey/ Des vnder amptman ſol ſein der von Cro</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="172,1445 304,1459 324,1441 438,1456 462,1440 485,1459 647,1435 683,1451 747,1441 748,1408 694,1385 647,1408 544,1387 475,1407 173,1411"/>
+				<Baseline points="179,1436 215,1433 259,1433 304,1433 349,1433 394,1433 439,1430 483,1430 528,1430 573,1430 618,1427 663,1427 707,1427 752,1427"/>
+				<TextEquiv>
+					<Unicode>naw ritter oder Edel knecht.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="179,1494 1186,1485 1188,1422 180,1445"/>
+				<Baseline points="185,1487 206,1487 250,1484 295,1484 340,1484 385,1484 430,1484 474,1481 519,1481 564,1481 609,1481 654,1478 699,1478 743,1478 788,1478 833,1475 878,1475 923,1475 967,1472 1012,1475 1057,1472 1102,1472 1147,1469 1191,1469"/>
+				<TextEquiv>
+					<Unicode>Des aptes kuchenmaiſter. ſol ſein der Freyher von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="173,1556 1188,1532 1165,1478 175,1495"/>
+				<Baseline points="182,1538 206,1535 250,1535 295,1535 340,1535 385,1535 430,1535 474,1532 519,1532 564,1532 609,1532 654,1529 699,1529 743,1529 788,1526 833,1526 878,1526 923,1526 967,1526 1012,1523 1057,1523 1102,1520 1147,1520 1191,1523"/>
+				<TextEquiv>
+					<Unicode>kempten/ hat darumb zelehen die/ vogtey zuͦ kempt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="179,1595 1136,1602 1189,1544 180,1552"/>
+				<Baseline points="185,1586 206,1586 250,1586 295,1586 340,1586 385,1586 430,1586 474,1586 519,1586 564,1583 609,1583 654,1580 699,1580 743,1580 788,1577 833,1577 878,1577 923,1577 967,1577 1012,1574 1057,1574 1102,1574 1147,1571 1191,1574"/>
+				<TextEquiv>
+					<Unicode>ten aller gotzhauß guͦtter/ des vnder kuchenmaiſter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="179,1649 917,1637 1028,1669 1109,1633 1185,1663 1185,1588 1074,1579 179,1592"/>
+				<Baseline points="185,1636 206,1639 250,1636 295,1636 340,1636 385,1636 430,1636 474,1636 519,1636 564,1633 609,1633 654,1633 699,1633 743,1633 788,1633 833,1631 878,1631 923,1631 967,1631 1012,1628 1057,1628 1102,1625 1147,1622 1188,1616"/>
+				<TextEquiv>
+					<Unicode>iſt am letſten geweſen der Meyſſe von Zuͦrich wap</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="187,1703 249,1707 289,1697 329,1711 344,1698 401,1688 403,1655 361,1661 334,1650 327,1658 308,1652 282,1663 268,1654 256,1661 239,1654 228,1663 189,1649"/>
+				<Baseline points="194,1684 224,1687 268,1687 313,1687 358,1684 403,1681"/>
+				<TextEquiv>
+					<Unicode>pentrager.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="177,1761 1185,1749 1186,1682 179,1697"/>
+				<Baseline points="185,1744 203,1744 247,1741 292,1741 337,1738 382,1738 427,1738 471,1738 516,1738 561,1735 606,1735 651,1735 696,1732 740,1732 785,1732 830,1732 875,1729 920,1729 964,1729 1009,1726 1054,1726 1099,1726 1144,1726 1188,1729"/>
+				<TextEquiv>
+					<Unicode>Der Probſtey vogt zuͦ Sant Gerolt ſol ſein d̓ graf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="184,1794 1190,1784 1190,1750 1084,1735 184,1760"/>
+				<Baseline points="191,1792 209,1792 253,1789 298,1789 343,1789 388,1789 433,1786 477,1786 522,1789 567,1792 612,1789 657,1786 701,1786 746,1783 791,1783 836,1783 881,1780 926,1780 970,1780 1015,1777 1060,1780 1105,1777 1150,1774 1194,1774"/>
+				<TextEquiv>
+					<Unicode>vom weyſſen fan/ Iſt yetz der Freyher von Bran</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="181,1849 1083,1860 1188,1841 1189,1789 181,1801"/>
+				<Baseline points="188,1843 206,1840 250,1840 295,1840 340,1840 385,1840 430,1840 474,1840 519,1840 564,1840 609,1840 654,1837 699,1837 743,1837 788,1834 833,1834 878,1834 923,1831 967,1831 1012,1831 1057,1831 1102,1828 1147,1828 1191,1828"/>
+				<TextEquiv>
+					<Unicode>dis / hat dieſelben vogtey mit andren mer darumb</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="192,1906 222,1903 248,1912 266,1906 274,1915 318,1913 346,1898 363,1897 363,1866 348,1869 322,1858 300,1865 248,1846 192,1854"/>
+				<Baseline points="200,1893 233,1890 277,1890 322,1890 367,1890"/>
+				<TextEquiv>
+					<Unicode>zuͦ lehen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="187,1951 1184,1947 1185,1874 189,1904"/>
+				<Baseline points="194,1944 203,1944 247,1941 292,1941 337,1941 382,1941 427,1944 471,1941 516,1941 561,1941 606,1938 651,1938 696,1938 740,1938 785,1935 830,1935 875,1935 920,1935 964,1932 1009,1929 1054,1932 1099,1929 1144,1929 1188,1929"/>
+				<TextEquiv>
+					<Unicode>Der probſtey zuͦ Erlibach vogte/ ſol ſein der Frey</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="184,2002 1190,1994 1190,1950 1127,1937 184,1955"/>
+				<Baseline points="191,1995 209,1992 253,1992 298,1992 343,1992 388,1992 433,1992 477,1992 522,1992 567,1992 612,1992 657,1992 701,1989 746,1989 791,1992 836,1989 881,1986 926,1983 970,1983 1015,1983 1060,1983 1105,1983 1150,1980 1194,1980"/>
+				<TextEquiv>
+					<Unicode>her von Tengen/ iſt yetz Graf zuͦ Nellenburg. hat</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="187,2051 617,2078 828,2048 1000,2083 1199,2040 1170,1988 189,2004"/>
+				<Baseline points="194,2043 218,2043 262,2043 307,2043 352,2046 397,2043 442,2046 486,2046 531,2049 576,2046 621,2046 666,2049 710,2043 755,2043 800,2043 845,2040 890,2040 934,2037 979,2037 1024,2040 1069,2034 1114,2034 1159,2034 1203,2037"/>
+				<TextEquiv>
+					<Unicode>darumb zuͦ kußnaͤg am Zuͦricher See vil guͦtter le</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144703439_10832_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="192,2116 232,2124 243,2118 272,2140 311,2132 324,2140 346,2135 385,2106 419,2113 419,2069 394,2060 365,2065 346,2050 336,2058 327,2051 286,2059 267,2073 225,2050 192,2051"/>
+				<Baseline points="200,2102 244,2097 289,2099 334,2099 379,2097 421,2102"/>
+				<TextEquiv>
+					<Unicode>hen gehept.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52681:lm=provided:date=08_06_2023_11:02</Creator>
+		<Created>2023-06-07T09:11:07.784+02:00</Created>
+		<LastChange>2023-12-20T15:42:13.781+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67074983" pageNr="8" tsid="154460040" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=AZFZTSOVSWLWRXARALLIJIIM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TSKULUUUEGHBRTLDCEHCIZPO" imageId="45286769"/>
+	</Metadata>
+	<Page imageFilename="7474461.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356366628" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686214687771_1583"/>
+				<RegionRefIndexed index="1" regionRef="region_1686214694318_1586"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686214687771_1583" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="942,543 2032,543 2032,683 942,683"/>
+			<TextLine id="region_1686214687771_1583_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="973,626 1989,615 2001,546 1851,519 1495,568 975,548"/>
+				<Baseline points="981,611 1020,605 1064,605 1109,602 1154,602 1199,602 1243,599 1288,599 1333,596 1378,599 1422,596 1467,593 1512,593 1557,593 1601,590 1646,590 1691,590 1735,587 1780,587 1825,587 1870,587 1914,587 1959,587 2004,590"/>
+				<TextEquiv>
+					<Unicode>ſyn begierd alſo groß das er eins tags zuͦ den iungen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686214687771_1583_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="969,693 1917,668 1918,595 972,626"/>
+				<Baseline points="978,662 981,659 1026,659 1070,656 1115,656 1160,656 1205,653 1249,653 1294,653 1339,653 1384,650 1428,650 1473,647 1518,644 1562,644 1607,644 1652,644 1697,641 1741,638 1786,641 1831,641 1876,638 1920,641"/>
+				<TextEquiv>
+					<Unicode>ſchuͦleren vnd münchen die er erzogen hatt ſprach.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1686214694318_1586" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="984,1888 2061,1888 2061,2200 984,2200"/>
+			<TextLine id="line_1686214994139_1610" custom="readingOrder {index:0;}">
+				<Coords points="1000,1917 1075,1908 2010,1891 2037,1894 2034,1954 1719,1967 1000,1984"/>
+				<Baseline points="1008,1965 1026,1962 1070,1959 1115,1956 1160,1956 1205,1959 1249,1956 1294,1956 1339,1956 1384,1956 1428,1953 1473,1956 1518,1953 1562,1953 1607,1953 1652,1953 1727,1944 1768,1947 1813,1944 1858,1944 1903,1941 1947,1938 1992,1935 2037,1935"/>
+				<TextEquiv>
+					<Unicode>Lieben bruͤdern woͤllent wir über See faren in die wuͤ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686214694318_1586_tl_3" custom="readingOrder {index:1;}">
+				<Coords points="1007,2034 1985,2009 2030,2001 2032,1952 1008,1976"/>
+				<Baseline points="1014,2016 1049,2010 1094,2010 1139,2007 1184,2007 1228,2007 1273,2007 1318,2007 1363,2007 1407,2007 1452,2004 1497,2001 1542,2001 1586,2001 1631,2001 1676,1998 1721,1998 1765,1995 1810,1998 1855,1995 1900,1992 1944,1989 1989,1986 2046,1985"/>
+				<TextEquiv>
+					<Unicode>ſtin vnd in die welde das wir do in den bachen vn̄ ruͤn¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686214694318_1586_tl_4" custom="readingOrder {index:2;}">
+				<Coords points="1015,2083 1984,2068 2039,2009 1016,2028"/>
+				<Baseline points="1023,2064 1055,2058 1100,2058 1145,2058 1190,2058 1234,2058 1279,2058 1324,2058 1369,2058 1413,2055 1458,2055 1503,2055 1548,2055 1592,2055 1637,2052 1682,2049 1727,2049 1771,2052 1816,2049 1861,2046 1905,2043 1950,2043 1995,2037 2040,2037"/>
+				<TextEquiv>
+					<Unicode>felen die dar inne rinnē fiſche vahent/ Sprachēt ſy her</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686214694318_1586_tl_5" custom="readingOrder {index:3;}">
+				<Coords points="1006,2130 2039,2108 2027,2047 1007,2081"/>
+				<Baseline points="1014,2114 1058,2108 1103,2111 1148,2108 1193,2108 1237,2108 1282,2108 1327,2108 1372,2108 1416,2105 1461,2105 1506,2105 1551,2108 1595,2108 1640,2108 1685,2105 1730,2105 1774,2102 1819,2102 1864,2099 1908,2099 1953,2096 1998,2090 2043,2084"/>
+				<TextEquiv>
+					<Unicode>meiſter ja/ wir woͤllen willig vnd geren faren vnd gen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686214694318_1586_tl_6" custom="readingOrder {index:4;}">
+				<Coords points="1016,2185 1537,2200 1548,2131 1017,2127"/>
+				<Baseline points="1023,2168 1058,2165 1103,2165 1148,2168 1193,2165 1237,2165 1282,2162 1327,2165 1372,2162 1416,2162 1461,2162 1506,2162 1551,2162"/>
+				<TextEquiv>
+					<Unicode>mit euch wa hin ir woͤllent.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

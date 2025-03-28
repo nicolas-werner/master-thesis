@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:36</Creator>
+		<Created>2023-06-07T09:11:11.045+02:00</Created>
+		<LastChange>2023-12-20T15:42:18.735+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075003" pageNr="28" tsid="154460074" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=SCGSDNPIAWRORGHYLGXBUMHR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=THGHGRHKYZJWOEADTMFQRDIH" imageId="45286840"/>
+	</Metadata>
+	<Page imageFilename="7474484.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356410095" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573391423_219"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573391423_219" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="99,400 1241,400 1241,1064 99,1064"/>
+			<TextLine id="region_1686573391423_219_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="142,510 1136,533 1164,442 972,479 500,424 359,475 140,448"/>
+				<Baseline points="149,501 193,498 238,498 283,498 328,498 372,498 417,498 462,498 507,501 551,504 596,504 641,504 686,504 730,504 775,507 820,510 865,507 909,507 954,510 999,510 1043,513 1088,513 1133,513 1169,513"/>
+				<TextEquiv>
+					<Unicode>Aber die morder ſaſſen zuͦ zürrich vff dē merckt in eins</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573391423_219_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="133,576 1155,594 1161,527 131,514"/>
+				<Baseline points="140,548 184,548 229,548 274,548 319,548 363,551 408,551 453,551 498,551 542,551 587,554 632,554 677,557 721,557 766,560 811,560 856,560 900,560 945,563 990,563 1035,563 1079,566 1124,566 1163,569"/>
+				<TextEquiv>
+					<Unicode>offen wirts huß ob tiſche vn̄ aſſent/ die wyl flugē die rap</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573391423_219_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="142,617 1156,637 1155,590 1082,576 142,573"/>
+				<Baseline points="149,602 193,599 238,599 283,599 328,599 372,602 417,602 462,602 507,605 551,605 596,605 641,608 686,608 730,611 775,611 820,611 865,614 909,614 954,614 999,617 1043,614 1088,617 1133,620 1160,620"/>
+				<TextEquiv>
+					<Unicode>pen vmb die fenſter vn̄ ſchuſſen zuͦ inen in die ſtubē al¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573391423_219_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="136,676 1160,694 1159,644 1078,627 135,617"/>
+				<Baseline points="143,656 187,653 232,653 277,653 322,656 366,653 411,653 456,656 501,656 545,656 590,656 635,659 680,659 724,662 769,662 814,665 859,665 903,668 948,668 993,668 1038,671 1082,671 1127,671 1163,674"/>
+				<TextEquiv>
+					<Unicode>ſo vaſt dz ſy den moͤrdern den win vn̄ die ſpyß vff dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573391423_219_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="139,717 1163,742 1161,697 1098,679 138,673"/>
+				<Baseline points="146,703 190,703 235,703 280,703 325,703 369,703 414,706 459,709 504,706 548,709 593,709 638,709 683,709 727,712 772,715 817,715 862,715 906,715 951,718 996,718 1040,718 1085,718 1130,721 1163,724"/>
+				<TextEquiv>
+					<Unicode>tiſche vmbſchütten/ vn̄ kratzten vnd ſtachent die moͤrder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573391423_219_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="139,770 1141,803 1163,743 138,717"/>
+				<Baseline points="146,757 190,754 235,757 280,757 325,757 369,757 414,757 459,760 504,760 548,760 593,763 638,763 683,763 727,763 772,763 817,766 862,766 906,769 951,769 996,769 1040,769 1085,772 1130,772 1166,775"/>
+				<TextEquiv>
+					<Unicode>ſere vnder iren ougē ſo grüſlich das nyeman mocht inē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573391423_219_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="139,815 1147,846 1165,805 138,770"/>
+				<Baseline points="146,805 190,805 235,805 280,805 325,808 369,811 414,811 459,811 504,811 548,814 593,814 638,817 683,817 727,817 772,817 817,817 862,820 906,820 951,823 996,823 1040,823 1085,823 1130,826 1169,829"/>
+				<TextEquiv>
+					<Unicode>das wern/ wen̄ almechtig got wolt es alſo hon/ do das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573391423_219_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="139,870 998,904 1169,894 1168,837 138,818"/>
+				<Baseline points="146,856 190,856 235,856 280,859 325,859 369,859 414,862 459,865 504,865 548,865 593,867 638,867 683,867 727,870 772,867 817,870 862,870 906,870 951,873 996,873 1040,873 1085,876 1130,876 1172,882"/>
+				<TextEquiv>
+					<Unicode>der zymmermā vn̄ ſyn bruͦder erſachēt/ do giengēt ſy vn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573391423_219_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="134,933 1147,941 1146,894 1094,885 133,883"/>
+				<Baseline points="140,906 184,906 229,906 274,909 319,909 363,912 408,912 453,915 498,915 542,915 587,918 632,918 677,918 721,921 766,921 811,921 856,921 900,924 945,924 990,927 1035,927 1079,927 1124,927 1167,928"/>
+				<TextEquiv>
+					<Unicode>erſchrockenlich in die ſtuben darin̄ die morder ſaſſent/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573391423_219_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="130,972 1163,1007 1161,935 130,933"/>
+				<Baseline points="137,960 181,960 226,960 271,963 316,963 360,963 405,963 450,966 495,969 539,969 584,972 629,972 674,972 718,972 763,972 808,975 853,975 897,978 942,975 987,978 1032,981 1076,984 1121,984 1166,984"/>
+				<TextEquiv>
+					<Unicode>vn̄ fielē ſy an für moͤrder/ vn̄ antwurtetē ſy dē gericht zuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573391423_219_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="130,1033 1154,1051 1152,1006 1106,993 129,971"/>
+				<Baseline points="137,1017 181,1014 226,1017 271,1020 316,1017 360,1017 405,1017 450,1017 495,1023 539,1023 584,1023 629,1023 674,1023 718,1026 763,1026 808,1029 853,1029 897,1032 942,1032 987,1038 1032,1035 1076,1038 1121,1035 1157,1038"/>
+				<TextEquiv>
+					<Unicode>zürch. Do thett got ſyn gnade/ wan̄ als bald ſy dē welt¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

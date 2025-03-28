@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:05.457+01:00</Created>
+        <LastChange>2025-03-21T17:29:02.681+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0051_7474478.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698177" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="128,488 128,1128 1169,1128 1169,488"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="128,526 1140,544 1158,483 126,457"/>
+                <Baseline points="134,513 185,513 236,514 288,516 339,516 391,516 442,519 494,519 545,519 597,519 648,520 699,521 751,523 802,521 854,524 905,524 957,524 1008,526 1060,529 1111,530 1163,533"/>
+                <TextEquiv>
+                    <Unicode>Mung gottes vnd in syner ließ nich mitteil den segen vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="122,570 1163,591 1162,542 1076,534 121,521"/>
+                <Baseline points="128,566 179,566 231,566 283,566 335,568 387,569 439,569 491,569 543,570 595,572 647,572 698,574 750,575 802,575 854,576 906,578 958,578 1010,580 1062,581 1114,581 1166,584"/>
+                <TextEquiv>
+                    <Unicode>dann so volbringen das werck darumb ir hie sint / Als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="122,633 1150,647 1149,593 1060,584 121,572"/>
+                <Baseline points="128,623 179,620 230,620 281,620 333,622 384,623 435,623 487,623 538,625 589,624 641,626 692,626 743,628 794,629 846,629 897,630 948,632 1000,632 1051,634 1102,635 1154,635"/>
+                <TextEquiv>
+                    <Unicode>ginge sie in die cappel nit in meynung gûtes zu volbrin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="132,685 1153,697 1162,640 130,634"/>
+                <Baseline points="137,674 188,671 239,674 291,674 342,674 394,674 445,674 497,677 548,677 600,677 651,677 702,679 754,680 805,680 857,680 908,681 960,684 1011,686 1063,688 1114,689 1166,689"/>
+                <TextEquiv>
+                    <Unicode>gen/ Sunder bald komen sie zu im wider har vß / Als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="126,722 1163,754 1132,690 126,684"/>
+                <Baseline points="134,721 185,724 237,724 288,725 340,727 392,727 443,727 495,730 546,730 598,730 650,730 701,730 753,733 804,733 856,733 908,736 959,736 1011,738 1062,739 1114,739 1166,742"/>
+                <TextEquiv>
+                    <Unicode>gab inen Her man gottes synen rock vnd kuccul-dar zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="121,780 1149,809 1159,758 120,720"/>
+                <Baseline points="128,769 179,775 231,776 283,778 335,780 386,781 438,781 490,781 542,784 593,784 645,784 697,784 749,784 800,784 852,785 904,787 956,789 1007,790 1059,792 1111,790 1163,793"/>
+                <TextEquiv>
+                    <Unicode>brot vnd trancksprechend / Entpfohlen dis von mynen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="124,835 1154,847 1154,805 1112,796 124,780"/>
+                <Baseline points="131,829 182,826 233,830 284,832 336,832 387,832 438,832 490,835 541,836 592,838 644,838 695,838 746,838 797,838 849,838 900,839 951,841 1003,841 1054,841 1105,841 1157,844"/>
+                <TextEquiv>
+                    <Unicode>henden vn̄ noch de ir volbracht habe das darumb ir kun-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="124,884 1166,916 1157,845 124,851"/>
+                <Baseline points="131,876 182,876 234,880 286,882 338,882 390,882 442,885 494,885 546,888 598,888 650,890 701,889 753,888 805,888 857,889 909,891 961,891 1013,893 1065,897 1117,897 1169,897"/>
+                <TextEquiv>
+                    <Unicode>men sint so moͤgen ir des überige was itwellen von ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="126,948 1161,965 1159,913 1055,896 125,884"/>
+                <Baseline points="134,930 185,930 236,933 288,934 339,936 391,938 442,939 494,939 545,942 597,943 648,944 699,942 751,942 802,942 854,942 905,945 957,945 1008,945 1060,945 1111,948 1163,951"/>
+                <TextEquiv>
+                    <Unicode>selbes nemen / So sprachent die mörder, warumb synt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="121,993 1110,1029 1166,1022 1166,961 120,946"/>
+                <Baseline points="128,981 180,987 232,987 284,988 336,992 388,993 440,996 492,996 544,997 596,999 648,1001 700,1000 752,999 804,999 856,999 908,999 960,999 1012,999 1064,1002 1116,1002 1169,1002"/>
+                <TextEquiv>
+                    <Unicode>wir dan̄ hie-do sprach sant Meynrat/ lieben kint / in sint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="740,1129 750,1128 762,1136 770,1129 795,1144 822,1131 800,1009 784,1012 762,1025 752,1022 745,1029 722,1029"/>
+                <Baseline points="742,1100 769,1105 796,1110 823,1115"/>
+                <TextEquiv>
+                    <Unicode>V</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

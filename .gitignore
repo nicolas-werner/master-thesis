@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+.secrets.baseline
+.DS_Store
+
+# Pre-commit
+.pre-commit-config.yaml
+.secrets.baseline

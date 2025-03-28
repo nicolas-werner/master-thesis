@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:05.022+01:00</Created>
+        <LastChange>2025-03-21T17:29:02.202+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0047_7474474.jpg" imageWidth="2120" imageHeight="2768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817698083" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="101,1595 101,2240 1112,2240 1112,1595"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="545,1637 575,1642 603,1660 622,1652 613,1549 594,1556 581,1555 575,1563 539,1558"/>
+                <Baseline points="551,1622 587,1624 623,1628"/>
+                <TextEquiv>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="100,1746 922,1772 1097,1756 1107,1703 98,1712"/>
+                <Baseline points="107,1735 157,1741 207,1744 257,1745 308,1748 358,1752 408,1753 458,1753 509,1753 559,1753 609,1753 659,1753 710,1753 760,1753 810,1751 860,1753 911,1750 961,1750 1011,1749 1061,1744 1112,1744"/>
+                <TextEquiv>
+                    <Unicode>ergetzten sie sich mit siessen andachtigen reden/ vn̄ noch con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="97,1811 1092,1810 1092,1752 758,1782 97,1758"/>
+                <Baseline points="104,1798 153,1795 203,1798 252,1799 302,1802 351,1804 401,1804 450,1804 500,1804 549,1804 599,1804 648,1804 698,1804 747,1804 797,1804 846,1804 896,1804 945,1802 995,1801 1044,1798 1094,1795"/>
+                <TextEquiv>
+                    <Unicode>plet zitt giengen sie an ir rüw der bruder sunder des /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="97,1860 1088,1865 1076,1806 97,1810"/>
+                <Baseline points="104,1846 153,1846 202,1850 252,1853 301,1855 350,1855 400,1857 449,1858 498,1858 548,1858 597,1858 646,1858 696,1858 745,1858 794,1858 844,1856 893,1855 942,1855 992,1852 1041,1852 1091,1849"/>
+                <TextEquiv>
+                    <Unicode>gliche ouch syn gesellen, vnd der heilig man bleib in sy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="97,1902 1102,1912 1090,1858 402,1886 97,1860"/>
+                <Baseline points="104,1891 154,1897 204,1901 254,1904 304,1905 354,1907 404,1908 454,1908 504,1908 554,1908 605,1908 655,1908 705,1908 755,1908 805,1908 855,1908 905,1908 955,1908 1005,1908 1055,1904 1106,1905"/>
+                <TextEquiv>
+                    <Unicode>ner wonnn̄g vii als er synen liͤß ein Eſein zit ruͤiwen ließ / siund</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="97,1950 284,1981 1109,1968 1077,1911 97,1916"/>
+                <Baseline points="104,1944 154,1947 204,1951 255,1954 305,1957 356,1959 406,1959 456,1962 507,1962 557,1962 608,1962 658,1962 708,1960 759,1961 809,1960 860,1959 910,1959 960,1962 1011,1958 1061,1956 1112,1953"/>
+                <TextEquiv>
+                    <Unicode>der bald wider vnnd volbracht die gantze nacht on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="103,2008 1099,2018 1075,1963 284,1981 103,1949"/>
+                <Baseline points="110,1998 159,1999 209,2005 258,2007 308,2008 357,2012 407,2013 456,2013 506,2013 555,2013 605,2013 654,2013 704,2013 753,2013 803,2013 852,2013 902,2013 951,2011 1001,2010 1050,2010 1100,2007"/>
+                <TextEquiv>
+                    <Unicode>schloff sin genonlich gebet vnd wie wol der gemelt brü¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="95,2057 1100,2075 1087,2015 95,2010"/>
+                <Baseline points="101,2046 151,2052 201,2056 251,2059 301,2061 351,2065 401,2067 451,2067 501,2067 551,2067 602,2067 652,2066 702,2065 752,2067 802,2065 852,2064 902,2064 952,2064 1002,2064 1052,2061 1103,2061"/>
+                <TextEquiv>
+                    <Unicode>oder vff ein matzen sich geleit hett zu ruwend / bleib er doch von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="100,2111 342,2143 1097,2119 1097,2084 1019,2070 580,2092 100,2055"/>
+                <Baseline points="107,2096 156,2103 206,2109 255,2111 305,2112 355,2116 404,2117 454,2119 504,2117 553,2117 603,2120 653,2118 702,2119 752,2117 802,2117 851,2117 901,2117 951,2117 1000,2117 1050,2114 1100,2111"/>
+                <TextEquiv>
+                    <Unicode>freide gar nach die gantze nacht on sloff / vn̄ als er sorg,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="100,2164 1099,2188 1088,2120 343,2144 100,2111"/>
+                <Baseline points="107,2150 156,2156 206,2160 255,2163 305,2166 355,2170 404,2171 454,2171 504,2174 553,2171 603,2171 653,2171 702,2171 752,2171 802,2171 851,2171 901,2169 951,2168 1000,2165 1050,2165 1100,2165"/>
+                <TextEquiv>
+                    <Unicode>feltig sin ongen wider vn für keret, sach er ein kint in wys /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="100,2230 445,2266 506,2234 1101,2240 1101,2192 1034,2173 378,2198 100,2166"/>
+                <Baseline points="107,2207 156,2210 206,2214 256,2220 306,2222 356,2224 405,2225 455,2225 505,2225 555,2228 605,2225 654,2225 704,2226 754,2227 804,2225 854,2225 903,2225 953,2225 1003,2222 1053,2222 1103,2222"/>
+                <TextEquiv>
+                    <Unicode>sen kleider vn der cappel vßgon mit wunderbarer schön</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

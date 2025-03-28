@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:29</Creator>
+        <Created>2025-03-21T12:31:10.910+01:00</Created>
+        <LastChange>2025-03-21T17:29:09.000+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0101_7788739.jpg" imageWidth="2898" imageHeight="3804">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817699870" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="456,694 456,2899 1740,2899 1740,694"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="456,739 1432,724 1567,774 1717,739 1717,662 456,678"/>
+                <Baseline points="465,731 527,728 590,728 653,727 715,725 778,725 841,725 903,723 966,722 1029,722 1092,722 1154,722 1217,722 1280,719 1342,719 1405,719 1468,719 1530,721 1593,722 1656,724 1719,725"/>
+                <TextEquiv>
+                    <Unicode>was aßer incongrue geredt oder geschriten das wirt straffber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="452,798 1420,783 1404,731 454,740"/>
+                <Baseline points="462,782 510,783 558,782 606,782 654,782 702,779 750,779 798,776 846,779 894,776 943,776 991,776 1039,776 1087,776 1135,776 1183,776 1231,776 1279,774 1327,773 1375,776 1424,773"/>
+                <TextEquiv>
+                    <Unicode>vnd der schreiber oder redner vngefert bekennt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="459,844 998,876 1321,841 1464,883 1642,835 1728,868 1728,771 459,795"/>
+                <Baseline points="468,836 531,838 594,836 657,836 720,833 783,833 846,830 910,830 973,833 1036,830 1099,830 1162,830 1225,830 1288,830 1352,830 1415,830 1478,828 1541,828 1604,830 1667,832 1731,833"/>
+                <TextEquiv>
+                    <Unicode>Coniunctio sert yegklichs artickets notturfftige wörter dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="456,898 497,897 515,911 545,895 647,908 687,900 710,913 727,900 814,897 814,855 767,857 715,838 665,839 641,854 627,839 601,852 534,843 499,859 456,846"/>
+                <Baseline points="465,892 490,890 515,889 540,889 565,889 591,889 616,889 641,889 666,889 691,889 717,889 742,889 767,889 792,888 818,886"/>
+                <TextEquiv>
+                    <Unicode>artickel zu fügen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="456,946 1693,966 1735,908 457,898"/>
+                <Baseline points="465,946 528,943 592,943 655,943 719,943 783,943 846,943 910,940 973,937 1037,937 1101,937 1164,940 1228,938 1291,940 1355,940 1419,940 1482,940 1546,940 1609,940 1673,942 1737,943"/>
+                <TextEquiv>
+                    <Unicode>Constructio leit was man schaeifen oder reden sol eyns yeg¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="452,1018 1257,999 1396,1042 1727,1006 1727,946 452,950"/>
+                <Baseline points="462,997 525,1000 588,998 652,997 715,999 779,1000 842,997 906,997 969,997 1033,995 1096,994 1159,994 1223,991 1286,992 1350,994 1413,994 1477,994 1540,994 1604,994 1667,997 1731,1000"/>
+                <TextEquiv>
+                    <Unicode>lichen artickels züge Bürende wörtter wol geordnet in den ar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="448,1054 484,1063 564,1055 595,1070 608,1060 643,1070 727,1060 727,1010 691,1017 681,1007 596,999 536,1022 510,1006 448,1018"/>
+                <Baseline points="456,1051 481,1051 506,1051 531,1051 556,1051 581,1051 606,1051 631,1051 656,1051 681,1051 706,1051 731,1051"/>
+                <TextEquiv>
+                    <Unicode>tickel setzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="462,1121 1731,1116 1731,1049 462,1060"/>
+                <Baseline points="471,1107 534,1107 597,1105 660,1104 723,1104 786,1104 849,1104 913,1104 976,1104 1039,1104 1102,1104 1165,1102 1228,1104 1291,1101 1355,1102 1418,1101 1481,1104 1544,1104 1607,1104 1670,1106 1734,1104"/>
+                <TextEquiv>
+                    <Unicode>Copulatio sert die woͤrtter eyns yeglichen artickets mit gu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="456,1161 1736,1169 1736,1114 456,1118"/>
+                <Baseline points="465,1158 528,1160 592,1160 656,1159 720,1159 783,1158 847,1160 911,1161 975,1160 1038,1158 1102,1158 1166,1158 1230,1158 1293,1157 1357,1155 1421,1156 1485,1158 1548,1158 1612,1158 1676,1158 1740,1161"/>
+                <TextEquiv>
+                    <Unicode>ter ordnung recht gesamelt zu beschliessung der artickel bringen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="459,1234 1220,1217 1266,1255 1370,1225 1730,1261 1730,1173 459,1162"/>
+                <Baseline points="468,1212 531,1212 594,1212 657,1212 721,1212 784,1215 847,1215 911,1215 974,1214 1037,1212 1101,1212 1164,1212 1227,1212 1290,1209 1354,1211 1417,1212 1480,1212 1544,1215 1607,1215 1670,1215 1734,1221"/>
+                <TextEquiv>
+                    <Unicode>distinctio lert alsen artickeln die man schreiben oder reden sol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="451,1279 619,1269 681,1289 710,1271 767,1292 807,1273 839,1293 873,1274 948,1277 948,1234 900,1221 451,1225"/>
+                <Baseline points="459,1268 484,1268 510,1268 536,1267 562,1266 588,1266 614,1267 640,1268 666,1267 692,1266 718,1266 744,1267 770,1268 796,1267 822,1266 848,1266 874,1267 900,1268 926,1267 952,1266"/>
+                <TextEquiv>
+                    <Unicode>güt vnder scheyd geben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="448,1325 1730,1333 1698,1257 448,1281"/>
+                <Baseline points="456,1319 519,1319 583,1321 647,1322 711,1322 775,1322 839,1322 903,1322 967,1321 1031,1319 1095,1319 1158,1319 1222,1322 1286,1320 1350,1319 1414,1319 1478,1319 1542,1322 1606,1322 1670,1322 1734,1325"/>
+                <TextEquiv>
+                    <Unicode>Orthographia seret welicherley brieff man schreibet sas man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="456,1373 1727,1393 1727,1343 1674,1329 456,1332"/>
+                <Baseline points="465,1373 528,1373 591,1373 654,1373 718,1373 781,1376 844,1376 908,1376 971,1375 1034,1373 1098,1376 1161,1373 1224,1373 1287,1376 1351,1374 1414,1372 1477,1372 1541,1376 1604,1376 1667,1376 1731,1373"/>
+                <TextEquiv>
+                    <Unicode>mag wissen weliche wörtter vnd an weliche end man die Aar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="456,1436 1727,1439 1727,1393 1658,1378 456,1383"/>
+                <Baseline points="465,1430 528,1427 591,1427 654,1427 718,1427 781,1430 844,1430 908,1430 971,1432 1034,1430 1098,1430 1161,1430 1224,1430 1287,1429 1351,1427 1414,1427 1477,1427 1541,1430 1604,1431 1667,1431 1731,1430"/>
+                <TextEquiv>
+                    <Unicode>ein mit den merern büchstaen sol schreiben vn die pauß virgi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="452,1492 1727,1520 1727,1458 1674,1437 452,1437"/>
+                <Baseline points="462,1480 525,1480 588,1480 652,1480 715,1480 779,1480 842,1483 906,1483 969,1483 1033,1481 1096,1483 1159,1481 1223,1483 1286,1480 1350,1480 1413,1480 1477,1480 1540,1483 1604,1484 1667,1483 1731,1480"/>
+                <TextEquiv>
+                    <Unicode>lieren das man es Vester beteutlicher müg lesen des vndersch¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="456,1540 1062,1543 1062,1485 897,1511 753,1488 456,1495"/>
+                <Baseline points="465,1537 495,1536 525,1534 555,1534 585,1535 615,1537 645,1535 675,1534 705,1534 735,1534 765,1534 795,1534 825,1534 855,1534 885,1534 915,1534 945,1534 975,1534 1005,1534 1035,1534 1065,1534"/>
+                <TextEquiv>
+                    <Unicode>eydenlicher vnd bas verstan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="456,1612 1727,1615 1727,1549 1528,1525 456,1540"/>
+                <Baseline points="465,1591 528,1590 591,1588 654,1588 718,1588 781,1588 844,1590 908,1588 971,1588 1034,1588 1098,1591 1161,1591 1224,1591 1287,1588 1351,1588 1414,1586 1477,1588 1541,1588 1604,1592 1667,1594 1731,1591"/>
+                <TextEquiv>
+                    <Unicode>Mutatio læret die woet in eynen yede artickel Lurch sinonima</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="452,1644 1723,1658 1690,1597 452,1612"/>
+                <Baseline points="462,1639 525,1642 588,1642 651,1641 715,1639 778,1642 841,1642 905,1642 968,1642 1031,1644 1095,1645 1158,1645 1221,1645 1284,1642 1348,1642 1411,1642 1474,1640 1538,1642 1601,1645 1664,1645 1728,1648"/>
+                <TextEquiv>
+                    <Unicode>vnnd andere wortter verwechsseln mit selichen andern wört</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="452,1703 1722,1719 1720,1661 1636,1655 451,1656"/>
+                <Baseline points="462,1692 525,1695 588,1695 651,1693 714,1695 777,1695 840,1696 904,1695 967,1695 1030,1695 1093,1695 1156,1696 1219,1698 1282,1697 1346,1695 1409,1695 1472,1695 1535,1695 1598,1697 1661,1701 1725,1701"/>
+                <TextEquiv>
+                    <Unicode>tern die der verwechsselten wortter innhaft außlegung mey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="452,1762 1723,1762 1723,1720 452,1722"/>
+                <Baseline points="462,1749 525,1749 588,1749 651,1749 715,1751 778,1752 841,1752 905,1755 968,1751 1031,1749 1095,1749 1158,1749 1221,1749 1284,1749 1348,1749 1411,1749 1474,1749 1538,1749 1601,1750 1664,1752 1728,1755"/>
+                <TextEquiv>
+                    <Unicode>nung vnnd Bedeütung sind Sarumb das nit zu vit geleicher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="459,1807 1730,1819 1730,1771 1504,1755 459,1760"/>
+                <Baseline points="468,1800 531,1800 594,1802 657,1803 721,1803 784,1806 847,1808 911,1806 974,1803 1037,1803 1101,1803 1164,1804 1227,1803 1290,1803 1354,1803 1417,1803 1480,1803 1544,1800 1607,1806 1670,1808 1734,1812"/>
+                <TextEquiv>
+                    <Unicode>wörtter in eynen artickel geredt oder geschrißen, auch die Blüm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="459,1866 1501,1858 1723,1895 1706,1819 459,1811"/>
+                <Baseline points="468,1851 531,1854 594,1854 657,1857 720,1857 783,1857 846,1860 909,1857 972,1857 1035,1857 1098,1857 1161,1858 1224,1860 1287,1857 1350,1857 1413,1857 1476,1857 1539,1860 1602,1861 1665,1863 1728,1860"/>
+                <TextEquiv>
+                    <Unicode>ser rethorick nicht versert vnd das schreifen vnnd reden nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="462,1917 1319,1934 1381,1918 1380,1869 460,1869"/>
+                <Baseline points="471,1907 516,1907 562,1910 608,1910 653,1910 699,1910 745,1910 790,1910 836,1910 882,1910 928,1910 973,1909 1019,1907 1065,1908 1110,1910 1156,1910 1202,1910 1247,1910 1293,1910 1339,1910 1385,1913"/>
+                <TextEquiv>
+                    <Unicode>vnsieblich zehören vnd auffzenemen werde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="459,1979 1733,1978 1715,1923 1549,1909 459,1915"/>
+                <Baseline points="468,1958 531,1962 594,1962 658,1961 721,1961 785,1961 848,1964 912,1964 975,1962 1039,1962 1102,1964 1165,1964 1229,1964 1292,1964 1356,1964 1419,1967 1483,1967 1546,1967 1610,1967 1673,1970 1737,1973"/>
+                <TextEquiv>
+                    <Unicode>Alteratio dient von welicher sach wegen eyn concept wirdt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="462,2030 1727,2030 1727,1979 1597,1966 462,1976"/>
+                <Baseline points="471,2018 534,2018 597,2018 660,2015 723,2017 786,2015 849,2015 912,2015 975,2015 1038,2015 1101,2018 1164,2018 1227,2018 1290,2018 1353,2018 1416,2018 1479,2018 1542,2021 1605,2021 1668,2021 1731,2024"/>
+                <TextEquiv>
+                    <Unicode>gemacht darinn man sich eins bessern besinnet das et siche woet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="452,2070 1730,2098 1730,2038 1660,2027 452,2032"/>
+                <Baseline points="462,2066 525,2070 589,2072 652,2072 716,2072 780,2072 843,2072 907,2069 970,2069 1034,2069 1098,2069 1161,2069 1225,2069 1288,2069 1352,2069 1416,2072 1479,2072 1543,2075 1606,2075 1670,2075 1734,2078"/>
+                <TextEquiv>
+                    <Unicode>verkert werden vnd die sach darumb manschreibt in eyn besser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="452,2131 1234,2138 1236,2077 454,2078"/>
+                <Baseline points="462,2122 500,2125 539,2125 578,2125 617,2125 656,2125 695,2125 733,2125 772,2125 811,2125 850,2125 889,2125 928,2124 967,2122 1005,2122 1044,2122 1083,2122 1122,2122 1161,2120 1200,2120 1239,2122"/>
+                <TextEquiv>
+                    <Unicode>vnd gefüglicher form gebraucht wirt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="1616,2176 1637,2170 1655,2154 1666,2157 1674,2150 1696,2160 1738,2154 1733,2099 1723,2098 1709,2086 1699,2086 1688,2098 1639,2088 1608,2088"/>
+                <Baseline points="1621,2128 1650,2132 1680,2135 1710,2137 1740,2137"/>
+                <TextEquiv>
+                    <Unicode>Frag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="452,2184 1733,2203 1733,2155 1327,2115 452,2131"/>
+                <Baseline points="462,2176 525,2177 589,2179 653,2179 717,2179 780,2179 844,2179 908,2176 972,2176 1035,2176 1099,2177 1163,2177 1227,2176 1290,2176 1354,2176 1418,2180 1482,2182 1545,2185 1609,2187 1673,2185 1737,2185"/>
+                <TextEquiv>
+                    <Unicode>So man von etwas sach wegen schreifen oder reden will wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="465,2246 1736,2248 1720,2201 1408,2179 465,2184"/>
+                <Baseline points="474,2230 537,2233 600,2233 663,2233 727,2233 790,2236 853,2232 917,2230 980,2233 1043,2233 1107,2233 1170,2232 1233,2233 1296,2233 1360,2233 1423,2234 1486,2238 1550,2239 1613,2241 1676,2239 1740,2242"/>
+                <TextEquiv>
+                    <Unicode>sol man das thün das es recht geredt vnd geschriben vnd Las</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="452,2293 1730,2309 1714,2246 452,2249"/>
+                <Baseline points="462,2284 525,2285 589,2287 652,2287 716,2289 780,2290 843,2288 907,2287 970,2287 1034,2287 1098,2284 1161,2286 1225,2287 1288,2285 1352,2287 1416,2288 1479,2292 1543,2293 1606,2295 1670,2296 1734,2293"/>
+                <TextEquiv>
+                    <Unicode>die rede oder geschrifft eyns yeglichen artickefs kurtzlich sub</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="452,2357 1727,2371 1727,2309 1680,2302 452,2310"/>
+                <Baseline points="462,2337 525,2338 588,2340 652,2340 715,2340 779,2343 842,2342 906,2343 969,2340 1033,2340 1096,2340 1159,2340 1223,2340 1286,2340 1350,2340 1413,2344 1477,2346 1540,2346 1604,2349 1667,2352 1731,2349"/>
+                <TextEquiv>
+                    <Unicode>tilklich vnd wolauffnemlich geredt vnd geblümt werde das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="462,2406 494,2395 515,2409 604,2397 627,2413 647,2401 663,2416 723,2397 846,2408 844,2366 793,2349 627,2347 590,2361 460,2349"/>
+                <Baseline points="471,2394 496,2394 521,2394 546,2394 572,2394 597,2394 622,2394 647,2394 673,2394 698,2394 723,2394 748,2394 774,2394 799,2395 824,2397 850,2397"/>
+                <TextEquiv>
+                    <Unicode>leger ich zewissen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="1249,2416 1292,2401 1303,2413 1346,2401 1367,2413 1393,2398 1418,2417 1463,2419 1463,2349 1428,2358 1402,2342 1389,2355 1359,2342 1332,2360 1314,2361 1277,2345 1249,2347"/>
+                <Baseline points="1257,2397 1283,2397 1309,2396 1335,2395 1361,2395 1387,2397 1413,2397 1439,2397 1466,2397"/>
+                <TextEquiv>
+                    <Unicode>Antwurt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="459,2465 1661,2483 1728,2464 1727,2403 457,2398"/>
+                <Baseline points="468,2445 531,2445 594,2447 657,2448 720,2448 783,2448 846,2451 910,2451 973,2451 1036,2451 1099,2451 1162,2450 1225,2448 1288,2448 1352,2448 1415,2448 1478,2453 1541,2454 1604,2458 1667,2458 1731,2460"/>
+                <TextEquiv>
+                    <Unicode>Ich wilt euch das gern nach meinnem verstan wissen lassenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="459,2507 1733,2516 1733,2472 1423,2451 459,2464"/>
+                <Baseline points="468,2496 531,2499 594,2501 658,2502 721,2502 785,2505 848,2505 912,2502 975,2502 1039,2502 1102,2505 1165,2502 1229,2502 1292,2502 1356,2504 1419,2508 1483,2508 1546,2511 1610,2512 1673,2511 1737,2511"/>
+                <TextEquiv>
+                    <Unicode>ich vermeyn vnd bald das von welicherley sach wegen man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="452,2579 1730,2582 1730,2521 1632,2513 452,2523"/>
+                <Baseline points="462,2552 525,2553 589,2555 652,2556 716,2556 780,2558 843,2555 907,2555 970,2555 1034,2555 1098,2558 1161,2558 1225,2555 1288,2558 1352,2558 1416,2559 1479,2561 1543,2561 1606,2566 1670,2567 1734,2564"/>
+                <TextEquiv>
+                    <Unicode>reden oder schreifenn wölte wie vil die selb sach artickel hab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="456,2612 1730,2628 1728,2577 454,2579"/>
+                <Baseline points="465,2606 528,2606 591,2606 655,2609 718,2609 782,2609 845,2609 909,2609 972,2609 1036,2609 1099,2609 1162,2612 1226,2612 1289,2612 1353,2612 1416,2613 1480,2615 1543,2615 1607,2619 1670,2621 1734,2621"/>
+                <TextEquiv>
+                    <Unicode>wenn et sicher artickel durch die sach so ich denn Lauor gesacht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="462,2681 1733,2686 1733,2628 462,2612"/>
+                <Baseline points="471,2663 534,2661 597,2663 660,2663 724,2663 787,2663 850,2663 914,2663 977,2665 1040,2663 1104,2666 1167,2666 1230,2663 1293,2665 1357,2665 1420,2667 1483,2669 1547,2669 1610,2673 1673,2675 1737,2678"/>
+                <TextEquiv>
+                    <Unicode>hafend sieblichen kurtzen rechtgeordneten worten die vnwille</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="452,2721 1557,2748 1733,2737 1733,2697 451,2684"/>
+                <Baseline points="462,2714 525,2717 589,2717 653,2717 717,2717 780,2717 844,2719 908,2720 972,2720 1035,2718 1099,2719 1163,2719 1227,2720 1290,2720 1354,2720 1418,2723 1482,2725 1545,2726 1609,2728 1673,2729 1737,2732"/>
+                <TextEquiv>
+                    <Unicode>mügen vertreifen freuntlicheyt geseren vnd meren mit linder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="465,2788 1735,2799 1698,2735 465,2726"/>
+                <Baseline points="474,2773 537,2767 600,2769 663,2771 726,2771 789,2773 852,2773 916,2773 979,2772 1042,2772 1105,2773 1168,2775 1231,2773 1294,2773 1358,2775 1421,2776 1484,2779 1547,2782 1610,2782 1673,2784 1737,2785"/>
+                <TextEquiv>
+                    <Unicode>senffter fürbringung die eynem nemlichen sind auffzenemen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="459,2849 986,2876 1354,2836 1736,2881 1735,2799 457,2782"/>
+                <Baseline points="468,2830 531,2824 595,2826 658,2828 722,2830 786,2830 849,2830 913,2827 976,2827 1040,2829 1104,2832 1167,2830 1231,2830 1294,2828 1358,2830 1422,2831 1485,2835 1549,2836 1612,2839 1676,2839 1740,2842"/>
+                <TextEquiv>
+                    <Unicode>geredt oder geschriben vierflussige wörtter Larmn vermitten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="1028,2902 1055,2903 1065,2894 1073,2902 1090,2899 1110,2916 1140,2895 1165,2895 1164,2852 1148,2851 1135,2841 1094,2863 1063,2844 1039,2857 1026,2855"/>
+                <Baseline points="1036,2884 1062,2886 1089,2887 1116,2887 1143,2887 1170,2887"/>
+                <TextEquiv>
+                    <Unicode>a 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>
