@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52663:lm=provided:date=08_06_2023_08:28</Creator>
+		<Created>2023-06-07T09:11:05.934+02:00</Created>
+		<LastChange>2023-12-20T15:44:12.380+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075048" pageNr="66" tsid="154460142" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=MZJQPQQISRXSXEOXPUWZBPKK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LXLSCGMIBHRBNGSFATUJGHAN" imageId="45286782"/>
+	</Metadata>
+	<Page imageFilename="7474445.jpg" imageWidth="2102" imageHeight="2796">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356493303" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686144718222_10838"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686144718222_10838" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="895,421 1989,421 1989,1762 895,1762"/>
+			<TextLine id="region_1686144718222_10838_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="957,513 1932,549 1941,480 956,455"/>
+				<Baseline points="964,504 1009,501 1054,501 1099,501 1144,501 1188,504 1233,507 1278,507 1323,510 1368,510 1412,507 1457,510 1502,510 1547,510 1592,513 1636,513 1681,516 1726,516 1771,519 1816,519 1861,522 1905,522 1944,525"/>
+				<TextEquiv>
+					<Unicode>Der kamerey Vogt ſol ſein der Freyher von hoch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="964,563 1944,590 1943,544 1793,527 964,529"/>
+				<Baseline points="970,549 1015,549 1060,552 1105,552 1150,555 1194,555 1239,555 1284,555 1329,558 1374,558 1418,558 1463,558 1508,561 1553,561 1598,561 1642,564 1687,567 1732,570 1777,567 1822,570 1866,570 1911,573 1947,579"/>
+				<TextEquiv>
+					<Unicode>en klingen/ hat darūb zuͦ lehē die vogty zuͦ eſchentz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="965,608 1941,635 1912,582 964,564"/>
+				<Baseline points="970,600 1015,600 1060,600 1105,600 1150,603 1194,603 1239,606 1284,606 1329,609 1374,609 1418,612 1463,612 1508,612 1553,612 1598,615 1642,615 1687,615 1732,618 1777,618 1822,621 1866,621 1911,621 1944,624"/>
+				<TextEquiv>
+					<Unicode>des vnder amptman iſt der ritter oder Edelknecht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="967,663 991,659 1015,672 1078,660 1140,674 1163,665 1219,682 1245,674 1244,630 1170,628 1131,608 966,624"/>
+				<Baseline points="973,654 1018,651 1063,651 1108,654 1153,654 1197,657 1242,657 1248,660"/>
+				<TextEquiv>
+					<Unicode>von Eſchentz.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="957,711 1947,732 1946,679 1867,665 1788,695 956,654"/>
+				<Baseline points="964,701 1009,701 1054,701 1099,701 1144,704 1188,704 1233,707 1278,710 1323,710 1368,707 1412,710 1457,710 1502,710 1547,713 1592,713 1636,716 1681,716 1726,716 1771,719 1816,722 1861,722 1905,722 1950,728"/>
+				<TextEquiv>
+					<Unicode>Der Graf von Toggenburg ſol ſein aller gotzhuß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="961,770 1864,790 1944,782 1943,741 959,712"/>
+				<Baseline points="967,752 1012,749 1057,749 1102,752 1147,752 1191,755 1236,755 1281,755 1326,758 1371,758 1415,761 1460,761 1505,761 1550,761 1595,764 1639,764 1684,767 1729,767 1774,770 1819,770 1864,770 1908,770 1947,773"/>
+				<TextEquiv>
+					<Unicode>leüten ſchirm herr vnd vogt in der ober vnd nyder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="955,811 1826,849 1944,836 1943,788 954,776"/>
+				<Baseline points="961,800 1006,800 1051,803 1096,803 1141,803 1185,803 1230,806 1275,806 1320,806 1365,806 1409,809 1454,809 1499,809 1544,812 1589,815 1633,815 1678,815 1723,818 1768,821 1813,821 1858,824 1902,824 1947,827"/>
+				<TextEquiv>
+					<Unicode>margk/ vnnd im̄ Gaſtel/ darumb hat Er zuͦ lehen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="961,859 1761,882 1758,828 960,817"/>
+				<Baseline points="967,848 1012,848 1057,848 1102,851 1147,851 1191,854 1236,854 1281,857 1326,857 1371,857 1415,857 1460,857 1505,860 1550,863 1595,866 1639,866 1684,866 1729,869 1762,872"/>
+				<TextEquiv>
+					<Unicode>von dem apte das geſchlos willdenhauß.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="957,909 1946,935 1944,888 1796,864 1725,893 956,860"/>
+				<Baseline points="964,902 1009,899 1054,902 1099,902 1144,905 1188,905 1233,905 1278,905 1323,908 1368,908 1412,908 1457,908 1502,911 1547,914 1592,914 1636,914 1681,917 1726,917 1771,917 1816,920 1861,923 1905,923 1947,929"/>
+				<TextEquiv>
+					<Unicode>Der Freyher von Bottenſtain/ ſol ſein aller Gotz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="949,971 1932,988 1931,944 1758,927 948,915"/>
+				<Baseline points="955,952 1000,949 1045,952 1090,949 1135,952 1179,952 1224,952 1269,955 1314,955 1359,955 1403,958 1448,958 1493,961 1538,961 1583,964 1628,964 1672,964 1717,964 1762,967 1807,970 1852,970 1896,970 1935,973"/>
+				<TextEquiv>
+					<Unicode>haußleüten im Brewſgoͤw vnnd in der Ortnawe/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="951,1013 1941,1033 1939,989 1864,978 950,970"/>
+				<Baseline points="958,997 1003,997 1048,1000 1093,1000 1138,1000 1182,1003 1227,1003 1272,1006 1317,1006 1362,1009 1406,1009 1451,1009 1496,1009 1541,1012 1586,1015 1631,1015 1675,1015 1720,1018 1765,1021 1810,1021 1855,1021 1899,1024 1944,1021"/>
+				<TextEquiv>
+					<Unicode>ober vogte vnd ſchirmherr ⁊cͣ/ hat darumb gehept</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="957,1060 987,1052 1047,1071 1066,1059 1145,1060 1175,1062 1187,1075 1207,1062 1265,1060 1263,1035 1183,1012 1129,1025 1075,1007 1049,1020 1036,1010 956,1015"/>
+				<Baseline points="964,1051 1009,1048 1054,1048 1099,1048 1144,1051 1188,1051 1233,1051 1266,1057"/>
+				<TextEquiv>
+					<Unicode>vil guͦter lehen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="951,1107 1774,1146 1938,1131 1937,1071 1759,1096 1656,1065 950,1060"/>
+				<Baseline points="958,1099 1003,1096 1048,1099 1093,1099 1138,1099 1182,1102 1227,1102 1272,1105 1317,1105 1362,1105 1406,1108 1451,1111 1496,1111 1541,1114 1586,1114 1631,1117 1675,1117 1720,1120 1765,1120 1810,1120 1855,1120 1899,1120 1941,1123"/>
+				<TextEquiv>
+					<Unicode>Andrer aͤmpter vnd des Gotzhauß lehen/ wirt wei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="951,1158 1935,1192 1926,1131 950,1115"/>
+				<Baseline points="958,1150 1003,1147 1048,1147 1093,1147 1138,1150 1182,1153 1227,1153 1272,1153 1317,1156 1362,1156 1406,1159 1451,1159 1496,1162 1541,1162 1586,1165 1631,1167 1675,1167 1720,1167 1765,1170 1810,1170 1855,1170 1899,1170 1938,1179"/>
+				<TextEquiv>
+					<Unicode>ter vmb kurtzwillen nit gedacht/ Des ſey genuͦng</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="949,1200 1931,1246 1928,1192 1841,1176 948,1161"/>
+				<Baseline points="955,1197 1000,1197 1045,1194 1090,1197 1135,1197 1179,1197 1224,1200 1269,1203 1314,1203 1359,1206 1403,1209 1448,1209 1493,1209 1538,1212 1583,1212 1628,1215 1672,1215 1717,1215 1762,1218 1807,1221 1852,1221 1896,1221 1932,1227"/>
+				<TextEquiv>
+					<Unicode>von dem loblichen herkomen vnnd der Stifftung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="951,1263 1893,1293 1891,1237 1842,1231 950,1209"/>
+				<Baseline points="958,1248 1003,1248 1048,1248 1093,1251 1138,1251 1182,1254 1227,1254 1272,1254 1317,1257 1362,1260 1406,1260 1451,1263 1496,1263 1541,1266 1586,1266 1631,1269 1675,1269 1720,1272 1765,1272 1810,1272 1855,1272 1896,1272"/>
+				<TextEquiv>
+					<Unicode>des vil gemellten Gotzhaus Stiffte Aynſideln.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="943,1450 1873,1497 1932,1482 1931,1439 941,1404"/>
+				<Baseline points="949,1448 994,1445 1039,1445 1084,1448 1129,1451 1173,1451 1218,1454 1263,1454 1308,1457 1353,1460 1398,1460 1442,1460 1487,1463 1532,1466 1577,1466 1622,1469 1666,1469 1711,1469 1756,1469 1801,1469 1846,1472 1890,1472 1935,1472"/>
+				<TextEquiv>
+					<Unicode>Gedruckt von Hanßen Reger zuͦ Vlme. Nach vn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="952,1522 1933,1530 1931,1482 950,1455"/>
+				<Baseline points="958,1499 1003,1496 1048,1496 1093,1499 1138,1499 1182,1502 1227,1502 1272,1505 1317,1508 1362,1508 1406,1511 1451,1514 1496,1514 1541,1517 1586,1517 1631,1520 1675,1520 1720,1520 1765,1523 1810,1520 1855,1520 1899,1523 1935,1526"/>
+				<TextEquiv>
+					<Unicode>ſers lieben herrē Gepurt Tauſent Vierhundert vn̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="943,1564 1599,1603 1907,1592 1931,1547 941,1522"/>
+				<Baseline points="949,1550 994,1547 1039,1547 1084,1550 1129,1550 1173,1550 1218,1553 1263,1553 1308,1556 1353,1559 1398,1562 1442,1565 1487,1568 1532,1571 1577,1571 1622,1571 1666,1574 1711,1577 1756,1577 1801,1574 1846,1574 1890,1574 1935,1574"/>
+				<TextEquiv>
+					<Unicode>in den Viervndneüntzigiſten iaren. Auf den .xxix.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686144718222_10838_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="938,1617 1080,1630 1152,1610 1197,1631 1273,1615 1390,1643 1416,1635 1414,1569 1167,1579 1121,1558 1073,1575 997,1551 935,1569"/>
+				<Baseline points="943,1601 988,1598 1033,1601 1078,1604 1123,1607 1167,1607 1212,1607 1257,1610 1302,1610 1347,1613 1392,1613 1418,1613"/>
+				<TextEquiv>
+					<Unicode>tag des Monats Iulii.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

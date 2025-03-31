@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:37</Creator>
+		<Created>2023-06-07T09:11:14.760+02:00</Created>
+		<LastChange>2023-12-20T15:42:29.002+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075026" pageNr="51" tsid="154460111" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=ZYFCUEWUSMOMIWLWYPVFEOMU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SZDERTXUDQDAJTYXXGXHDRTY" imageId="45286933"/>
+	</Metadata>
+	<Page imageFilename="7474509.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356460387" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573693215_417"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573693215_417" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="1114,1615 1951,1615 1951,1823 1114,1823"/>
+			<TextLine id="region_1686573693215_417_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1122,1678 1898,1685 1879,1618 1598,1608 1484,1640 1223,1605 1122,1628"/>
+				<Baseline points="1127,1670 1172,1667 1216,1664 1261,1664 1306,1664 1351,1661 1395,1664 1440,1664 1485,1661 1530,1661 1574,1661 1619,1664 1664,1664 1709,1664 1753,1667 1798,1667 1843,1667 1888,1673 1900,1670"/>
+				<TextEquiv>
+					<Unicode>Dis iſt ſant Meynratz brunn/ der noch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573693215_417_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="1125,1730 1646,1729 1660,1686 1445,1669 1348,1694 1126,1679"/>
+				<Baseline points="1130,1718 1169,1715 1213,1715 1258,1712 1303,1715 1348,1715 1392,1715 1437,1712 1482,1712 1527,1712 1571,1712 1616,1712 1661,1712"/>
+				<TextEquiv>
+					<Unicode>hüt by tag ze Einſidlen ſtat/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573693215_417_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="1119,1783 1361,1778 1473,1803 1603,1778 1734,1807 1838,1787 1838,1733 1707,1714 1237,1744 1119,1727"/>
+				<Baseline points="1124,1771 1169,1768 1213,1768 1258,1768 1303,1768 1348,1768 1392,1768 1437,1765 1482,1768 1527,1768 1571,1768 1616,1768 1661,1768 1706,1768 1750,1768 1795,1771 1840,1771"/>
+				<TextEquiv>
+					<Unicode>Getruckt zuͦ Baſel by Michelfurter.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

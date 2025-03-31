@@ -38,6 +38,14 @@ def evaluate_transkribus(
     Returns:
         DataFrame with document-level evaluation results
     """
+    print(f"Ground truth directory exists: {os.path.exists(ground_truth_dir)}")
+    if os.path.exists(ground_truth_dir):
+        print(f"Ground truth files: {os.listdir(ground_truth_dir)}")
+
+    print(f"Transkribus directory exists: {os.path.exists(transkribus_dir)}")
+    if os.path.exists(transkribus_dir):
+        print(f"Transkribus files: {os.listdir(transkribus_dir)}")
+
     print(f"Finding matching files between ground truth and Transkribus...")
     matched_pairs = find_matching_files(ground_truth_dir, transkribus_dir)
     print(f"Found {len(matched_pairs)} matching documents")

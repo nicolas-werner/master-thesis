@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:36</Creator>
+		<Created>2023-06-07T09:11:10.769+02:00</Created>
+		<LastChange>2023-12-20T15:42:18.273+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075002" pageNr="27" tsid="154460072" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=DHFROHGUXXPUJUOUWHGFNKOQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XTYKCGNZFUIPUPQGCFJSLQYW" imageId="45286834"/>
+	</Metadata>
+	<Page imageFilename="7474482.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356407888" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573373607_207"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573373607_207" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="84,419 1200,419 1200,2184 84,2184"/>
+			<TextLine id="region_1686573373607_207_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="148,496 1094,530 1184,519 1182,448 146,427"/>
+				<Baseline points="155,489 199,486 244,486 289,486 334,486 378,486 423,489 468,486 513,489 557,489 602,492 647,492 692,492 736,495 781,495 826,498 870,498 915,498 960,501 1005,501 1049,504 1094,504 1139,504 1184,507 1187,507"/>
+				<TextEquiv>
+					<Unicode>enbrant die kertz von den himeliſchen liecht/ vn̄ do das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="148,549 1171,567 1162,521 146,497"/>
+				<Baseline points="155,536 199,536 244,536 289,536 334,536 378,536 423,539 468,542 513,542 557,542 602,542 647,545 692,545 736,548 781,551 826,548 870,551 915,551 960,551 1005,554 1049,554 1094,554 1139,554 1172,551"/>
+				<TextEquiv>
+					<Unicode>der morder erſach dz die kertz on dz zittlich für was en¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="142,600 1076,631 1172,620 1172,569 141,546"/>
+				<Baseline points="149,587 193,587 238,587 283,590 328,590 372,590 417,593 462,593 507,593 551,593 596,596 641,596 686,596 730,599 775,602 820,605 865,602 909,602 954,605 999,605 1043,605 1088,605 1133,605 1175,608"/>
+				<TextEquiv>
+					<Unicode>brūnen/ do ſchrey ſynē geſellē an/ vn̄ ſprach. O we geſel¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="145,650 1096,684 1175,672 1175,624 144,597"/>
+				<Baseline points="152,641 196,641 241,641 286,641 331,641 375,644 420,647 465,644 510,644 554,647 599,647 644,650 689,650 733,653 778,653 823,653 867,656 912,656 957,656 1002,656 1046,656 1091,659 1136,662 1178,662"/>
+				<TextEquiv>
+					<Unicode>le/ ſichſtu nit dz groß wūder zeichen ſo hie geſchehē iſt/ di</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="142,707 1172,728 1156,671 142,651"/>
+				<Baseline points="149,692 193,692 238,692 283,692 328,694 372,697 417,697 462,697 507,694 551,697 596,697 641,700 686,703 730,703 775,703 820,703 865,703 909,706 954,706 999,709 1043,706 1088,709 1133,709 1172,709"/>
+				<TextEquiv>
+					<Unicode>ſe kertzen hat gott ſelber an gezündet/ wol an bald vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="140,759 1169,777 1168,734 1058,723 139,706"/>
+				<Baseline points="146,742 190,742 235,742 280,745 325,745 369,745 414,745 459,748 504,748 548,748 593,748 638,751 683,754 727,754 772,754 817,754 862,757 906,757 951,757 996,757 1040,760 1085,763 1130,763 1172,763"/>
+				<TextEquiv>
+					<Unicode>laß vns fliehē/ wan̄ ich forcht dz diſes mort nymer vnge</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="142,807 948,838 1159,831 1171,781 141,767"/>
+				<Baseline points="149,793 193,793 238,793 283,796 328,796 372,799 417,799 462,802 507,799 551,802 596,805 641,808 686,805 730,808 775,808 820,808 865,808 909,811 954,811 999,811 1043,814 1088,814 1133,814 1175,814"/>
+				<TextEquiv>
+					<Unicode>rochē blib/ alſo fluhent ſie vß der zelle/ vn̄ ſo bald warēt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="142,857 1166,884 1143,828 141,807"/>
+				<Baseline points="149,847 193,844 238,847 283,850 328,850 372,853 417,856 462,856 507,853 551,853 596,856 641,856 686,859 730,859 775,859 820,859 865,862 909,862 954,862 999,862 1043,865 1088,865 1133,865 1166,865"/>
+				<TextEquiv>
+					<Unicode>die rappē ſant Meynrat da/ vn̄ ſtochēt zuͦ ynnen/ vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="142,921 1173,927 1147,878 141,852"/>
+				<Baseline points="149,900 193,897 238,897 283,900 328,903 372,903 417,903 462,903 507,906 551,906 596,906 641,909 686,909 730,909 775,909 820,912 865,912 909,912 954,912 999,915 1043,915 1088,915 1133,915 1175,915"/>
+				<TextEquiv>
+					<Unicode>kratztent ſymit iren clawen vnder iren ougē/ vn̄ zarten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="142,963 1156,978 1141,926 142,925"/>
+				<Baseline points="149,951 193,951 238,951 283,954 328,954 372,957 417,957 462,957 507,957 551,957 596,957 641,960 686,960 730,963 775,966 820,969 865,966 909,963 954,963 999,963 1043,966 1088,966 1133,966 1172,967"/>
+				<TextEquiv>
+					<Unicode>ynen da das hor vß/ vn̄ ſchruwen vff ſy das es allēthal¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="135,1026 1151,1048 1164,979 133,966"/>
+				<Baseline points="140,1002 184,1002 229,1002 274,1005 319,1005 363,1005 408,1008 453,1008 498,1008 542,1008 587,1011 632,1011 677,1014 721,1014 766,1014 811,1014 856,1014 900,1017 945,1017 990,1017 1035,1017 1079,1017 1124,1020 1169,1023 1172,1020"/>
+				<TextEquiv>
+					<Unicode>ben in dem wald er ſchal/ do mit lieffent die morder ſch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="137,1063 989,1096 1169,1088 1168,1037 136,1026"/>
+				<Baseline points="143,1052 187,1052 232,1052 277,1055 322,1058 366,1058 411,1058 456,1058 501,1061 545,1061 590,1061 635,1064 680,1064 724,1064 769,1064 814,1064 859,1067 903,1067 948,1067 993,1067 1038,1070 1082,1070 1127,1067 1172,1073"/>
+				<TextEquiv>
+					<Unicode>nellichē an dē zürch ſee/ vn̄ flogēt innē die rappē allna</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="133,1121 1172,1132 1141,1081 133,1064"/>
+				<Baseline points="140,1103 184,1103 229,1106 274,1109 319,1109 363,1109 408,1112 453,1112 498,1112 542,1112 587,1115 632,1115 677,1115 721,1118 766,1118 811,1118 856,1118 900,1118 945,1118 990,1121 1035,1121 1079,1121 1124,1121 1169,1124 1175,1127"/>
+				<TextEquiv>
+					<Unicode>ch mit kratzē/ mit zerren/ vn̄ mit groſſen geſchrey/ vn̄ het</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="127,1163 1162,1186 1137,1132 127,1132"/>
+				<Baseline points="134,1154 178,1154 223,1157 268,1157 313,1160 357,1163 402,1163 447,1166 492,1163 536,1163 581,1166 626,1169 671,1169 715,1169 760,1169 805,1169 850,1169 894,1169 939,1172 984,1172 1029,1172 1073,1172 1118,1172 1163,1172"/>
+				<TextEquiv>
+					<Unicode>ten gern iren herrē gerochē/ vn̄ da die mord̓ gen walrow</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="130,1216 1163,1246 1162,1184 130,1164"/>
+				<Baseline points="137,1208 181,1205 226,1208 271,1208 316,1211 360,1213 405,1216 450,1216 495,1216 539,1219 584,1219 629,1219 674,1219 718,1219 763,1222 808,1219 853,1222 897,1222 942,1222 987,1222 1032,1225 1076,1222 1121,1222 1166,1228"/>
+				<TextEquiv>
+					<Unicode>kamēt/ do ſtond ſant Meynrats geuatter der zymmer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="133,1268 1156,1308 1156,1244 132,1228"/>
+				<Baseline points="140,1258 184,1258 229,1261 274,1261 319,1264 363,1267 408,1267 453,1267 498,1267 542,1270 587,1270 632,1270 677,1273 721,1273 766,1273 811,1273 856,1273 900,1273 945,1273 990,1273 1035,1276 1079,1276 1124,1276 1160,1276"/>
+				<TextEquiv>
+					<Unicode>vor ſynē hüſe vn̄ zimbret/ vn̄ ſyn bruͦder by ime/ vnd do</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="137,1329 1156,1342 1134,1299 998,1285 136,1268"/>
+				<Baseline points="143,1312 187,1309 232,1312 277,1312 322,1315 366,1318 411,1318 456,1318 501,1321 545,1321 590,1321 635,1321 680,1321 724,1324 769,1324 814,1324 859,1324 903,1327 948,1327 993,1327 1038,1327 1082,1327 1127,1327 1160,1330"/>
+				<TextEquiv>
+					<Unicode>die morder alſo mortlichē kamēt gelouffen/ vn̄ die rap¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="127,1375 1163,1390 1163,1348 1114,1339 127,1334"/>
+				<Baseline points="134,1363 178,1360 223,1363 268,1366 313,1369 357,1369 402,1375 447,1372 492,1372 536,1372 581,1372 626,1375 671,1375 715,1378 760,1378 805,1375 850,1375 894,1381 939,1378 984,1378 1029,1378 1073,1378 1118,1378 1163,1384 1166,1384"/>
+				<TextEquiv>
+					<Unicode>pen alſo vaſt vff ſy ſchruwent/ do ſprach d̓ zymermā/ lie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="130,1427 1145,1459 1154,1393 128,1377"/>
+				<Baseline points="137,1413 181,1413 226,1416 271,1419 316,1419 360,1422 405,1422 450,1422 495,1422 539,1422 584,1425 629,1425 674,1428 718,1428 763,1425 808,1425 853,1428 897,1428 942,1428 987,1431 1032,1434 1076,1431 1121,1431 1157,1434"/>
+				<TextEquiv>
+					<Unicode>ber bruͦder ſint dz nit mines gefatterē rappē/ do ſprach</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="124,1469 1149,1507 1140,1448 123,1434"/>
+				<Baseline points="131,1464 175,1464 220,1467 265,1467 310,1470 354,1473 399,1473 444,1473 489,1476 533,1476 578,1476 623,1479 668,1479 712,1479 757,1479 802,1479 847,1479 891,1479 936,1479 981,1482 1026,1482 1070,1482 1115,1485 1151,1488"/>
+				<TextEquiv>
+					<Unicode>er/ ja bruͦder ſicherlich/ diſe lüt hand im etwas geton/ dz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="128,1528 1084,1557 1154,1554 1153,1510 127,1487"/>
+				<Baseline points="134,1515 178,1518 223,1518 268,1521 313,1524 357,1524 402,1527 447,1527 492,1527 536,1527 581,1533 626,1533 671,1533 715,1533 760,1530 805,1530 850,1533 894,1533 939,1533 984,1533 1029,1533 1073,1533 1118,1536 1157,1542"/>
+				<TextEquiv>
+					<Unicode>rechent die rappē gern/ Do ſprach d̓ zymermā/ lieber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="126,1582 966,1611 1143,1605 1155,1562 124,1532"/>
+				<Baseline points="131,1568 175,1568 220,1568 265,1571 310,1574 354,1574 399,1577 444,1577 489,1577 533,1580 578,1580 623,1580 668,1583 712,1580 757,1583 802,1580 847,1583 891,1583 936,1583 981,1586 1026,1586 1070,1586 1115,1589 1160,1592"/>
+				<TextEquiv>
+					<Unicode>bruͦder ſo ermanen ich dich bruͦderlicher truwē dz du in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="124,1628 1048,1664 1155,1659 1154,1606 123,1580"/>
+				<Baseline points="131,1619 175,1619 220,1622 265,1625 310,1628 354,1628 399,1628 444,1628 489,1631 533,1631 578,1631 623,1634 668,1637 712,1634 757,1634 802,1634 847,1634 891,1637 936,1637 981,1637 1026,1637 1070,1637 1115,1640 1157,1643"/>
+				<TextEquiv>
+					<Unicode>nen nach gāgeſt vn̄ luͦgeſt war ſy woͤllent/ ſo will ich hin</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="120,1681 1142,1704 1141,1652 119,1629"/>
+				<Baseline points="128,1670 173,1670 217,1673 262,1676 307,1676 351,1679 396,1679 441,1682 486,1682 530,1682 575,1685 620,1685 665,1685 709,1685 754,1688 799,1685 844,1685 888,1688 933,1688 978,1688 1023,1688 1067,1688 1112,1691 1145,1691"/>
+				<TextEquiv>
+					<Unicode>louffen zuͦ minē geuatter/ vn̄ will do luͦgē was ime ſie/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="130,1734 1111,1764 1146,1759 1145,1709 128,1682"/>
+				<Baseline points="137,1724 181,1724 226,1724 271,1727 316,1730 360,1730 405,1732 450,1732 495,1735 539,1735 584,1738 629,1735 674,1738 718,1738 763,1735 808,1735 853,1738 897,1738 942,1738 987,1738 1032,1741 1076,1741 1121,1741 1148,1744"/>
+				<TextEquiv>
+					<Unicode>Vn̄ do er ī dē wald kam/ do begegnet ym ein ſo ſuͤſſer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="127,1785 1138,1819 1151,1756 126,1737"/>
+				<Baseline points="134,1774 178,1774 223,1777 268,1780 313,1780 357,1783 402,1783 447,1783 492,1786 536,1789 581,1789 626,1789 671,1789 715,1789 760,1786 805,1789 850,1789 894,1792 939,1792 984,1792 1029,1792 1073,1792 1118,1795 1154,1795"/>
+				<TextEquiv>
+					<Unicode>geſmack/ vn̄ wundret in wannen der vil ſuͤſſer geſmack</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="124,1838 1101,1874 1147,1867 1147,1825 123,1812"/>
+				<Baseline points="124,1824 175,1825 220,1828 265,1831 310,1831 354,1834 399,1837 444,1837 489,1837 533,1840 578,1840 623,1843 668,1843 712,1843 757,1840 802,1840 847,1840 891,1843 936,1843 981,1843 1026,1846 1070,1846 1115,1849 1151,1849"/>
+				<TextEquiv>
+					<Unicode>komen mochte/ vn̄ als er in wie zell kam ſach er wie ſyn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="131,1895 1120,1926 1153,1870 130,1841"/>
+				<Baseline points="137,1879 181,1879 226,1882 271,1882 316,1885 360,1885 405,1888 450,1888 495,1891 539,1891 584,1891 629,1894 674,1894 718,1894 763,1891 808,1894 853,1894 897,1894 942,1897 987,1897 1032,1900 1076,1900 1121,1900 1154,1903"/>
+				<TextEquiv>
+					<Unicode>gefatter ermordet lag/ vn̄ wie die kertze zuͦ ſynē houpte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="124,1950 1147,1966 1146,1927 1033,1910 124,1895"/>
+				<Baseline points="131,1932 175,1929 220,1932 265,1932 310,1935 354,1938 399,1938 444,1941 489,1941 533,1941 578,1944 623,1944 668,1944 712,1944 757,1944 802,1944 847,1947 891,1944 936,1947 981,1947 1026,1947 1070,1950 1115,1950 1151,1950"/>
+				<TextEquiv>
+					<Unicode>ſtünd vn̄ brant/ als bald er das erſach/ do kert er wider</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="124,1994 1145,2015 1143,1963 124,1950"/>
+				<Baseline points="131,1980 175,1980 220,1983 265,1986 310,1989 354,1989 399,1992 444,1995 489,1995 533,1995 578,1995 623,1995 668,1998 712,1995 757,1995 802,1998 847,1998 891,1998 936,2001 981,1998 1026,2001 1070,2001 1115,2001 1148,2004"/>
+				<TextEquiv>
+					<Unicode>vß dē finſtren wald/ vn̄ do er gen wolrow kā/ do ſchickt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="122,2042 1068,2080 1143,2073 1142,2019 120,1998"/>
+				<Baseline points="128,2031 173,2031 217,2037 262,2040 307,2040 351,2043 396,2043 441,2046 486,2046 530,2046 575,2046 620,2049 665,2049 709,2049 754,2049 799,2049 844,2049 888,2052 933,2049 978,2052 1023,2055 1067,2055 1112,2058 1145,2064"/>
+				<TextEquiv>
+					<Unicode>er ſyn hußfrowen vn̄ ander erber lüt in dē wald das ſy</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="126,2093 1137,2137 1145,2072 124,2040"/>
+				<Baseline points="131,2081 175,2081 220,2087 265,2090 310,2093 354,2093 399,2099 444,2099 489,2099 533,2099 578,2099 623,2099 668,2099 712,2102 757,2102 802,2102 847,2102 891,2102 936,2105 981,2105 1026,2105 1070,2105 1115,2108 1148,2111"/>
+				<TextEquiv>
+					<Unicode>da by ſeſſent vntz das man in mochte beſtatten/ hiemit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573373607_207_tl_33" custom="readingOrder {index:32;}">
+				<Coords points="124,2160 480,2203 633,2164 1143,2192 1119,2120 123,2093"/>
+				<Baseline points="131,2135 175,2138 220,2144 265,2144 310,2147 354,2150 399,2150 444,2153 489,2156 533,2153 578,2156 623,2156 668,2156 712,2156 757,2156 802,2159 847,2159 891,2159 936,2156 981,2159 1026,2159 1070,2159 1115,2162 1145,2165"/>
+				<TextEquiv>
+					<Unicode>lieff er ſynē bruͦder vn̄ den mordern ernſtlich nach vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

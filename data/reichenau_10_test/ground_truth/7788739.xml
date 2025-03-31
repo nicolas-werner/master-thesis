@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=55964:lm=provided:date=11_12_2023_09:41</Creator>
+		<Created>2023-12-11T09:34:55.703+01:00</Created>
+		<LastChange>2024-03-24T18:00:11.661+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075180" pageNr="185" tsid="154460377" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=YCMXVTJFRIGJSEUKDRWSNSYQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YLIGXKAAZGMUUAHUZYAETBJU" imageId="52869772"/>
+	</Metadata>
+	<Page imageFilename="7788739.jpg" imageWidth="2898" imageHeight="3804">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711357078910" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1702287591503_1653"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1702287591503_1653" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="402,623 1807,623 1807,2944 402,2944"/>
+			<TextLine id="region_1702287591503_1653_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="457,738 1348,724 1563,772 1715,737 1715,660 457,673"/>
+				<Baseline points="465,725 510,722 555,722 600,722 644,722 689,719 734,719 779,722 824,719 868,719 913,719 958,716 1003,716 1048,716 1092,716 1137,719 1182,716 1227,716 1271,716 1316,716 1361,713 1406,713 1451,716 1495,716 1540,716 1585,716 1630,719 1675,719 1719,719"/>
+				<TextEquiv>
+					<Unicode>was aber incongrue geredt oder geſchriben das wirt ſtraffber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="460,783 1263,800 1426,780 1427,742 460,751"/>
+				<Baseline points="468,779 489,779 534,776 579,776 624,776 668,776 713,773 758,773 803,773 847,773 892,773 937,773 982,770 1027,770 1071,770 1116,773 1161,770 1206,770 1251,770 1295,767 1340,767 1385,770 1430,773"/>
+				<TextEquiv>
+					<Unicode>vnd der ſchreiber oder redner vngelert bekennt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="460,858 1319,840 1380,872 1642,835 1706,869 1725,770 461,794"/>
+				<Baseline points="468,833 513,830 558,830 603,830 647,830 692,827 737,827 782,830 827,830 871,830 916,827 961,827 1006,827 1051,824 1095,824 1140,824 1185,824 1230,824 1274,821 1319,824 1364,827 1409,827 1454,824 1498,824 1543,824 1588,824 1633,824 1678,827 1722,830 1728,833"/>
+				<TextEquiv>
+					<Unicode>Coniunctio lert yegklichs artickels notturfftige woͤrter dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="457,897 609,897 635,913 687,901 716,913 732,901 815,896 815,856 761,843 665,840 643,851 627,839 589,856 533,843 498,858 457,845"/>
+				<Baseline points="465,886 510,883 555,883 600,883 644,883 689,883 734,883 779,883 818,886"/>
+				<TextEquiv>
+					<Unicode>artickel zuͦfuͤgen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="460,950 1727,953 1727,905 1580,877 460,899"/>
+				<Baseline points="468,940 477,940 522,937 567,937 612,934 656,937 701,937 746,937 791,937 836,937 880,934 925,934 970,934 1015,934 1059,934 1104,934 1149,934 1194,931 1239,934 1283,934 1328,934 1373,934 1418,934 1463,934 1507,934 1552,934 1597,934 1642,937 1687,937 1731,937"/>
+				<TextEquiv>
+					<Unicode>Conſtructio lert was man ſchreiben oder reden ſol eyns yeg¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="454,1010 1725,1006 1725,967 1614,947 454,950"/>
+				<Baseline points="462,994 507,991 552,991 597,991 641,991 686,991 731,991 776,994 821,994 865,994 910,991 955,988 1000,988 1045,988 1089,988 1134,988 1179,988 1224,988 1268,985 1313,988 1358,991 1403,991 1448,985 1492,988 1537,988 1582,988 1627,988 1672,991 1716,994 1728,994"/>
+				<TextEquiv>
+					<Unicode>lichen artickels zuͦgebuͤrende woͤrtter wol geordnet in den ar</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="457,1060 563,1055 598,1068 613,1057 644,1069 727,1060 727,1012 707,1006 595,1002 536,1017 503,1004 457,1022"/>
+				<Baseline points="465,1048 510,1045 555,1045 600,1045 644,1045 689,1045 731,1051"/>
+				<TextEquiv>
+					<Unicode>tickel ſetzen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="460,1117 1727,1114 1727,1055 1676,1036 460,1058"/>
+				<Baseline points="468,1101 513,1098 558,1101 603,1098 647,1098 692,1098 737,1098 782,1098 827,1098 871,1098 916,1098 961,1098 1006,1098 1051,1098 1095,1098 1140,1098 1185,1098 1230,1098 1274,1098 1319,1095 1364,1095 1409,1095 1454,1098 1498,1098 1543,1098 1588,1098 1633,1098 1678,1101 1722,1104 1731,1104"/>
+				<TextEquiv>
+					<Unicode>Copulatio lert die woͤrtter eyns yeglichen artickels mit guͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="461,1165 1727,1171 1701,1112 461,1117"/>
+				<Baseline points="471,1158 516,1152 561,1152 606,1152 650,1152 695,1155 740,1152 785,1152 830,1152 874,1152 919,1152 964,1152 1009,1152 1054,1152 1098,1152 1143,1152 1188,1152 1233,1152 1277,1149 1322,1152 1367,1149 1412,1149 1457,1152 1501,1149 1546,1152 1591,1149 1636,1152 1681,1155 1725,1158 1731,1158"/>
+				<TextEquiv>
+					<Unicode>ter ordnūg recht geſamelt zuͦ beſchlieſſung der artickel bringē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="461,1235 1736,1249 1709,1163 461,1166"/>
+				<Baseline points="471,1206 516,1206 561,1206 606,1206 650,1206 695,1206 740,1206 785,1206 830,1206 874,1206 919,1206 964,1206 1009,1206 1054,1206 1098,1203 1143,1203 1188,1206 1233,1203 1277,1206 1322,1203 1367,1203 1412,1206 1457,1206 1501,1206 1546,1209 1591,1206 1636,1209 1681,1209 1725,1212 1740,1215"/>
+				<TextEquiv>
+					<Unicode>Diſtinctio lert allen artickeln die man ſchreiben oder reden ſol</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="457,1278 660,1273 681,1289 708,1270 767,1292 796,1273 853,1292 872,1275 945,1276 945,1233 909,1224 457,1227"/>
+				<Baseline points="465,1260 507,1263 552,1260 597,1260 641,1260 686,1260 731,1260 776,1263 821,1263 865,1263 910,1263 949,1266"/>
+				<TextEquiv>
+					<Unicode>guͦt vnderſcheyd geben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="460,1329 1727,1333 1727,1259 1688,1249 460,1279"/>
+				<Baseline points="468,1313 513,1313 558,1313 603,1316 647,1313 692,1316 737,1313 782,1313 827,1316 871,1313 916,1313 961,1313 1006,1313 1051,1313 1095,1313 1140,1313 1185,1313 1230,1316 1274,1316 1319,1313 1364,1313 1409,1313 1454,1313 1498,1313 1543,1313 1588,1313 1633,1316 1678,1316 1722,1319 1731,1316"/>
+				<TextEquiv>
+					<Unicode>Orthographia leret welicherley brieff man ſchreibet das man</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="457,1383 1720,1394 1720,1340 1674,1329 457,1329"/>
+				<Baseline points="465,1370 510,1367 555,1370 600,1367 644,1370 689,1367 734,1367 779,1367 824,1370 868,1370 913,1370 958,1367 1003,1367 1048,1367 1092,1370 1137,1370 1182,1367 1227,1367 1271,1370 1316,1370 1361,1367 1406,1367 1451,1367 1495,1367 1540,1370 1585,1367 1630,1370 1675,1367 1719,1370 1722,1370"/>
+				<TextEquiv>
+					<Unicode>mag wiſſen weliche woͤrtter vnd an weliche end man die dar</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="454,1442 1730,1456 1730,1389 1658,1378 454,1383"/>
+				<Baseline points="462,1424 507,1421 552,1421 597,1421 641,1421 686,1421 731,1421 776,1424 821,1424 865,1424 910,1424 955,1427 1000,1421 1045,1424 1089,1424 1134,1421 1179,1424 1224,1421 1268,1424 1313,1424 1358,1421 1403,1421 1448,1421 1492,1424 1537,1424 1582,1424 1627,1424 1672,1424 1716,1427 1734,1427"/>
+				<TextEquiv>
+					<Unicode>ein mit den merern buͦchſtaben ſol ſchreiben vn̄ die pauß virgi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="457,1486 1728,1516 1728,1458 1674,1437 457,1429"/>
+				<Baseline points="465,1478 477,1475 522,1475 567,1475 612,1475 656,1475 701,1475 746,1475 791,1478 836,1475 880,1478 925,1478 970,1478 1015,1475 1059,1475 1104,1478 1149,1478 1194,1475 1239,1478 1283,1478 1328,1475 1373,1475 1418,1475 1463,1475 1507,1475 1552,1475 1597,1478 1642,1478 1687,1480 1731,1475"/>
+				<TextEquiv>
+					<Unicode>lieren das man es deſter beteutlicher müg leſen des vnderſch¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="454,1539 894,1540 1012,1563 1065,1544 1065,1505 1020,1488 944,1510 454,1483"/>
+				<Baseline points="462,1531 507,1531 552,1528 597,1528 641,1531 686,1528 731,1531 776,1531 821,1531 865,1531 910,1531 955,1531 1000,1528 1045,1531 1068,1534"/>
+				<TextEquiv>
+					<Unicode>eydenlicher vnd bas verſtan</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="457,1602 1723,1609 1723,1556 1526,1521 1009,1564 457,1539"/>
+				<Baseline points="465,1585 510,1582 555,1582 600,1582 644,1582 689,1582 734,1582 779,1582 824,1582 868,1585 913,1582 958,1582 1003,1582 1048,1582 1092,1582 1137,1585 1182,1585 1227,1582 1271,1582 1316,1582 1361,1582 1406,1579 1451,1582 1495,1582 1540,1582 1585,1585 1630,1585 1675,1588 1719,1588 1728,1588"/>
+				<TextEquiv>
+					<Unicode>Mutatio leret die wort in eynē yedē artickel durch ſinonima</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="460,1637 1727,1656 1691,1598 460,1601"/>
+				<Baseline points="468,1633 513,1636 558,1636 603,1636 647,1636 692,1636 737,1636 782,1636 827,1636 871,1639 916,1636 961,1636 1006,1636 1051,1636 1095,1639 1140,1639 1185,1639 1230,1639 1274,1636 1319,1636 1364,1636 1409,1636 1454,1636 1498,1636 1543,1636 1588,1639 1633,1639 1678,1639 1722,1645 1731,1648"/>
+				<TextEquiv>
+					<Unicode>vnnd andere woͤrtter verwechſſeln mit ſolichen andern woͤrt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="450,1703 1719,1719 1719,1663 1618,1650 450,1658"/>
+				<Baseline points="459,1690 504,1690 549,1690 594,1690 638,1690 683,1690 728,1690 773,1690 818,1690 862,1692 907,1692 952,1690 997,1690 1042,1690 1086,1690 1131,1690 1176,1692 1221,1692 1266,1690 1310,1690 1355,1690 1400,1687 1445,1690 1489,1690 1534,1690 1579,1692 1624,1695 1669,1692 1713,1695 1722,1698"/>
+				<TextEquiv>
+					<Unicode>tern die der verwechſſelten woͤrtter innhalt außlegung mey</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="454,1762 1719,1769 1664,1707 454,1720"/>
+				<Baseline points="462,1746 507,1743 552,1743 597,1743 641,1743 686,1743 731,1743 776,1746 821,1746 865,1746 910,1749 955,1746 1000,1743 1045,1743 1089,1743 1134,1743 1179,1743 1224,1743 1268,1743 1313,1743 1358,1743 1403,1743 1448,1743 1492,1743 1537,1746 1582,1746 1627,1746 1672,1746 1716,1752 1722,1749"/>
+				<TextEquiv>
+					<Unicode>nung vnnd bedeütung ſind darumb das nit czuͦ vil geleicher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="461,1808 1722,1822 1722,1768 1621,1757 461,1765"/>
+				<Baseline points="471,1797 516,1794 561,1794 606,1797 650,1797 695,1797 740,1800 785,1800 830,1800 874,1800 919,1800 964,1800 1009,1797 1054,1797 1098,1797 1143,1797 1188,1800 1233,1800 1277,1797 1322,1797 1367,1797 1412,1797 1457,1797 1501,1797 1546,1797 1591,1800 1636,1800 1681,1803 1725,1806 1728,1803"/>
+				<TextEquiv>
+					<Unicode>woͤrtter in eynē artickel geredt od̓ geſchriben/ auch die bluͦm</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="460,1874 1378,1857 1727,1897 1727,1825 1663,1816 460,1808"/>
+				<Baseline points="468,1848 513,1848 558,1848 603,1851 647,1851 692,1851 737,1851 782,1851 827,1854 871,1854 916,1854 961,1851 1006,1851 1051,1851 1095,1851 1140,1851 1185,1851 1230,1851 1274,1851 1319,1851 1364,1851 1409,1851 1454,1848 1498,1851 1543,1854 1588,1854 1633,1857 1678,1854 1722,1857 1731,1857"/>
+				<TextEquiv>
+					<Unicode>der rethorick nicht verſert vnd das ſchreiben vnnd reden nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="461,1911 1375,1922 1357,1870 461,1876"/>
+				<Baseline points="471,1904 516,1904 561,1904 606,1904 650,1904 695,1904 740,1904 785,1904 830,1904 874,1904 919,1904 964,1904 1009,1901 1054,1904 1098,1904 1143,1904 1188,1904 1233,1904 1277,1904 1322,1904 1367,1907 1379,1907"/>
+				<TextEquiv>
+					<Unicode>vnlieblich zehoͤren vnd auffzenemen werde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="460,1967 1731,1984 1714,1925 1509,1905 1461,1937 460,1913"/>
+				<Baseline points="468,1955 513,1958 558,1958 603,1958 647,1955 692,1955 737,1955 782,1955 827,1958 871,1958 916,1958 961,1958 1006,1958 1051,1958 1095,1958 1140,1958 1185,1958 1230,1958 1274,1958 1319,1958 1364,1961 1409,1961 1454,1958 1498,1958 1543,1961 1588,1961 1633,1961 1678,1964 1722,1967 1734,1967"/>
+				<TextEquiv>
+					<Unicode>Alteratio dient von welicher ſach wegen eyn concept wirdt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="461,2030 1727,2035 1727,1978 1601,1965 461,1981"/>
+				<Baseline points="471,2024 477,2021 522,2015 567,2012 612,2012 656,2009 701,2009 746,2012 791,2012 836,2012 880,2009 925,2009 970,2009 1015,2009 1059,2009 1104,2012 1149,2012 1194,2012 1239,2012 1283,2012 1328,2012 1373,2009 1418,2012 1463,2012 1507,2012 1552,2012 1597,2015 1642,2015 1687,2015 1731,2021"/>
+				<TextEquiv>
+					<Unicode>gemacht darinn man ſich eins beſſern beſin̄et das etliche wort</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="460,2065 1731,2097 1731,2034 1671,2022 460,2030"/>
+				<Baseline points="468,2063 513,2066 558,2066 603,2066 647,2066 692,2066 737,2066 782,2066 827,2066 871,2066 916,2066 961,2066 1006,2063 1051,2063 1095,2060 1140,2063 1185,2063 1230,2063 1274,2063 1319,2063 1364,2063 1409,2066 1454,2066 1498,2069 1543,2069 1588,2069 1633,2069 1678,2072 1722,2072 1734,2075"/>
+				<TextEquiv>
+					<Unicode>verkert werden vnd die ſach darūb man ſchreibt in eyn beſſer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="461,2126 1219,2142 1233,2073 461,2085"/>
+				<Baseline points="471,2119 516,2119 561,2122 606,2122 650,2122 695,2122 740,2119 785,2119 830,2119 874,2119 919,2119 964,2116 1009,2116 1054,2116 1098,2116 1143,2116 1188,2116 1233,2119 1236,2119"/>
+				<TextEquiv>
+					<Unicode>vnd gefuͤglicher form gebraucht wirt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="1574,2134 1628,2148 1664,2143 1690,2159 1725,2155 1722,2085 1701,2085 1682,2102 1672,2094 1658,2097 1645,2088 1629,2089 1602,2113 1590,2105 1574,2113"/>
+				<Baseline points="1582,2125 1627,2128 1672,2128 1716,2134 1728,2134"/>
+				<TextEquiv>
+					<Unicode>Frag</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="461,2180 1733,2194 1733,2155 1591,2134 461,2126"/>
+				<Baseline points="471,2173 516,2173 561,2173 606,2173 650,2173 695,2173 740,2173 785,2173 830,2173 874,2173 919,2173 964,2170 1009,2170 1054,2173 1098,2170 1143,2170 1188,2170 1233,2170 1277,2170 1322,2170 1367,2170 1412,2176 1457,2173 1501,2176 1546,2179 1591,2179 1636,2182 1681,2179 1725,2182 1737,2185"/>
+				<TextEquiv>
+					<Unicode>So man von etwas ſach wegen ſchreiben oder reden will wie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="468,2247 1733,2248 1695,2191 468,2185"/>
+				<Baseline points="477,2230 522,2227 567,2227 612,2227 656,2227 701,2227 746,2227 791,2230 836,2230 880,2227 925,2227 970,2224 1015,2227 1059,2227 1104,2227 1149,2227 1194,2224 1239,2227 1283,2227 1328,2227 1373,2227 1418,2227 1463,2230 1507,2230 1552,2233 1597,2236 1642,2233 1687,2233 1731,2239 1737,2239"/>
+				<TextEquiv>
+					<Unicode>ſol man das thuͦn das es recht geredt vnd geſchriben vnd das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="465,2287 1723,2310 1723,2247 465,2248"/>
+				<Baseline points="474,2278 519,2281 564,2281 609,2284 653,2281 698,2284 743,2287 788,2284 833,2281 877,2281 922,2281 967,2281 1012,2281 1056,2281 1101,2278 1146,2278 1191,2278 1236,2278 1280,2278 1325,2278 1370,2278 1415,2281 1460,2284 1504,2287 1549,2287 1594,2287 1639,2290 1684,2290 1728,2290"/>
+				<TextEquiv>
+					<Unicode>die rede oder geſchrifft eyns yeglichē artickels kürtzlich ſub</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="457,2350 1731,2358 1687,2303 457,2295"/>
+				<Baseline points="465,2334 510,2334 555,2334 600,2337 644,2337 689,2334 734,2337 779,2334 824,2334 868,2337 913,2337 958,2334 1003,2334 1048,2337 1092,2334 1137,2334 1182,2334 1227,2334 1271,2331 1316,2334 1361,2334 1406,2334 1451,2337 1495,2340 1540,2340 1585,2343 1630,2346 1675,2343 1719,2346 1734,2346"/>
+				<TextEquiv>
+					<Unicode>tilklich vnd wolauffnemlich geredt vnd gebluͤmt werde das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_33" custom="readingOrder {index:32;}">
+				<Coords points="465,2403 587,2395 678,2412 745,2396 765,2411 824,2401 845,2411 845,2360 757,2349 705,2366 622,2347 606,2365 533,2365 463,2341"/>
+				<Baseline points="474,2388 519,2388 564,2388 609,2388 653,2391 698,2388 743,2388 788,2391 833,2391 847,2397"/>
+				<TextEquiv>
+					<Unicode>beger ich zewiſſen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_34" custom="readingOrder {index:33;}">
+				<Coords points="1233,2408 1255,2416 1286,2403 1303,2412 1345,2401 1370,2414 1388,2408 1470,2422 1470,2363 1383,2349 1364,2360 1341,2353 1314,2361 1278,2346 1233,2347"/>
+				<Baseline points="1242,2394 1286,2391 1331,2388 1376,2388 1421,2391 1466,2397 1472,2397"/>
+				<TextEquiv>
+					<Unicode>Antwurt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_35" custom="readingOrder {index:34;}">
+				<Coords points="471,2470 1730,2466 1730,2412 1679,2393 471,2400"/>
+				<Baseline points="480,2448 525,2442 570,2442 615,2442 659,2442 704,2442 749,2445 794,2445 839,2445 883,2445 928,2445 973,2442 1018,2442 1062,2445 1107,2442 1152,2442 1197,2442 1242,2442 1286,2442 1331,2442 1376,2442 1421,2445 1466,2448 1510,2448 1555,2448 1600,2451 1645,2454 1690,2451 1734,2454"/>
+				<TextEquiv>
+					<Unicode>Ich will euch das gern nach meinnem verſtan wiſſen laſſenn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_36" custom="readingOrder {index:35;}">
+				<Coords points="460,2514 1731,2517 1703,2474 1423,2452 460,2466"/>
+				<Baseline points="468,2493 513,2493 558,2496 603,2496 647,2496 692,2496 737,2496 782,2499 827,2496 871,2499 916,2496 961,2496 1006,2496 1051,2499 1095,2496 1140,2496 1185,2496 1230,2496 1274,2496 1319,2496 1364,2499 1409,2499 1454,2502 1498,2502 1543,2505 1588,2505 1633,2505 1678,2505 1722,2508 1734,2508"/>
+				<TextEquiv>
+					<Unicode>ich vermeyn vnd bald das von welicherley ſach wegen man</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_37" custom="readingOrder {index:36;}">
+				<Coords points="457,2559 1728,2578 1695,2516 457,2509"/>
+				<Baseline points="465,2549 510,2549 555,2549 600,2549 644,2549 689,2549 734,2549 779,2549 824,2552 868,2549 913,2549 958,2549 1003,2549 1048,2549 1092,2552 1137,2552 1182,2549 1227,2549 1271,2549 1316,2549 1361,2552 1406,2555 1451,2555 1495,2555 1540,2555 1585,2555 1630,2558 1675,2558 1719,2558 1731,2561"/>
+				<TextEquiv>
+					<Unicode>reden oder ſchreibenn woͤlle wie vil die ſelb ſach artickel hab</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_38" custom="readingOrder {index:37;}">
+				<Coords points="460,2613 1728,2629 1707,2570 460,2571"/>
+				<Baseline points="468,2600 513,2600 558,2603 603,2603 647,2603 692,2603 737,2603 782,2603 827,2603 871,2603 916,2603 961,2603 1006,2603 1051,2603 1095,2603 1140,2606 1185,2603 1230,2606 1274,2606 1319,2606 1364,2606 1409,2606 1454,2609 1498,2609 1543,2609 1588,2615 1633,2615 1678,2615 1722,2615 1731,2615"/>
+				<TextEquiv>
+					<Unicode>wenn etlicher artickel durch die ſach ſo ich den̄ dauor geſacht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_39" custom="readingOrder {index:38;}">
+				<Coords points="461,2684 1712,2686 1725,2630 460,2614"/>
+				<Baseline points="471,2660 516,2657 561,2657 606,2654 650,2657 695,2657 740,2657 785,2657 830,2657 874,2657 919,2660 964,2660 1009,2660 1054,2660 1098,2660 1143,2657 1188,2660 1233,2660 1277,2660 1322,2657 1367,2660 1412,2660 1457,2663 1501,2663 1546,2666 1591,2666 1636,2666 1681,2666 1725,2672 1728,2672"/>
+				<TextEquiv>
+					<Unicode>habend lieblichē kurtzē rechtgeordneten wortten die vnwillē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_40" custom="readingOrder {index:39;}">
+				<Coords points="463,2723 1674,2750 1734,2746 1733,2699 461,2683"/>
+				<Baseline points="471,2714 516,2711 561,2711 606,2711 650,2711 695,2711 740,2711 785,2714 830,2711 874,2714 919,2714 964,2711 1009,2711 1054,2714 1098,2714 1143,2714 1188,2714 1233,2714 1277,2714 1322,2714 1367,2714 1412,2717 1457,2717 1501,2720 1546,2720 1591,2720 1636,2720 1681,2723 1725,2726 1737,2729"/>
+				<TextEquiv>
+					<Unicode>mügen vertreiben freuntlicheyt geberen vnd meren mit linder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_41" custom="readingOrder {index:40;}">
+				<Coords points="465,2788 1569,2805 1730,2799 1730,2743 463,2726"/>
+				<Baseline points="474,2770 519,2764 564,2764 609,2764 653,2767 698,2764 743,2767 788,2770 833,2767 877,2767 922,2767 967,2767 1012,2767 1056,2767 1101,2767 1146,2767 1191,2767 1236,2767 1280,2767 1325,2767 1370,2770 1415,2770 1460,2773 1504,2776 1549,2776 1594,2776 1639,2776 1684,2779 1728,2782 1734,2782"/>
+				<TextEquiv>
+					<Unicode>ſenffter fürbringung die eynem nemlichen ſind auffzenemen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287591503_1653_tl_42" custom="readingOrder {index:41;}">
+				<Coords points="460,2847 1731,2863 1704,2789 460,2789"/>
+				<Baseline points="468,2827 513,2821 558,2818 603,2821 647,2821 692,2824 737,2827 782,2824 827,2821 871,2821 916,2821 961,2821 1006,2821 1051,2818 1095,2824 1140,2824 1185,2824 1230,2824 1274,2821 1319,2821 1364,2824 1409,2824 1454,2827 1498,2827 1543,2827 1588,2830 1633,2830 1678,2830 1722,2836 1734,2836"/>
+				<TextEquiv>
+					<Unicode>geredt oder geſchriben überflüſſige woͤrtter darinn vermitten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>was aber incongrue geredt oder geſchriben das wirt ſtraffber
+vnd der ſchreiber oder redner vngelert bekennt
+Coniunctio lert yegklichs artickels notturfftige woͤrter dem
+artickel zuͦfuͤgen
+Conſtructio lert was man ſchreiben oder reden ſol eyns yeg¬
+lichen artickels zuͦgebuͤrende woͤrtter wol geordnet in den ar
+tickel ſetzen
+Copulatio lert die woͤrtter eyns yeglichen artickels mit guͦ
+ter ordnūg recht geſamelt zuͦ beſchlieſſung der artickel bringē
+Diſtinctio lert allen artickeln die man ſchreiben oder reden ſol
+guͦt vnderſcheyd geben
+Orthographia leret welicherley brieff man ſchreibet das man
+mag wiſſen weliche woͤrtter vnd an weliche end man die dar
+ein mit den merern buͦchſtaben ſol ſchreiben vn̄ die pauß virgi
+lieren das man es deſter beteutlicher müg leſen des vnderſch¬
+eydenlicher vnd bas verſtan
+Mutatio leret die wort in eynē yedē artickel durch ſinonima
+vnnd andere woͤrtter verwechſſeln mit ſolichen andern woͤrt
+tern die der verwechſſelten woͤrtter innhalt außlegung mey
+nung vnnd bedeütung ſind darumb das nit czuͦ vil geleicher
+woͤrtter in eynē artickel geredt od̓ geſchriben/ auch die bluͦm
+der rethorick nicht verſert vnd das ſchreiben vnnd reden nicht
+vnlieblich zehoͤren vnd auffzenemen werde
+Alteratio dient von welicher ſach wegen eyn concept wirdt
+gemacht darinn man ſich eins beſſern beſin̄et das etliche wort
+verkert werden vnd die ſach darūb man ſchreibt in eyn beſſer
+vnd gefuͤglicher form gebraucht wirt
+Frag
+So man von etwas ſach wegen ſchreiben oder reden will wie
+ſol man das thuͦn das es recht geredt vnd geſchriben vnd das
+die rede oder geſchrifft eyns yeglichē artickels kürtzlich ſub
+tilklich vnd wolauffnemlich geredt vnd gebluͤmt werde das
+beger ich zewiſſen
+Antwurt
+Ich will euch das gern nach meinnem verſtan wiſſen laſſenn
+ich vermeyn vnd bald das von welicherley ſach wegen man
+reden oder ſchreibenn woͤlle wie vil die ſelb ſach artickel hab
+wenn etlicher artickel durch die ſach ſo ich den̄ dauor geſacht
+habend lieblichē kurtzē rechtgeordneten wortten die vnwillē
+mügen vertreiben freuntlicheyt geberen vnd meren mit linder
+ſenffter fürbringung die eynem nemlichen ſind auffzenemen
+geredt oder geſchriben überflüſſige woͤrtter darinn vermitten</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

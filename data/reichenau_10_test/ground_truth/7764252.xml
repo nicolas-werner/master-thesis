@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.3.0:model_id=54840:lm=provided:date=11_09_2023_13:55</Creator>
+		<Created>2023-09-11T14:08:28.074+02:00</Created>
+		<LastChange>2023-09-11T16:07:28.547+02:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075150" pageNr="155" tsid="154460320" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=VAXCQOVOPRQUOHLYKQZYMBBP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SLNFBUAEKTLSTIYPVOTGRBEP" imageId="48050373"/>
+	</Metadata>
+	<Page imageFilename="7764252.jpg" imageWidth="2786" imageHeight="3640">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356942777" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="TextRegion_1694440100914_3635"/>
+				<RegionRefIndexed index="1" regionRef="TextRegion_1694440100914_3634"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="TextRegion_1694440100914_3635" custom="readingOrder {index:0;}">
+			<Coords points="171,460 1045,460 1045,3130 171,3130"/>
+			<TextLine id="line_1694440342218_3644" custom="readingOrder {index:0;}">
+				<Coords points="211,620 509,633 717,601 984,624 983,568 946,562 770,584 478,573 364,536 288,570 210,547"/>
+				<Baseline points="217,609 301,602 346,605 390,605 435,605 480,605 525,605 569,605 614,608 659,614 683,614 728,614 739,614 781,617 808,617 853,617 898,611 942,611 987,611"/>
+				<TextEquiv>
+					<Unicode>Proximus ein prieſter. lxij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440343657_3648" custom="readingOrder {index:1;}">
+				<Coords points="217,672 733,666 916,709 988,698 987,636 885,625 812,659 636,621 216,618"/>
+				<Baseline points="223,668 253,662 298,659 343,659 387,659 432,659 477,656 522,659 566,659 611,659 656,662 668,659 713,665 754,659 805,671 811,671 856,671 901,665 945,668 990,668"/>
+				<TextEquiv>
+					<Unicode>Prudentius ein tichter lxx.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_5" custom="readingOrder {index:2;}">
+				<Coords points="477,779 527,786 564,776 579,760 591,767 609,759 633,774 688,764 742,772 742,703 727,697 689,702 645,672 601,675 578,691 538,673 477,676"/>
+				<Baseline points="483,757 522,751 566,748 611,751 656,751 701,751 745,751"/>
+				<TextEquiv>
+					<Unicode>Ptho</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_6" custom="readingOrder {index:3;}">
+				<Coords points="231,831 484,815 1036,849 1035,801 938,768 230,767"/>
+				<Baseline points="235,820 277,811 322,808 366,808 411,808 456,808 501,808 546,811 590,811 635,811 680,814 725,814 769,817 814,823 859,823 904,820 948,817 993,817 1038,817"/>
+				<TextEquiv>
+					<Unicode>Ptholomeus ſother ein künig. xlij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440345237_3652" custom="readingOrder {index:4;}">
+				<Coords points="230,882 971,878 1044,903 1043,854 974,831 777,870 667,832 229,830"/>
+				<Baseline points="232,865 271,862 316,859 361,859 405,859 450,859 495,862 540,862 584,862 629,862 674,865 689,865 725,877 838,877 865,874 910,871 954,868 999,874 1011,874 1044,874"/>
+				<TextEquiv>
+					<Unicode>Ptholomeus alexander xlij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440346735_3656" custom="readingOrder {index:5;}">
+				<Coords points="233,934 1043,929 1042,903 972,882 870,920 616,873 232,884"/>
+				<Baseline points="238,918 283,910 328,910 372,910 417,910 462,910 507,912 551,912 596,912 641,915 686,921 722,921 805,921 847,927 892,924 936,918 981,921 1026,924 1045,924"/>
+				<TextEquiv>
+					<Unicode>Ptholomeus cleopatre xlij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440347943_3660" custom="readingOrder {index:6;}">
+				<Coords points="233,984 989,981 955,931 852,962 609,924 232,933"/>
+				<Baseline points="232,967 283,960 328,960 372,960 417,960 462,960 507,963 551,963 596,963 641,966 686,969 730,966 754,972 793,972 838,978 883,975 927,969 972,969 990,972"/>
+				<TextEquiv>
+					<Unicode>Ptholomeus dyoniſius xlij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_13" custom="readingOrder {index:7;}">
+				<Coords points="233,1032 998,1044 997,994 956,988 849,1008 777,982 233,983"/>
+				<Baseline points="228,1014 283,1011 328,1011 372,1011 417,1011 462,1011 507,1014 551,1014 596,1017 641,1017 686,1017 730,1020 775,1020 820,1026 865,1023 910,1020 954,1020 999,1023"/>
+				<TextEquiv>
+					<Unicode>Ptholomeus ein künig egipti xxxvj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440350019_3664" custom="readingOrder {index:8;}">
+				<Coords points="230,1086 994,1092 994,1044 812,1071 670,1030 229,1031"/>
+				<Baseline points="224,1068 280,1065 325,1062 369,1062 414,1062 459,1065 504,1065 548,1065 593,1065 638,1068 683,1071 728,1068 742,1074 772,1077 817,1080 862,1077 907,1071 951,1071 996,1077"/>
+				<TextEquiv>
+					<Unicode>Ptholomeus philadelphus xxxvj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_16" custom="readingOrder {index:9;}">
+				<Coords points="230,1137 991,1146 978,1081 855,1081 746,1120 583,1073 230,1087"/>
+				<Baseline points="235,1124 238,1124 283,1115 328,1115 372,1115 417,1112 462,1115 507,1115 551,1115 596,1118 641,1118 686,1121 707,1124 725,1130 769,1124 814,1124 859,1121 904,1118 948,1121 993,1121"/>
+				<TextEquiv>
+					<Unicode>Ptholomeus euergetes. xxxviij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_17" custom="readingOrder {index:10;}">
+				<Coords points="223,1193 987,1196 986,1136 943,1129 758,1166 515,1126 222,1132"/>
+				<Baseline points="229,1178 247,1175 292,1169 337,1166 381,1166 426,1166 471,1166 516,1169 560,1166 605,1169 650,1169 695,1169 710,1172 754,1178 799,1178 844,1178 889,1172 933,1172 978,1175 990,1175"/>
+				<TextEquiv>
+					<Unicode>Ptholomeus philopator xxxviij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_18" custom="readingOrder {index:11;}">
+				<Coords points="486,1271 539,1296 612,1272 654,1289 688,1274 737,1281 736,1186 641,1180 606,1201 552,1182 485,1191"/>
+				<Baseline points="492,1265 516,1262 560,1259 605,1259 650,1262 695,1262 739,1262"/>
+				<TextEquiv>
+					<Unicode>PV</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440352336_3668" custom="readingOrder {index:12;}">
+				<Coords points="220,1334 851,1335 898,1359 994,1340 993,1279 696,1314 483,1264 407,1295 300,1260 219,1286"/>
+				<Baseline points="226,1324 271,1321 316,1315 361,1315 405,1315 450,1318 495,1318 540,1318 584,1324 608,1324 784,1336 817,1336 862,1333 907,1327 951,1324 996,1324"/>
+				<TextEquiv>
+					<Unicode>Publius ein roͤmer xxxij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440353441_3672" custom="readingOrder {index:13;}">
+				<Coords points="228,1391 849,1382 913,1406 1043,1389 1042,1352 970,1336 783,1374 636,1335 226,1339"/>
+				<Baseline points="232,1378 277,1369 322,1366 366,1369 411,1366 456,1369 501,1369 546,1372 590,1372 635,1375 680,1375 719,1378 730,1378 775,1381 781,1381 832,1381 862,1381 907,1381 951,1372 996,1375 1014,1381 1045,1381"/>
+				<TextEquiv>
+					<Unicode>Publius licinius ein roͤmer xlij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_23" custom="readingOrder {index:14;}">
+				<Coords points="230,1442 991,1440 979,1387 827,1430 687,1387 229,1390"/>
+				<Baseline points="235,1429 280,1420 325,1420 369,1420 414,1420 459,1420 504,1420 548,1420 593,1423 638,1426 683,1426 728,1429 772,1432 817,1438 862,1435 907,1429 951,1426 993,1429"/>
+				<TextEquiv>
+					<Unicode>Publius vnd Lucius roͤmer xlij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440356472_3677" custom="readingOrder {index:15;}">
+				<Coords points="228,1500 724,1480 1026,1519 1043,1469 957,1437 906,1470 790,1472 679,1439 226,1437"/>
+				<Baseline points="232,1479 277,1476 322,1470 366,1470 411,1470 456,1470 501,1470 546,1473 590,1473 635,1473 680,1476 725,1479 763,1479 832,1488 880,1485 924,1482 969,1479 1014,1485 1045,1483"/>
+				<TextEquiv>
+					<Unicode>Phul ein künig aſſiriorum xxij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_27" custom="readingOrder {index:16;}">
+				<Coords points="483,1585 526,1583 535,1591 594,1579 663,1599 727,1590 727,1559 700,1544 646,1560 627,1545 590,1541 559,1558 543,1548 483,1567"/>
+				<Baseline points="489,1575 504,1569 548,1566 593,1566 641,1568 689,1569 730,1569"/>
+				<TextEquiv>
+					<Unicode>QV</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440358912_3681" custom="readingOrder {index:17;}">
+				<Coords points="206,1636 985,1649 998,1595 746,1626 572,1582 205,1588"/>
+				<Baseline points="211,1623 256,1623 301,1623 346,1623 390,1623 435,1623 480,1623 525,1626 569,1629 614,1629 647,1632 844,1635 889,1635 933,1632 978,1635 1001,1637"/>
+				<TextEquiv>
+					<Unicode>Quadratus ein biſchoff lvj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_30" custom="readingOrder {index:18;}">
+				<Coords points="206,1692 701,1691 748,1718 827,1687 1043,1707 1043,1670 976,1645 205,1638"/>
+				<Baseline points="211,1673 256,1673 301,1673 346,1673 390,1676 435,1673 480,1673 525,1676 569,1676 614,1679 659,1679 704,1682 748,1679 793,1679 838,1679 883,1682 927,1682 972,1682 993,1682 1014,1685 1045,1688"/>
+				<TextEquiv>
+					<Unicode>Quincius gefunden in buers wercken. xxxij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440362759_3686" custom="readingOrder {index:19;}">
+				<Coords points="206,1735 996,1752 1043,1743 1043,1704 639,1726 469,1689 205,1697"/>
+				<Baseline points="211,1724 256,1724 301,1724 346,1724 390,1724 435,1724 480,1727 525,1727 569,1727 614,1733 659,1736 668,1736 793,1736 838,1736 883,1733 927,1730 972,1733 1002,1739 1008,1739 1045,1741"/>
+				<TextEquiv>
+					<Unicode>Quincius ein roͤmer. xliiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_33" custom="readingOrder {index:20;}">
+				<Coords points="209,1783 988,1799 987,1749 948,1742 692,1761 209,1737"/>
+				<Baseline points="214,1775 259,1775 304,1775 349,1775 393,1775 438,1775 483,1778 528,1778 572,1781 617,1784 662,1784 707,1784 751,1784 796,1784 841,1781 886,1784 930,1781 975,1784 990,1787"/>
+				<TextEquiv>
+					<Unicode>Quiriacus ein biſchoff vnd marterer. lxviij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440364485_3690" custom="readingOrder {index:21;}">
+				<Coords points="206,1835 980,1856 997,1794 805,1830 205,1783"/>
+				<Baseline points="211,1825 256,1822 301,1825 346,1825 390,1825 435,1828 480,1828 525,1828 569,1831 614,1834 659,1837 671,1834 844,1837 889,1831 933,1834 978,1834 999,1837"/>
+				<TextEquiv>
+					<Unicode>Quirinus ein marterer lxij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440366021_3694" custom="readingOrder {index:22;}">
+				<Coords points="206,1890 1001,1894 1000,1855 911,1836 832,1879 205,1833"/>
+				<Baseline points="211,1876 256,1876 301,1876 346,1876 390,1876 435,1879 480,1879 525,1879 569,1882 614,1885 635,1885 805,1889 853,1885 898,1888 942,1885 987,1888 1004,1885"/>
+				<TextEquiv>
+					<Unicode>Quirinus ein marterer. lxiiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440369859_3699" custom="readingOrder {index:23;}">
+				<Coords points="211,1945 878,1936 987,1959 987,1915 613,1925 558,1899 210,1891"/>
+				<Baseline points="217,1930 262,1927 307,1927 352,1927 396,1930 441,1930 486,1930 531,1930 575,1933 608,1933 847,1939 892,1936 936,1936 981,1939 990,1945"/>
+				<TextEquiv>
+					<Unicode>Qutrinus ein marter lvj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_40" custom="readingOrder {index:24;}">
+				<Coords points="211,1989 985,2003 984,1959 882,1940 744,1964 688,1935 377,1962 211,1943"/>
+				<Baseline points="217,1981 262,1978 307,1978 352,1981 396,1978 441,1981 486,1981 531,1981 575,1984 620,1984 665,1987 710,1987 754,1987 799,1987 844,1987 889,1987 933,1987 978,1987 999,1988"/>
+				<TextEquiv>
+					<Unicode>Quintus curcius ein liebhaber der wißheit /</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440371223_3703" custom="readingOrder {index:25;}">
+				<Coords points="207,2044 991,2061 989,2002 927,1995 856,2036 596,1994 206,2003"/>
+				<Baseline points="211,2028 256,2028 301,2031 346,2028 390,2031 435,2031 480,2031 525,2031 569,2034 614,2034 659,2040 671,2037 760,2049 769,2049 814,2046 859,2043 904,2043 948,2037 993,2043"/>
+				<TextEquiv>
+					<Unicode>Quintus ſcipio ein roͤmer xliiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440372344_3707" custom="readingOrder {index:26;}">
+				<Coords points="206,2093 773,2095 975,2132 987,2061 888,2088 671,2052 205,2048"/>
+				<Baseline points="211,2082 256,2082 301,2082 346,2085 390,2085 435,2085 480,2085 525,2082 569,2085 614,2085 659,2088 704,2088 739,2091 754,2097 799,2091 823,2094 868,2100 912,2097 957,2094 990,2097"/>
+				<TextEquiv>
+					<Unicode>Quintus flaminius ein roͤmer xl.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_45" custom="readingOrder {index:27;}">
+				<Coords points="467,2198 479,2201 515,2180 557,2202 605,2188 660,2204 686,2198 682,2116 603,2096 563,2108 531,2098 516,2108 495,2098 462,2100"/>
+				<Baseline points="471,2178 516,2175 560,2175 605,2181 650,2181 686,2186"/>
+				<TextEquiv>
+					<Unicode>RA.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440374573_3711" custom="readingOrder {index:28;}">
+				<Coords points="215,2244 972,2265 980,2190 853,2241 638,2197 213,2189"/>
+				<Baseline points="220,2231 265,2231 310,2234 355,2234 399,2237 444,2237 489,2237 534,2237 578,2240 623,2240 668,2243 713,2243 725,2246 814,2249 850,2252 895,2246 939,2243 984,2246"/>
+				<TextEquiv>
+					<Unicode>Raab ein huffrow ſalomon. xij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_48" custom="readingOrder {index:29;}">
+				<Coords points="218,2301 987,2312 986,2260 889,2249 554,2271 217,2248"/>
+				<Baseline points="223,2282 268,2285 313,2285 358,2285 402,2285 447,2288 492,2288 537,2291 581,2291 626,2294 671,2294 716,2294 760,2294 805,2294 850,2297 895,2297 939,2297 984,2300 990,2297"/>
+				<TextEquiv>
+					<Unicode>Rachboldus ein hertzog friſonum. lxxxviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440376032_3715" custom="readingOrder {index:30;}">
+				<Coords points="215,2343 892,2371 984,2365 983,2305 777,2340 501,2298 214,2304"/>
+				<Baseline points="220,2336 265,2333 310,2336 355,2339 399,2339 444,2336 489,2339 534,2342 578,2342 623,2345 668,2348 671,2348 763,2351 808,2351 853,2351 898,2348 942,2348 987,2351"/>
+				<TextEquiv>
+					<Unicode>Radegundis ein künigin lxxviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440377495_3719" custom="readingOrder {index:31;}">
+				<Coords points="218,2406 725,2407 908,2438 984,2412 983,2373 691,2392 566,2358 216,2344"/>
+				<Baseline points="223,2386 268,2386 313,2389 358,2389 402,2392 447,2392 492,2389 537,2389 581,2392 596,2395 790,2407 808,2407 853,2404 898,2401 942,2401 987,2404"/>
+				<TextEquiv>
+					<Unicode>Raſin ein künig ſirie xxij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_53" custom="readingOrder {index:32;}">
+				<Coords points="483,2503 499,2508 542,2495 564,2510 598,2499 626,2515 636,2509 675,2516 673,2404 622,2415 613,2407 571,2416 532,2405 481,2414"/>
+				<Baseline points="489,2491 534,2482 578,2482 623,2485 668,2491 677,2494"/>
+				<TextEquiv>
+					<Unicode>RE</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_54" custom="readingOrder {index:33;}">
+				<Coords points="214,2553 997,2566 996,2516 945,2510 557,2524 213,2488"/>
+				<Baseline points="220,2542 265,2539 310,2542 355,2542 399,2542 444,2545 489,2545 534,2545 578,2548 623,2548 668,2548 713,2550 757,2550 802,2550 847,2550 892,2550 936,2553 981,2550 999,2553"/>
+				<TextEquiv>
+					<Unicode>Rea ein junckfrow vnd eins künigs tochte̓</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_55" custom="readingOrder {index:34;}">
+				<Coords points="214,2601 988,2616 986,2564 814,2597 693,2557 574,2578 213,2555"/>
+				<Baseline points="220,2589 265,2589 310,2592 355,2592 399,2592 444,2592 489,2595 534,2598 578,2598 623,2598 668,2598 713,2598 736,2607 751,2604 796,2607 841,2607 886,2604 930,2604 975,2604 990,2607"/>
+				<TextEquiv>
+					<Unicode>Rebecca eī muͦter jacob. viij. / xxxiiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_56" custom="readingOrder {index:35;}">
+				<Coords points="220,2655 872,2681 988,2673 987,2616 219,2600"/>
+				<Baseline points="226,2643 271,2640 316,2643 361,2643 405,2643 450,2646 495,2646 540,2646 584,2649 629,2652 674,2652 719,2652 763,2652 808,2652 853,2652 898,2652 942,2655 987,2655 990,2655"/>
+				<TextEquiv>
+					<Unicode>Reformierūg die erſt ſancti benedicti. xxviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440379482_3723" custom="readingOrder {index:36;}">
+				<Coords points="218,2705 947,2735 987,2723 987,2693 900,2674 724,2701 566,2657 216,2655"/>
+				<Baseline points="223,2694 268,2694 313,2694 358,2694 402,2697 447,2697 492,2700 537,2700 581,2703 626,2703 671,2706 677,2706 775,2712 811,2712 856,2709 901,2706 945,2706 990,2709"/>
+				<TextEquiv>
+					<Unicode>Reformierung vil kloͤſter cxxvj.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440381047_3727" custom="readingOrder {index:37;}">
+				<Coords points="217,2751 981,2767 980,2728 880,2754 216,2707"/>
+				<Baseline points="223,2744 268,2741 313,2744 358,2747 369,2747 857,2760 880,2762 924,2759 969,2756 984,2756"/>
+				<TextEquiv>
+					<Unicode>Regina vj.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_61" custom="readingOrder {index:38;}">
+				<Coords points="217,2807 992,2826 983,2767 617,2781 539,2753 216,2751"/>
+				<Baseline points="223,2795 268,2795 313,2795 358,2795 402,2798 447,2798 492,2798 537,2804 581,2804 626,2804 671,2804 716,2807 760,2807 805,2807 850,2807 895,2810 939,2807 984,2810 993,2813"/>
+				<TextEquiv>
+					<Unicode>Reginulpha ein heilige junckfrow. lxxxiiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440382079_3731" custom="readingOrder {index:39;}">
+				<Coords points="217,2852 817,2897 991,2881 989,2828 939,2817 873,2849 725,2815 216,2815"/>
+				<Baseline points="223,2846 268,2846 313,2849 358,2849 402,2849 447,2849 492,2849 537,2855 581,2855 626,2858 671,2858 716,2858 760,2858 778,2864 811,2861 856,2864 901,2861 945,2858 990,2867 993,2867"/>
+				<TextEquiv>
+					<Unicode>Regulus ein biſchoff arelaten̄. liiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_64" custom="readingOrder {index:40;}">
+				<Coords points="217,2903 310,2929 984,2921 956,2883 766,2905 666,2872 284,2877 216,2852"/>
+				<Baseline points="223,2897 268,2897 313,2897 358,2900 402,2900 447,2903 492,2903 537,2906 581,2906 626,2909 671,2909 716,2909 760,2914 781,2912 826,2917 871,2914 915,2912 960,2912 987,2914"/>
+				<TextEquiv>
+					<Unicode>Reguſar ein künig babilonie. xxx.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_65" custom="readingOrder {index:41;}">
+				<Coords points="217,2952 984,2989 983,2921 809,2954 758,2925 216,2910"/>
+				<Baseline points="223,2947 268,2947 313,2950 358,2950 402,2953 447,2953 492,2953 537,2956 581,2956 626,2959 671,2959 716,2959 760,2959 805,2965 850,2965 895,2962 939,2962 984,2965 987,2965"/>
+				<TextEquiv>
+					<Unicode>Remigius ein biſchoff remenen̄. lxxij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3635_tl_66" custom="readingOrder {index:42;}">
+				<Coords points="221,3030 551,3020 693,3055 810,3019 982,3032 981,2988 219,2954"/>
+				<Baseline points="226,2998 271,3001 316,3004 361,3004 405,3004 450,3007 495,3007 540,3010 584,3016 629,3016 674,3013 719,3013 763,3013 808,3019 853,3019 898,3016 942,3016 984,3019"/>
+				<TextEquiv>
+					<Unicode>Rtharedus ein künig gothorum lxxviij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Proximus ein prieſter. lxij.
+Prudentius ein tichter lxx.
+Ptho
+Ptholomeus ſother ein künig. xlij.
+Ptholomeus alexander xlij
+Ptholomeus cleopatre xlij.
+Ptholomeus dyoniſius xlij.
+Ptholomeus ein künig egipti xxxvj
+Ptholomeus philadelphus xxxvj
+Ptholomeus euergetes. xxxviij.
+Ptholomeus philopator xxxviij.
+PV
+Publius ein roͤmer xxxij
+Publius licinius ein roͤmer xlij
+Publius vnd Lucius roͤmer xlij
+Phul ein künig aſſiriorum xxij
+QV
+Quadratus ein biſchoff lvj
+Quincius gefunden in buers wercken. xxxij
+Quincius ein roͤmer. xliiij
+Quiriacus ein biſchoff vnd marterer. lxviij.
+Quirinus ein marterer lxij
+Quirinus ein marterer. lxiiij.
+Qutrinus ein marter lvj
+Quintus curcius ein liebhaber der wißheit /
+Quintus ſcipio ein roͤmer xliiij
+Quintus flaminius ein roͤmer xl.
+RA.
+Raab ein huffrow ſalomon. xij.
+Rachboldus ein hertzog friſonum. lxxxviij
+Radegundis ein künigin lxxviij
+Raſin ein künig ſirie xxij.
+RE
+Rea ein junckfrow vnd eins künigs tochte̓
+Rebecca eī muͦter jacob. viij. / xxxiiij.
+Reformierūg die erſt ſancti benedicti. xxviij
+Reformierung vil kloͤſter cxxvj.
+Regina vj.
+Reginulpha ein heilige junckfrow. lxxxiiij
+Regulus ein biſchoff arelaten̄. liiij
+Reguſar ein künig babilonie. xxx.
+Remigius ein biſchoff remenen̄. lxxij.
+Rtharedus ein künig gothorum lxxviij.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="TextRegion_1694440100914_3634" custom="readingOrder {index:1;}">
+			<Coords points="1045,460 1996,460 1996,3130 1045,3130"/>
+			<TextLine id="TextRegion_1694440100914_3634_tl_3" custom="readingOrder {index:0;}">
+				<Coords points="1347,686 1386,665 1480,700 1548,676 1544,563 1513,574 1481,559 1447,575 1421,578 1398,566 1379,577 1370,571 1343,578"/>
+				<Baseline points="1353,672 1482,680 1550,678"/>
+				<TextEquiv>
+					<Unicode>RI</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_4" custom="readingOrder {index:1;}">
+				<Coords points="1077,726 1865,742 1864,684 1829,676 1735,711 1632,663 1478,700 1076,662"/>
+				<Baseline points="1083,716 1127,716 1172,716 1217,716 1262,716 1306,716 1351,719 1396,719 1441,722 1485,722 1530,722 1575,722 1620,728 1664,730 1709,730 1754,728 1799,725 1843,728 1866,728"/>
+				<TextEquiv>
+					<Unicode>Richardus ein abt virdunenß ciiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_5" custom="readingOrder {index:2;}">
+				<Coords points="1080,782 1847,801 1862,741 1692,773 1492,730 1079,730"/>
+				<Baseline points="1086,766 1130,766 1175,769 1220,766 1265,766 1309,766 1354,769 1399,769 1444,769 1488,772 1533,772 1578,775 1623,778 1667,781 1712,781 1757,778 1802,778 1846,778 1865,776"/>
+				<TextEquiv>
+					<Unicode>Richardus de ſancto victore cviij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440432920_3846" custom="readingOrder {index:3;}">
+				<Coords points="1078,835 1861,845 1840,797 1630,821 1374,781 1077,784"/>
+				<Baseline points="1083,817 1127,817 1172,817 1217,817 1262,817 1306,817 1351,820 1396,820 1441,820 1485,826 1488,826 1760,835 1763,832 1808,829 1864,832"/>
+				<TextEquiv>
+					<Unicode>Riphat ein ſun gomer v</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_8" custom="readingOrder {index:4;}">
+				<Coords points="1081,885 1796,906 1856,898 1855,837 1756,874 1566,831 1492,853 1080,835"/>
+				<Baseline points="1086,868 1130,868 1175,868 1220,868 1265,871 1309,871 1354,871 1399,871 1444,874 1488,874 1533,877 1578,877 1623,880 1667,880 1712,883 1757,886 1802,877 1846,880 1858,883"/>
+				<TextEquiv>
+					<Unicode>Rich der Iuden wider vff kame. xlij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440431436_3842" custom="readingOrder {index:5;}">
+				<Coords points="1040,940 1827,954 1853,950 1852,900 1641,922 1444,879 1039,892"/>
+				<Baseline points="1045,924 1056,924 1080,921 1124,921 1169,921 1214,921 1259,921 1303,921 1348,921 1393,921 1438,924 1482,924 1527,927 1542,930 1685,933 1730,936 1775,933 1820,930 1855,936"/>
+				<TextEquiv>
+					<Unicode>Rich der tartarn huͦb an cxij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_12" custom="readingOrder {index:6;}">
+				<Coords points="1344,1039 1379,1022 1415,1037 1450,1031 1477,1049 1508,1043 1520,1030 1544,1031 1536,939 1439,953 1389,930 1373,940 1336,932"/>
+				<Baseline points="1348,1010 1423,1008 1467,1017 1475,1016 1521,1020 1545,1023"/>
+				<TextEquiv>
+					<Unicode>RO</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_13" custom="readingOrder {index:7;}">
+				<Coords points="1078,1081 1851,1114 1848,1046 1812,1042 1763,1064 1122,1011 1077,1037"/>
+				<Baseline points="1083,1074 1127,1071 1172,1071 1217,1071 1262,1074 1306,1074 1351,1077 1396,1074 1441,1077 1485,1077 1530,1080 1575,1083 1620,1083 1664,1086 1709,1089 1754,1086 1799,1086 1843,1086 1852,1086"/>
+				<TextEquiv>
+					<Unicode>Robertus ein künig in franckrich. ciiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440429336_3838" custom="readingOrder {index:8;}">
+				<Coords points="1080,1140 1856,1162 1854,1095 1697,1130 1469,1090 1079,1083"/>
+				<Baseline points="1086,1124 1130,1121 1175,1121 1220,1121 1265,1124 1309,1124 1354,1124 1399,1127 1444,1130 1488,1127 1533,1130 1554,1133 1733,1139 1778,1136 1822,1136 1858,1139"/>
+				<TextEquiv>
+					<Unicode>Roboam ein künig Iuda xvj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440428213_3834" custom="readingOrder {index:9;}">
+				<Coords points="1081,1195 1382,1184 1420,1208 1525,1182 1748,1221 1856,1202 1855,1162 1709,1150 1639,1177 1507,1145 1079,1139"/>
+				<Baseline points="1086,1175 1130,1172 1175,1172 1220,1175 1265,1175 1309,1175 1354,1175 1399,1175 1444,1178 1488,1178 1518,1181 1599,1187 1643,1193 1688,1193 1733,1190 1778,1187 1822,1187 1858,1187"/>
+				<TextEquiv>
+					<Unicode>Rodoaldus ein biſchoff lxxxiiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_18" custom="readingOrder {index:10;}">
+				<Coords points="1081,1240 1846,1258 1852,1200 1696,1232 1641,1194 1080,1195"/>
+				<Baseline points="1086,1229 1130,1223 1175,1223 1220,1226 1265,1226 1309,1226 1354,1229 1399,1229 1444,1229 1488,1232 1533,1232 1578,1232 1623,1235 1667,1238 1712,1241 1757,1238 1802,1238 1846,1241 1855,1241"/>
+				<TextEquiv>
+					<Unicode>Rodus ein inſul ward gewunnē cxviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440427012_3830" custom="readingOrder {index:11;}">
+				<Coords points="1081,1288 1850,1299 1829,1249 1729,1281 1432,1268 1376,1234 1080,1244"/>
+				<Baseline points="1086,1276 1130,1274 1175,1274 1220,1276 1265,1276 1309,1276 1354,1279 1399,1279 1417,1282 1709,1285 1754,1291 1799,1288 1843,1288 1852,1288"/>
+				<TextEquiv>
+					<Unicode>Rome in trurikeit xl.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_21" custom="readingOrder {index:12;}">
+				<Coords points="1080,1340 1812,1366 1851,1357 1850,1299 1079,1290"/>
+				<Baseline points="1086,1330 1130,1327 1175,1327 1220,1327 1265,1327 1309,1330 1354,1333 1399,1330 1444,1330 1488,1333 1533,1333 1578,1333 1623,1333 1667,1336 1712,1339 1757,1339 1802,1339 1846,1342 1852,1342"/>
+				<TextEquiv>
+					<Unicode>Rom ward gewonnen vō den gothis. lxx.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_22" custom="readingOrder {index:13;}">
+				<Coords points="1075,1394 1857,1405 1846,1357 1460,1380 1416,1343 1074,1341"/>
+				<Baseline points="1080,1381 1124,1378 1169,1378 1214,1378 1259,1378 1303,1381 1348,1381 1393,1384 1438,1384 1461,1387 1473,1387 1518,1387 1563,1387 1608,1387 1652,1387 1697,1390 1742,1390 1787,1387 1831,1390 1858,1393"/>
+				<TextEquiv>
+					<Unicode>Romanus ein bapſt xcviij. / xvj.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_23" custom="readingOrder {index:14;}">
+				<Coords points="1081,1446 1850,1458 1848,1402 1080,1388"/>
+				<Baseline points="1086,1429 1130,1429 1175,1429 1220,1429 1265,1429 1309,1432 1354,1432 1399,1435 1444,1435 1488,1435 1533,1435 1578,1435 1623,1438 1667,1438 1712,1441 1757,1441 1802,1441 1846,1441 1862,1442"/>
+				<TextEquiv>
+					<Unicode>Roͤmer ertoͤtē vil vngloͤubige̓ ſarracen lxx¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_24" custom="readingOrder {index:15;}">
+				<Coords points="1078,1501 1853,1502 1852,1457 1794,1452 1722,1477 1568,1447 1077,1446"/>
+				<Baseline points="1083,1479 1127,1479 1172,1479 1217,1479 1262,1482 1306,1482 1351,1485 1396,1485 1441,1485 1485,1485 1530,1485 1575,1485 1620,1488 1664,1488 1709,1491 1754,1491 1799,1491 1843,1494 1855,1491"/>
+				<TextEquiv>
+					<Unicode>Rom d̓ ſtat inwoner wurdē gezalt. xliiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_25" custom="readingOrder {index:16;}">
+				<Coords points="1075,1557 1852,1554 1834,1506 1074,1499"/>
+				<Baseline points="1080,1533 1124,1533 1169,1533 1214,1533 1259,1533 1303,1536 1348,1536 1393,1533 1438,1536 1482,1536 1527,1536 1572,1539 1617,1539 1661,1542 1706,1545 1751,1542 1796,1545 1840,1545 1852,1548"/>
+				<TextEquiv>
+					<Unicode>Rock des heren ward gefunden lxxviij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_26" custom="readingOrder {index:17;}">
+				<Coords points="1280,1620 1352,1654 1430,1636 1503,1652 1567,1642 1568,1558 1552,1551 1517,1559 1357,1548 1326,1572 1281,1567"/>
+				<Baseline points="1285,1638 1300,1635 1345,1635 1390,1626 1435,1632 1479,1632 1524,1629 1569,1635"/>
+				<TextEquiv>
+					<Unicode>RV</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_27" custom="readingOrder {index:18;}">
+				<Coords points="1074,1692 1271,1720 1347,1695 1839,1718 1852,1652 1794,1687 1714,1654 1456,1669 1313,1629 1073,1654"/>
+				<Baseline points="1080,1682 1124,1682 1169,1682 1214,1685 1259,1688 1303,1688 1348,1688 1393,1691 1438,1691 1482,1691 1527,1691 1572,1694 1617,1697 1661,1697 1706,1697 1751,1700 1796,1700 1840,1697 1855,1697"/>
+				<TextEquiv>
+					<Unicode>Ruben der erſten geborn ſun Iacobs x</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440423823_3826" custom="readingOrder {index:19;}">
+				<Coords points="1074,1746 1844,1780 1851,1714 1795,1698 1644,1747 1444,1705 1272,1720 1073,1691"/>
+				<Baseline points="1080,1736 1124,1736 1169,1736 1214,1739 1259,1739 1303,1739 1348,1739 1393,1739 1438,1742 1461,1745 1635,1754 1673,1754 1718,1751 1763,1748 1808,1748 1852,1748"/>
+				<TextEquiv>
+					<Unicode>Rubertus ein keiſer cxxij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_31" custom="readingOrder {index:20;}">
+				<Coords points="1275,1848 1298,1854 1320,1843 1363,1858 1445,1837 1551,1865 1554,1761 1373,1752 1278,1788"/>
+				<Baseline points="1281,1846 1291,1846 1336,1840 1382,1830 1429,1834 1473,1831 1518,1834 1554,1837"/>
+				<TextEquiv>
+					<Unicode>SA</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440417440_3818" custom="readingOrder {index:21;}">
+				<Coords points="1072,1914 1851,1920 1830,1875 1760,1905 1439,1891 1259,1848 1162,1863 1122,1836 1070,1853"/>
+				<Baseline points="1077,1891 1121,1888 1166,1888 1211,1891 1256,1891 1300,1891 1345,1894 1390,1897 1435,1900 1486,1900 1739,1912 1763,1912 1808,1906 1852,1909"/>
+				<TextEquiv>
+					<Unicode>Saba ein ſun chus vj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440416256_3814" custom="readingOrder {index:22;}">
+				<Coords points="1069,1950 1857,1974 1835,1916 1609,1947 1068,1910"/>
+				<Baseline points="1074,1942 1118,1939 1163,1939 1205,1942 1718,1957 1763,1960 1808,1954 1852,1957 1858,1957"/>
+				<TextEquiv>
+					<Unicode>Saba vi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440414705_3810" custom="readingOrder {index:23;}">
+				<Coords points="1069,2004 1431,2005 1517,2032 1796,2008 1844,2036 1855,1967 1755,2005 1067,1950"/>
+				<Baseline points="1074,1993 1118,1990 1163,1993 1208,1993 1253,1996 1297,1999 1342,2002 1354,2004 1712,2007 1757,2013 1802,2007 1846,2007 1858,2007"/>
+				<TextEquiv>
+					<Unicode>Sabatha vj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440413440_3806" custom="readingOrder {index:24;}">
+				<Coords points="1072,2054 1851,2082 1826,2019 1660,2053 1367,2051 1258,2005 1071,2005"/>
+				<Baseline points="1077,2043 1121,2043 1166,2043 1211,2043 1256,2046 1300,2046 1345,2052 1357,2058 1706,2061 1718,2061 1763,2055 1808,2055 1852,2055"/>
+				<TextEquiv>
+					<Unicode>Sabathala. vj.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_40" custom="readingOrder {index:25;}">
+				<Coords points="1071,2103 1265,2133 1334,2108 1836,2129 1853,2079 1070,2055"/>
+				<Baseline points="1077,2097 1121,2094 1166,2094 1211,2094 1256,2094 1300,2097 1345,2097 1390,2097 1435,2100 1479,2100 1524,2100 1569,2100 1614,2103 1658,2103 1703,2109 1748,2112 1793,2106 1837,2109 1855,2109"/>
+				<TextEquiv>
+					<Unicode>Saburſadach ein künig babilonie xxx</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440411674_3802" custom="readingOrder {index:26;}">
+				<Coords points="1069,2155 1794,2184 1851,2171 1850,2123 1650,2150 1067,2101"/>
+				<Baseline points="1074,2148 1118,2145 1163,2145 1208,2145 1253,2148 1297,2148 1342,2148 1387,2148 1432,2154 1438,2151 1706,2160 1751,2160 1796,2160 1840,2160 1852,2160"/>
+				<TextEquiv>
+					<Unicode>Sabellius ein ketzer xii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440410493_3798" custom="readingOrder {index:27;}">
+				<Coords points="1066,2211 1664,2233 1779,2210 1850,2236 1848,2174 1823,2167 1724,2208 1469,2193 1428,2165 1065,2162"/>
+				<Baseline points="1071,2198 1115,2195 1160,2195 1205,2195 1250,2198 1294,2198 1339,2198 1384,2198 1429,2201 1453,2204 1718,2216 1763,2210 1808,2207 1852,2210"/>
+				<TextEquiv>
+					<Unicode>Sabina ein marterin lvj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440409166_3794" custom="readingOrder {index:28;}">
+				<Coords points="1066,2261 1851,2277 1850,2240 1779,2210 1650,2260 1065,2221"/>
+				<Baseline points="1071,2249 1115,2246 1160,2246 1205,2246 1250,2249 1265,2255 1646,2267 1673,2267 1718,2264 1763,2261 1808,2261 1852,2264"/>
+				<TextEquiv>
+					<Unicode>Sabinus. lxiiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440407124_3790" custom="readingOrder {index:29;}">
+				<Coords points="1066,2311 1851,2335 1842,2276 1689,2310 1592,2305 1522,2264 1065,2264"/>
+				<Baseline points="1071,2300 1115,2300 1160,2300 1205,2300 1250,2300 1294,2300 1339,2300 1384,2303 1429,2306 1441,2306 1703,2318 1748,2315 1793,2312 1837,2315 1852,2318"/>
+				<TextEquiv>
+					<Unicode>Sadoch ein biſchoff xvj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440403522_3783" custom="readingOrder {index:30;}">
+				<Coords points="1069,2362 1831,2391 1852,2336 1541,2357 1444,2321 1067,2316"/>
+				<Baseline points="1074,2351 1118,2351 1163,2351 1208,2354 1253,2351 1297,2351 1342,2354 1387,2357 1432,2360 1470,2363 1646,2366 1691,2371 1736,2368 1781,2363 1825,2363 1855,2366"/>
+				<TextEquiv>
+					<Unicode>Sadoch ein biſchoff xxiiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_52" custom="readingOrder {index:31;}">
+				<Coords points="1068,2409 1804,2443 1856,2439 1855,2382 1067,2360"/>
+				<Baseline points="1074,2404 1118,2401 1163,2401 1208,2404 1253,2401 1297,2404 1342,2404 1387,2407 1432,2410 1476,2410 1521,2413 1566,2413 1611,2413 1655,2416 1700,2419 1745,2422 1790,2419 1834,2416 1858,2419"/>
+				<TextEquiv>
+					<Unicode>Sadoch von dē geſchlecht Iuda xxxvj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440402172_3779" custom="readingOrder {index:32;}">
+				<Coords points="1066,2461 1851,2496 1836,2432 1742,2466 1065,2408"/>
+				<Baseline points="1071,2455 1115,2452 1160,2452 1205,2455 1250,2455 1294,2455 1339,2458 1384,2461 1429,2461 1473,2461 1518,2461 1563,2464 1599,2467 1709,2470 1741,2474 1763,2473 1808,2470 1852,2473"/>
+				<TextEquiv>
+					<Unicode>Saffrus ein künig aſſiriorum xij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440401073_3775" custom="readingOrder {index:33;}">
+				<Coords points="1068,2510 1851,2537 1850,2501 1799,2482 1687,2514 1067,2461"/>
+				<Baseline points="1074,2503 1118,2506 1163,2506 1208,2506 1253,2506 1297,2506 1342,2506 1387,2509 1432,2512 1476,2512 1494,2518 1640,2518 1682,2521 1727,2521 1772,2515 1817,2515 1852,2521"/>
+				<TextEquiv>
+					<Unicode>Salaberga ein ebtiſſin. lxxx.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440399745_3771" custom="readingOrder {index:34;}">
+				<Coords points="1066,2571 1843,2597 1842,2530 1660,2560 1565,2516 1436,2544 1064,2508"/>
+				<Baseline points="1071,2556 1115,2556 1160,2556 1205,2556 1250,2556 1294,2556 1339,2559 1384,2559 1429,2562 1473,2565 1518,2565 1563,2565 1593,2565 1629,2571 1673,2574 1718,2574 1763,2571 1808,2568 1846,2571"/>
+				<TextEquiv>
+					<Unicode>Salathiel ein hertzog iſrael xxviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440397921_3767" custom="readingOrder {index:35;}">
+				<Coords points="1067,2625 1814,2643 1842,2595 1687,2611 1489,2575 1065,2571"/>
+				<Baseline points="1071,2607 1115,2607 1160,2607 1205,2607 1250,2607 1294,2610 1339,2610 1384,2613 1429,2613 1473,2616 1494,2616 1503,2616 1535,2621 1694,2622 1712,2628 1757,2622 1802,2619 1846,2619"/>
+				<TextEquiv>
+					<Unicode>Sale in der linie chriſti vj.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440396771_3763" custom="readingOrder {index:36;}">
+				<Coords points="1068,2668 1845,2695 1843,2626 1676,2669 1533,2643 1499,2663 1430,2627 1067,2625"/>
+				<Baseline points="1074,2658 1118,2658 1163,2658 1208,2661 1253,2661 1297,2661 1342,2664 1387,2664 1432,2664 1461,2670 1665,2677 1712,2676 1757,2670 1802,2670 1846,2676"/>
+				<TextEquiv>
+					<Unicode>Galinus ein biſchoff. xciiij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440393273_3756" custom="readingOrder {index:37;}">
+				<Coords points="1068,2725 1601,2717 1847,2752 1846,2696 1666,2717 1447,2676 1067,2674"/>
+				<Baseline points="1074,2712 1094,2709 1139,2712 1184,2709 1229,2712 1274,2712 1318,2712 1363,2715 1408,2718 1453,2715 1497,2718 1544,2722 1566,2718 1596,2715 1664,2724 1709,2730 1754,2727 1799,2721 1843,2724 1849,2727"/>
+				<TextEquiv>
+					<Unicode>Salmon ein ſun naaſon xij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440391826_3752" custom="readingOrder {index:38;}">
+				<Coords points="1071,2777 1850,2798 1841,2742 1638,2769 1521,2728 1070,2734"/>
+				<Baseline points="1077,2759 1121,2762 1166,2762 1211,2762 1256,2762 1300,2762 1345,2765 1390,2765 1435,2768 1479,2771 1524,2768 1566,2771 1697,2780 1718,2780 1763,2777 1808,2774 1852,2777"/>
+				<TextEquiv>
+					<Unicode>Salomon ein fridlich künig xvj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="TextRegion_1694440100914_3634_tl_68" custom="readingOrder {index:39;}">
+				<Coords points="1068,2821 1309,2822 1410,2854 1611,2830 1828,2847 1846,2793 1067,2780"/>
+				<Baseline points="1074,2813 1118,2813 1163,2813 1208,2813 1253,2813 1297,2816 1342,2816 1387,2819 1432,2819 1476,2822 1521,2819 1566,2822 1611,2822 1655,2822 1700,2825 1745,2822 1790,2825 1834,2825 1849,2825"/>
+				<TextEquiv>
+					<Unicode>Salmanazar ein künig aſſiriorum xxiiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440390582_3748" custom="readingOrder {index:40;}">
+				<Coords points="1068,2868 1845,2898 1844,2857 1798,2834 1680,2869 1067,2819"/>
+				<Baseline points="1074,2864 1118,2864 1163,2864 1208,2867 1253,2864 1297,2867 1342,2867 1387,2867 1396,2870 1635,2873 1679,2882 1724,2879 1769,2876 1814,2873 1846,2876"/>
+				<TextEquiv>
+					<Unicode>Saluſtius criſpus xliij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440388799_3744" custom="readingOrder {index:41;}">
+				<Coords points="1075,2932 1547,2948 1643,2925 1840,2954 1845,2898 1588,2920 1478,2874 1370,2900 1073,2874"/>
+				<Baseline points="1080,2914 1124,2917 1169,2914 1214,2917 1259,2914 1303,2917 1348,2917 1393,2920 1438,2920 1482,2920 1527,2923 1539,2926 1554,2926 1596,2929 1635,2923 1679,2935 1724,2932 1769,2926 1814,2929 1849,2929"/>
+				<TextEquiv>
+					<Unicode>Samaria ward gebuwen xviij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440387765_3740" custom="readingOrder {index:42;}">
+				<Coords points="1071,2978 1824,2998 1840,2951 1671,2973 1423,2933 1070,2933"/>
+				<Baseline points="1077,2965 1121,2965 1166,2968 1211,2968 1256,2968 1300,2968 1345,2968 1390,2971 1435,2971 1450,2971 1670,2980 1715,2983 1760,2980 1805,2977 1857,2981"/>
+				<TextEquiv>
+					<Unicode>Sampſon ein richter xiiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1694440384383_3735" custom="readingOrder {index:43;}">
+				<Coords points="1069,3040 1857,3049 1856,2998 1729,2984 1671,3016 1469,2980 1068,2978"/>
+				<Baseline points="1074,3019 1118,3019 1163,3019 1208,3019 1253,3019 1297,3019 1342,3022 1387,3025 1432,3022 1476,3025 1751,3028 1796,3031 1859,3033"/>
+				<TextEquiv>
+					<Unicode>Sampſon ein biſchoff. lxxviij</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>RI
+Richardus ein abt virdunenß ciiij.
+Richardus de ſancto victore cviij.
+Riphat ein ſun gomer v
+Rich der Iuden wider vff kame. xlij
+Rich der tartarn huͦb an cxij
+RO
+Robertus ein künig in franckrich. ciiij.
+Roboam ein künig Iuda xvj
+Rodoaldus ein biſchoff lxxxiiij.
+Rodus ein inſul ward gewunnē cxviij
+Rome in trurikeit xl.
+Rom ward gewonnen vō den gothis. lxx.
+Romanus ein bapſt xcviij. / xvj.
+Roͤmer ertoͤtē vil vngloͤubige̓ ſarracen lxx¬
+Rom d̓ ſtat inwoner wurdē gezalt. xliiij.
+Rock des heren ward gefunden lxxviij.
+RV
+Ruben der erſten geborn ſun Iacobs x
+Rubertus ein keiſer cxxij.
+SA
+Saba ein ſun chus vj
+Saba vi
+Sabatha vj
+Sabathala. vj.
+Saburſadach ein künig babilonie xxx
+Sabellius ein ketzer xii
+Sabina ein marterin lvj
+Sabinus. lxiiij.
+Sadoch ein biſchoff xvj
+Sadoch ein biſchoff xxiiij
+Sadoch von dē geſchlecht Iuda xxxvj
+Saffrus ein künig aſſiriorum xij
+Salaberga ein ebtiſſin. lxxx.
+Salathiel ein hertzog iſrael xxviij
+Sale in der linie chriſti vj.
+Galinus ein biſchoff. xciiij
+Salmon ein ſun naaſon xij.
+Salomon ein fridlich künig xvj
+Salmanazar ein künig aſſiriorum xxiiij.
+Saluſtius criſpus xliij.
+Samaria ward gebuwen xviij.
+Sampſon ein richter xiiij.
+Sampſon ein biſchoff. lxxviij</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.4.0:model_id=54840:lm=provided:date=16_10_2023_13:29</Creator>
+		<Created>2023-09-11T14:08:28.985+02:00</Created>
+		<LastChange>2024-01-24T14:30:18.404+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075156" pageNr="161" tsid="154460330" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=EFJYYXPANGBAELGKLOZBCCJX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XBLBFQRYGIQSAHJCKJTYWGLX" imageId="48050382"/>
+	</Metadata>
+	<Page imageFilename="7764261.jpg" imageWidth="2786" imageHeight="3640">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356966292" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1697462872778_3779"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1697462872778_3779" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="891,618 2561,618 2561,2498 891,2498"/>
+			<TextLine id="region_1697462872778_3779_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="973,753 2483,721 2485,629 1627,632 1265,680 1077,630 975,663"/>
+				<Baseline points="984,739 1011,733 1056,733 1100,733 1145,730 1190,730 1235,728 1279,725 1324,725 1369,725 1414,722 1458,719 1503,719 1548,716 1593,716 1638,716 1682,713 1727,710 1772,710 1817,710 1861,713 1906,707 1951,707 1996,707 2040,707 2085,704 2130,704 2175,704 2219,701 2264,701 2309,701 2354,701 2398,698 2443,698 2488,698"/>
+				<TextEquiv>
+					<Unicode>gerechtikeit vnd aber al die weg des herren barmhertzikeit vnd worheit. doch ſo halt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="968,797 2298,776 2478,765 2480,722 970,751"/>
+				<Baseline points="981,784 1005,784 1050,784 1094,784 1139,784 1184,781 1229,778 1274,778 1318,778 1363,772 1408,772 1453,772 1497,769 1542,769 1587,766 1632,766 1676,766 1721,763 1766,763 1811,760 1855,760 1900,760 1945,760 1990,757 2034,757 2079,757 2124,754 2169,754 2213,754 2258,751 2303,751 2348,751 2392,751 2437,748 2482,748"/>
+				<TextEquiv>
+					<Unicode>die barmhertzikeit dz ſcepē ſo lāg wir vff dē weg ſind wē ſü verſeit keim ſünd̓ genod</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="968,849 2483,811 2460,759 970,799"/>
+				<Baseline points="978,835 1011,835 1056,835 1100,835 1145,832 1190,832 1235,829 1279,826 1324,826 1369,826 1414,823 1458,823 1503,823 1548,820 1593,817 1638,817 1682,817 1727,814 1772,814 1817,814 1861,814 1906,811 1951,811 1996,808 2040,808 2085,808 2130,805 2175,805 2219,805 2264,802 2309,802 2354,802 2398,802 2443,802 2488,799"/>
+				<TextEquiv>
+					<Unicode>Die alter der welt werden beglicht den altern̄ des menſchens vnd werdē von māchen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="972,903 2426,872 2485,864 2487,812 973,851"/>
+				<Baseline points="984,886 1011,886 1056,886 1100,886 1145,883 1190,883 1235,880 1279,880 1324,877 1369,877 1414,877 1458,874 1503,874 1548,871 1593,868 1638,868 1682,868 1727,868 1772,865 1817,865 1861,865 1906,862 1951,862 1996,862 2040,862 2085,859 2130,856 2175,856 2219,856 2264,853 2309,853 2354,853 2398,853 2443,853 2488,850"/>
+				<TextEquiv>
+					<Unicode>in mancherleywiß bezeichnet bewerent ouch durch vil vrſach wor vmb bequemlich ſi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="968,950 2483,912 2472,862 970,904"/>
+				<Baseline points="981,942 1011,936 1056,936 1100,933 1145,933 1190,933 1235,930 1279,930 1324,927 1369,927 1414,924 1458,924 1503,924 1548,921 1593,921 1638,921 1682,918 1727,918 1772,915 1817,915 1861,915 1906,915 1951,912 1996,912 2040,910 2085,910 2130,910 2175,907 2219,907 2264,904 2309,907 2354,904 2398,904 2443,904 2488,901"/>
+				<TextEquiv>
+					<Unicode>ge alſo oder anders ſü onzuͦuohen od̓ zuͦ endē vō welchē dingē wir ietz nütz ſagēt. abē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="968,1004 2298,981 2480,968 2482,914 968,950"/>
+				<Baseline points="978,984 1008,984 1053,984 1097,984 1142,987 1187,984 1232,984 1276,981 1321,981 1366,978 1411,978 1456,975 1500,975 1545,975 1590,972 1635,972 1679,969 1724,969 1769,969 1814,966 1858,966 1903,963 1948,963 1993,963 2037,963 2082,960 2127,960 2172,960 2216,957 2261,957 2306,957 2351,954 2395,954 2440,954 2485,954"/>
+				<TextEquiv>
+					<Unicode>ſo vil ietz genuͦg iſt. iſt zuͦ merckē das. vj. ſind alter der welt. Das erſt hebt an vō der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="968,1050 2447,1025 2485,975 970,1000"/>
+				<Baseline points="981,1038 1005,1038 1050,1038 1094,1038 1139,1035 1184,1035 1229,1035 1274,1032 1318,1032 1363,1029 1408,1029 1453,1029 1497,1026 1542,1026 1587,1023 1632,1023 1676,1020 1721,1020 1766,1020 1811,1017 1855,1017 1900,1014 1945,1017 1990,1014 2034,1014 2079,1014 2124,1011 2169,1011 2213,1011 2258,1008 2303,1008 2348,1008 2392,1008 2437,1008 2488,1005"/>
+				<TextEquiv>
+					<Unicode>ſchoͤpffung d̓ welt vn̄ wert bitz an dē ſintfluß vn̄ hat noch den hebreiſchē worheit ge¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="970,1110 2393,1081 2483,1073 2485,1021 970,1052"/>
+				<Baseline points="981,1092 1011,1089 1056,1089 1100,1086 1145,1086 1190,1086 1235,1083 1279,1083 1324,1083 1369,1083 1414,1080 1458,1077 1503,1077 1548,1077 1593,1077 1638,1074 1682,1071 1727,1071 1772,1071 1817,1071 1861,1068 1906,1068 1951,1068 1996,1065 2040,1065 2085,1065 2130,1065 2175,1062 2219,1062 2264,1059 2309,1059 2354,1056 2398,1056 2443,1056 2488,1056"/>
+				<TextEquiv>
+					<Unicode>han. Mdclvj. jor noch den. lxx. vſlegern alß yſidorꝰ ſetzt vn̄ vil ander denē wir noch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="968,1148 2485,1119 2485,1071 2432,1065 970,1110"/>
+				<Baseline points="978,1139 1014,1139 1059,1139 1103,1139 1148,1139 1193,1136 1238,1136 1282,1133 1327,1133 1372,1130 1417,1130 1461,1127 1506,1127 1551,1127 1596,1124 1640,1124 1685,1121 1730,1121 1775,1121 1820,1121 1864,1118 1909,1118 1954,1118 1999,1115 2043,1118 2088,1115 2133,1112 2178,1112 2222,1112 2267,1112 2312,1109 2357,1109 2401,1106 2446,1109 2491,1109"/>
+				<TextEquiv>
+					<Unicode>uolgent hat es gehan. ijᵐccxlij. alſo ſind ſü vneins in. dlxxxvj. jorē die die hebreiſchē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="964,1200 2493,1167 2493,1121 2430,1117 966,1161"/>
+				<Baseline points="975,1190 1008,1187 1053,1190 1097,1190 1142,1187 1187,1187 1232,1184 1276,1184 1321,1184 1366,1184 1411,1181 1456,1181 1500,1178 1545,1178 1590,1178 1635,1175 1679,1175 1724,1175 1769,1175 1814,1172 1858,1172 1903,1169 1948,1169 1993,1166 2037,1166 2082,1166 2127,1166 2172,1163 2216,1163 2261,1163 2306,1160 2351,1160 2395,1160 2440,1160 2498,1156"/>
+				<TextEquiv>
+					<Unicode>minder hand in dem alter. vnd noch der rechnūg iſt Matuſale geſtorben vor dem ſint /</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="962,1251 2489,1221 2480,1169 964,1201"/>
+				<Baseline points="975,1241 1017,1241 1062,1241 1106,1238 1151,1238 1196,1238 1241,1235 1285,1232 1330,1232 1375,1232 1420,1232 1464,1232 1509,1229 1554,1229 1599,1226 1643,1226 1688,1226 1733,1223 1778,1223 1822,1223 1867,1223 1912,1223 1957,1220 2002,1220 2046,1220 2091,1217 2136,1217 2181,1217 2225,1214 2270,1214 2315,1214 2360,1211 2404,1211 2449,1211 2494,1208"/>
+				<TextEquiv>
+					<Unicode>fluß doch in dem ſelben jor alß der ſintfluß was. Das ander alter hat angefangen am ſint</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="970,1320 2480,1269 2411,1223 972,1253"/>
+				<Baseline points="981,1291 1008,1288 1053,1291 1097,1288 1142,1288 1187,1288 1232,1285 1276,1285 1321,1282 1366,1282 1411,1282 1456,1282 1500,1282 1545,1279 1590,1279 1635,1279 1679,1276 1724,1274 1769,1274 1814,1274 1858,1274 1903,1274 1948,1271 1993,1271 2037,1271 2082,1271 2127,1268 2172,1268 2216,1268 2261,1265 2306,1265 2351,1265 2395,1265 2440,1262 2485,1262"/>
+				<TextEquiv>
+					<Unicode>fluß vnd hat gewert bitz an die gebuͦrt Abrahe. vnd hat noch dē hebreiſchen gehan.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="968,1353 2434,1334 2489,1324 2491,1278 968,1318"/>
+				<Baseline points="978,1342 1017,1342 1062,1342 1106,1342 1151,1339 1196,1336 1241,1336 1285,1336 1330,1333 1375,1333 1420,1333 1464,1330 1509,1330 1554,1330 1599,1330 1643,1327 1688,1327 1733,1327 1778,1324 1822,1324 1867,1324 1912,1324 1957,1324 2002,1321 2046,1321 2091,1318 2136,1318 2181,1318 2225,1318 2270,1315 2315,1315 2360,1315 2404,1312 2449,1312 2494,1312"/>
+				<TextEquiv>
+					<Unicode>cclxxxxij. jor noch den. lxx. dccccxlij. jor alſo ſind ſü vnhellick. dcl. joren die aber die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="973,1407 2489,1378 2474,1320 975,1357"/>
+				<Baseline points="984,1393 1017,1393 1062,1390 1106,1390 1151,1390 1196,1390 1241,1387 1285,1387 1330,1387 1375,1387 1420,1384 1464,1384 1509,1384 1554,1381 1599,1378 1643,1378 1688,1378 1733,1378 1778,1378 1822,1378 1867,1375 1912,1375 1957,1375 2002,1372 2046,1372 2091,1369 2136,1369 2181,1369 2225,1369 2270,1366 2315,1366 2360,1366 2404,1363 2449,1363 2494,1363"/>
+				<TextEquiv>
+					<Unicode>hebreiſchen minder hand ich hab ouch nit moͤgen finden vrſach ſo groſes vnhelikeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="970,1464 2395,1443 2491,1424 2493,1374 970,1408"/>
+				<Baseline points="981,1444 1017,1441 1062,1441 1106,1441 1151,1441 1196,1438 1241,1438 1285,1438 1330,1435 1375,1435 1420,1435 1464,1435 1509,1432 1554,1432 1599,1429 1643,1429 1688,1426 1733,1429 1778,1426 1822,1426 1867,1426 1912,1426 1957,1426 2002,1423 2046,1426 2091,1423 2136,1423 2181,1420 2225,1420 2270,1420 2315,1417 2360,1417 2404,1414 2449,1414 2494,1414"/>
+				<TextEquiv>
+					<Unicode>Das drit alter hebt an an der gebuͦrt Abrahe vnd wert bitz zuͦm anfang des richs Da</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="964,1510 2468,1483 2487,1428 964,1462"/>
+				<Baseline points="975,1494 1011,1491 1056,1491 1100,1491 1145,1491 1190,1491 1235,1488 1279,1488 1324,1485 1369,1485 1414,1485 1458,1485 1503,1482 1548,1482 1593,1482 1638,1479 1682,1479 1727,1479 1772,1479 1817,1476 1861,1476 1906,1476 1951,1476 1996,1473 2040,1473 2085,1470 2130,1470 2175,1470 2219,1470 2264,1470 2309,1467 2354,1467 2398,1464 2443,1464 2488,1461"/>
+				<TextEquiv>
+					<Unicode>uid vnnd halt noch den hebreiſchen. dccccxlj. jor noch den. lxx. cccclxxxv. Das vierd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="964,1556 2489,1527 2445,1474 966,1508"/>
+				<Baseline points="975,1542 1017,1542 1062,1545 1106,1542 1151,1542 1196,1539 1241,1539 1285,1539 1330,1536 1375,1536 1420,1536 1464,1536 1509,1533 1554,1533 1599,1533 1643,1530 1688,1530 1733,1530 1778,1527 1822,1527 1867,1527 1912,1527 1957,1524 2002,1524 2046,1524 2091,1524 2136,1521 2181,1521 2225,1521 2270,1524 2315,1521 2360,1521 2404,1518 2449,1515 2496,1515"/>
+				<TextEquiv>
+					<Unicode>alter hebt an an dem anfang des richs Dauid. vnd werd bitz zuͦ der durchgeung Babi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="970,1606 2491,1590 2480,1527 972,1558"/>
+				<Baseline points="981,1596 1020,1593 1065,1593 1109,1593 1154,1593 1199,1593 1244,1590 1288,1590 1333,1590 1378,1587 1423,1587 1467,1587 1512,1584 1557,1584 1602,1581 1646,1584 1691,1581 1736,1581 1781,1581 1825,1578 1870,1578 1915,1578 1960,1578 2004,1575 2049,1575 2094,1572 2139,1572 2184,1572 2228,1572 2273,1569 2318,1569 2363,1569 2407,1569 2452,1569 2497,1569"/>
+				<TextEquiv>
+					<Unicode>loni vn̄ halt. cccclxxxiiij jor. noch dē hebreiſchen. noch dē. lxx. cccclxxxv. Das fünfft</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="970,1659 2447,1636 2487,1590 970,1604"/>
+				<Baseline points="981,1646 1014,1643 1059,1643 1103,1643 1148,1640 1193,1643 1238,1640 1282,1640 1327,1638 1372,1638 1417,1638 1461,1638 1506,1635 1551,1635 1596,1632 1640,1632 1685,1632 1730,1629 1775,1632 1820,1632 1864,1629 1909,1629 1954,1629 1999,1629 2043,1626 2088,1626 2133,1626 2178,1623 2222,1623 2267,1623 2312,1620 2357,1620 2401,1620 2446,1617 2491,1620"/>
+				<TextEquiv>
+					<Unicode>alter hebt an an der durchgangung babilon alß iheruſalem zerbrochen ward vnnd der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="962,1715 2495,1682 2480,1629 964,1665"/>
+				<Baseline points="975,1697 1020,1697 1065,1697 1109,1694 1154,1691 1199,1691 1244,1691 1288,1691 1333,1688 1378,1688 1423,1688 1467,1685 1512,1685 1557,1685 1602,1682 1646,1682 1691,1682 1736,1682 1781,1679 1825,1679 1870,1679 1915,1679 1960,1679 2004,1679 2049,1676 2094,1676 2139,1676 2184,1673 2228,1673 2273,1673 2318,1670 2363,1670 2407,1670 2452,1667 2497,1667"/>
+				<TextEquiv>
+					<Unicode>tempel dor in erzünt ward vnd wert bitz an die wolgeſegenet gebuͦrt chriſti. vnd helt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="968,1757 2324,1744 2493,1736 2495,1694 968,1723"/>
+				<Baseline points="978,1745 1020,1745 1065,1748 1109,1745 1154,1748 1199,1742 1244,1742 1288,1742 1333,1739 1378,1739 1423,1739 1467,1736 1512,1736 1557,1736 1602,1736 1646,1733 1691,1733 1736,1733 1781,1733 1825,1730 1870,1730 1915,1730 1960,1730 2004,1727 2049,1724 2094,1727 2139,1724 2184,1724 2228,1724 2273,1724 2318,1721 2363,1721 2407,1721 2452,1721 2497,1718"/>
+				<TextEquiv>
+					<Unicode>noch der vorgeſeiten wiß. der wir volgent. dxc jor. vnnd alß vorgeſeit iſt. es iſt ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="970,1822 2397,1796 2491,1784 2493,1734 970,1757"/>
+				<Baseline points="981,1805 1017,1799 1062,1796 1106,1796 1151,1793 1196,1793 1241,1793 1285,1790 1330,1790 1375,1790 1420,1790 1464,1790 1509,1787 1554,1787 1599,1784 1643,1784 1688,1784 1733,1784 1778,1784 1822,1781 1867,1781 1912,1781 1957,1781 2002,1778 2046,1781 2091,1778 2136,1778 2181,1778 2225,1775 2270,1775 2315,1775 2360,1772 2404,1775 2449,1772 2494,1775"/>
+				<TextEquiv>
+					<Unicode>groͤſer ſpan. von der rechnung der jor des alters wen vil rechnent vff mancherley wiß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="973,1859 2485,1838 2487,1788 2409,1784 975,1817"/>
+				<Baseline points="984,1846 1014,1846 1059,1846 1103,1846 1148,1843 1193,1843 1238,1843 1282,1840 1327,1840 1372,1840 1417,1837 1461,1837 1506,1834 1551,1834 1596,1834 1640,1834 1685,1834 1730,1831 1775,1831 1820,1831 1864,1831 1909,1831 1954,1831 1999,1831 2043,1828 2088,1828 2133,1828 2178,1828 2222,1828 2267,1825 2312,1822 2357,1822 2401,1822 2446,1822 2491,1822"/>
+				<TextEquiv>
+					<Unicode>doch ſind ſü nit vaſt vnhellig vndereinand̓ erwele ein yedlicher was im gefelt wir hand</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="977,1916 2491,1897 2489,1842 2355,1834 979,1868"/>
+				<Baseline points="987,1906 1017,1897 1062,1897 1106,1897 1151,1894 1196,1894 1241,1894 1285,1891 1330,1891 1375,1888 1420,1888 1464,1888 1509,1885 1554,1885 1599,1882 1643,1885 1688,1882 1733,1882 1778,1882 1822,1882 1867,1882 1912,1882 1957,1882 2002,1882 2046,1882 2091,1879 2136,1879 2181,1879 2225,1879 2270,1876 2315,1876 2360,1876 2404,1873 2449,1873 2494,1873"/>
+				<TextEquiv>
+					<Unicode>geſatzt was vns gedunckt hat. Das ſechſt alter hebt an an der gebuͦrt chriſti vn̄ werd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="968,1960 2491,1939 2491,1895 2416,1884 970,1916"/>
+				<Baseline points="981,1951 1017,1948 1062,1948 1106,1948 1151,1945 1196,1945 1241,1945 1285,1942 1330,1942 1375,1939 1420,1939 1464,1939 1509,1936 1554,1936 1599,1936 1643,1933 1688,1933 1733,1933 1778,1933 1822,1933 1867,1933 1912,1933 1957,1933 2002,1930 2046,1930 2091,1930 2136,1930 2181,1927 2225,1927 2270,1927 2315,1927 2360,1927 2404,1924 2449,1924 2494,1924"/>
+				<TextEquiv>
+					<Unicode>bitz zuͦ end der welt des end weiß allein got wirt ouch genād das alter od̓ die letzt ſtūdt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="1025,2008 2491,1989 2493,1939 2393,1937 1027,1966"/>
+				<Baseline points="1035,2002 1065,1999 1109,1999 1154,1999 1199,1996 1244,1993 1288,1993 1333,1990 1378,1990 1423,1990 1467,1990 1512,1987 1557,1987 1602,1990 1646,1987 1691,1987 1736,1984 1781,1984 1825,1984 1870,1984 1915,1981 1960,1981 2004,1981 2049,1981 2094,1978 2139,1978 2184,1978 2228,1978 2273,1978 2318,1975 2363,1975 2407,1975 2452,1975 2497,1975"/>
+				<TextEquiv>
+					<Unicode>Got hat dor vmb alß menſchlich geſchlecht vō eim menſchen woͤllen ordiniern das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="972,2068 2485,2041 2485,1995 2391,1983 973,2012"/>
+				<Baseline points="984,2049 1014,2049 1059,2049 1103,2049 1148,2046 1193,2046 1238,2046 1282,2043 1327,2043 1372,2040 1417,2040 1461,2037 1506,2037 1551,2037 1596,2037 1640,2034 1685,2034 1730,2034 1775,2034 1820,2034 1864,2034 1909,2031 1954,2031 1999,2031 2043,2031 2088,2031 2133,2031 2178,2028 2222,2028 2267,2028 2312,2028 2357,2025 2401,2025 2446,2025 2491,2028"/>
+				<TextEquiv>
+					<Unicode>er vns loß ein gedechtniß wie genem im ſige in einer wile einikeit die ſelb betrachtung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="966,2117 2501,2091 2459,2035 968,2068"/>
+				<Baseline points="978,2100 1014,2100 1059,2100 1103,2097 1148,2097 1193,2094 1238,2094 1282,2094 1327,2094 1372,2091 1417,2091 1461,2088 1506,2088 1551,2088 1596,2085 1640,2085 1685,2085 1730,2085 1775,2085 1820,2085 1864,2085 1909,2085 1954,2085 1999,2082 2043,2082 2088,2082 2133,2082 2178,2082 2222,2079 2267,2079 2312,2079 2357,2079 2401,2076 2446,2076 2506,2074"/>
+				<TextEquiv>
+					<Unicode>iſt vaſt nutz den vßerwelten die zuͦgeſellet werden denn heiligen engelnn in dem ewi¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="970,2169 2493,2137 2493,2094 2401,2085 970,2114"/>
+				<Baseline points="981,2157 1020,2151 1065,2148 1109,2148 1154,2145 1199,2145 1244,2145 1288,2145 1333,2142 1378,2142 1423,2142 1467,2139 1512,2139 1557,2139 1602,2136 1646,2136 1691,2136 1736,2136 1781,2136 1825,2136 1870,2136 1915,2133 1960,2133 2004,2133 2049,2133 2094,2130 2139,2130 2184,2130 2228,2130 2273,2130 2318,2130 2363,2127 2407,2127 2452,2127 2497,2127"/>
+				<TextEquiv>
+					<Unicode>gen friden. aber die menſchen hand abgenūmen durch ſo groß grimmikeit ſündens das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="970,2213 2510,2192 2499,2133 970,2171"/>
+				<Baseline points="981,2198 1014,2198 1059,2198 1103,2198 1148,2198 1193,2195 1238,2195 1282,2192 1327,2192 1372,2192 1417,2189 1461,2189 1506,2189 1551,2186 1596,2186 1640,2186 1685,2186 1730,2186 1775,2186 1820,2186 1864,2186 1909,2186 1954,2186 1999,2184 2043,2184 2088,2181 2133,2181 2178,2181 2222,2181 2267,2181 2312,2181 2357,2181 2401,2178 2446,2178 2513,2178"/>
+				<TextEquiv>
+					<Unicode>fridſaͤmlicher vnd ſicherer vnuernünfftige tier byeinand̓ lebent. fürwor lowen ode̓ tra¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="970,2277 2229,2244 2298,2275 2495,2240 2497,2192 970,2217"/>
+				<Baseline points="981,2249 1023,2249 1068,2249 1112,2249 1157,2246 1202,2246 1247,2246 1291,2246 1336,2243 1381,2240 1426,2240 1470,2240 1515,2240 1560,2240 1605,2237 1649,2237 1694,2237 1739,2237 1784,2237 1828,2237 1873,2237 1918,2237 1963,2240 2007,2237 2052,2237 2097,2237 2142,2237 2186,2234 2231,2234 2276,2234 2321,2234 2366,2231 2410,2231 2455,2228 2500,2228"/>
+				<TextEquiv>
+					<Unicode>chē hād nye ſoͤlich ſtrit zwiſchen einander alß menſchen gefuͦrt. got hat lieb das band</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1697462872778_3779_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="973,2305 1305,2307 1431,2349 1951,2345 1953,2257 973,2271"/>
+				<Baseline points="984,2303 1017,2303 1062,2303 1106,2300 1151,2300 1196,2300 1241,2300 1285,2297 1330,2297 1375,2294 1420,2294 1464,2291 1509,2294 1554,2291 1599,2291 1643,2291 1688,2288 1733,2288 1778,2288 1822,2288 1867,2288 1912,2288 1957,2291"/>
+				<TextEquiv>
+					<Unicode>einhellikeit das Auguſtinus am. xij. von der ſtat gots.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>gerechtikeit vnd aber al die weg des herren barmhertzikeit vnd worheit. doch ſo halt
+die barmhertzikeit dz ſcepē ſo lāg wir vff dē weg ſind wē ſü verſeit keim ſünd̓ genod
+Die alter der welt werden beglicht den altern̄ des menſchens vnd werdē von māchen
+in mancherleywiß bezeichnet bewerent ouch durch vil vrſach wor vmb bequemlich ſi
+ge alſo oder anders ſü onzuͦuohen od̓ zuͦ endē vō welchē dingē wir ietz nütz ſagēt. abē
+ſo vil ietz genuͦg iſt. iſt zuͦ merckē das. vj. ſind alter der welt. Das erſt hebt an vō der
+ſchoͤpffung d̓ welt vn̄ wert bitz an dē ſintfluß vn̄ hat noch den hebreiſchē worheit ge¬
+han. Mdclvj. jor noch den. lxx. vſlegern alß yſidorꝰ ſetzt vn̄ vil ander denē wir noch
+uolgent hat es gehan. ijᵐccxlij. alſo ſind ſü vneins in. dlxxxvj. jorē die die hebreiſchē
+minder hand in dem alter. vnd noch der rechnūg iſt Matuſale geſtorben vor dem ſint /
+fluß doch in dem ſelben jor alß der ſintfluß was. Das ander alter hat angefangen am ſint
+fluß vnd hat gewert bitz an die gebuͦrt Abrahe. vnd hat noch dē hebreiſchen gehan.
+cclxxxxij. jor noch den. lxx. dccccxlij. jor alſo ſind ſü vnhellick. dcl. joren die aber die
+hebreiſchen minder hand ich hab ouch nit moͤgen finden vrſach ſo groſes vnhelikeit
+Das drit alter hebt an an der gebuͦrt Abrahe vnd wert bitz zuͦm anfang des richs Da
+uid vnnd halt noch den hebreiſchen. dccccxlj. jor noch den. lxx. cccclxxxv. Das vierd
+alter hebt an an dem anfang des richs Dauid. vnd werd bitz zuͦ der durchgeung Babi
+loni vn̄ halt. cccclxxxiiij jor. noch dē hebreiſchen. noch dē. lxx. cccclxxxv. Das fünfft
+alter hebt an an der durchgangung babilon alß iheruſalem zerbrochen ward vnnd der
+tempel dor in erzünt ward vnd wert bitz an die wolgeſegenet gebuͦrt chriſti. vnd helt
+noch der vorgeſeiten wiß. der wir volgent. dxc jor. vnnd alß vorgeſeit iſt. es iſt ein
+groͤſer ſpan. von der rechnung der jor des alters wen vil rechnent vff mancherley wiß
+doch ſind ſü nit vaſt vnhellig vndereinand̓ erwele ein yedlicher was im gefelt wir hand
+geſatzt was vns gedunckt hat. Das ſechſt alter hebt an an der gebuͦrt chriſti vn̄ werd
+bitz zuͦ end der welt des end weiß allein got wirt ouch genād das alter od̓ die letzt ſtūdt
+Got hat dor vmb alß menſchlich geſchlecht vō eim menſchen woͤllen ordiniern das
+er vns loß ein gedechtniß wie genem im ſige in einer wile einikeit die ſelb betrachtung
+iſt vaſt nutz den vßerwelten die zuͦgeſellet werden denn heiligen engelnn in dem ewi¬
+gen friden. aber die menſchen hand abgenūmen durch ſo groß grimmikeit ſündens das
+fridſaͤmlicher vnd ſicherer vnuernünfftige tier byeinand̓ lebent. fürwor lowen ode̓ tra¬
+chē hād nye ſoͤlich ſtrit zwiſchen einander alß menſchen gefuͦrt. got hat lieb das band
+einhellikeit das Auguſtinus am. xij. von der ſtat gots.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

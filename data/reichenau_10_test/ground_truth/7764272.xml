@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.12.1:model_id=58864:lm=none:date=23_03_2024_10:53</Creator>
+		<Created>2023-09-11T14:08:29.998+02:00</Created>
+		<LastChange>2024-03-23T12:02:50.979+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075166" pageNr="171" tsid="154460351" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=RTHVBVEDECYMRHTDQIJHJNQC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JBTIYAVOAKOFOFRQRKGRNMIU" imageId="48050393"/>
+	</Metadata>
+	<Page imageFilename="7764272.jpg" imageWidth="2786" imageHeight="3640">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711357008067" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1709031327868_1721"/>
+				<RegionRefIndexed index="1" regionRef="region_1709031332932_1724"/>
+				<RegionRefIndexed index="2" regionRef="region_1709031334797_1727"/>
+				<RegionRefIndexed index="3" regionRef="region_1709031339636_1730"/>
+				<RegionRefIndexed index="4" regionRef="region_1709031341484_1733"/>
+				<RegionRefIndexed index="5" regionRef="region_1709031343724_1736"/>
+				<RegionRefIndexed index="6" regionRef="region_1709031345956_1739"/>
+				<RegionRefIndexed index="7" regionRef="region_1709031348668_1742"/>
+				<RegionRefIndexed index="8" regionRef="region_1709031350332_1745"/>
+				<RegionRefIndexed index="9" regionRef="region_1709031353156_1748"/>
+				<RegionRefIndexed index="10" regionRef="region_1709031359748_1751"/>
+				<RegionRefIndexed index="11" regionRef="region_1709031364652_1754"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1709031327868_1721" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="942,464 1044,464 1044,527 942,527"/>
+			<TextLine id="region_1709031327868_1721_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="931,533 959,526 975,539 1005,533 1013,537 1027,526 1036,526 1036,437 1023,439 1005,432 980,439 971,432 952,443 931,437"/>
+				<Baseline points="942,512 951,510 996,510 1041,510"/>
+				<TextEquiv>
+					<Unicode>.vij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode></Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709031332932_1724" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="255,569 514,569 514,643 255,643"/>
+			<TextLine id="region_1709031332932_1724_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="290,660 484,662 485,555 449,568 430,558 405,574 357,570 332,553 292,551"/>
+				<Baseline points="301,632 346,629 390,629 435,629 480,629 489,632"/>
+				<TextEquiv>
+					<Unicode>ijᵐdccccv.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode></Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709031334797_1727" custom="readingOrder {index:2;} structure {type:paragraph;}">
+			<Coords points="293,703 466,703 466,880 293,880"/>
+			<TextLine id="region_1709031334797_1727_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="294,766 332,766 338,760 357,766 370,756 390,768 405,762 455,771 455,702 437,704 430,693 403,697 380,716 372,708 357,716 330,698 309,716 294,718"/>
+				<Baseline points="304,748 325,745 369,745 414,742 459,745"/>
+				<TextEquiv>
+					<Unicode>Saruch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031334797_1727_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="294,810 351,823 376,817 384,823 424,808 457,808 459,769 418,766 407,771 397,764 378,764 370,756 357,766 342,760 332,768 295,764"/>
+				<Baseline points="304,802 349,799 393,799 438,799 462,802"/>
+				<TextEquiv>
+					<Unicode>vixit an.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031334797_1727_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="290,869 338,867 363,881 372,877 403,892 428,883 428,821 374,817 361,823 345,817 332,823 320,817 309,827 290,825"/>
+				<Baseline points="301,859 346,856 390,856 432,859"/>
+				<TextEquiv>
+					<Unicode>cc. xxx</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode></Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709031339636_1730" custom="readingOrder {index:3;} structure {type:paragraph;}">
+			<Coords points="291,922 496,922 496,982 291,982"/>
+			<TextLine id="line_1709031535113_1791" custom="readingOrder {index:0;}">
+				<Coords points="495,906 474,902 428,934 391,927 355,931 345,923 303,933 303,971 338,971 351,984 366,975 397,992 426,990 437,980 468,996 495,986"/>
+				<Baseline points="486,937 301,934"/>
+				<TextEquiv>
+					<Unicode>ijᵐcclxiiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode></Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709031341484_1733" custom="readingOrder {index:4;} structure {type:paragraph;}">
+			<Coords points="807,582 1002,582 1002,648 807,648"/>
+			<TextLine id="region_1709031341484_1733_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="800,670 815,672 831,660 850,672 863,664 933,670 956,656 994,664 992,564 977,570 959,553 946,564 919,551 894,560 875,547 858,560 842,549 798,560"/>
+				<Baseline points="811,626 856,629 904,633 951,629 996,632 999,632"/>
+				<TextEquiv>
+					<Unicode>iijᵐxxxv.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>iijᵐxxxv.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709031343724_1736" custom="readingOrder {index:5;} structure {type:paragraph;}">
+			<Coords points="923,703 1106,703 1106,863 923,863"/>
+			<TextLine id="region_1709031343724_1736_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="919,754 952,752 961,762 967,756 980,766 992,760 998,766 1007,758 1028,764 1048,752 1063,768 1080,766 1080,710 1057,708 1051,714 992,666 967,673 956,664 933,672 919,668"/>
+				<Baseline points="930,742 975,742 1020,742 1065,742 1086,742"/>
+				<TextEquiv>
+					<Unicode>Nachor</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031343724_1736_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="925,810 942,814 979,800 1005,823 1021,819 1032,829 1040,823 1074,825 1084,833 1098,829 1096,762 1063,768 1042,752 1027,766 992,760 980,766 956,758 923,768"/>
+				<Baseline points="933,790 978,793 1023,793 1068,796 1101,799"/>
+				<TextEquiv>
+					<Unicode>an. cxlv¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031343724_1736_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="936,865 946,865 954,871 973,871 982,881 998,879 996,804 961,800 956,806 950,804 944,812 934,812"/>
+				<Baseline points="945,847 990,847 1002,850"/>
+				<TextEquiv>
+					<Unicode>iij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Nachor
+an. cxlv¬
+iij.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709031345956_1739" custom="readingOrder {index:6;} structure {type:paragraph;}">
+			<Coords points="838,923 1027,923 1027,981 838,981"/>
+			<TextLine id="line_1709031541350_1797" custom="readingOrder {index:0;}">
+				<Coords points="1023,913 846,904 846,969 908,971 929,965 944,973 957,965 977,984 1023,1004"/>
+				<Baseline points="1014,932 843,932"/>
+				<TextEquiv>
+					<Unicode>ijᵐclxiiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode></Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709031348668_1742" custom="readingOrder {index:7;} structure {type:paragraph;}">
+			<Coords points="1395,594 1594,594 1594,652 1395,652"/>
+			<TextLine id="region_1709031348668_1742_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1397,679 1470,666 1485,679 1500,679 1510,668 1537,685 1577,681 1573,555 1533,564 1518,558 1497,572 1479,562 1451,583 1435,578 1424,587 1393,589"/>
+				<Baseline points="1405,638 1450,638 1494,638 1539,641 1578,644"/>
+				<TextEquiv>
+					<Unicode>.iijᵐcxiiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>.iijᵐcxiiij.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709031350332_1745" custom="readingOrder {index:8;} structure {type:paragraph;}">
+			<Coords points="1544,717 1722,717 1722,831 1544,831"/>
+			<TextLine id="region_1709031350332_1745_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1533,773 1604,773 1616,781 1627,769 1644,779 1685,773 1683,672 1664,677 1642,668 1627,675 1581,670 1548,695 1531,693"/>
+				<Baseline points="1544,751 1584,748 1629,751 1673,754 1688,751"/>
+				<TextEquiv>
+					<Unicode>Thare</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031350332_1745_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="1543,829 1558,825 1564,831 1581,831 1587,825 1593,831 1616,831 1621,825 1639,829 1652,821 1673,831 1677,825 1694,823 1694,779 1679,773 1644,777 1627,771 1616,783 1598,773 1543,777"/>
+				<Baseline points="1554,805 1599,805 1643,805 1688,808 1697,808"/>
+				<TextEquiv>
+					<Unicode>an. ccv.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Thare
+an. ccv.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709031353156_1748" custom="readingOrder {index:9;} structure {type:paragraph;}">
+			<Coords points="1181,922 1784,922 1784,982 1181,982"/>
+			<TextLine id="line_1709031548049_1803" custom="readingOrder {index:0;}">
+				<Coords points="1777,921 1664,938 1570,936 1520,906 1188,917 1188,988 1777,992"/>
+				<Baseline points="1768,939 1185,934"/>
+				<TextEquiv>
+					<Unicode>Im jor vor xp̄s gebuͦrt ijᵐlxxxv.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Im jor vor xp̄s gebuͦrt ijᵐlxxxv.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709031359748_1751" custom="readingOrder {index:10;} structure {type:paragraph;}">
+			<Coords points="245,978 1017,982 1011,1593 1793,1600 1804,1782 234,1836"/>
+			<TextLine id="region_1709031359748_1751_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="246,1025 992,1040 992,973 954,965 543,956 395,992 282,946 246,959"/>
+				<Baseline points="256,1011 301,1014 346,1017 390,1017 435,1017 480,1017 525,1017 569,1017 614,1014 659,1011 704,1011 748,1011 793,1011 838,1011 883,1011 927,1011 972,1014 996,1014"/>
+				<TextEquiv>
+					<Unicode>Abtgoͤterig got vff Merck überliheſtu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031359748_1751_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="242,1074 998,1092 998,1028 242,1034"/>
+				<Baseline points="253,1068 298,1065 343,1065 387,1068 432,1068 477,1068 522,1068 566,1068 611,1065 656,1065 701,1065 745,1062 790,1062 835,1065 880,1065 924,1065 969,1065 1002,1068"/>
+				<TextEquiv>
+					<Unicode>wol die hyſtorien ſo hād in ſunderheit drü</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031359748_1751_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="240,1124 673,1144 900,1122 973,1144 973,1090 931,1073 240,1084"/>
+				<Baseline points="250,1118 295,1115 340,1118 384,1118 429,1118 474,1118 519,1118 563,1118 608,1118 653,1118 698,1118 742,1115 787,1115 832,1115 877,1115 921,1115 966,1118 978,1118"/>
+				<TextEquiv>
+					<Unicode>ding die mēſchen zuͦ abtgoͤtterig brocht.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031359748_1751_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="248,1176 430,1197 984,1182 984,1136 908,1128 248,1126"/>
+				<Baseline points="259,1169 304,1169 349,1169 393,1169 438,1172 483,1172 528,1169 572,1169 617,1169 662,1169 707,1169 751,1166 796,1166 841,1166 886,1169 930,1169 975,1169 987,1169"/>
+				<TextEquiv>
+					<Unicode>die begirlich liebe zuͦ den totē. forcht vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031359748_1751_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="234,1232 990,1228 990,1188 919,1174 462,1197 234,1165"/>
+				<Baseline points="244,1220 253,1220 298,1220 343,1220 387,1223 432,1223 477,1223 522,1223 566,1223 611,1223 656,1220 701,1220 745,1220 790,1220 835,1220 880,1220 924,1220 994,1221"/>
+				<TextEquiv>
+					<Unicode>liebkoſung gegen dē künigē. fliß der hāt¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031359748_1751_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="242,1289 969,1284 954,1230 242,1241"/>
+				<Baseline points="253,1274 298,1271 343,1274 387,1274 432,1274 477,1274 522,1274 566,1274 611,1274 656,1274 701,1274 745,1271 790,1271 835,1271 880,1271 924,1274 969,1276 972,1276"/>
+				<TextEquiv>
+					<Unicode>wercklüt in bild grabung. Die tüfel aber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031359748_1751_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="246,1345 693,1332 723,1353 779,1332 869,1353 977,1335 979,1286 426,1305 246,1284"/>
+				<Baseline points="256,1324 301,1324 346,1324 390,1324 435,1327 480,1327 525,1327 569,1327 614,1324 659,1324 704,1324 748,1324 793,1321 838,1321 883,1324 927,1324 972,1324 981,1324"/>
+				<TextEquiv>
+					<Unicode>die in den abtgoͤtē verborgen worēt hand</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031359748_1751_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="240,1389 967,1401 967,1335 240,1345"/>
+				<Baseline points="250,1378 295,1375 340,1375 384,1378 429,1378 474,1378 519,1378 563,1378 608,1378 653,1378 698,1378 742,1375 787,1375 832,1375 877,1375 921,1375 966,1381 972,1378"/>
+				<TextEquiv>
+					<Unicode>durch antwurt die ſü goben alſo vaſt die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031359748_1751_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="242,1447 979,1445 979,1403 902,1387 242,1393"/>
+				<Baseline points="253,1435 265,1432 310,1426 355,1429 399,1429 444,1429 489,1429 534,1429 578,1429 623,1429 668,1429 713,1429 757,1429 802,1426 847,1426 892,1426 936,1429 981,1429"/>
+				<TextEquiv>
+					<Unicode>yrrūg beſtetiget vn̄ geueſtiget das mā eyn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031359748_1751_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="234,1502 984,1502 969,1445 234,1451"/>
+				<Baseline points="244,1479 289,1479 334,1479 378,1479 423,1482 468,1482 513,1479 557,1479 602,1482 647,1479 692,1479 736,1479 781,1479 826,1479 871,1479 915,1479 960,1479 1004,1482"/>
+				<TextEquiv>
+					<Unicode>ſtrofft mit pen des houbts wer ſich do wid̓</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031359748_1751_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="234,1531 322,1560 992,1541 992,1500 942,1493 234,1502"/>
+				<Baseline points="244,1530 289,1530 334,1530 378,1533 423,1533 468,1533 513,1533 557,1533 602,1533 647,1533 692,1533 736,1530 781,1530 826,1530 871,1530 915,1530 960,1533 996,1531"/>
+				<TextEquiv>
+					<Unicode>ſatzt dor zuͦ kam ouch die betrüglich lo¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031359748_1751_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="236,1596 973,1600 973,1537 399,1562 236,1535"/>
+				<Baseline points="247,1584 292,1581 337,1584 381,1584 426,1584 471,1584 516,1584 560,1584 605,1584 650,1584 695,1584 739,1584 784,1584 829,1584 874,1584 918,1584 963,1584 978,1584"/>
+				<TextEquiv>
+					<Unicode>bung der poeten die die armen verdamptē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031359748_1751_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="236,1646 1779,1667 1752,1585 1700,1616 1662,1583 236,1598"/>
+				<Baseline points="247,1638 292,1635 337,1635 381,1635 426,1638 471,1638 516,1638 560,1638 605,1635 650,1638 695,1635 739,1635 784,1635 829,1635 874,1635 918,1635 963,1638 1008,1635 1053,1638 1097,1638 1142,1638 1187,1638 1232,1638 1276,1638 1321,1640 1366,1640 1411,1640 1456,1640 1500,1640 1545,1640 1590,1640 1635,1640 1679,1640 1724,1640 1769,1643 1781,1643"/>
+				<TextEquiv>
+					<Unicode>lüt mit iren geſatzten gedichten in den himmel huͦbet gar hübſchlich ſchickt zuͦ der ſel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031359748_1751_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="236,1698 1763,1704 1723,1650 236,1652"/>
+				<Baseline points="247,1688 292,1685 337,1688 381,1688 426,1688 471,1688 516,1688 560,1688 605,1688 650,1688 695,1688 739,1685 784,1685 829,1688 874,1688 918,1688 963,1685 1008,1688 1053,1688 1097,1688 1142,1688 1187,1688 1232,1691 1276,1691 1321,1691 1366,1694 1411,1691 1456,1691 1500,1691 1545,1691 1590,1691 1635,1691 1679,1691 1724,1691 1769,1691"/>
+				<TextEquiv>
+					<Unicode>ben zit alß die tüfel an huͦbent mit den lüten zuͦ reden der guͤtig got ouch ſyn engel etli¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031359748_1751_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="234,1750 1771,1769 1750,1704 234,1702"/>
+				<Baseline points="244,1742 289,1739 334,1739 378,1739 423,1739 468,1739 513,1739 557,1739 602,1739 647,1739 692,1739 736,1739 781,1739 826,1742 871,1739 915,1739 960,1739 1005,1739 1050,1739 1094,1742 1139,1742 1184,1742 1229,1742 1274,1745 1318,1742 1363,1745 1408,1745 1453,1745 1497,1745 1542,1745 1587,1745 1632,1745 1676,1745 1721,1745 1766,1748 1775,1745"/>
+				<TextEquiv>
+					<Unicode>chen erwelten das ſü ouch ſichtiglichē mit inen redettent do mit nit die gantz mēſcheit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031359748_1751_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="234,1802 856,1821 856,1767 821,1758 234,1752"/>
+				<Baseline points="244,1790 289,1790 334,1793 378,1793 423,1793 468,1793 513,1793 557,1793 602,1793 647,1793 692,1793 736,1793 781,1793 826,1793 859,1793"/>
+				<TextEquiv>
+					<Unicode>in der aller boͤſten irrung verdürb.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Abtgoͤterig got vff Merck überliheſtu
+wol die hyſtorien ſo hād in ſunderheit drü
+ding die mēſchen zuͦ abtgoͤtterig brocht.
+die begirlich liebe zuͦ den totē. forcht vnd
+liebkoſung gegen dē künigē. fliß der hāt¬
+wercklüt in bild grabung. Die tüfel aber
+die in den abtgoͤtē verborgen worēt hand
+durch antwurt die ſü goben alſo vaſt die
+yrrūg beſtetiget vn̄ geueſtiget das mā eyn
+ſtrofft mit pen des houbts wer ſich do wid̓
+ſatzt dor zuͦ kam ouch die betrüglich lo¬
+bung der poeten die die armen verdamptē
+lüt mit iren geſatzten gedichten in den himmel huͦbet gar hübſchlich ſchickt zuͦ der ſel
+ben zit alß die tüfel an huͦbent mit den lüten zuͦ reden der guͤtig got ouch ſyn engel etli¬
+chen erwelten das ſü ouch ſichtiglichē mit inen redettent do mit nit die gantz mēſcheit
+in der aller boͤſten irrung verdürb.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1709031364652_1754" custom="readingOrder {index:11;} structure {type:paragraph;}">
+			<Coords points="1055,980 1788,980 1788,1603 1055,1603"/>
+			<TextLine id="region_1709031364652_1754_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1057,1027 1708,1044 1767,1034 1767,996 1339,996 1055,940"/>
+				<Baseline points="1068,1014 1112,1014 1157,1014 1202,1017 1247,1017 1291,1017 1336,1017 1381,1020 1426,1023 1470,1020 1515,1020 1560,1020 1605,1023 1649,1023 1694,1023 1739,1023 1772,1023"/>
+				<TextEquiv>
+					<Unicode>Der Thare iſt vßgāgen noch dem todt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031364652_1754_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="1057,1073 1251,1096 1677,1082 1763,1105 1761,1032 1057,1027"/>
+				<Baseline points="1068,1068 1112,1065 1157,1065 1202,1065 1247,1068 1291,1068 1336,1071 1381,1071 1426,1071 1470,1071 1515,1071 1560,1071 1605,1071 1649,1074 1694,1074 1739,1074 1766,1080"/>
+				<TextEquiv>
+					<Unicode>ſins ſüns aram vō dem caldeiſchenn vr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031364652_1754_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="1057,1134 1765,1138 1765,1105 1677,1082 1057,1080"/>
+				<Baseline points="1068,1121 1112,1118 1157,1118 1202,1118 1247,1118 1291,1118 1336,1121 1381,1121 1426,1121 1470,1121 1515,1121 1560,1121 1605,1124 1649,1124 1694,1124 1739,1127 1769,1130"/>
+				<TextEquiv>
+					<Unicode>vnd iſt komē in charram mit ſinē ſuͦnen̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031364652_1754_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="1059,1184 1777,1193 1752,1138 1057,1134"/>
+				<Baseline points="1068,1172 1112,1169 1157,1169 1202,1169 1247,1169 1291,1172 1336,1172 1381,1172 1426,1172 1470,1175 1515,1172 1560,1172 1605,1175 1649,1175 1694,1175 1739,1175 1777,1179"/>
+				<TextEquiv>
+					<Unicode>vnd nefen mā ſeit ouch das er vm̄ wid̓¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031364652_1754_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="1046,1232 1775,1253 1775,1193 1046,1190"/>
+				<Baseline points="1056,1223 1100,1220 1145,1223 1190,1223 1235,1223 1279,1223 1324,1226 1369,1226 1414,1226 1458,1226 1503,1226 1548,1226 1593,1226 1638,1226 1682,1226 1727,1229 1779,1230"/>
+				<TextEquiv>
+					<Unicode>drieß halb der im von ſinen geſellenn ge¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031364652_1754_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="1044,1301 1767,1291 1767,1251 1677,1240 1044,1232"/>
+				<Baseline points="1055,1274 1094,1274 1139,1274 1184,1274 1229,1274 1274,1276 1318,1276 1363,1276 1408,1276 1453,1276 1497,1276 1542,1276 1587,1276 1632,1276 1676,1276 1721,1279 1766,1282 1772,1282"/>
+				<TextEquiv>
+					<Unicode>ſchach dor vm̄ das er nit wolt an betten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031364652_1754_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="1051,1335 1761,1355 1761,1305 1677,1289 1051,1295"/>
+				<Baseline points="1062,1327 1106,1324 1151,1324 1196,1327 1241,1327 1285,1327 1330,1330 1375,1333 1420,1330 1464,1327 1509,1327 1554,1330 1599,1330 1643,1330 1688,1330 1733,1330 1776,1330"/>
+				<TextEquiv>
+					<Unicode>das für enweg zoͤg. man ſeit ouch gemei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031364652_1754_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="1044,1393 1763,1393 1763,1355 1729,1343 1178,1351 1044,1326"/>
+				<Baseline points="1044,1376 1089,1378 1133,1378 1178,1378 1223,1381 1268,1381 1312,1381 1357,1381 1402,1381 1447,1381 1491,1381 1536,1381 1581,1381 1626,1381 1670,1381 1715,1381 1760,1384 1769,1381"/>
+				<TextEquiv>
+					<Unicode>lich den hebreiſchen das nemroth do re¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031364652_1754_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="1044,1464 1126,1439 1761,1449 1761,1397 1715,1393 1044,1391"/>
+				<Baseline points="1055,1434 1094,1429 1139,1432 1184,1432 1229,1432 1274,1432 1318,1432 1363,1435 1408,1435 1453,1435 1497,1435 1542,1435 1587,1435 1632,1435 1676,1432 1721,1435 1766,1438"/>
+				<TextEquiv>
+					<Unicode>giert hab der ouch āraphel genāt ward</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031364652_1754_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="1057,1497 1771,1504 1771,1451 1665,1443 1057,1460"/>
+				<Baseline points="1068,1482 1112,1479 1157,1482 1202,1482 1247,1482 1291,1482 1336,1482 1381,1485 1426,1485 1470,1485 1515,1485 1560,1485 1605,1485 1649,1485 1694,1485 1739,1485 1775,1491"/>
+				<TextEquiv>
+					<Unicode>ein künig Sennaar den lang dor noch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031364652_1754_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="1046,1548 1775,1564 1775,1502 1046,1493"/>
+				<Baseline points="1056,1533 1100,1533 1145,1533 1190,1536 1235,1536 1279,1536 1324,1536 1369,1539 1414,1536 1458,1539 1503,1536 1548,1536 1593,1539 1638,1539 1682,1539 1727,1539 1779,1537"/>
+				<TextEquiv>
+					<Unicode>Abraham über wand vnd in ſchluͦg alß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1709031364652_1754_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="1050,1593 1090,1604 1126,1594 1149,1616 1257,1596 1395,1612 1393,1558 1335,1545 1243,1548 1232,1560 1213,1545 1182,1560 1126,1539 1096,1556 1048,1547"/>
+				<Baseline points="1059,1584 1103,1584 1148,1584 1193,1587 1238,1587 1282,1587 1327,1590 1372,1590 1399,1593"/>
+				<TextEquiv>
+					<Unicode>ſtodt gen̄. am. xiiij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Der Thare iſt vßgāgen noch dem todt
+ſins ſüns aram vō dem caldeiſchenn vr
+vnd iſt komē in charram mit ſinē ſuͦnen̄
+vnd nefen mā ſeit ouch das er vm̄ wid̓¬
+drieß halb der im von ſinen geſellenn ge¬
+ſchach dor vm̄ das er nit wolt an betten
+das für enweg zoͤg. man ſeit ouch gemei
+lich den hebreiſchen das nemroth do re¬
+giert hab der ouch āraphel genāt ward
+ein künig Sennaar den lang dor noch
+Abraham über wand vnd in ſchluͦg alß
+ſtodt gen̄. am. xiiij.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

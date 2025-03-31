@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=08_06_2023_15:03</Creator>
+		<Created>2023-06-07T09:11:08.927+02:00</Created>
+		<LastChange>2023-12-20T15:42:15.417+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67074990" pageNr="15" tsid="154460051" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=JWUITQXVPHWPKHHOWRZQASQP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XBWKOTBFZOXAWLYYNNTZCYQK" imageId="45286790"/>
+	</Metadata>
+	<Page imageFilename="7474469.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356381897" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686236074388_740"/>
+				<RegionRefIndexed index="1" regionRef="region_1686236077736_743"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686236074388_740" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="914,507 2008,507 2008,855 914,855"/>
+			<TextLine id="region_1686236074388_740_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="949,599 1978,574 1979,505 1942,492 1721,532 1490,500 1426,531 1307,488 1047,542 951,514"/>
+				<Baseline points="957,584 999,575 1043,575 1088,572 1133,572 1178,575 1222,572 1267,572 1312,569 1357,569 1401,566 1446,566 1491,566 1536,563 1580,566 1625,563 1670,560 1715,560 1759,560 1804,557 1849,557 1894,554 1938,554 1983,560"/>
+				<TextEquiv>
+					<Unicode>ſyner iugēt. Do ſprach er frowe vn̄ muͦter jch han mich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686236074388_740_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="939,647 1740,644 1984,622 1986,575 940,597"/>
+				<Baseline points="948,635 957,632 1002,626 1046,626 1091,626 1136,623 1181,623 1225,623 1270,620 1315,620 1360,620 1404,617 1449,617 1494,617 1539,617 1583,617 1628,614 1673,614 1718,611 1762,611 1807,608 1852,608 1897,608 1941,605 1986,611"/>
+				<TextEquiv>
+					<Unicode>gantz ergeben/ got der volbringe/ vn̄ tüge ſynē willē mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686236074388_740_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="944,694 1978,673 1979,622 1927,616 945,652"/>
+				<Baseline points="951,680 954,680 999,677 1043,680 1088,677 1133,677 1178,674 1222,671 1267,671 1312,671 1357,671 1401,668 1446,668 1491,668 1536,668 1580,668 1625,665 1670,665 1715,665 1759,665 1804,662 1849,659 1894,659 1938,656 1983,656"/>
+				<TextEquiv>
+					<Unicode>mir. Vn̄ do die frow ſynē willē vn̄ den groſſen ernſt er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686236074388_740_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="952,752 1979,726 1979,674 1883,669 953,690"/>
+				<Baseline points="960,730 999,727 1043,727 1088,724 1133,724 1178,724 1222,724 1267,721 1312,721 1357,721 1401,718 1446,718 1491,718 1536,718 1580,715 1625,715 1670,715 1715,715 1759,715 1804,715 1849,712 1894,712 1938,709 1983,712"/>
+				<TextEquiv>
+					<Unicode>ſach das er ſich got ergeben hette/ vnd ſo veſte vnd ſtette</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686236074388_740_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="949,790 1984,779 1986,731 1922,717 951,752"/>
+				<Baseline points="957,781 960,778 1005,778 1049,778 1094,778 1139,778 1184,775 1228,775 1273,772 1318,772 1363,772 1407,772 1452,772 1497,769 1542,769 1586,769 1631,772 1676,769 1721,772 1765,769 1810,769 1855,766 1900,766 1944,760 1989,763"/>
+				<TextEquiv>
+					<Unicode>was in ſynē guͦtten willen. Do fuͦrt ſy in von dem See</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686236074388_740_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="948,853 1981,845 1956,771 1853,801 949,790"/>
+				<Baseline points="957,835 999,832 1043,832 1088,832 1133,829 1178,826 1222,826 1267,826 1312,823 1357,823 1401,823 1446,823 1491,820 1536,820 1580,820 1625,820 1670,820 1715,826 1759,826 1804,826 1849,826 1894,823 1938,820 1983,814"/>
+				<TextEquiv>
+					<Unicode>hin vff in den wald nit fer von dem dorff/ vn̄ macht im</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1686236077736_743" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="911,2011 2021,2011 2021,2227 911,2227"/>
+			<TextLine id="region_1686236077736_743_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="944,2078 1983,2084 1969,2010 1679,2055 1233,2007 944,2025"/>
+				<Baseline points="951,2067 996,2064 1040,2070 1085,2073 1130,2073 1175,2076 1219,2076 1264,2076 1309,2076 1354,2076 1398,2078 1443,2078 1488,2078 1533,2078 1577,2078 1622,2078 1667,2078 1712,2078 1756,2078 1801,2076 1846,2076 1891,2076 1935,2073 1980,2073 1986,2073"/>
+				<TextEquiv>
+					<Unicode>da vff die hoffſtat ein zelle/ dem man noch ſpricht Sāt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686236077736_743_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="944,2135 1977,2147 1965,2087 1700,2112 944,2077"/>
+				<Baseline points="951,2120 996,2120 1040,2123 1085,2120 1130,2123 1175,2126 1219,2126 1264,2129 1309,2129 1354,2129 1398,2129 1443,2129 1488,2129 1533,2129 1577,2129 1622,2129 1667,2129 1712,2129 1756,2129 1801,2129 1846,2126 1891,2126 1935,2123 1992,2122"/>
+				<TextEquiv>
+					<Unicode>Meynrads hofſtat. Dar in was er ein gantzes ior daſ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686236077736_743_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="949,2212 1901,2218 1981,2188 1961,2139 949,2136"/>
+				<Baseline points="957,2174 1002,2177 1046,2177 1091,2177 1136,2180 1181,2183 1225,2183 1270,2183 1315,2183 1360,2183 1404,2183 1449,2186 1494,2186 1539,2186 1583,2186 1628,2186 1673,2186 1718,2183 1762,2183 1807,2183 1852,2183 1897,2180 1941,2177 1983,2177"/>
+				<TextEquiv>
+					<Unicode>in die frow ſpißte/ vnd im gab all ſyn noͤtdurft da mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

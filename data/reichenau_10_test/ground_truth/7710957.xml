@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53254:lm=provided:date=11_07_2023_08:53</Creator>
+		<Created>2023-07-11T08:49:48</Created>
+		<LastChange>2023-08-20T20:31:07.867+02:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075109" pageNr="114" tsid="154460249" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=OIHSCWKAEXRRAZGSLZXHEGAE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BYHIPINBSNMVTXBSXNKIWAEP" imageId="46338779"/>
+	</Metadata>
+	<Page imageFilename="7710957.jpg" imageWidth="2786" imageHeight="3730">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356683324" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="rLJ4F_1"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="rLJ4F_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="968,550 2546,550 2546,2943 968,2943"/>
+			<TextLine id="line_1689058372599_120" custom="readingOrder {index:0;}">
+				<Coords points="1192,637 2415,637 2453,555 2220,510 2141,555 1194,564"/>
+				<Baseline points="1202,632 1205,632 1250,629 1295,629 1339,629 1384,629 1429,626 1474,623 1518,623 1563,620 1608,620 1653,623 1697,620 1742,617 1787,617 1832,617 1876,617 1921,617 1966,617 2011,614 2055,614 2100,614 2145,614 2190,617 2235,617 2279,614 2324,614 2369,614 2414,614 2458,611"/>
+				<TextEquiv>
+					<Unicode>Sopus iſt allzeÿt ſeins lebens überflüſſig zuͦ der ler¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="1197,714 2453,705 2453,622 1197,667"/>
+				<Baseline points="1208,701 1250,698 1295,698 1339,698 1384,695 1429,692 1474,692 1518,689 1563,689 1608,689 1653,686 1697,686 1742,683 1787,686 1832,683 1876,683 1921,683 1966,683 2011,686 2055,683 2100,683 2145,680 2190,680 2235,680 2279,680 2324,683 2369,683 2414,683 2458,683"/>
+				<TextEquiv>
+					<Unicode>nung geweſen von dem glücke eÿgner knecht auß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1689058369343_112" custom="readingOrder {index:2;}">
+				<Coords points="1190,788 2277,779 2466,758 2468,711 1192,705"/>
+				<Baseline points="1200,763 1217,763 1262,763 1306,763 1351,763 1396,757 1441,757 1486,754 1530,754 1575,754 1620,754 1665,751 1709,751 1754,748 1799,748 1844,748 1888,748 1933,748 1978,748 2023,748 2067,748 2112,748 2157,746 2202,748 2246,746 2291,746 2336,746 2381,746 2425,746 2470,748"/>
+				<TextEquiv>
+					<Unicode>der gegent phrigia darjnnen troÿa gelegen iſt. von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_5" custom="readingOrder {index:3;}">
+				<Coords points="1001,848 2459,834 2461,757 1001,804"/>
+				<Baseline points="1011,835 1029,835 1074,835 1119,832 1163,832 1208,829 1253,829 1298,826 1342,826 1387,826 1432,823 1477,820 1521,820 1566,820 1611,820 1656,817 1700,814 1745,814 1790,811 1835,814 1879,811 1924,814 1969,814 2014,814 2058,811 2103,811 2148,811 2193,811 2238,811 2282,811 2327,811 2372,811 2417,811 2461,814"/>
+				<TextEquiv>
+					<Unicode>ammonio dem weyler geborn. Er het für ander menſchen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_6" custom="readingOrder {index:4;}">
+				<Coords points="997,935 2450,887 2451,823 2393,819 999,847"/>
+				<Baseline points="1008,901 1023,901 1068,901 1113,898 1157,898 1202,895 1247,895 1292,892 1336,892 1381,889 1426,889 1471,886 1515,886 1560,883 1605,883 1650,883 1694,883 1739,880 1784,877 1829,880 1873,880 1918,880 1963,880 2008,880 2052,880 2097,880 2142,877 2187,877 2232,877 2276,880 2321,880 2366,877 2411,877 2455,877"/>
+				<TextEquiv>
+					<Unicode>ein langes vngeſtaltes angeſicht. einē groſſen kopff. geſpi¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_7" custom="readingOrder {index:5;}">
+				<Coords points="995,982 2459,973 2461,880 997,935"/>
+				<Baseline points="1008,966 1032,966 1077,966 1121,963 1166,963 1211,960 1256,960 1301,957 1345,954 1390,954 1435,954 1480,951 1524,951 1569,951 1614,948 1659,948 1703,945 1748,945 1793,945 1838,945 1882,945 1927,942 1972,942 2017,942 2061,942 2106,942 2151,942 2196,942 2240,942 2285,942 2330,942 2375,942 2420,939 2464,939"/>
+				<TextEquiv>
+					<Unicode>czte augen ſchwarczer farb. lang backen. einen kurczen halß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_8" custom="readingOrder {index:6;}">
+				<Coords points="997,1048 2459,1032 2459,977 2400,951 997,982"/>
+				<Baseline points="1008,1035 1032,1032 1077,1032 1121,1029 1166,1026 1211,1026 1256,1023 1301,1023 1345,1020 1390,1020 1435,1020 1480,1017 1524,1017 1569,1014 1614,1014 1659,1014 1703,1014 1748,1011 1793,1011 1838,1011 1882,1011 1927,1008 1972,1008 2017,1008 2061,1008 2106,1008 2151,1008 2196,1008 2240,1008 2285,1008 2330,1008 2375,1008 2420,1008 2464,1011"/>
+				<TextEquiv>
+					<Unicode>groß waden. breyt fuͤß. ein groß maul. faſt hoferot. zerblaͤtē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_9" custom="readingOrder {index:7;}">
+				<Coords points="995,1113 2466,1085 2466,1028 2372,1015 995,1047"/>
+				<Baseline points="1005,1095 1038,1095 1083,1095 1127,1092 1172,1092 1217,1089 1262,1089 1306,1089 1351,1089 1396,1086 1441,1086 1486,1083 1530,1080 1575,1080 1620,1080 1665,1080 1709,1077 1754,1080 1799,1077 1844,1077 1888,1077 1933,1074 1978,1074 2023,1074 2067,1074 2112,1074 2157,1074 2202,1074 2246,1074 2291,1074 2336,1074 2381,1074 2425,1074 2470,1077"/>
+				<TextEquiv>
+					<Unicode>bauch. vnd das an jm das boͤſeſt was. er het ein übertraͤge</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_10" custom="readingOrder {index:8;}">
+				<Coords points="1001,1184 2440,1162 2473,1094 1001,1120"/>
+				<Baseline points="1011,1157 1044,1160 1089,1160 1133,1160 1178,1157 1223,1157 1268,1154 1312,1154 1357,1154 1402,1151 1447,1151 1492,1151 1536,1148 1581,1148 1626,1148 1671,1145 1715,1142 1760,1142 1805,1142 1850,1142 1894,1142 1939,1139 1984,1139 2029,1139 2073,1142 2118,1142 2163,1139 2208,1142 2252,1139 2297,1139 2342,1139 2387,1139 2431,1139 2476,1142"/>
+				<TextEquiv>
+					<Unicode>zungen darūb er ſer ſtaczget. aber mit liſten geſcheÿdigkeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_11" custom="readingOrder {index:9;}">
+				<Coords points="1004,1230 2292,1236 2428,1230 2461,1166 1004,1186"/>
+				<Baseline points="1014,1223 1032,1223 1077,1226 1121,1223 1166,1223 1211,1223 1256,1223 1301,1220 1345,1220 1390,1217 1435,1217 1480,1214 1524,1214 1569,1214 1614,1214 1659,1208 1703,1208 1748,1208 1793,1208 1838,1208 1882,1208 1927,1208 1972,1208 2017,1205 2061,1208 2106,1205 2151,1208 2196,1208 2240,1208 2285,1205 2330,1205 2375,1205 2420,1205 2464,1205"/>
+				<TextEquiv>
+					<Unicode>vnd manigerley ſchimpffkallen was er über die maß bega</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_12" custom="readingOrder {index:10;}">
+				<Coords points="995,1295 2086,1306 2448,1282 2464,1214 995,1228"/>
+				<Baseline points="1005,1292 1035,1289 1080,1292 1124,1289 1169,1289 1214,1286 1259,1286 1304,1286 1348,1283 1393,1283 1438,1280 1483,1280 1527,1280 1572,1280 1617,1280 1662,1277 1706,1277 1751,1277 1796,1277 1841,1274 1885,1274 1930,1274 1975,1274 2020,1274 2064,1271 2109,1274 2154,1271 2199,1271 2243,1271 2288,1271 2333,1268 2378,1268 2423,1268 2467,1268"/>
+				<TextEquiv>
+					<Unicode>bet. Als aber ſein herr merckt das er zuͦ burgerlichē werckē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_13" custom="readingOrder {index:11;}">
+				<Coords points="997,1381 2420,1361 2473,1355 2475,1302 999,1296"/>
+				<Baseline points="1008,1357 1044,1357 1089,1357 1133,1357 1178,1354 1223,1351 1268,1351 1312,1351 1357,1348 1402,1348 1447,1345 1492,1345 1536,1342 1581,1345 1626,1345 1671,1342 1715,1342 1760,1342 1805,1342 1850,1342 1894,1339 1939,1339 1984,1339 2029,1339 2073,1339 2118,1339 2163,1339 2208,1336 2252,1336 2297,1333 2342,1333 2387,1333 2431,1333 2476,1336"/>
+				<TextEquiv>
+					<Unicode>vntaugenlichen was. ſendet er jn in das geü das feld zuͦ bau</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_14" custom="readingOrder {index:12;}">
+				<Coords points="1004,1432 2466,1410 2466,1353 2396,1346 1004,1383"/>
+				<Baseline points="1014,1420 1038,1420 1083,1420 1127,1417 1172,1417 1217,1417 1262,1417 1306,1417 1351,1414 1396,1414 1441,1411 1486,1411 1530,1411 1575,1408 1620,1408 1665,1408 1709,1408 1754,1405 1799,1408 1844,1408 1888,1405 1933,1405 1978,1405 2023,1405 2067,1405 2112,1405 2157,1402 2202,1402 2246,1402 2291,1399 2336,1402 2381,1399 2425,1399 2470,1402"/>
+				<TextEquiv>
+					<Unicode>wen. Auf einen tag als der herr in das geü geriten waz ſam</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_15" custom="readingOrder {index:13;}">
+				<Coords points="995,1495 2462,1476 2448,1410 995,1429"/>
+				<Baseline points="1005,1486 1035,1486 1080,1486 1124,1486 1169,1486 1214,1483 1259,1483 1304,1483 1348,1483 1393,1480 1438,1480 1483,1477 1527,1474 1572,1474 1617,1474 1662,1474 1706,1477 1751,1474 1796,1471 1841,1471 1885,1471 1930,1471 1975,1468 2020,1471 2064,1468 2109,1468 2154,1468 2199,1468 2243,1468 2288,1468 2333,1468 2378,1465 2423,1468 2467,1468"/>
+				<TextEquiv>
+					<Unicode>let der mair des hofs zeÿtig feÿgē. vnd antwurtet die dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_16" custom="readingOrder {index:14;}">
+				<Coords points="992,1563 2299,1559 2462,1546 2464,1495 993,1498"/>
+				<Baseline points="1002,1551 1035,1554 1080,1551 1124,1551 1169,1551 1214,1548 1259,1548 1304,1548 1348,1545 1393,1545 1438,1545 1483,1542 1527,1542 1572,1542 1617,1542 1662,1539 1706,1539 1751,1539 1796,1539 1841,1539 1885,1539 1930,1539 1975,1536 2020,1536 2064,1536 2109,1536 2154,1533 2199,1533 2243,1533 2288,1533 2333,1530 2378,1530 2423,1530 2467,1533"/>
+				<TextEquiv>
+					<Unicode>herren vn̄ ſprach. Herr nÿm hyn die erſtē frücht diß jares</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_17" custom="readingOrder {index:15;}">
+				<Coords points="997,1621 2464,1623 2466,1546 997,1574"/>
+				<Baseline points="1008,1617 1035,1617 1080,1620 1124,1617 1169,1617 1214,1614 1259,1614 1304,1614 1348,1611 1393,1611 1438,1611 1483,1611 1527,1608 1572,1608 1617,1605 1662,1605 1706,1602 1751,1602 1796,1605 1841,1605 1885,1602 1930,1602 1975,1602 2020,1602 2064,1602 2109,1599 2154,1599 2199,1599 2243,1599 2288,1599 2333,1599 2378,1599 2423,1599 2467,1599"/>
+				<TextEquiv>
+					<Unicode>von deinen aͤckern. der herr was fro vn̄ ſprach. beÿ heÿl daz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_18" custom="readingOrder {index:16;}">
+				<Coords points="997,1695 2450,1673 2450,1618 2387,1605 997,1621"/>
+				<Baseline points="1008,1685 1023,1685 1068,1682 1113,1682 1157,1679 1202,1679 1247,1679 1292,1679 1336,1677 1381,1677 1426,1677 1471,1674 1515,1677 1560,1674 1605,1671 1650,1671 1694,1671 1739,1671 1784,1671 1829,1671 1873,1671 1918,1668 1963,1668 2008,1668 2052,1668 2097,1668 2142,1668 2187,1665 2232,1665 2276,1665 2321,1665 2366,1662 2411,1662 2455,1659"/>
+				<TextEquiv>
+					<Unicode>ſind überſchoͤn feygen. vn̄ ſchuͦff mit ſeinē knecht agatopo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_19" custom="readingOrder {index:17;}">
+				<Coords points="997,1763 2455,1748 2457,1673 999,1697"/>
+				<Baseline points="1008,1748 1026,1748 1071,1748 1116,1748 1160,1745 1205,1745 1250,1745 1295,1745 1339,1745 1384,1745 1429,1742 1474,1742 1518,1739 1563,1739 1608,1739 1653,1736 1697,1736 1742,1736 1787,1733 1832,1736 1876,1733 1921,1733 1966,1733 2011,1733 2055,1733 2100,1730 2145,1733 2190,1730 2235,1730 2279,1730 2324,1727 2369,1727 2414,1727 2458,1727"/>
+				<TextEquiv>
+					<Unicode>daz er die feÿgen naͤm vnnd die behielt biß das er wider auß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_20" custom="readingOrder {index:18;}">
+				<Coords points="997,1827 2473,1811 2473,1748 2207,1735 997,1763"/>
+				<Baseline points="1008,1814 1044,1814 1089,1814 1133,1811 1178,1811 1223,1808 1268,1808 1312,1808 1357,1805 1402,1805 1447,1805 1492,1805 1536,1808 1581,1805 1626,1802 1671,1805 1715,1805 1760,1805 1805,1802 1850,1802 1894,1802 1939,1799 1984,1799 2029,1799 2073,1799 2118,1799 2163,1796 2208,1796 2252,1796 2297,1796 2342,1793 2387,1796 2431,1796 2476,1799"/>
+				<TextEquiv>
+					<Unicode>dem bad kaͤm. Von geſchicht fuͤget es ſich das eſopus von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_21" custom="readingOrder {index:19;}">
+				<Coords points="1001,1886 2301,1895 2450,1875 2451,1818 1001,1829"/>
+				<Baseline points="1011,1876 1020,1876 1065,1879 1110,1879 1154,1876 1199,1873 1244,1876 1289,1876 1333,1876 1378,1873 1423,1873 1468,1870 1512,1870 1557,1870 1602,1870 1647,1867 1691,1870 1736,1870 1781,1867 1826,1867 1870,1867 1915,1865 1960,1865 2005,1865 2050,1865 2094,1865 2139,1865 2184,1865 2229,1862 2273,1865 2318,1862 2363,1859 2408,1859 2452,1859"/>
+				<TextEquiv>
+					<Unicode>acker kam ſein taͤglichs brot czuͦ holen nach ſeiner gewon¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_22" custom="readingOrder {index:20;}">
+				<Coords points="1001,1967 2450,1946 2470,1873 1003,1886"/>
+				<Baseline points="1011,1942 1038,1945 1083,1945 1127,1939 1172,1939 1217,1939 1262,1942 1306,1942 1351,1942 1396,1939 1441,1936 1486,1939 1530,1936 1575,1936 1620,1936 1665,1933 1709,1936 1754,1933 1799,1933 1844,1933 1888,1933 1933,1930 1978,1930 2023,1930 2067,1930 2112,1930 2157,1927 2202,1927 2246,1927 2291,1927 2336,1927 2381,1927 2425,1924 2470,1927"/>
+				<TextEquiv>
+					<Unicode>heÿt. Agatopus dē die feÿgen waren beuolhen. als er zwuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_23" custom="readingOrder {index:21;}">
+				<Coords points="1004,2020 2462,2016 2462,1946 2385,1935 1004,1967"/>
+				<Baseline points="1014,2011 1035,2008 1080,2011 1124,2008 1169,2008 1214,2008 1259,2005 1304,2005 1348,2005 1393,2005 1438,2005 1483,2002 1527,2002 1572,2002 1617,2002 1662,1999 1706,1999 1751,1999 1796,1999 1841,1999 1885,1999 1930,1999 1975,1999 2020,1996 2064,1996 2109,1996 2154,1996 2199,1996 2243,1993 2288,1993 2333,1993 2378,1990 2423,1990 2467,1987"/>
+				<TextEquiv>
+					<Unicode>von den ſelben verſuͦcht het. ſprach er zuͦ ſeinen mitgeſellen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_24" custom="readingOrder {index:22;}">
+				<Coords points="1006,2082 2466,2077 2466,2016 2413,2003 1006,2029"/>
+				<Baseline points="1017,2076 1038,2073 1083,2073 1127,2073 1172,2073 1217,2070 1262,2070 1306,2070 1351,2070 1396,2073 1441,2070 1486,2067 1530,2070 1575,2067 1620,2070 1665,2064 1709,2064 1754,2064 1799,2064 1844,2064 1888,2064 1933,2064 1978,2064 2023,2061 2067,2061 2112,2064 2157,2061 2202,2061 2246,2058 2291,2055 2336,2055 2381,2058 2425,2055 2470,2058"/>
+				<TextEquiv>
+					<Unicode>wen̄ ich meinē herrn nit forcht ich woͤlt die feygen all eſſen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_25" custom="readingOrder {index:23;}">
+				<Coords points="1001,2156 2439,2143 2455,2068 1001,2086"/>
+				<Baseline points="1011,2139 1026,2139 1071,2139 1116,2139 1160,2139 1205,2139 1250,2136 1295,2136 1339,2136 1384,2136 1429,2133 1474,2133 1518,2133 1563,2130 1608,2130 1653,2133 1697,2133 1742,2130 1787,2127 1832,2130 1876,2130 1921,2130 1966,2130 2011,2130 2055,2130 2100,2127 2145,2127 2190,2124 2235,2124 2279,2124 2324,2124 2369,2124 2414,2121 2458,2121"/>
+				<TextEquiv>
+					<Unicode>das nit eine über belyb. Do ſprach ſein geſell. laͤßt du mich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_26" custom="readingOrder {index:24;}">
+				<Coords points="995,2220 2420,2218 2464,2152 997,2158"/>
+				<Baseline points="1005,2205 1035,2205 1080,2205 1124,2205 1169,2202 1214,2202 1259,2202 1304,2199 1348,2199 1393,2202 1438,2199 1483,2199 1527,2199 1572,2199 1617,2199 1662,2199 1706,2199 1751,2199 1796,2196 1841,2196 1885,2196 1930,2196 1975,2196 2020,2196 2064,2196 2109,2196 2154,2193 2199,2193 2243,2193 2288,2190 2333,2190 2378,2190 2423,2190 2467,2190"/>
+				<TextEquiv>
+					<Unicode>mit dir eſſen ſo find ich ein weg das vns kein übel darūb be</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_27" custom="readingOrder {index:25;}">
+				<Coords points="995,2301 2418,2286 2466,2277 2468,2215 997,2222"/>
+				<Baseline points="1005,2276 1041,2273 1086,2270 1130,2267 1175,2267 1220,2267 1265,2267 1309,2267 1354,2264 1399,2267 1444,2267 1489,2264 1533,2267 1578,2264 1623,2264 1668,2264 1712,2261 1757,2261 1802,2261 1847,2261 1891,2261 1936,2261 1981,2261 2026,2261 2070,2264 2115,2261 2160,2261 2205,2258 2249,2255 2294,2255 2339,2255 2384,2252 2428,2252 2473,2258"/>
+				<TextEquiv>
+					<Unicode>gegnet. do ſprach agatopus wie tuoͤcht das geſein. antwur</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_28" custom="readingOrder {index:26;}">
+				<Coords points="995,2341 1392,2369 2464,2328 2446,2271 2264,2262 997,2299"/>
+				<Baseline points="1005,2336 1035,2336 1080,2336 1124,2333 1169,2330 1214,2330 1259,2333 1304,2333 1348,2333 1393,2333 1438,2333 1483,2333 1527,2330 1572,2330 1617,2330 1662,2330 1706,2330 1751,2330 1796,2330 1841,2327 1885,2327 1930,2327 1975,2330 2020,2327 2064,2327 2109,2324 2154,2324 2199,2324 2243,2321 2288,2318 2333,2321 2378,2318 2423,2318 2467,2315"/>
+				<TextEquiv>
+					<Unicode>tet er. wen̄ der herr von bad kombt ſo ſprich zuͦ jm. O herr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_29" custom="readingOrder {index:27;}">
+				<Coords points="993,2413 2462,2398 2462,2350 2402,2330 995,2363"/>
+				<Baseline points="1005,2399 1035,2399 1080,2399 1124,2399 1169,2399 1214,2399 1259,2399 1304,2399 1348,2399 1393,2399 1438,2399 1483,2399 1527,2396 1572,2399 1617,2396 1662,2396 1706,2396 1751,2393 1796,2393 1841,2393 1885,2393 1930,2393 1975,2393 2020,2393 2064,2393 2109,2393 2154,2393 2199,2390 2243,2390 2288,2390 2333,2387 2378,2384 2423,2387 2467,2387"/>
+				<TextEquiv>
+					<Unicode>eſopus als er von acker kōmen iſt. hat er dÿe feygen all ge</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_30" custom="readingOrder {index:28;}">
+				<Coords points="992,2479 2468,2466 2455,2396 992,2431"/>
+				<Baseline points="1002,2461 1038,2464 1083,2464 1127,2464 1172,2464 1217,2464 1262,2461 1306,2461 1351,2464 1396,2464 1441,2464 1486,2464 1530,2464 1575,2464 1620,2461 1665,2461 1709,2461 1754,2461 1799,2461 1844,2461 1888,2458 1933,2461 1978,2461 2023,2461 2067,2461 2112,2458 2157,2458 2202,2455 2246,2455 2291,2455 2336,2452 2381,2452 2425,2449 2470,2452"/>
+				<TextEquiv>
+					<Unicode>eſſen So ſich aber eſopus von traͤge wegen ſeiner zūgen nit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_31" custom="readingOrder {index:29;}">
+				<Coords points="997,2536 2332,2543 2473,2525 2475,2473 1107,2501 999,2468"/>
+				<Baseline points="1008,2524 1044,2524 1089,2527 1133,2530 1178,2530 1223,2530 1268,2530 1312,2530 1357,2530 1402,2530 1447,2527 1492,2530 1536,2530 1581,2527 1626,2530 1671,2530 1715,2527 1760,2527 1805,2524 1850,2524 1894,2524 1939,2527 1984,2527 2029,2524 2073,2524 2118,2524 2163,2524 2208,2524 2252,2521 2297,2521 2342,2518 2387,2518 2431,2515 2476,2515"/>
+				<TextEquiv>
+					<Unicode>kan verſprechen. ſo wirt er geſchlagen. vn̄ werden wir vn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_32" custom="readingOrder {index:30;}">
+				<Coords points="1010,2613 2459,2606 2461,2540 1012,2543"/>
+				<Baseline points="1020,2599 1032,2596 1077,2596 1121,2596 1166,2596 1211,2596 1256,2596 1301,2596 1345,2596 1390,2596 1435,2596 1480,2593 1524,2596 1569,2593 1614,2596 1659,2593 1703,2593 1748,2593 1793,2590 1838,2590 1882,2593 1927,2593 1972,2593 2017,2593 2061,2593 2106,2590 2151,2590 2196,2587 2240,2587 2285,2587 2330,2584 2375,2584 2420,2581 2464,2587"/>
+				<TextEquiv>
+					<Unicode>ſern luſt mit den feÿgen erfüllen. In der weil als ſÿ der ding</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_33" custom="readingOrder {index:31;}">
+				<Coords points="1004,2679 2457,2672 2422,2591 1004,2611"/>
+				<Baseline points="1014,2658 1029,2655 1074,2658 1119,2658 1163,2658 1208,2658 1253,2661 1298,2661 1342,2661 1387,2661 1432,2658 1477,2661 1521,2661 1566,2661 1611,2661 1656,2658 1700,2658 1745,2658 1790,2658 1835,2658 1879,2658 1924,2658 1969,2658 2014,2658 2058,2658 2103,2658 2148,2658 2193,2655 2238,2655 2282,2652 2327,2649 2372,2646 2417,2646 2461,2643"/>
+				<TextEquiv>
+					<Unicode>eins wurden aſſen ſÿ die feÿgen eine nach der andern. vn̄ ſp</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_34" custom="readingOrder {index:32;}">
+				<Coords points="1001,2736 2462,2723 2462,2674 2369,2657 2018,2694 1001,2679"/>
+				<Baseline points="1011,2724 1035,2724 1080,2724 1124,2724 1169,2724 1214,2724 1259,2724 1304,2727 1348,2727 1393,2727 1438,2727 1483,2727 1527,2727 1572,2727 1617,2724 1662,2724 1706,2724 1751,2724 1796,2724 1841,2724 1885,2724 1930,2724 1975,2724 2020,2724 2064,2724 2109,2724 2154,2724 2199,2721 2243,2721 2288,2718 2333,2715 2378,2712 2423,2709 2467,2709"/>
+				<TextEquiv>
+					<Unicode>rachē vnder jn ſelber O du armer eſope wee deinē ſchultern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_35" custom="readingOrder {index:33;}">
+				<Coords points="997,2800 1873,2826 2461,2791 2462,2736 2365,2723 999,2751"/>
+				<Baseline points="1008,2787 1035,2787 1080,2787 1124,2787 1169,2790 1214,2790 1259,2790 1304,2790 1348,2793 1393,2793 1438,2793 1483,2793 1527,2793 1572,2793 1617,2790 1662,2790 1706,2790 1751,2790 1796,2793 1841,2790 1885,2793 1930,2790 1975,2790 2020,2790 2064,2790 2109,2787 2154,2787 2199,2787 2243,2787 2288,2784 2333,2781 2378,2778 2423,2775 2467,2775"/>
+				<TextEquiv>
+					<Unicode>alſo wurden die feÿgen all von jn geeſſen. Als aber der herr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_36" custom="readingOrder {index:34;}">
+				<Coords points="997,2861 2459,2872 2459,2797 2407,2787 1878,2826 997,2800"/>
+				<Baseline points="1008,2852 1032,2849 1077,2852 1121,2852 1166,2852 1211,2852 1256,2855 1301,2855 1345,2855 1390,2855 1435,2855 1480,2855 1524,2855 1569,2855 1614,2855 1659,2855 1703,2858 1748,2855 1793,2855 1838,2855 1882,2855 1927,2855 1972,2855 2017,2858 2061,2858 2106,2855 2151,2855 2196,2855 2240,2852 2285,2849 2330,2846 2375,2846 2420,2843 2464,2843"/>
+				<TextEquiv>
+					<Unicode>von dē bad kōmen was. begeret er jm die feygen für zuͦſecz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rLJ4F_1_tl_37" custom="readingOrder {index:35;}">
+				<Coords points="995,2958 1581,2925 1765,2964 1849,2925 2009,2977 2466,2932 2466,2859 2418,2848 1906,2890 995,2879"/>
+				<Baseline points="1005,2918 1038,2918 1083,2918 1127,2921 1172,2921 1217,2924 1262,2924 1306,2924 1351,2927 1396,2924 1441,2927 1486,2924 1530,2924 1575,2924 1620,2924 1665,2924 1709,2924 1754,2924 1799,2924 1844,2924 1888,2924 1933,2924 1978,2924 2023,2924 2067,2924 2112,2921 2157,2921 2202,2921 2246,2921 2291,2918 2336,2915 2381,2912 2425,2909 2470,2909"/>
+				<TextEquiv>
+					<Unicode>en. ſprach agatopus O mein herr. do eſopus heüt vō acker</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Sopus iſt allzeÿt ſeins lebens überflüſſig zuͦ ꝺer ler¬
+nung geweſen von ꝺem glücke eÿgner knecht auß
+ꝺer gegent phꝛigia ꝺarjnnen troÿa gelegen iſt. von
+ammonio ꝺem weyler geboꝛn. Er het für anꝺer menſchen
+ein langes vngeſtaltes angeſicht. einē groſſen kopff. geſpi¬
+czte augen ſchwarczer farb. lang backen. einen kurczen halß
+groß waꝺen. bꝛeyt fuͤß. ein groß maul. faſt hoferot. zerblaͤtē
+bauch. vnꝺ ꝺas an jm ꝺas boͤſeſt was. er het ein übertraͤge
+zungen ꝺarūb er ſer ſtaczget. aber mit liſten geſcheÿꝺigkeit
+vnꝺ manigerley ſchimpffkallen was er über ꝺie maß bega
+bet. Als aber ſein herꝛ merckt ꝺas er zuͦ burgerlichē werckē
+vntaugenlichen was. ſenꝺet er jn in ꝺas geü ꝺas felꝺ zuͦ bau
+wen. Auf einen tag als ꝺer herꝛ in ꝺas geü geriten waz ſam
+let ꝺer mair ꝺes hofs zeÿtig feÿgē. vnꝺ antwurtet ꝺie ꝺem
+herꝛen vn̄ ſpꝛach. Herꝛ nÿm hyn ꝺie erſtē frücht ꝺiß jares
+von ꝺeinen aͤckern. ꝺer herꝛ was fro vn̄ ſpꝛach. beÿ heÿl ꝺaz
+ſinꝺ überſchoͤn feygen. vn̄ ſchuͦff mit ſeinē knecht agatopo
+ꝺaz er ꝺie feÿgen naͤm vnnꝺ ꝺie behielt biß ꝺas er wiꝺer auß
+ꝺem baꝺ kaͤm. Von geſchicht fuͤget es ſich ꝺas eſopus von
+acker kam ſein taͤglichs bꝛot czuͦ holen nach ſeiner gewon¬
+heÿt. Agatopus ꝺē ꝺie feÿgen waren beuolhen. als er zwuͦ
+von ꝺen ſelben verſuͦcht het. ſpꝛach er zuͦ ſeinen mitgeſellen.
+wen̄ ich meinē herꝛn nit foꝛcht ich woͤlt ꝺie feygen all eſſen
+ꝺas nit eine über belyb. Do ſpꝛach ſein geſell. laͤßt ꝺu mich
+mit ꝺir eſſen ſo finꝺ ich ein weg ꝺas vns kein übel ꝺarūb be
+gegnet. ꝺo ſpꝛach agatopus wie tuoͤcht ꝺas geſein. antwur
+tet er. wen̄ ꝺer herꝛ von baꝺ kombt ſo ſpꝛich zuͦ jm. O herꝛ
+eſopus als er von acker kōmen iſt. hat er ꝺÿe feygen all ge
+eſſen So ſich aber eſopus von traͤge wegen ſeiner zūgen nit
+kan verſpꝛechen. ſo wirt er geſchlagen. vn̄ werꝺen wir vn
+ſern luſt mit ꝺen feÿgen erfüllen. In ꝺer weil als ſÿ ꝺer ꝺing
+eins wurꝺen aſſen ſÿ ꝺie feÿgen eine nach ꝺer anꝺern. vn̄ ſp
+rachē vnꝺer jn ſelber O ꝺu armer eſope wee ꝺeinē ſchultern
+alſo wurꝺen ꝺie feÿgen all von jn geeſſen. Als aber ꝺer herꝛ
+von ꝺē baꝺ kōmen was. begeret er jm ꝺie feygen für zuͦſecz
+en. ſpꝛach agatopus O mein herꝛ. ꝺo eſopus heüt vō acker</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

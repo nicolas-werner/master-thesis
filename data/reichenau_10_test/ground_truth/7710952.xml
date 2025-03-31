@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53254:lm=provided:date=11_07_2023_07:25</Creator>
+		<Created>2023-07-10T15:37:08.175+02:00</Created>
+		<LastChange>2023-08-20T20:31:05.594+02:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075105" pageNr="110" tsid="154460243" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=HZYLGDELMRQLFUVLHJEIVGJJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TDIGYJFGULSAYYOPTCPYDWOG" imageId="46338766"/>
+	</Metadata>
+	<Page imageFilename="7710952.jpg" imageWidth="2786" imageHeight="3730">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356665372" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1688998503958_5942"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1688998503958_5942" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="619,805 1467,805 1467,1102 619,1102"/>
+			<TextLine id="region_1688998503958_5942_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="666,904 813,926 885,905 989,923 1137,903 1271,931 1361,912 1360,851 1297,821 1069,848 1002,819 665,822"/>
+				<Baseline points="671,895 716,892 760,895 805,895 850,895 895,895 939,895 984,895 1029,895 1074,895 1119,895 1163,898 1208,898 1253,901 1298,898 1342,901 1363,901"/>
+				<TextEquiv>
+					<Unicode>Das buch des hochbe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998503958_5942_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="642,989 1293,1006 1343,1000 1342,920 641,927"/>
+				<Baseline points="647,975 692,975 737,978 781,978 826,978 871,978 916,978 960,978 1005,978 1050,978 1095,978 1139,981 1184,981 1229,981 1274,981 1318,981 1345,981"/>
+				<TextEquiv>
+					<Unicode>remten fabeltichters E</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1688998503958_5942_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="639,1108 741,1074 958,1075 1110,1117 1349,1076 1338,1009 1012,1017 874,984 828,1015 638,988"/>
+				<Baseline points="644,1065 689,1062 734,1065 778,1065 823,1065 868,1065 913,1065 957,1065 1002,1065 1047,1065 1092,1068 1136,1068 1181,1068 1226,1071 1271,1071 1315,1068 1351,1071"/>
+				<TextEquiv>
+					<Unicode>ſopi mit ſeinen figuren.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Das buch ꝺes hochbe
+remten fabeltichters E
+ſopi mit ſeinen figuren.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

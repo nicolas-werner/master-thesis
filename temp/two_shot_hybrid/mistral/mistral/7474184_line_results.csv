@@ -1,0 +1,5 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Uon der neü gefunden,Here is the corrected transcription based on the image provided:,2.65,2.5,2.5,7474184,mistral
+2,Region ſo wol ein welt genempt mag werden/,,1.0,1.0,1.0,7474184,mistral
+3,durch den Criſtēlichen künig/ von Portigal/,Von der new̄ gefunden,0.8372093023255814,1.0,1.0,7474184,mistral
+4,wunderbarlich erfunden/,Region ſo wol ein welt genempt mag werden/,1.434782608695652,4.0,4.0,7474184,mistral

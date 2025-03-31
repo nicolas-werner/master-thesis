@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52661:lm=provided:date=07_06_2023_13:58</Creator>
+		<Created>2023-06-07T09:11:06.788+02:00</Created>
+		<LastChange>2024-02-28T10:38:48.686+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67074976" pageNr="1" tsid="154460024" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=MTVKFAHYHKWVAIEYUIOVARYV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YLVCMCQDTAMEFHINZTDBQJVD" imageId="45286741"/>
+	</Metadata>
+	<Page imageFilename="7474454.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356351357" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686139006931_8819"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686139006931_8819" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="199,478 1284,478 1284,798 199,798"/>
+			<TextLine id="region_1686139006931_8819_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="238,623 1120,652 1143,567 1018,588 971,551 863,575 645,534 550,564 488,529 403,560 235,529"/>
+				<Baseline points="244,611 289,611 334,608 378,608 423,614 468,614 513,617 557,620 602,620 647,620 692,623 736,623 781,626 826,629 870,629 915,629 960,632 1005,632 1049,635 1094,635 1139,635 1148,635"/>
+				<TextEquiv>
+					<Unicode>Von ſant Meynrat ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686139006931_8819_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="304,700 1196,710 1193,654 1162,650 953,667 844,638 773,669 302,627"/>
+				<Baseline points="310,677 354,674 399,674 444,677 489,677 533,680 578,680 623,683 668,683 712,683 757,686 802,686 847,689 891,692 936,692 981,694 1026,694 1070,694 1115,697 1160,697 1199,697"/>
+				<TextEquiv>
+					<Unicode>hübſchlieplich leſen was ellend vnd armuͦt er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686139006931_8819_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="302,756 716,752 778,791 1197,776 1195,715 301,703"/>
+				<Baseline points="307,727 351,727 396,727 441,730 486,733 530,736 575,739 620,736 665,736 709,739 754,739 799,742 844,742 888,745 933,745 978,745 1023,748 1067,748 1112,748 1157,751 1199,754"/>
+				<TextEquiv>
+					<Unicode>erlitten hat. vß der latiniſchen hyſtorien gezogē</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

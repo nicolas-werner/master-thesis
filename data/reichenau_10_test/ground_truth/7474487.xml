@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:36</Creator>
+		<Created>2023-06-07T09:11:11.491+02:00</Created>
+		<LastChange>2023-12-20T15:42:19.450+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075006" pageNr="31" tsid="154460079" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=UCDXJUUIVPOHFFRTJQUIQCTM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QELVFPCKOJVYKAGXVKMPIKMS" imageId="45286852"/>
+	</Metadata>
+	<Page imageFilename="7474487.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356416623" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573419527_243"/>
+				<RegionRefIndexed index="1" regionRef="region_1686573422407_246"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573419527_243" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="906,382 2010,382 2010,649 906,649"/>
+			<TextLine id="region_1686573419527_243_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="926,470 1919,490 1959,483 1959,408 925,401"/>
+				<Baseline points="933,453 978,450 1023,450 1067,450 1112,450 1157,453 1202,453 1246,453 1291,456 1336,456 1381,456 1425,456 1470,459 1515,459 1559,459 1604,459 1649,459 1694,459 1738,462 1783,462 1828,462 1873,462 1917,462 1962,465 1965,462"/>
+				<TextEquiv>
+					<Unicode>eren beſtattet wart diſer heylig hat gelitten vff den .xx.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573419527_243_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="926,513 1957,521 1955,485 1859,470 925,470"/>
+				<Baseline points="933,504 978,501 1023,504 1067,501 1112,501 1157,504 1202,504 1246,504 1291,504 1336,507 1381,507 1425,507 1470,510 1515,510 1559,510 1604,510 1649,510 1694,513 1738,513 1783,513 1828,513 1873,513 1917,513 1974,515"/>
+				<TextEquiv>
+					<Unicode>tag der ienners in dem ior von gottes geburt achthun¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573419527_243_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="926,570 1921,597 1975,589 1974,522 925,513"/>
+				<Baseline points="933,554 978,551 1023,554 1067,554 1112,557 1157,557 1202,554 1246,557 1291,557 1336,557 1381,557 1425,560 1470,563 1515,563 1559,563 1604,566 1649,563 1694,566 1738,566 1783,569 1828,566 1873,569 1917,569 1962,572 1977,575"/>
+				<TextEquiv>
+					<Unicode>dert ſechtzig vnd dry vnder künig ludwig vō franckrich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573419527_243_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="927,631 988,641 1074,620 1219,647 1266,627 1413,632 1412,575 1372,568 1309,583 1258,567 926,570"/>
+				<Baseline points="933,608 978,605 1023,608 1067,605 1112,608 1157,608 1202,611 1246,611 1291,611 1336,611 1381,611 1416,614"/>
+				<TextEquiv>
+					<Unicode>im .xxviii. ior ſyns richs.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1686573422407_246" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="1038,679 1916,679 1916,883 1038,883"/>
+			<TextLine id="region_1686573422407_246_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1084,776 1854,772 1837,703 1732,726 1679,699 1633,724 1587,698 1084,696"/>
+				<Baseline points="1091,757 1094,754 1139,754 1184,754 1228,754 1273,754 1318,754 1363,754 1407,751 1452,754 1497,754 1542,754 1586,751 1631,751 1676,754 1721,751 1765,754 1810,754 1855,754"/>
+				<TextEquiv>
+					<Unicode>Hier nach werden ir ſehen wie man die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573422407_246_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="1085,831 1850,820 1850,771 1790,762 1087,779"/>
+				<Baseline points="1094,811 1136,808 1181,805 1225,805 1270,808 1315,808 1360,808 1404,805 1449,805 1494,805 1539,805 1583,805 1628,805 1673,808 1718,808 1762,808 1807,805 1852,808"/>
+				<TextEquiv>
+					<Unicode>zwen moͤrder Peter vnd Richart mit dē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573422407_246_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="1078,874 1180,897 1588,876 1588,828 1528,815 1420,832 1358,811 1300,833 1140,812 1078,831"/>
+				<Baseline points="1085,859 1130,859 1175,859 1219,862 1264,862 1309,862 1354,859 1398,859 1443,859 1488,859 1533,859 1577,856 1592,859"/>
+				<TextEquiv>
+					<Unicode>rederen zuͦ eſchen verbrent.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

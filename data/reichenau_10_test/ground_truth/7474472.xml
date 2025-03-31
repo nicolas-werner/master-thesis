@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_13:08</Creator>
+		<Created>2023-06-07T09:11:09.378+02:00</Created>
+		<LastChange>2023-12-20T15:42:15.973+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67074993" pageNr="18" tsid="154460057" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=OKFLKRNDHKZBECFPTYYWTEXB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DEQWUAFJZGYFGTPVHNZNMHAQ" imageId="45286797"/>
+	</Metadata>
+	<Page imageFilename="7474472.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356388452" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573289664_141"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573289664_141" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="99,483 1219,483 1219,1060 99,1060"/>
+			<TextLine id="region_1686573289664_141_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="124,572 1146,561 1129,510 1004,485 124,506"/>
+				<Baseline points="124,556 164,551 208,551 253,551 298,548 343,548 387,548 432,548 477,545 521,548 566,548 611,545 656,548 700,548 745,548 790,548 835,548 879,548 924,548 969,548 1014,548 1058,548 1103,545 1148,548"/>
+				<TextEquiv>
+					<Unicode>ging/ Do ſach der bruͦder hinderſich/ vn̄ ſach ein rap¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573289664_141_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="127,621 1147,619 1147,574 1092,559 127,574"/>
+				<Baseline points="134,608 167,602 211,602 256,599 301,599 346,599 390,599 435,599 480,599 524,599 569,596 614,599 659,599 703,599 748,599 793,602 838,602 882,602 927,599 972,599 1017,599 1061,599 1106,599 1151,602"/>
+				<TextEquiv>
+					<Unicode>pē neſte ligē vff einē boum/ vn̄ zwen iūg rappē in dē ne¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573289664_141_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="124,673 1156,662 1116,610 124,621"/>
+				<Baseline points="131,659 175,653 220,653 265,653 310,653 354,653 399,653 444,650 489,653 533,653 578,653 623,653 668,650 712,650 757,653 802,653 847,653 891,653 936,653 981,653 1026,653 1070,650 1115,650 1160,653"/>
+				<TextEquiv>
+					<Unicode>ſte. Als ließ d̓ bruͦder ſāt Meynrat für in gon/ vn̄ nam</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573289664_141_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="127,721 1156,717 1156,668 967,659 127,675"/>
+				<Baseline points="134,706 175,703 220,703 265,703 310,703 354,703 399,703 444,703 489,703 533,706 578,703 623,703 668,703 712,703 757,703 802,706 847,703 891,703 936,703 981,700 1026,700 1070,700 1115,703 1160,703"/>
+				<TextEquiv>
+					<Unicode>er die iūgē rappen in ſynen mātel vn̄ gieng ſant meyn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573289664_141_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="127,767 1141,772 1155,715 127,729"/>
+				<Baseline points="134,757 173,757 217,754 262,754 307,754 351,754 396,754 441,754 486,754 530,754 575,754 620,757 665,757 709,754 754,754 799,754 844,754 888,754 933,757 978,754 1023,751 1067,751 1112,751 1157,754"/>
+				<TextEquiv>
+					<Unicode>raten nach/ vn̄ kerten in den vinſterē wald/ vn̄ kam mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573289664_141_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="130,814 1152,829 1123,761 130,771"/>
+				<Baseline points="137,808 181,808 226,808 271,808 316,805 360,805 405,808 450,805 495,805 539,805 584,808 629,808 674,805 718,808 763,808 808,808 853,808 897,805 942,805 987,805 1032,805 1076,805 1121,805 1154,808"/>
+				<TextEquiv>
+					<Unicode>gottes hilff an die ſtat die er im ſelbs hie vor erwelt het/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573289664_141_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="136,879 1152,869 1116,816 136,834"/>
+				<Baseline points="143,862 170,859 214,859 259,859 304,859 348,859 393,859 438,859 483,859 527,859 572,859 617,862 662,859 706,859 751,859 796,859 841,859 885,859 930,859 975,856 1020,856 1064,856 1109,856 1154,853"/>
+				<TextEquiv>
+					<Unicode>fier mylē weges vō dē ſtadē des genantē Sews da no¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573289664_141_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="127,921 1145,919 1119,864 127,881"/>
+				<Baseline points="134,915 164,912 208,909 253,909 298,909 343,909 387,909 432,909 477,909 521,909 566,912 611,912 656,912 700,909 745,909 790,909 835,912 879,912 924,909 969,909 1014,909 1058,906 1103,909 1148,912"/>
+				<TextEquiv>
+					<Unicode>ch hüt by tag vnſer lieben frowen cappel ſtat/ vn̄ ließ ſi¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573289664_141_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="133,977 1161,984 1161,922 133,930"/>
+				<Baseline points="140,966 178,960 223,960 268,960 313,960 357,963 402,963 447,960 492,960 536,963 581,963 626,963 671,963 715,963 760,960 805,960 850,960 894,960 939,960 984,960 1029,960 1073,960 1118,960 1163,963"/>
+				<TextEquiv>
+					<Unicode>ch do nider vff einer eb̄ene zwiſchen den bergen do hyn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573289664_141_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="133,1039 1156,1024 1130,969 133,977"/>
+				<Baseline points="140,1020 175,1017 220,1017 265,1017 310,1014 354,1014 399,1014 444,1014 489,1014 533,1017 578,1017 623,1017 668,1017 712,1017 757,1017 802,1017 847,1017 891,1017 936,1014 981,1014 1026,1014 1070,1014 1115,1014 1160,1017"/>
+				<TextEquiv>
+					<Unicode>ſwer zuͦ kumē was/ Aldo durch hilff geiſtlicher lüt vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

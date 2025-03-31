@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:37</Creator>
+		<Created>2023-06-07T09:11:12.575+02:00</Created>
+		<LastChange>2023-12-20T15:42:25.257+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075013" pageNr="38" tsid="154460091" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=CYTLOJJCWZLKDXZULSMVGPMH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LRXCDTWHOPOAGJYKZCYRHCAW" imageId="45286881"/>
+	</Metadata>
+	<Page imageFilename="7474495.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356431955" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573547175_315"/>
+				<RegionRefIndexed index="1" regionRef="region_1686573550039_318"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573547175_315" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="938,463 2034,463 2034,821 938,821"/>
+			<TextLine id="region_1686573547175_315_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="973,548 2003,550 2003,488 1751,456 1452,502 1393,467 1257,502 973,469"/>
+				<Baseline points="981,533 1026,527 1070,527 1115,530 1160,527 1205,527 1249,527 1294,530 1339,530 1384,530 1428,530 1473,530 1518,533 1562,530 1607,530 1652,530 1697,530 1741,533 1786,533 1831,533 1876,533 1920,536 1965,536 2007,539"/>
+				<TextEquiv>
+					<Unicode>vnd thett innen kunt/ das ſy ſich darnach richtēt er wȯlt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573547175_315_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="980,604 1996,599 1996,555 1867,546 980,557"/>
+				<Baseline points="987,584 1032,581 1076,581 1121,581 1166,581 1211,581 1255,581 1300,581 1345,581 1389,581 1434,581 1479,581 1524,584 1568,584 1613,584 1658,584 1703,584 1747,584 1792,587 1837,587 1882,587 1926,587 1971,587 1998,587"/>
+				<TextEquiv>
+					<Unicode>an des heiligen crützs abent zuͦ herbſte by inen ſyn/ vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573547175_315_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="977,645 2003,650 2003,609 1912,594 977,605"/>
+				<Baseline points="984,632 1029,632 1073,632 1118,632 1163,629 1208,632 1252,632 1297,632 1342,632 1386,632 1431,632 1476,632 1521,632 1565,632 1610,635 1655,635 1700,635 1744,635 1789,638 1834,638 1879,638 1923,638 1968,638 2007,641"/>
+				<TextEquiv>
+					<Unicode>wolt innen morgents fruͤ die cappellen wihen/ Sant</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573547175_315_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="975,698 1860,713 2007,700 2006,649 973,645"/>
+				<Baseline points="981,689 1026,686 1070,683 1115,683 1160,683 1205,683 1249,683 1294,683 1339,686 1384,683 1428,683 1473,686 1518,686 1562,686 1607,686 1652,686 1697,686 1741,686 1786,689 1831,689 1876,686 1920,689 1965,692 2010,694"/>
+				<TextEquiv>
+					<Unicode>Cuͦnrat der biſchoff von Coſtantz nam zuͦ ym ſant Vl</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573547175_315_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="977,745 1951,765 2003,761 2003,700 976,700"/>
+				<Baseline points="984,739 1029,733 1073,733 1118,733 1163,733 1208,733 1252,733 1297,736 1342,736 1386,736 1431,736 1476,736 1521,739 1565,736 1610,736 1655,739 1700,736 1744,736 1789,736 1834,739 1879,739 1923,739 1968,739 2007,745"/>
+				<TextEquiv>
+					<Unicode>richen den biſchoff von Augſpurg vn̄ ander heilig prie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573547175_315_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="980,809 2002,812 2002,760 1908,745 980,749"/>
+				<Baseline points="987,790 1032,787 1076,787 1121,787 1166,790 1211,787 1255,787 1300,787 1345,787 1389,790 1434,787 1479,790 1524,790 1568,790 1613,790 1658,790 1703,790 1747,790 1792,790 1837,790 1882,793 1926,790 1971,796 2004,799"/>
+				<TextEquiv>
+					<Unicode>ſter/ vnd zugent hin gegen dem finſtren wald vn̄ do dz</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1686573550039_318" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="932,2002 2024,2002 2026,2266 934,2266"/>
+			<TextLine id="region_1686573550039_318_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="980,2069 2002,2063 2002,1998 980,2009"/>
+				<Baseline points="987,2055 1020,2052 1064,2052 1109,2049 1154,2049 1199,2049 1243,2046 1288,2046 1333,2049 1378,2046 1422,2046 1467,2046 1512,2046 1557,2046 1601,2046 1646,2046 1691,2046 1735,2046 1780,2046 1825,2046 1870,2046 1914,2043 1959,2040 2004,2043"/>
+				<TextEquiv>
+					<Unicode>die lüt vernomēt die in der gegēt darumb geſeſſen wa</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573550039_318_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="977,2117 1858,2124 1994,2104 1996,2063 977,2070"/>
+				<Baseline points="984,2108 1014,2105 1058,2102 1103,2102 1148,2099 1193,2099 1237,2099 1282,2099 1327,2099 1372,2099 1416,2096 1461,2093 1506,2096 1551,2096 1595,2096 1640,2096 1685,2099 1730,2096 1774,2096 1819,2096 1864,2093 1908,2093 1953,2090 1998,2093"/>
+				<TextEquiv>
+					<Unicode>ren die zogē dar/ rich vn̄ arm iung vn̄ alt mit einander</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573550039_318_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="971,2180 1939,2171 1983,2163 1984,2106 972,2118"/>
+				<Baseline points="978,2159 1002,2156 1046,2156 1091,2153 1136,2153 1181,2150 1225,2150 1270,2150 1315,2150 1360,2147 1404,2150 1449,2147 1494,2147 1539,2147 1583,2147 1628,2150 1673,2150 1718,2147 1762,2150 1807,2150 1852,2147 1897,2147 1941,2147 2000,2147"/>
+				<TextEquiv>
+					<Unicode>in den wald darumb das ſy ouch der gnaden teilhaff¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573550039_318_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="973,2242 1366,2214 1420,2249 1496,2249 1727,2217 1727,2168 1662,2164 973,2178"/>
+				<Baseline points="981,2210 1014,2207 1058,2207 1103,2207 1148,2207 1193,2204 1237,2207 1282,2204 1327,2204 1372,2204 1416,2204 1461,2204 1506,2204 1551,2204 1595,2201 1640,2204 1685,2204 1730,2204"/>
+				<TextEquiv>
+					<Unicode>tig wurden vnd des aploß des ampts/</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

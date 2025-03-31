@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:36</Creator>
+		<Created>2023-06-07T09:11:11.359+02:00</Created>
+		<LastChange>2023-12-20T15:42:19.232+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075005" pageNr="30" tsid="154460077" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=RJDREYLNJNITWEJLZPEJTKXF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UTXYXHLMOFGWCKZFTAZKMEUQ" imageId="45286849"/>
+	</Metadata>
+	<Page imageFilename="7474486.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356414456" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573409407_234"/>
+				<RegionRefIndexed index="1" regionRef="region_1686573412151_237"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573409407_234" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="140,363 1275,363 1275,627 140,627"/>
+			<TextLine id="region_1686573409407_234_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="177,457 1218,458 1218,411 1072,373 177,402"/>
+				<Baseline points="184,441 229,438 274,438 319,435 363,435 408,438 453,438 498,435 542,435 587,435 632,435 677,435 721,438 766,438 811,438 856,438 900,441 945,441 990,441 1035,441 1079,438 1124,441 1169,441 1213,444 1222,447"/>
+				<TextEquiv>
+					<Unicode>Aber die kertz die zuͦ houbten des heiligē vō himel ent¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573409407_234_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="186,508 1222,511 1222,460 1172,453 186,464"/>
+				<Baseline points="193,495 238,492 283,489 328,489 372,489 417,489 462,489 507,489 551,489 596,489 641,492 686,492 730,489 775,489 820,492 865,492 909,492 954,492 999,495 1043,492 1088,495 1133,495 1178,495 1222,498 1225,501"/>
+				<TextEquiv>
+					<Unicode>zündet was brandt biß vff die matzē die vff den heiligē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573409407_234_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="177,557 1224,575 1207,508 177,503"/>
+				<Baseline points="184,545 229,542 274,542 319,539 363,539 408,542 453,539 498,542 542,539 587,539 632,542 677,542 721,542 766,542 811,545 856,545 900,542 945,542 990,545 1035,545 1079,545 1124,545 1169,548 1213,551 1225,548"/>
+				<TextEquiv>
+					<Unicode>lib zuͦ deckē geleit was die ſelb ouch zuͦm teil ꝟbran alſo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573409407_234_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="183,609 994,634 1230,621 1230,574 182,558"/>
+				<Baseline points="190,599 235,596 280,596 325,596 369,596 414,596 459,596 504,596 548,596 593,596 638,596 683,596 727,596 772,596 817,596 862,596 906,599 951,599 996,602 1040,602 1085,602 1130,602 1175,605 1219,608 1234,605"/>
+				<TextEquiv>
+					<Unicode>das das für biß zuͦ dem heiligen lib kam/ So bald es</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1686573412151_237" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="118,1822 1268,1822 1268,2222 118,2222"/>
+			<TextLine id="region_1686573412151_237_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="177,1882 1213,1898 1213,1856 1124,1835 920,1862 177,1829"/>
+				<Baseline points="184,1873 229,1873 274,1876 319,1879 363,1879 408,1882 453,1882 498,1882 542,1882 587,1885 632,1882 677,1882 721,1882 766,1885 811,1885 856,1882 900,1882 945,1882 990,1882 1035,1882 1079,1882 1124,1882 1169,1882 1213,1885 1216,1885"/>
+				<TextEquiv>
+					<Unicode>den beruͤrt/ als es dan̄ von got entzündet was/ als ver¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573412151_237_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="170,1948 1224,1961 1197,1893 170,1884"/>
+				<Baseline points="178,1929 223,1926 268,1929 313,1929 357,1932 402,1932 447,1938 492,1935 536,1935 581,1935 626,1935 671,1935 715,1935 760,1935 805,1935 850,1938 894,1935 939,1935 984,1935 1029,1935 1073,1935 1118,1935 1163,1938 1208,1938 1225,1941"/>
+				<TextEquiv>
+					<Unicode>leſcht es ouch vß gottes geſchickt ¶ Von ſtunden an kā</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573412151_237_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="170,1998 1199,2017 1212,1955 169,1951"/>
+				<Baseline points="178,1983 223,1983 268,1983 313,1983 357,1983 402,1989 447,1992 492,1989 536,1989 581,1986 626,1986 671,1986 715,1986 760,1989 805,1989 850,1989 894,1989 939,1989 984,1986 1029,1986 1073,1989 1118,1989 1163,1989 1208,1992 1216,1995"/>
+				<TextEquiv>
+					<Unicode>vß das gerieff ſynes todes/ do den vernam der wirdig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573412151_237_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="170,2046 1163,2066 1218,2055 1218,2011 169,1998"/>
+				<Baseline points="178,2031 223,2031 268,2034 313,2037 357,2037 402,2040 447,2040 492,2040 536,2040 581,2040 626,2040 671,2040 715,2040 760,2040 805,2040 850,2040 894,2040 939,2040 984,2040 1029,2040 1073,2040 1118,2040 1163,2043 1208,2043 1222,2046"/>
+				<TextEquiv>
+					<Unicode>abt waltherus vn̄ die bruͤder die vnder im warē reychtē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573412151_237_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="177,2105 1210,2124 1209,2054 176,2045"/>
+				<Baseline points="184,2090 229,2084 274,2087 319,2087 363,2087 408,2093 453,2093 498,2093 542,2093 587,2090 632,2093 677,2090 721,2093 766,2093 811,2093 856,2093 900,2093 945,2093 990,2093 1035,2093 1079,2093 1124,2093 1169,2093 1213,2096"/>
+				<TextEquiv>
+					<Unicode>ſie vß der wuͤſteny den lib des heiligen mānes/ vn̄ truͦ¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573412151_237_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="174,2162 533,2196 676,2162 876,2194 1205,2167 1204,2120 1083,2108 173,2108"/>
+				<Baseline points="181,2147 226,2141 271,2141 316,2144 360,2147 405,2147 450,2150 495,2150 539,2150 584,2150 629,2153 674,2150 718,2150 763,2150 808,2147 853,2150 897,2150 942,2150 987,2150 1032,2150 1076,2150 1121,2150 1166,2150 1208,2156"/>
+				<TextEquiv>
+					<Unicode>gen den in das cloſter die Auwe/ do er mitt wirdigen</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52681:lm=provided:date=08_06_2023_09:29</Creator>
+		<Created>2023-06-07T09:11:08.249+02:00</Created>
+		<LastChange>2023-12-20T15:42:14.422+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67074985" pageNr="10" tsid="154460043" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=HCXHOSVJXGVRHRRNQNRWVTMG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WBQDNYULFQICHYGPPSPPAHAI" imageId="45286777"/>
+	</Metadata>
+	<Page imageFilename="7474464.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356370964" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686216489917_1949"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686216489917_1949" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="82,454 1212,454 1212,873 82,873"/>
+			<TextLine id="region_1686216489917_1949_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="108,531 1022,548 1135,532 1135,468 955,493 830,449 107,440"/>
+				<Baseline points="116,516 161,510 205,510 250,510 295,510 340,510 384,513 429,510 474,510 519,513 563,513 608,513 653,513 697,513 742,516 787,516 832,519 876,519 921,519 966,519 1011,519 1055,521 1100,521 1136,524"/>
+				<TextEquiv>
+					<Unicode>ſchentz willen vß komen/ vnd wenn die iungen münche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686216489917_1949_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="114,585 1052,595 1124,581 1123,533 112,544"/>
+				<Baseline points="110,564 155,564 208,563 253,563 298,563 343,563 387,563 432,563 477,563 521,566 566,563 611,566 656,566 700,566 745,566 790,566 835,569 879,572 924,569 969,572 1014,572 1058,572 1103,572 1127,575"/>
+				<TextEquiv>
+					<Unicode>ſprachent. Meiſter wir hant fiſch genuͦg/ So ſprach er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686216489917_1949_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="103,628 1124,638 1124,581 103,599"/>
+				<Baseline points="110,617 155,614 199,614 244,614 289,617 334,617 378,614 423,614 468,617 513,614 557,617 602,617 647,620 692,620 736,620 781,623 826,620 870,620 915,620 960,620 1005,623 1049,623 1094,623 1127,626"/>
+				<TextEquiv>
+					<Unicode>almoll/ wir ſollen nochmee fiſchen. Das thet er darūb</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686216489917_1949_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="106,679 1126,694 1126,646 1052,633 106,628"/>
+				<Baseline points="113,668 158,665 202,665 247,668 292,668 337,668 381,668 426,668 471,668 516,668 560,671 605,671 650,671 694,671 739,671 784,671 829,674 873,671 918,674 963,674 1008,674 1052,674 1097,674 1127,674"/>
+				<TextEquiv>
+					<Unicode>das er die wuͤſtin wolt baß beſehen/ ob ſy im gelegē wer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686216489917_1949_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="106,726 1121,742 1092,685 105,678"/>
+				<Baseline points="113,718 158,718 202,718 247,718 292,718 337,718 381,721 426,721 471,721 516,721 560,721 605,721 650,724 694,724 739,727 784,727 829,724 873,724 918,727 963,727 1008,727 1052,727 1097,727 1124,733"/>
+				<TextEquiv>
+					<Unicode>dar in zewonen. Vnd die wuͤſtin gefiel im wol ſyn le¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686216489917_1949_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="106,789 320,794 396,777 500,787 527,807 550,786 599,795 599,753 479,731 329,731 297,752 105,727"/>
+				<Baseline points="113,772 158,769 202,772 247,772 292,772 337,772 381,772 426,772 471,775 516,772 560,775 602,778"/>
+				<TextEquiv>
+					<Unicode>ben darinne zuͦ volbringen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1686216649749_2029" custom="readingOrder {index:6;}">
+				<Coords points="106,798 341,786 1075,784 1127,799 1127,864 907,882 412,879 237,873 106,864"/>
+				<Baseline points="113,838 158,841 202,841 247,841 292,841 337,841 381,838 426,844 471,844 489,847 623,841 668,841 712,844 757,841 802,841 847,844 891,844 936,844 981,844 1026,847 1070,844 1115,847 1130,850"/>
+				<TextEquiv>
+					<Unicode>¶ Hie ſuͦcht ſant Meynrad ein flecken in der wuͤſtin.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

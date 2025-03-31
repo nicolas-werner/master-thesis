@@ -1,0 +1,34 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,über vnd on das in yeglichen oren die mit dryen loͤchern,vber vnd ob das in gleichen oren die mit dyen löchern\n,0.17857142857142858,0.45454545454545453,0.45454545454545453,7474191,openai
+2,durch ſtochen ſynd ſy noch ander ſteyn tragen die in rin,durch stochen ſynd ſy noch anderſter magen die in rin\ngen hangen vnd diſe wiſſe vnd ſteten ſi allein der manne/\n,1.1428571428571428,1.3636363636363635,1.2727272727272727,7474191,openai
+3,gen hangen vn̄ diß wiſe vnd ſytten iſt allein der mannē/,Den die frouwen verſtechen vnen ſelbe ir antlitz nit alſo\n,0.7678571428571429,1.0,1.0,7474191,openai
+4,Den̄ die frowen zerſtechen innen ſelbs ir antlitz nit alſo,mit löcherung den allein die oren/ Ein ander iſt vnd\n,0.7586206896551724,1.0,0.9,7474191,openai
+5,mit loͤcherung den alleyn die oren/ Eyn ander ſyt vnd,weyſe iſt ouch vnd die by dien magd vnd die by den\n,0.7358490566037735,1.1,1.0,7474191,openai
+6,wyße iſt ouch vnder vnd by ienen gnuͦg abwyſig vn̄ wi¬,die alle menſchliche glaubung/ Das ir frouwen die eben\n,0.8888888888888888,1.0,1.0,7474191,openai
+7,der alle menſchliche glaubung/ Das ir frowen die eben,geluſtig vnd geiltrig ſynd vnd iren mannen machen\n,0.7358490566037735,1.0,1.0,7474191,openai
+8,geluſtig vnd geilgirig ſynd/ vnd ieren mannen machen,das iren ir ſich geſcholen tollicher vnd irer frouwen\n,0.8269230769230769,1.125,1.0,7474191,openai
+9,das ienen ir büch geſchwellen in ſollicher über meſtung,das ſy vngeſtat vnd meſchlich erkhumen vnd ſy nit\n,0.7272727272727273,0.8888888888888888,0.8888888888888888,7474191,openai
+10,das ſy/ vngeſtalt vn̄ ſmechlich erſthynen vnd dz tuͦnd ſy,mit etwas ſind ſy vngeſchickt die griſſigen ſtichen/\n,0.8070175438596491,1.0,0.9,7474191,openai
+11,mit ettwas fündē vn̄ gnagung ettlicher gifftigen thierē/,Und von ſolchen ſach geſchicht das ier vnd ſy\n,0.7678571428571429,1.125,1.125,7474191,openai
+12,Und von ſolicher ſach geſchicht das ierer vil ir gemecht,verlieren die iren vnd machet vnd der aringe ſule\n,0.7678571428571429,1.0,1.0,7474191,openai
+13,verlieren die ienen von mangels wegen der artznye fulē,vnd bilden ou gemeech/ Haben teyn vnd noch teyn\n,0.7037037037037037,1.0,1.0,7474191,openai
+14,vnd bliben on gemech/ Si haben keyn tuͦch noch teckinē,vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.7037037037037037,0.9,0.8,7474191,openai
+15,weder lynis noch baumwollins/ Denn ſy des nit bedoͤrf,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.7924528301886793,1.2222222222222223,1.2222222222222223,7474191,openai
+16,fen vnd haben keyn eygen guͦt/ Sunder alle ding ſind in,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.21818181818181817,0.6363636363636364,0.6363636363636364,7474191,openai
+17,nen gemein/ Si lebē ſamenhafft on künig on gebieter vn̄,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.8,1.1,1.1,7474191,openai
+18,iſt ir yeglicher im ſelbs herr/ So vil wiber nemen ſy ſo,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.8214285714285714,1.0,1.0,7474191,openai
+19,vil ſy woͤllen/ vnd d̓ ſun mit der muͦter vn̄ der bruͦder mit,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.7540983606557377,0.9230769230769231,0.9230769230769231,7474191,openai
+20,der ſchweſter vnd der erſt mit der erſten vnd der begeg¬,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.7678571428571429,1.0,0.8181818181818182,7474191,openai
+21,ner mit der begegneten veruneynigen ſich/ Als dick als,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.7407407407407407,1.2222222222222223,1.1111111111111112,7474191,openai
+22,ſy woͤllen ſcheiden ſy die vermehletig ee/ vnd halten in ſo,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.7796610169491526,1.0,0.8181818181818182,7474191,openai
+23,lichem gantz keyn ordnung/ Darumb habē ſy keynen tē¬,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.8076923076923077,1.2222222222222223,1.2222222222222223,7474191,openai
+24,pel vnd halten keyn geſatzt vnd ſind nit abgetere/ Was,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.6481481481481481,1.0,0.9,7474191,openai
+25,ſol ich me ſagē Sy leben nach der natur das ſy wol epi¬,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.7636363636363637,1.0,1.0,7474191,openai
+26,curi/ buchfüller genāt werden moͤgen den̄ ſenici/ By inē,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.7678571428571429,1.2222222222222223,1.2222222222222223,7474191,openai
+27,ſind keyn koufflit noch kouffguͦt/ Die ſcharē des volcks,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.7678571428571429,1.2222222222222223,1.2222222222222223,7474191,openai
+28,haben ouch kriege/ vnd on kunſt on ordnung/ Ir elteren̄,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.8181818181818182,1.1,0.9,7474191,openai
+29,mit yren reten̄ vnnd gebotten vnder byegen die iungen,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.7358490566037735,1.1111111111111112,1.1111111111111112,7474191,openai
+30,zuͦ thuͦn was ſy woͤllen vnd rüſten ſie zuͦ ſtryttē in ſolichē,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.7903225806451613,1.0,0.9166666666666666,7474191,openai
+31,Sy eynandern̄ gruſelich ze tod ſlaen vn̄ welche ſye alſo,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.8035714285714286,1.1,1.1,7474191,openai
+32,im krieg vnd ſtritt fahen die fuͦren ſy hyn mit das ſye die,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.7627118644067796,0.9230769230769231,0.8461538461538461,7474191,openai
+33,by leben ſunder inen ſelbs behalten das ſy da von metzi¬,ſeyn vnd haben teyn eygen gut/ Sunder als die vnd ir\n,0.7857142857142857,1.0,1.0,7474191,openai

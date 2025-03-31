@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=08_06_2023_12:22</Creator>
+		<Created>2023-06-07T09:11:08.655+02:00</Created>
+		<LastChange>2023-12-20T15:42:15.031+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67074988" pageNr="13" tsid="154460047" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=PKRBBGCBTZSPOWTDXMNHZDNS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JXEJOJXORBSRYTJTWKNWYKHP" imageId="45286786"/>
+	</Metadata>
+	<Page imageFilename="7474467.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356377521" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686226711398_306"/>
+				<RegionRefIndexed index="1" regionRef="region_1686226714974_309"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686226711398_306" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="910,472 2047,472 2047,812 910,812"/>
+			<TextLine id="region_1686226711398_306_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="949,543 1964,538 1942,465 1512,484 1373,443 951,496"/>
+				<Baseline points="957,539 984,533 1029,533 1073,530 1118,527 1163,527 1208,527 1252,524 1297,524 1342,524 1386,524 1431,521 1476,521 1521,521 1565,519 1610,519 1655,519 1700,519 1744,519 1789,519 1834,519 1879,519 1923,519 1968,521"/>
+				<TextEquiv>
+					<Unicode>Vnd da ruͦwetē ſie vn̄ ſodent vnd briettent ſy die fiſche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686226711398_306_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="949,598 1971,585 1972,538 1929,527 951,544"/>
+				<Baseline points="957,587 990,584 1035,581 1079,581 1124,578 1169,578 1213,578 1258,578 1303,575 1348,575 1392,572 1437,572 1482,572 1527,572 1571,572 1616,572 1661,569 1706,569 1750,569 1795,569 1840,569 1885,569 1929,569 1974,569"/>
+				<TextEquiv>
+					<Unicode>die inen ī der wüſtin über wurden Vnd nach dē imbis</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686226711398_306_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="947,648 1922,645 1976,636 1977,593 948,599"/>
+				<Baseline points="954,638 996,635 1040,632 1085,629 1130,632 1175,632 1219,629 1264,629 1309,626 1354,626 1398,626 1443,626 1488,623 1533,623 1577,623 1622,620 1667,620 1712,620 1756,617 1801,620 1846,620 1891,623 1935,620 1980,620"/>
+				<TextEquiv>
+					<Unicode>do fuͦrent ſy wider hein in dz cloſter/ doch ee wen̄ ſy von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686226711398_306_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="953,707 1983,681 1983,632 955,646"/>
+				<Baseline points="960,689 1002,686 1046,683 1091,683 1136,680 1181,680 1225,680 1270,680 1315,677 1360,677 1404,677 1449,674 1494,674 1539,674 1583,674 1628,671 1673,671 1718,671 1762,671 1807,671 1852,671 1897,671 1941,668 1986,671"/>
+				<TextEquiv>
+					<Unicode>dannē fuͦrēt/ als ſant Meynrat vermerckt die genāt wit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686226711398_306_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="940,754 1985,733 1958,675 941,700"/>
+				<Baseline points="948,739 960,736 1005,736 1049,733 1094,730 1139,730 1184,727 1228,727 1273,727 1318,727 1363,727 1407,727 1452,727 1497,724 1542,724 1586,724 1631,724 1676,721 1721,721 1765,721 1810,721 1855,721 1900,721 1944,721 1989,724"/>
+				<TextEquiv>
+					<Unicode>we voll gottes vorch vn̄ zuͦ dienē dē geſtē guͦtwillig thet</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686226711398_306_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="944,818 1888,804 1996,779 1997,730 944,764"/>
+				<Baseline points="951,790 954,790 999,790 1043,787 1088,787 1133,787 1178,784 1222,781 1267,781 1312,781 1357,778 1401,778 1446,778 1491,778 1536,778 1580,778 1625,775 1670,775 1715,775 1759,775 1804,775 1849,775 1894,772 1938,772 1999,772"/>
+				<TextEquiv>
+					<Unicode>er ir vff dz heymlich anligēd ſyns hertzē vn̄ ſprach alſo</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1686226714974_309" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="938,1962 2047,1962 2047,2284 938,2284"/>
+			<TextLine id="region_1686226714974_309_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="961,2038 1992,2042 1952,1973 1722,1997 1546,1960 1345,2000 1206,1963 960,1973"/>
+				<Baseline points="969,2025 1014,2019 1058,2019 1103,2022 1148,2022 1193,2022 1237,2025 1282,2025 1327,2025 1372,2022 1416,2022 1461,2022 1506,2022 1551,2022 1595,2025 1640,2022 1685,2022 1730,2022 1774,2025 1819,2022 1864,2022 1908,2022 1953,2025 1995,2031"/>
+				<TextEquiv>
+					<Unicode>Liebe ſrow ich hab etwas mit euch ze redē heimlich wol</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686226714974_309_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="965,2084 1989,2091 1989,2040 1912,2032 965,2038"/>
+				<Baseline points="972,2073 1017,2070 1061,2073 1106,2073 1151,2073 1196,2073 1240,2073 1285,2073 1330,2073 1375,2076 1419,2073 1464,2073 1509,2073 1554,2073 1598,2073 1643,2073 1688,2076 1732,2073 1777,2073 1822,2073 1867,2073 1911,2076 1956,2076 1992,2076"/>
+				<TextEquiv>
+					<Unicode>ten ir hoͤren myn anligen’ doch ee ich dz ſag bitt ich dz ir</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686226714974_309_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="965,2140 1993,2150 1985,2091 965,2084"/>
+				<Baseline points="972,2123 1017,2123 1061,2123 1106,2123 1151,2123 1196,2123 1240,2123 1285,2123 1330,2123 1375,2123 1419,2123 1464,2126 1509,2126 1554,2126 1598,2126 1643,2126 1688,2123 1732,2123 1777,2123 1822,2123 1867,2123 1911,2126 1956,2126 1995,2132"/>
+				<TextEquiv>
+					<Unicode>myn wort vn̄ willē helē/ ſo lāg bis ich merck ob ich es mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686226714974_309_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="974,2181 1990,2191 1959,2137 974,2140"/>
+				<Baseline points="981,2171 1026,2171 1070,2174 1115,2174 1160,2174 1205,2174 1249,2174 1294,2177 1339,2177 1384,2177 1428,2180 1473,2177 1518,2177 1562,2177 1607,2177 1652,2177 1697,2177 1741,2177 1786,2177 1831,2177 1876,2177 1920,2177 1965,2177 1994,2177"/>
+				<TextEquiv>
+					<Unicode>werckē volbringē mag. Si antwurt dz tuͦn ich gern. do</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686226714974_309_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="961,2253 2010,2265 2010,2204 1945,2183 961,2181"/>
+				<Baseline points="969,2231 1106,2234 1151,2228 1196,2231 1240,2228 1285,2231 1330,2231 1375,2231 1419,2228 1464,2228 1509,2234 2014,2235"/>
+				<TextEquiv>
+					<Unicode>ſprach ſāt Meynrat/ Reine frow ob ein armer prieſter</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

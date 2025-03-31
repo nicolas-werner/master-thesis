@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:36</Creator>
+		<Created>2023-06-07T09:11:12.173+02:00</Created>
+		<LastChange>2023-12-20T15:42:24.185+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075011" pageNr="36" tsid="154460087" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=ZIILCZSQZURYQIUZHJGJWCBY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SGVYMDAMOIAUVMFHBQCIQEMG" imageId="45286872"/>
+	</Metadata>
+	<Page imageFilename="7474492.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356427623" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573508991_288"/>
+				<RegionRefIndexed index="1" regionRef="region_1686573513863_291"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573508991_288" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="108,457 1238,457 1238,825 108,825"/>
+			<TextLine id="region_1686573508991_288_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="145,537 1187,556 1166,482 143,464"/>
+				<Baseline points="152,519 196,516 241,516 286,516 331,519 375,516 420,519 465,521 510,521 554,524 599,524 644,524 689,524 733,527 778,527 823,527 867,530 912,533 957,536 1002,536 1046,536 1091,536 1136,539 1181,542 1190,542"/>
+				<TextEquiv>
+					<Unicode>ten nach ein ander zuͦ dem heilig man. ¶ Nun was zuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573508991_288_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="148,590 1184,603 1183,560 1045,543 147,534"/>
+				<Baseline points="155,572 199,569 244,566 289,566 334,569 378,572 423,572 468,572 513,572 557,575 602,575 647,575 692,578 736,581 781,581 826,584 870,584 915,584 960,587 1005,587 1049,590 1094,590 1139,590 1184,596 1187,596"/>
+				<TextEquiv>
+					<Unicode>ſtraßburg geſeſſen ein herr/ der hieß Eberhardus/ vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573508991_288_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="145,628 1151,671 1176,604 143,594"/>
+				<Baseline points="152,620 196,620 241,620 286,620 331,620 375,623 420,623 465,626 510,626 554,626 599,629 644,629 689,629 733,632 778,635 823,635 867,635 912,638 957,638 1002,638 1046,641 1091,641 1136,644 1181,650"/>
+				<TextEquiv>
+					<Unicode>was ein dechen vff dem hohen thuͦm / der was alſo wyß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573508991_288_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="148,689 1184,706 1183,671 1101,653 147,629"/>
+				<Baseline points="155,674 199,671 244,671 289,671 334,674 378,674 423,674 468,677 513,680 557,680 602,680 647,680 692,683 736,683 781,683 826,686 870,686 915,689 960,689 1005,692 1049,692 1094,692 1139,694 1184,697 1187,700"/>
+				<TextEquiv>
+					<Unicode>das künig vnnd keyſer vnnd landes herren nüt theten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573508991_288_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="139,736 1138,766 1184,758 1183,707 138,692"/>
+				<Baseline points="146,721 190,724 235,724 280,721 325,724 369,724 414,727 459,727 504,730 548,730 593,730 638,733 683,733 727,733 772,736 817,739 862,739 906,742 951,742 996,742 1040,742 1085,745 1130,745 1175,748 1187,751"/>
+				<TextEquiv>
+					<Unicode>on ſyn rott/ zuͦ dem kam ouch die gottes ſtimme die ſel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573508991_288_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="141,792 260,824 339,789 1183,821 1164,757 139,737"/>
+				<Baseline points="146,775 190,775 235,778 280,778 325,778 369,781 414,781 459,784 504,784 548,784 593,787 638,787 683,790 727,790 772,790 817,793 862,793 906,796 951,796 996,799 1040,799 1085,799 1130,802 1175,802 1184,805"/>
+				<TextEquiv>
+					<Unicode>be dry nechte/ vnnd redt mit yme als hie vor geſchriben</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1686573513863_291" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="74,2005 1176,2005 1176,2264 74,2264"/>
+			<TextLine id="region_1686573513863_291_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="117,2068 1115,2100 1151,2091 1150,2027 666,2008 548,2042 115,1989"/>
+				<Baseline points="125,2055 170,2052 214,2058 259,2058 304,2061 348,2061 393,2064 438,2067 483,2067 527,2070 572,2070 617,2070 662,2070 706,2070 751,2073 796,2073 841,2073 885,2076 930,2076 975,2076 1020,2076 1064,2076 1109,2078 1154,2081"/>
+				<TextEquiv>
+					<Unicode>ſtot. ¶ Nun was der heilig man Gregorius der do zuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573513863_291_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="121,2111 1043,2154 1150,2147 1149,2094 120,2071"/>
+				<Baseline points="128,2102 173,2102 217,2105 262,2111 307,2114 351,2117 396,2114 441,2117 486,2120 530,2123 575,2123 620,2123 665,2123 709,2123 754,2123 799,2123 844,2126 888,2126 933,2126 978,2129 1023,2129 1067,2129 1112,2129 1154,2129"/>
+				<TextEquiv>
+					<Unicode>rome was geſeſſen/ in ſo groſſer ſorge wie er volfuͦrte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573513863_291_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="125,2170 1119,2210 1142,2153 122,2111"/>
+				<Baseline points="131,2153 175,2156 220,2159 265,2162 310,2165 354,2168 399,2168 444,2171 489,2171 533,2174 578,2174 623,2177 668,2180 712,2177 757,2177 802,2177 847,2180 891,2180 936,2180 981,2183 1026,2180 1070,2183 1115,2180 1145,2186"/>
+				<TextEquiv>
+					<Unicode>das gebott gottes das yme gott gebotten hette/ das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573513863_291_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="119,2221 701,2268 1131,2259 1140,2205 117,2167"/>
+				<Baseline points="125,2204 170,2210 214,2216 259,2219 304,2222 348,2225 393,2228 438,2228 483,2228 527,2231 572,2231 617,2234 662,2234 706,2234 751,2234 796,2237 841,2237 885,2237 930,2237 975,2234 1020,2234 1064,2237 1109,2237 1142,2240"/>
+				<TextEquiv>
+					<Unicode>er nit wüſte wo hin er ſolte in tütſchen landen oder wo</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

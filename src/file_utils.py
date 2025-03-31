@@ -162,19 +162,25 @@ def find_matching_files(ground_truth_dir: str, other_dir: str) -> List[Tuple[str
     gt_files = {}
     for f in os.listdir(ground_truth_dir):
         if f.endswith('.xml'):
-            doc_id = extract_id_from_filename(f)
-            if doc_id:
-                gt_files[doc_id] = os.path.join(ground_truth_dir, f)
+            # For ground truth, just use the filename without extension
+            doc_id = os.path.splitext(f)[0]
+            gt_files[doc_id] = os.path.join(ground_truth_dir, f)
+            print(f"Ground truth file: {f} → ID: {doc_id}")  # Debug print
 
     # Find matching files in the other directory
     for f in os.listdir(other_dir):
         if f.endswith('.xml'):
-            doc_id = extract_id_from_filename(f)
-            if doc_id and doc_id in gt_files:
-                matched_pairs.append((
-                    gt_files[doc_id],
-                    os.path.join(other_dir, f)
-                ))
+            # For transkribus files, extract the numeric part after prefix
+            match = re.match(r'^\d{4}_(\d+)\.xml$', f)
+            if match:
+                doc_id = match.group(1)
+                print(f"Transkribus file: {f} → ID: {doc_id}")  # Debug print
+                if doc_id in gt_files:
+                    matched_pairs.append((
+                        gt_files[doc_id],
+                        os.path.join(other_dir, f)
+                    ))
+                    print(f"Matched: {os.path.basename(gt_files[doc_id])} with {f}")  # Debug print
 
     return matched_pairs
 

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:36</Creator>
+		<Created>2023-06-07T09:11:10.496+02:00</Created>
+		<LastChange>2023-12-20T16:30:37.198+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075000" pageNr="25" tsid="154460069" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=ORYZBLGBGJOBYUFNXKNSJRYM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NQZWPKTMLXNCDSYPZLGXDEIJ" imageId="45286826"/>
+	</Metadata>
+	<Page imageFilename="7474480.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356403603" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573355503_195"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573355503_195" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="72,423 1204,423 1204,1053 72,1053"/>
+			<TextLine id="region_1686573355503_195_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="120,505 1027,531 1139,519 1138,473 1059,445 920,475 788,431 589,466 205,414 118,456"/>
+				<Baseline points="125,486 170,483 214,480 259,483 304,483 348,486 393,486 438,489 483,489 527,489 572,492 617,492 662,492 706,495 751,495 796,498 841,498 885,498 930,501 975,504 1020,504 1064,504 1109,507 1142,510"/>
+				<TextEquiv>
+					<Unicode>mit kolben ſlagen/ Noch dem der ſalb in lang ſlagende</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573355503_195_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="122,550 1133,568 1120,518 121,510"/>
+				<Baseline points="128,536 173,533 217,533 262,536 307,536 351,536 396,536 441,539 486,542 530,542 575,542 620,542 665,545 709,545 754,548 799,548 844,551 888,551 933,554 978,557 1023,554 1067,557 1112,557 1136,560"/>
+				<TextEquiv>
+					<Unicode>vmb die ſytē vn̄ beyn gemuͤdet het/ vn̄ d̓ heilig ſyn hend</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573355503_195_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="127,603 1133,635 1131,571 126,554"/>
+				<Baseline points="134,587 178,584 223,587 268,587 313,590 357,590 402,590 447,590 492,593 536,593 581,596 626,596 671,596 715,599 760,599 805,599 850,602 894,605 939,605 984,608 1029,608 1073,611 1118,614 1136,614"/>
+				<TextEquiv>
+					<Unicode>gegēt got vff huͦb/ fieng der ander an vn̄ ſprach/ geſell</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573355503_195_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="125,653 1084,690 1134,686 1133,635 122,592"/>
+				<Baseline points="131,638 175,635 220,638 265,638 310,638 354,641 399,644 444,644 489,647 533,644 578,647 623,647 668,650 712,650 757,650 802,653 847,653 891,653 936,656 981,656 1026,659 1070,662 1115,662 1136,668"/>
+				<TextEquiv>
+					<Unicode>du kanſt nit wol ſchlagē/ do mit nā er den kolben in die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573355503_195_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="125,705 1089,739 1133,733 1133,686 123,652"/>
+				<Baseline points="131,692 175,689 220,689 265,692 310,692 354,694 399,694 444,694 489,697 533,697 578,700 623,700 668,700 712,700 757,703 802,703 847,703 891,706 936,709 981,709 1026,709 1070,712 1115,715 1136,715"/>
+				<TextEquiv>
+					<Unicode>hant/ vn̄ ſchluͦg ſant Meynraten an ſyn heiliges houpt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573355503_195_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="125,755 954,791 1124,777 1122,730 122,704"/>
+				<Baseline points="131,742 175,739 220,739 265,742 310,745 354,745 399,748 444,748 489,748 533,751 578,751 623,751 668,751 712,754 757,754 802,757 847,757 891,760 936,760 981,760 1026,763 1070,763 1115,766 1127,769"/>
+				<TextEquiv>
+					<Unicode>das im ſyn hirn vff die fuͤſſe ran vn̄ halb tod zuͦ der er¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573355503_195_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="118,811 1130,833 1108,775 117,760"/>
+				<Baseline points="125,790 170,790 214,793 259,793 304,796 348,796 393,796 438,799 483,799 527,802 572,802 617,805 662,805 706,808 751,808 796,808 841,811 885,811 930,814 975,814 1020,814 1064,817 1109,817 1133,820"/>
+				<TextEquiv>
+					<Unicode>den fiel/ vn̄ der ein morder fiel vff in/ vn̄ wurgt ſin gur</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573355503_195_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="118,869 1130,889 1129,832 117,811"/>
+				<Baseline points="125,850 170,844 214,844 259,847 304,847 348,847 393,850 438,850 483,853 527,853 572,853 617,853 662,856 706,856 751,859 796,862 841,862 885,865 930,865 975,865 1020,867 1064,867 1109,870 1133,870"/>
+				<TextEquiv>
+					<Unicode>gel ſo lang mit den henden/ biß ime ſyn heyliger geiſt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573355503_195_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="115,915 1052,939 1117,931 1116,895 113,869"/>
+				<Baseline points="122,897 167,894 211,897 256,897 301,897 346,900 390,900 435,903 480,903 524,903 569,906 614,909 659,909 703,909 748,909 793,912 838,912 882,912 927,915 972,915 1017,915 1061,918 1106,921 1121,921"/>
+				<TextEquiv>
+					<Unicode>vß fuͦr/ Allda warent die heyligen engel vnnd fuͦr¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573355503_195_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="120,968 1071,998 1127,986 1127,947 118,915"/>
+				<Baseline points="125,948 170,945 214,948 259,948 304,951 348,951 393,954 438,954 483,954 527,957 572,957 617,960 662,963 706,963 751,963 796,963 841,963 885,966 930,966 975,966 1020,969 1064,969 1109,972 1130,972"/>
+				<TextEquiv>
+					<Unicode>ten die reine ſele fuͤr gottes angeſicht/ bald do ward der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573355503_195_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="113,1023 1133,1045 1096,981 111,963"/>
+				<Baseline points="119,999 164,999 208,1002 253,1002 298,1005 343,1008 387,1008 432,1008 477,1011 521,1011 566,1011 611,1011 656,1014 700,1014 745,1017 790,1017 835,1020 879,1020 924,1023 969,1023 1014,1023 1058,1023 1103,1026 1136,1026"/>
+				<TextEquiv>
+					<Unicode>wald vnd die zelle alle ſament vol guͦttes geſchmacks</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>mit kolben ſlagen/ Noch dem der ſalb in lang ſlagende
+vmb die ſytē vn̄ beyn gemuͤdet het/ vn̄ d̓ heilig ſyn hend
+gegēt got vff huͦb/ fieng der ander an vn̄ ſprach/ geſell
+du kanſt nit wol ſchlagē/ do mit nā er den kolben in die
+hant/ vn̄ ſchluͦg ſant Meynraten an ſyn heiliges houpt
+das im ſyn hirn vff die fuͤſſe ran vn̄ halb tod zuͦ der er¬
+den fiel/ vn̄ der ein morder fiel vff in/ vn̄ wurgt ſin gur
+gel ſo lang mit den henden/ biß ime ſyn heyliger geiſt
+vß fuͦr/ Allda warent die heyligen engel vnnd fuͦr¬
+ten die reine ſele fuͤr gottes angeſicht/ bald do ward der
+wald vnd die zelle alle ſament vol guͦttes geſchmacks</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

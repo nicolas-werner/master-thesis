@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53254:lm=provided:date=11_07_2023_09:43</Creator>
+		<Created>2023-07-11T08:51:06</Created>
+		<LastChange>2023-08-20T20:31:10.163+02:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075113" pageNr="118" tsid="154460256" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=MBQLCHVRGLTUWAKZHBNVKABA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NCDUOXARWTKJAYSKWPEXKGNP" imageId="46338794"/>
+	</Metadata>
+	<Page imageFilename="7710962.jpg" imageWidth="2786" imageHeight="3730">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356701673" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="rS3TH_1"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="rS3TH_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="272,550 1784,550 1784,2935 272,2935"/>
+			<TextLine id="rS3TH_1_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="273,604 1677,645 1762,638 1760,526 271,563"/>
+				<Baseline points="283,602 328,602 373,605 417,605 462,602 507,602 552,602 596,602 641,602 686,605 731,602 775,602 820,602 865,602 910,602 954,605 999,605 1044,605 1089,605 1133,608 1178,611 1223,608 1268,611 1312,611 1357,611 1402,614 1447,614 1492,614 1536,614 1581,614 1626,617 1671,617 1715,614 1760,614 1766,617"/>
+				<TextEquiv>
+					<Unicode>tus czuͦ dem kauffmann. wie achteſt du den haͤrpffenſchla¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="273,691 1690,719 1758,695 1757,638 271,606"/>
+				<Baseline points="283,671 328,671 373,671 417,671 462,671 507,671 552,671 596,671 641,671 686,671 731,671 775,671 820,671 865,671 910,671 954,674 999,674 1044,674 1089,674 1133,674 1178,674 1223,677 1268,677 1312,677 1357,680 1402,680 1447,680 1492,680 1536,683 1581,680 1626,683 1671,683 1715,683 1760,686 1763,686"/>
+				<TextEquiv>
+					<Unicode>her. Antwurt der kauffman vmb tauſent pfenning. daz be</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="273,738 1701,775 1749,771 1749,697 271,691"/>
+				<Baseline points="283,734 328,737 373,737 417,737 462,737 507,737 552,737 596,740 641,740 686,737 731,737 775,737 820,737 865,737 910,737 954,737 999,737 1044,740 1089,740 1133,743 1178,743 1223,740 1268,743 1312,746 1357,746 1402,746 1447,746 1492,746 1536,746 1581,748 1626,746 1671,748 1715,751 1754,748"/>
+				<TextEquiv>
+					<Unicode>daucht xantum zuͦ vil ſein. vnd gieng zuͦ dem andern vn̄ ſp</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="270,807 1764,836 1764,775 1615,747 270,771"/>
+				<Baseline points="280,802 325,802 370,802 414,802 459,802 504,802 549,802 593,805 638,805 683,802 728,802 772,802 817,805 862,805 907,805 951,805 996,802 1041,805 1086,805 1130,805 1175,808 1220,808 1265,808 1309,808 1354,808 1399,811 1444,811 1489,811 1533,811 1578,814 1623,814 1668,814 1712,814 1757,817 1766,817"/>
+				<TextEquiv>
+					<Unicode>rach. Von wannen biſt du. Antwurt er. ich byn vō Lidia</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="268,888 1755,898 1727,833 268,809"/>
+				<Baseline points="277,868 322,865 367,868 411,871 456,871 501,871 546,871 590,871 635,868 680,868 725,868 769,871 814,871 859,871 904,871 948,871 993,871 1038,871 1083,874 1127,871 1172,874 1217,874 1262,874 1306,874 1351,874 1396,877 1441,877 1486,877 1530,877 1575,880 1620,880 1665,880 1709,880 1754,883 1760,883"/>
+				<TextEquiv>
+					<Unicode>xantus ſprach. Was kanſt du aber würcken. antwurtet er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="264,952 1753,957 1753,896 1691,888 264,885"/>
+				<Baseline points="274,928 319,931 364,933 408,933 453,936 498,936 543,936 587,936 632,936 677,936 722,936 766,936 811,936 856,936 901,936 945,936 990,939 1035,939 1080,939 1124,939 1169,939 1214,939 1259,939 1304,939 1348,939 1393,939 1438,942 1483,945 1527,942 1572,942 1617,945 1662,945 1706,945 1751,945 1757,945"/>
+				<TextEquiv>
+					<Unicode>Waz du meÿneſt Do das eſopus hoͤret. ward er aber über</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="268,1013 1730,1041 1751,959 266,944"/>
+				<Baseline points="277,1005 322,1002 367,999 411,1002 456,1002 501,1002 546,999 590,1002 635,1002 680,1002 725,1002 769,1002 814,1002 859,1005 904,1002 948,1002 993,1005 1038,1005 1083,1005 1127,1002 1172,1002 1217,1002 1262,1005 1306,1005 1351,1008 1396,1008 1441,1008 1486,1008 1530,1008 1575,1008 1620,1008 1665,1011 1709,1011 1754,1011 1757,1011"/>
+				<TextEquiv>
+					<Unicode>ſer lachen. Do das die ſchuͦler erſahen. ſprachen ſÿ. Wie kō</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="275,1076 1755,1093 1755,1041 1632,1019 275,1030"/>
+				<Baseline points="286,1068 331,1068 375,1065 420,1068 465,1068 510,1068 555,1068 599,1068 644,1071 689,1068 734,1068 778,1068 823,1068 868,1068 913,1068 957,1068 1002,1068 1047,1071 1092,1068 1136,1068 1181,1068 1226,1071 1271,1071 1315,1071 1360,1074 1405,1074 1450,1074 1494,1074 1539,1074 1584,1074 1629,1077 1674,1077 1718,1077 1760,1080"/>
+				<TextEquiv>
+					<Unicode>met es der lachet zuͦ allen dingen. Do ſprach der ein zuͦ dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="283,1145 1755,1158 1755,1095 1680,1082 283,1080"/>
+				<Baseline points="292,1133 337,1133 381,1133 426,1133 471,1133 516,1133 560,1136 605,1136 650,1136 695,1136 740,1133 784,1133 829,1133 874,1133 919,1133 963,1133 1008,1133 1053,1136 1098,1136 1142,1136 1187,1136 1232,1136 1277,1136 1321,1136 1366,1139 1411,1139 1456,1139 1500,1139 1545,1142 1590,1139 1635,1142 1679,1142 1724,1142 1760,1145"/>
+				<TextEquiv>
+					<Unicode>anderē Wilt du ein ſtinckender bock geheÿſſen werdē. ſo fra</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="275,1221 1751,1234 1738,1154 275,1158"/>
+				<Baseline points="286,1208 331,1202 375,1202 420,1199 465,1199 510,1202 555,1202 599,1202 644,1202 689,1202 734,1202 778,1199 823,1199 868,1199 913,1199 957,1199 1002,1199 1047,1202 1092,1202 1136,1199 1181,1202 1226,1202 1271,1202 1315,1202 1360,1202 1405,1205 1450,1205 1494,1205 1539,1205 1584,1205 1629,1208 1674,1208 1718,1208 1754,1208"/>
+				<TextEquiv>
+					<Unicode>ge jn warumb er lache. xantus fraget den kaufman. wie er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="275,1281 1755,1288 1755,1236 1699,1214 275,1219"/>
+				<Baseline points="286,1265 331,1268 375,1268 420,1268 465,1268 510,1268 555,1268 599,1268 644,1268 689,1268 734,1268 778,1268 823,1268 868,1265 913,1265 957,1265 1002,1265 1047,1265 1092,1265 1136,1268 1181,1265 1226,1268 1271,1268 1315,1268 1360,1268 1405,1271 1450,1271 1494,1274 1539,1274 1584,1271 1629,1271 1674,1274 1718,1274 1760,1277"/>
+				<TextEquiv>
+					<Unicode>den gramaticū gaͤbe. der antwurtet vmb dreÿtauſent pfen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="273,1359 1762,1353 1736,1283 273,1296"/>
+				<Baseline points="283,1333 328,1333 373,1333 417,1330 462,1333 507,1333 552,1333 596,1333 641,1333 686,1333 731,1333 775,1330 820,1330 865,1330 910,1330 954,1330 999,1330 1044,1330 1089,1330 1133,1330 1178,1330 1223,1333 1268,1333 1312,1333 1357,1333 1402,1333 1447,1336 1492,1336 1536,1336 1581,1339 1626,1339 1671,1339 1715,1339 1760,1339 1766,1339"/>
+				<TextEquiv>
+					<Unicode>ning. darüber do ſchwig xanthus. vnd trat hinderſich hyn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="275,1420 1760,1420 1760,1348 275,1366"/>
+				<Baseline points="286,1399 331,1399 375,1399 420,1396 465,1399 510,1396 555,1396 599,1396 644,1396 689,1396 734,1396 778,1399 823,1399 868,1399 913,1396 957,1399 1002,1399 1047,1399 1092,1396 1136,1396 1181,1402 1226,1399 1271,1399 1315,1399 1360,1399 1405,1399 1450,1402 1494,1402 1539,1405 1584,1405 1629,1405 1674,1402 1718,1402 1763,1402"/>
+				<TextEquiv>
+					<Unicode>weg. Do ſprachen die ſchuͦler zuͦ xanto Vnſer gebietter vn̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="270,1476 1755,1487 1755,1424 1673,1409 270,1422"/>
+				<Baseline points="280,1465 325,1465 370,1465 414,1468 459,1465 504,1465 549,1465 593,1465 638,1465 683,1465 728,1465 772,1465 817,1465 862,1462 907,1462 951,1462 996,1465 1041,1462 1086,1462 1130,1465 1175,1465 1220,1465 1265,1465 1309,1465 1354,1468 1399,1465 1444,1465 1489,1468 1533,1468 1578,1468 1623,1468 1668,1468 1712,1468 1757,1471 1760,1471"/>
+				<TextEquiv>
+					<Unicode>meyſter diſe knecht geuallen dir nichtz. Antwurt xanthus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="273,1546 1753,1546 1753,1487 1684,1480 273,1476"/>
+				<Baseline points="283,1539 325,1533 370,1533 414,1533 459,1533 504,1533 549,1530 593,1530 638,1530 683,1530 728,1530 772,1527 817,1527 862,1530 907,1530 951,1530 996,1530 1041,1530 1086,1527 1130,1530 1175,1530 1220,1533 1265,1533 1309,1533 1354,1533 1399,1533 1444,1533 1489,1533 1533,1533 1578,1533 1623,1533 1668,1533 1712,1533 1757,1533"/>
+				<TextEquiv>
+					<Unicode>Ia ſÿ gefallen mir wol. Aber es iſt ein geſaczt in vnſer ſtat</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="273,1615 1758,1625 1745,1545 273,1546"/>
+				<Baseline points="283,1599 328,1599 373,1599 417,1599 462,1599 507,1599 552,1599 596,1599 641,1596 686,1596 731,1596 775,1596 820,1596 865,1596 910,1596 954,1596 999,1596 1044,1596 1089,1596 1133,1596 1178,1596 1223,1599 1268,1599 1312,1599 1357,1599 1402,1599 1447,1596 1492,1599 1536,1599 1581,1599 1626,1599 1671,1599 1715,1602 1760,1605 1763,1605"/>
+				<TextEquiv>
+					<Unicode>daz nÿemandt kein eygen menſch ſo teüre ſol kauffen. wan̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="279,1686 1758,1699 1758,1626 1662,1608 279,1626"/>
+				<Baseline points="289,1665 334,1662 378,1665 423,1665 468,1665 513,1665 558,1665 602,1665 647,1665 692,1662 737,1662 781,1662 826,1662 871,1662 916,1662 960,1662 1005,1662 1050,1662 1095,1662 1139,1662 1184,1662 1229,1665 1274,1665 1318,1665 1363,1665 1408,1665 1453,1665 1497,1665 1542,1662 1587,1662 1632,1665 1677,1665 1721,1665 1763,1665"/>
+				<TextEquiv>
+					<Unicode>woͤllicher das überfuͤre der würde hart geſtraffet. Do ſpra</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="279,1738 1755,1755 1755,1697 1682,1677 279,1686"/>
+				<Baseline points="289,1733 334,1730 378,1730 423,1730 468,1730 513,1730 558,1730 602,1730 647,1727 692,1727 737,1730 781,1727 826,1727 871,1727 916,1727 960,1727 1005,1727 1050,1727 1095,1724 1139,1727 1184,1727 1229,1730 1274,1730 1318,1730 1363,1730 1408,1730 1453,1730 1497,1730 1542,1730 1587,1730 1632,1733 1677,1730 1721,1730 1760,1733"/>
+				<TextEquiv>
+					<Unicode>che ein ſchuͦler. Herr gebieter So du dann nach dem geſacz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="273,1805 1762,1820 1762,1755 1714,1744 273,1734"/>
+				<Baseline points="283,1799 289,1799 334,1799 378,1799 423,1796 468,1796 513,1796 558,1796 602,1796 647,1796 692,1796 737,1796 781,1793 826,1793 871,1793 916,1793 960,1793 1005,1793 1050,1793 1095,1793 1139,1796 1184,1793 1229,1796 1274,1796 1318,1796 1363,1796 1408,1796 1453,1796 1497,1796 1542,1796 1587,1799 1632,1796 1677,1796 1721,1796 1766,1796"/>
+				<TextEquiv>
+					<Unicode>die ſchoͤnſten nit kauffen magſt. ſo kauff den des geleich in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="279,1883 1749,1887 1716,1810 279,1807"/>
+				<Baseline points="289,1865 322,1865 367,1865 411,1865 456,1865 501,1865 546,1865 590,1865 635,1862 680,1862 725,1862 769,1859 814,1859 859,1859 904,1859 948,1859 993,1859 1038,1859 1083,1859 1127,1859 1172,1862 1217,1862 1262,1862 1306,1862 1351,1862 1396,1862 1441,1862 1486,1862 1530,1862 1575,1862 1620,1862 1665,1862 1709,1862 1754,1862"/>
+				<TextEquiv>
+					<Unicode>vngeſtalt nÿndert iſt. der wirt dir geleich ſo wol dienē als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="275,1942 1762,1946 1762,1894 1604,1872 275,1881"/>
+				<Baseline points="286,1930 331,1930 375,1930 420,1930 465,1930 510,1927 555,1927 599,1930 644,1927 689,1927 734,1927 778,1924 823,1924 868,1924 913,1924 957,1924 1002,1924 1047,1924 1092,1924 1136,1927 1181,1927 1226,1927 1271,1927 1315,1927 1360,1927 1405,1927 1450,1927 1494,1927 1539,1927 1584,1927 1629,1927 1674,1927 1718,1927 1763,1930 1766,1930"/>
+				<TextEquiv>
+					<Unicode>diſe. ſo wollen wir das gelt vmb jn bezalen Das waͤr vns</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="279,2013 1764,2024 1764,1946 1520,1928 1186,1965 991,1929 279,1946"/>
+				<Baseline points="289,1996 334,1996 378,1999 423,1999 468,1996 513,1996 558,1996 602,1996 647,1996 692,1993 737,1993 781,1993 826,1990 871,1990 916,1990 960,1990 1005,1990 1050,1990 1095,1993 1139,1993 1184,1993 1229,1993 1274,1993 1318,1993 1363,1993 1408,1993 1453,1993 1497,1993 1542,1993 1587,1990 1632,1993 1677,1993 1721,1993 1766,1996"/>
+				<TextEquiv>
+					<Unicode>vngehoͤrt ſprach xantus. ſo iſt auch mein weÿb ſo zart daz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="270,2091 1747,2078 1723,2006 270,2017"/>
+				<Baseline points="280,2070 319,2064 364,2064 408,2064 453,2061 498,2064 543,2061 587,2061 632,2061 677,2061 722,2061 766,2058 811,2058 856,2058 901,2055 945,2055 990,2058 1035,2055 1080,2058 1124,2058 1169,2058 1214,2058 1259,2058 1304,2058 1348,2058 1393,2058 1438,2058 1483,2058 1527,2058 1572,2058 1617,2058 1662,2058 1706,2058 1751,2055"/>
+				<TextEquiv>
+					<Unicode>jr kein dienſte von einē ſoͤlichen knecht empfengklichē waͤ¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="275,2158 1751,2141 1753,2078 1675,2071 277,2095"/>
+				<Baseline points="286,2133 322,2130 367,2130 411,2130 456,2130 501,2130 546,2130 590,2127 635,2127 680,2127 725,2127 769,2127 814,2127 859,2124 904,2124 948,2124 993,2121 1038,2121 1083,2121 1127,2124 1172,2124 1217,2124 1262,2124 1306,2124 1351,2124 1396,2124 1441,2124 1486,2124 1530,2124 1575,2124 1620,2124 1665,2124 1709,2124 1754,2124"/>
+				<TextEquiv>
+					<Unicode>re. Do ſprachen die ſchuͦler. Meyſter. du haſt manigerleÿ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="284,2216 1760,2206 1760,2149 1669,2134 284,2158"/>
+				<Baseline points="295,2202 331,2199 375,2199 420,2199 465,2196 510,2196 555,2193 599,2193 644,2193 689,2193 734,2193 778,2190 823,2190 868,2190 913,2190 957,2190 1002,2190 1047,2190 1092,2190 1136,2190 1181,2190 1226,2190 1271,2190 1315,2190 1360,2190 1405,2190 1450,2193 1494,2190 1539,2190 1584,2190 1629,2190 1674,2190 1718,2190 1763,2190"/>
+				<TextEquiv>
+					<Unicode>geſchaͤfftes. darjnnen dein weyb nit vnwillig wirdt ſo er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="279,2279 1764,2277 1764,2206 279,2216"/>
+				<Baseline points="289,2264 334,2264 378,2264 423,2261 468,2261 513,2261 558,2258 602,2258 647,2258 692,2261 737,2258 781,2258 826,2255 871,2258 916,2255 960,2255 1005,2255 1050,2255 1095,2255 1139,2258 1184,2258 1229,2255 1274,2255 1318,2255 1363,2255 1408,2255 1453,2255 1497,2255 1542,2255 1587,2255 1632,2255 1677,2258 1721,2255 1766,2255"/>
+				<TextEquiv>
+					<Unicode>die ſchafft. Do ſprach xantus. wir woͤllen jn doch vor hyn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="279,2351 1755,2353 1755,2279 1714,2264 279,2279"/>
+				<Baseline points="289,2336 328,2330 373,2330 417,2330 462,2330 507,2327 552,2327 596,2327 641,2327 686,2327 731,2324 775,2324 820,2324 865,2324 910,2321 954,2321 999,2321 1044,2321 1089,2321 1133,2324 1178,2324 1223,2321 1268,2324 1312,2324 1357,2324 1402,2324 1447,2324 1492,2324 1536,2321 1581,2321 1626,2321 1671,2321 1715,2321 1760,2327"/>
+				<TextEquiv>
+					<Unicode>fragen waz er doch gelernet hat. daz wir daz gelt nit durch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="281,2407 1762,2394 1762,2346 1565,2329 283,2359"/>
+				<Baseline points="292,2396 334,2396 378,2396 423,2396 468,2396 513,2396 558,2393 602,2393 647,2393 692,2393 737,2390 781,2390 826,2387 871,2387 916,2387 960,2387 1005,2387 1050,2387 1095,2390 1139,2387 1184,2387 1229,2390 1274,2390 1318,2393 1363,2390 1408,2387 1453,2387 1497,2387 1542,2387 1587,2387 1632,2387 1677,2387 1721,2381 1766,2381"/>
+				<TextEquiv>
+					<Unicode>verachtung verlieren Er keret ſich zuͦ Eſopo vnd ſprach.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="279,2483 1749,2461 1749,2403 1643,2394 279,2409"/>
+				<Baseline points="289,2467 322,2464 367,2464 411,2464 456,2461 501,2461 546,2461 590,2461 635,2458 680,2458 725,2458 769,2455 814,2455 859,2455 904,2455 948,2452 993,2452 1038,2452 1083,2452 1127,2455 1172,2458 1217,2458 1262,2455 1306,2455 1351,2455 1396,2452 1441,2452 1486,2455 1530,2452 1575,2452 1620,2449 1665,2452 1709,2452 1754,2449"/>
+				<TextEquiv>
+					<Unicode>Ich gruͤß dich knab Do ſprach eſopus. ich bit dich laß mi¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="279,2537 1755,2535 1736,2461 279,2491"/>
+				<Baseline points="289,2527 328,2527 373,2527 417,2527 462,2527 507,2527 552,2527 596,2524 641,2524 686,2524 731,2524 775,2521 820,2521 865,2521 910,2521 954,2521 999,2521 1044,2521 1089,2521 1133,2518 1178,2518 1223,2518 1268,2524 1312,2521 1357,2521 1402,2521 1447,2521 1492,2518 1536,2518 1581,2515 1626,2515 1671,2518 1715,2518 1760,2518"/>
+				<TextEquiv>
+					<Unicode>ch vnbekümmeret. xantus ſprach. Ich gruͤß dich. vnd ich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="279,2608 1758,2597 1744,2533 279,2545"/>
+				<Baseline points="289,2593 331,2593 375,2593 420,2596 465,2593 510,2593 555,2593 599,2590 644,2593 689,2590 734,2590 778,2587 823,2587 868,2587 913,2587 957,2587 1002,2587 1047,2587 1092,2587 1136,2584 1181,2584 1226,2584 1271,2587 1315,2587 1360,2587 1405,2584 1450,2584 1494,2584 1539,2584 1584,2584 1629,2584 1674,2584 1718,2584 1763,2584"/>
+				<TextEquiv>
+					<Unicode>dich ſprach eſopus. xantus ſprach. biß nit muͤlich vnd ant</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="279,2678 1749,2671 1749,2599 1647,2587 279,2613"/>
+				<Baseline points="289,2658 322,2661 367,2661 411,2658 456,2658 501,2658 546,2658 590,2658 635,2655 680,2655 725,2655 769,2655 814,2655 859,2655 904,2655 948,2655 993,2655 1038,2655 1083,2652 1127,2652 1172,2652 1217,2652 1262,2652 1306,2652 1351,2652 1396,2652 1441,2652 1486,2649 1530,2652 1575,2652 1620,2649 1665,2649 1709,2649 1754,2652"/>
+				<TextEquiv>
+					<Unicode>wurt auf meine wort Sag von wannen biſt du. ſprach eſo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_33" custom="readingOrder {index:32;}">
+				<Coords points="283,2760 1615,2719 1753,2749 1755,2669 284,2682"/>
+				<Baseline points="292,2730 328,2727 373,2727 417,2727 462,2727 507,2724 552,2724 596,2724 641,2724 686,2724 731,2721 775,2721 820,2721 865,2721 910,2721 954,2721 999,2718 1044,2718 1089,2718 1133,2718 1178,2718 1223,2718 1268,2718 1312,2721 1357,2718 1402,2718 1447,2718 1492,2718 1536,2718 1581,2715 1626,2715 1671,2715 1715,2718 1760,2718"/>
+				<TextEquiv>
+					<Unicode>pus von dem fleyſch. xantus ſprach. ich frag das nit. Sage</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_34" custom="readingOrder {index:33;}">
+				<Coords points="284,2812 1762,2803 1762,2744 1619,2719 284,2757"/>
+				<Baseline points="295,2793 334,2790 378,2790 423,2793 468,2793 513,2793 558,2790 602,2790 647,2787 692,2787 737,2787 781,2787 826,2787 871,2787 916,2787 960,2787 1005,2784 1050,2787 1095,2787 1139,2787 1184,2787 1229,2787 1274,2787 1318,2784 1363,2784 1408,2784 1453,2784 1497,2784 1542,2784 1587,2784 1632,2784 1677,2784 1721,2784 1766,2787"/>
+				<TextEquiv>
+					<Unicode>wo biſt geboren Eſopus ſprach in meiner muͦter leÿb. xan</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_35" custom="readingOrder {index:34;}">
+				<Coords points="283,2875 1762,2866 1734,2794 283,2812"/>
+				<Baseline points="292,2858 334,2858 378,2858 423,2861 468,2858 513,2858 558,2855 602,2855 647,2855 692,2858 737,2855 781,2852 826,2852 871,2852 916,2852 960,2852 1005,2852 1050,2852 1095,2852 1139,2852 1184,2849 1229,2852 1274,2852 1318,2849 1363,2849 1408,2849 1453,2849 1497,2849 1542,2849 1587,2849 1632,2849 1677,2849 1721,2849 1766,2849"/>
+				<TextEquiv>
+					<Unicode>thus ſprach. daz frage ich auch nit. ſunder beger ich von dir</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="rS3TH_1_tl_36" custom="readingOrder {index:35;}">
+				<Coords points="284,2965 1545,2933 1651,2976 1770,2939 1736,2859 286,2872"/>
+				<Baseline points="295,2924 340,2924 384,2924 429,2924 474,2927 519,2927 563,2927 608,2924 653,2924 698,2924 743,2924 787,2924 832,2924 877,2921 922,2921 966,2921 1011,2921 1056,2921 1101,2921 1145,2921 1190,2918 1235,2921 1280,2921 1324,2921 1369,2918 1414,2918 1459,2918 1503,2918 1548,2918 1593,2918 1638,2915 1682,2915 1727,2915 1772,2915"/>
+				<TextEquiv>
+					<Unicode>an woͤlchē ende du geboren ſeÿeſt. Eſopus antwurt Mein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>tus czuͦ ꝺem kauffmann. wie achteſt ꝺu ꝺen haͤrpffenſchla¬
+her. Antwurt ꝺer kauffman vmb tauſent pfenning. ꝺaz be
+ꝺaucht xantum zuͦ vil ſein. vnꝺ gieng zuͦ ꝺem anꝺern vn̄ ſp
+rach. Von wannen biſt ꝺu. Antwurt er. ich byn vō Liꝺia
+xantus ſpꝛach. Was kanſt ꝺu aber würcken. antwurtet er
+Waz ꝺu meÿneſt Do ꝺas eſopus hoͤꝛet. warꝺ er aber über
+ſer lachen. Do ꝺas ꝺie ſchuͦler erſahen. ſpꝛachen ſÿ. Wie kō
+met es ꝺer lachet zuͦ allen ꝺingen. Do ſpꝛach ꝺer ein zuͦ ꝺem
+anꝺerē Wilt ꝺu ein ſtinckenꝺer bock geheÿſſen werꝺē. ſo fra
+ge jn warumb er lache. xantus fraget ꝺen kaufman. wie er
+ꝺen gramaticū gaͤbe. ꝺer antwurtet vmb ꝺꝛeÿtauſent pfen
+ning. ꝺarüber ꝺo ſchwig xanthus. vnꝺ trat hinꝺerſich hyn
+weg. Do ſpꝛachen ꝺie ſchuͦler zuͦ xanto Vnſer gebietter vn̄
+meyſter ꝺiſe knecht geuallen ꝺir nichtz. Antwurt xanthus
+Ia ſÿ gefallen mir wol. Aber es iſt ein geſaczt in vnſer ſtat
+ꝺaz nÿemanꝺt kein eygen menſch ſo teüre ſol kauffen. wan̄
+woͤllicher ꝺas überfuͤre ꝺer würꝺe hart geſtraffet. Do ſpꝛa
+che ein ſchuͦler. Herꝛ gebieter So ꝺu ꝺann nach ꝺem geſacz
+ꝺie ſchoͤnſten nit kauffen magſt. ſo kauff ꝺen ꝺes geleich in
+vngeſtalt nÿnꝺert iſt. ꝺer wirt ꝺir geleich ſo wol ꝺienē als
+ꝺiſe. ſo wollen wir ꝺas gelt vmb jn bezalen Das waͤr vns
+vngehoͤꝛt ſpꝛach xantus. ſo iſt auch mein weÿb ſo zart ꝺaz
+jr kein ꝺienſte von einē ſoͤlichen knecht empfengklichē waͤ¬
+re. Do ſpꝛachen ꝺie ſchuͦler. Meyſter. ꝺu haſt manigerleÿ
+geſchaͤfftes. ꝺarjnnen ꝺein weyb nit vnwillig wirꝺt ſo er
+ꝺie ſchafft. Do ſpꝛach xantus. wir woͤllen jn ꝺoch voꝛ hyn
+fragen waz er ꝺoch gelernet hat. ꝺaz wir ꝺaz gelt nit ꝺurch
+verachtung verlieren Er keret ſich zuͦ Eſopo vnꝺ ſpꝛach.
+Ich gruͤß ꝺich knab Do ſpꝛach eſopus. ich bit ꝺich laß mi¬
+ch vnbekümmeret. xantus ſpꝛach. Ich gruͤß ꝺich. vnꝺ ich
+ꝺich ſpꝛach eſopus. xantus ſpꝛach. biß nit muͤlich vnꝺ ant
+wurt auf meine woꝛt Sag von wannen biſt ꝺu. ſpꝛach eſo
+pus von ꝺem fleyſch. xantus ſpꝛach. ich frag ꝺas nit. Sage
+wo biſt geboꝛen Eſopus ſpꝛach in meiner muͦter leÿb. xan
+thus ſpꝛach. ꝺaz frage ich auch nit. ſunꝺer beger ich von ꝺir
+an woͤlchē enꝺe ꝺu geboꝛen ſeÿeſt. Eſopus antwurt Mein</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

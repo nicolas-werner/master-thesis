@@ -1,0 +1,34 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,über vnd on das in yeglichen oren die mit dryen loͤchern,tiber vnd on das in yeglichen oren die mit dryen loͤchern,0.03571428571428571,0.09090909090909091,0.09090909090909091,7474191,mistral
+2,durch ſtochen ſynd ſy noch ander ſteyn tragen die in rin,durch ſtochen ſynd ſy noch ander ſteyn tragen die in rin,0.0,0.0,0.0,7474191,mistral
+3,gen hangen vn̄ diß wiſe vnd ſytten iſt allein der mannē/,gen hangen vn diß wiſe vnd ſytten iſt allein der mannen/,0.05357142857142857,0.18181818181818182,0.18181818181818182,7474191,mistral
+4,Den̄ die frowen zerſtechen innen ſelbs ir antlitz nit alſo,Den die frowen zerſtechen innen ſelbs ir antlitz nit alſo,0.017241379310344827,0.1,0.1,7474191,mistral
+5,mit loͤcherung den alleyn die oren/ Eyn ander ſyt vnd,mit loͤcherung den alleyn die oren/ Eyn ander ſyt vnd,0.0,0.0,0.0,7474191,mistral
+6,wyße iſt ouch vnder vnd by ienen gnuͦg abwyſig vn̄ wi¬,wyſe iſt ouch vnder vnd by ienen gnuͤg abwyſig vn̄ wi¬,0.037037037037037035,0.18181818181818182,0.18181818181818182,7474191,mistral
+7,der alle menſchliche glaubung/ Das ir frowen die eben,der alle menſchliche glaubung/ Daſ ir frowen die eben,0.018867924528301886,0.1111111111111111,0.1111111111111111,7474191,mistral
+8,geluſtig vnd geilgirig ſynd/ vnd ieren mannen machen,geluſtig vnd geilgirig ſynd/ vnd ieren mannen machen,0.0,0.0,0.0,7474191,mistral
+9,das ienen ir büch geſchwellen in ſollicher über meſtung,daſ ienen ir Büch geſchwellen in ſollicher v̈ber meſtung,0.07272727272727272,0.3333333333333333,0.3333333333333333,7474191,mistral
+10,das ſy/ vngeſtalt vn̄ ſmechlich erſthynen vnd dz tuͦnd ſy,daſ ſy vngestalt vn smechlich erſthynen vnd ꝺz tuͤnd ſy,0.12280701754385964,0.7,0.7,7474191,mistral
+11,mit ettwas fündē vn̄ gnagung ettlicher gifftigen thierē/,mit ettwas ſuͤnden vn gnagung ettlicher gifftigen thiere/,0.125,0.375,0.375,7474191,mistral
+12,Und von ſolicher ſach geſchicht das ierer vil ir gemecht,Vnd von ſolicher ſach geſchicht daſ ierer vil ir gemecht,0.03571428571428571,0.2,0.2,7474191,mistral
+13,verlieren die ienen von mangels wegen der artznye fulē,verlieren die ienen von mangels wegen der artznye fulen,0.037037037037037035,0.1111111111111111,0.1111111111111111,7474191,mistral
+14,vnd bliben on gemech/ Si haben keyn tuͦch noch teckinē,vnd bliben on gemech/ Si haben keyn teckinem,0.24074074074074073,0.3,0.3,7474191,mistral
+15,weder lynis noch baumwollins/ Denn ſy des nit bedoͤrf,weder lynis noch Baumwollins/ Denn ſy deſ nit bedoͤrff,0.05660377358490566,0.3333333333333333,0.3333333333333333,7474191,mistral
+16,fen vnd haben keyn eygen guͦt/ Sunder alle ding ſind in,fen vnd haben keyn eygen guͤt/ Sunder alle ding ſind in¬,0.03636363636363636,0.18181818181818182,0.18181818181818182,7474191,mistral
+17,nen gemein/ Si lebē ſamenhafft on künig on gebieter vn̄,nen gemein/ Si leben ſamenhafft on kiinig on gebieter vn̄,0.07272727272727272,0.2,0.2,7474191,mistral
+18,iſt ir yeglicher im ſelbs herr/ So vil wiber nemen ſy ſo,iſt ir yeglicher im ſelbſt herr/ So vil wiſſer nemen ſy so,0.08928571428571429,0.25,0.25,7474191,mistral
+19,vil ſy woͤllen/ vnd d̓ ſun mit der muͦter vn̄ der bruͦder mit,vil ſy woͤllen/ vnd ô ſun mit der muͤter vn̄ der bruͤder mit,0.06557377049180328,0.23076923076923078,0.23076923076923078,7474191,mistral
+20,der ſchweſter vnd der erſt mit der erſten vnd der begeg¬,der ſchweſter vnd der erſt mit der erſten vnd degeg¬,0.07142857142857142,0.18181818181818182,0.18181818181818182,7474191,mistral
+21,ner mit der begegneten veruneynigen ſich/ Als dick als,ner mit der begegneten veruneynigen ſich/ Alſ dick alſ,0.037037037037037035,0.2222222222222222,0.2222222222222222,7474191,mistral
+22,ſy woͤllen ſcheiden ſy die vermehletig ee/ vnd halten in ſo,ſy woͤllen ſcheiden ſy die vermehletig ee/ vnd halten in ſo,0.0,0.0,0.0,7474191,mistral
+23,lichem gantz keyn ordnung/ Darumb habē ſy keynen tē¬,lichem gantz keyn ordnung/ Darumb haben ſy keynen te,0.07692307692307693,0.2222222222222222,0.2222222222222222,7474191,mistral
+24,pel vnd halten keyn geſatzt vnd ſind nit abgetere/ Was,pel vnd halten keyn geſatz vnd ſind nit abgetere/ Waſ,0.037037037037037035,0.2,0.2,7474191,mistral
+25,ſol ich me ſagē Sy leben nach der natur das ſy wol epi¬,ſol ich me ſagen/ Sy leben nach der natur daſ ſy wol epi¬,0.07272727272727272,0.15384615384615385,0.15384615384615385,7474191,mistral
+26,curi/ buchfüller genāt werden moͤgen den̄ ſenici/ By inē,curi/ Buchfuͤller genant werden moͤgen den̄ ſenici/ By in¬,0.10714285714285714,0.3333333333333333,0.3333333333333333,7474191,mistral
+27,ſind keyn koufflit noch kouffguͦt/ Die ſcharē des volcks,ſind keyn konfflict noch kouffguͤt/ Die ſcharen deſ volckſ,0.125,0.5555555555555556,0.5555555555555556,7474191,mistral
+28,haben ouch kriege/ vnd on kunſt on ordnung/ Ir elteren̄,haben ouch kriege/ vnd on kunst on ordnung/ Ir elteren,0.03636363636363636,0.2,0.2,7474191,mistral
+29,mit yren reten̄ vnnd gebotten vnder byegen die iungen,mit yren reten vn̄ gebotten vnder byegen die iungen,0.05660377358490566,0.2222222222222222,0.2222222222222222,7474191,mistral
+30,zuͦ thuͦn was ſy woͤllen vnd rüſten ſie zuͦ ſtryttē in ſolichē,zuͤ thuͤn waſ ſy woͤllen vnd ruͤſten ſie zu strytten in ſolicher,0.1774193548387097,0.5833333333333334,0.5833333333333334,7474191,mistral
+31,Sy eynandern̄ gruſelich ze tod ſlaen vn̄ welche ſye alſo,ſy eyng derum gruſelich ze tod ſtaen vn̄ welche ſye alſo,0.10714285714285714,0.4,0.4,7474191,mistral
+32,im krieg vnd ſtritt fahen die fuͦren ſy hyn mit das ſye die,im krieg vnd stritt fahen die fuͤren ſy hyn mit daſ ſy die,0.06779661016949153,0.3076923076923077,0.3076923076923077,7474191,mistral
+33,by leben ſunder inen ſelbs behalten das ſy da von metzi¬,by leben sunder inen ſelbſ behalten daſ ſy da von metzi¬,0.05357142857142857,0.2727272727272727,0.2727272727272727,7474191,mistral

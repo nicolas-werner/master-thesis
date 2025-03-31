@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53254:lm=provided:date=11_07_2023_09:18</Creator>
+		<Created>2023-07-11T08:50:37</Created>
+		<LastChange>2023-08-20T20:31:08.681+02:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075111" pageNr="116" tsid="154460252" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=PFNLHHRDTDUYUBVMBAUKDRCE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OWZHMFGFGFVWFIYUGNTXYRGO" imageId="46338785"/>
+	</Metadata>
+	<Page imageFilename="7710959.jpg" imageWidth="2786" imageHeight="3730">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356692563" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="roIFi_1"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="roIFi_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="975,550 2539,550 2539,2935 975,2935"/>
+			<TextLine id="roIFi_1_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1005,653 2445,642 2471,548 1662,585 1520,537 1006,587"/>
+				<Baseline points="1014,647 1044,644 1089,644 1133,641 1178,641 1223,638 1268,638 1312,635 1357,635 1402,635 1447,629 1492,629 1536,629 1581,629 1626,629 1671,626 1715,626 1760,623 1805,623 1850,623 1894,623 1939,620 1984,620 2029,620 2073,623 2118,620 2163,617 2208,617 2252,617 2297,617 2342,617 2387,620 2431,617 2476,620"/>
+				<TextEquiv>
+					<Unicode>rach eſopus zuͦ jn. Ir guͦten mitknecht. als jr ſehent das ich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="1006,736 1662,694 2482,714 2484,640 1008,653"/>
+				<Baseline points="1017,710 1056,710 1101,707 1145,707 1190,704 1235,704 1280,701 1324,701 1369,701 1414,701 1459,698 1503,695 1548,695 1593,695 1638,692 1682,692 1727,689 1772,689 1817,689 1862,692 1906,689 1951,689 1996,689 2041,689 2085,686 2130,686 2175,686 2220,686 2264,683 2309,686 2354,686 2399,683 2443,683 2488,683"/>
+				<TextEquiv>
+					<Unicode>kleiner vn̄ krencker bin ſo woͤllēt mir ein leichte pürde ord¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="1016,789 2466,773 2482,712 1016,734"/>
+				<Baseline points="1026,775 1053,775 1098,772 1142,769 1187,769 1232,769 1277,766 1321,766 1366,766 1411,763 1456,763 1500,760 1545,760 1590,760 1635,757 1679,757 1724,757 1769,757 1814,754 1859,754 1903,754 1948,754 1993,754 2038,754 2082,751 2127,751 2172,748 2217,748 2261,751 2306,751 2351,751 2396,751 2440,751 2485,754"/>
+				<TextEquiv>
+					<Unicode>nen Do ſprachē ſÿ. ſo du dan̄ nichtznit magſt. ſo trag auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="1010,867 2451,845 2477,773 1012,789"/>
+				<Baseline points="1020,841 1050,838 1095,838 1139,835 1184,832 1229,832 1274,832 1318,829 1363,829 1408,829 1453,829 1497,826 1542,826 1587,826 1632,823 1677,823 1721,823 1766,820 1811,820 1856,820 1900,820 1945,817 1990,817 2035,817 2079,817 2124,817 2169,814 2214,814 2258,814 2303,814 2348,817 2393,814 2437,814 2482,817"/>
+				<TextEquiv>
+					<Unicode>nichtz. do ſprach eſopus. ſo jr aber all arbeytend. ſo iſt auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="1016,918 2278,907 2477,894 2478,835 1016,868"/>
+				<Baseline points="1026,904 1050,904 1095,901 1139,901 1184,898 1229,898 1274,898 1318,895 1363,895 1408,895 1453,892 1497,892 1542,892 1587,889 1632,889 1677,889 1721,886 1766,889 1811,886 1856,883 1900,883 1945,883 1990,886 2035,886 2079,883 2124,883 2169,880 2214,880 2258,880 2303,880 2348,880 2393,880 2437,880 2482,880"/>
+				<TextEquiv>
+					<Unicode>nit zimlich dz ich dē herren allein vnnücz geſehen werde. do</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="1016,984 2401,951 2462,981 2482,896 1016,918"/>
+				<Baseline points="1026,975 1053,969 1098,966 1142,966 1187,963 1232,963 1277,960 1321,960 1366,960 1411,960 1456,957 1500,957 1545,954 1590,954 1635,954 1679,954 1724,954 1769,951 1814,951 1859,948 1903,948 1948,948 1993,948 2038,948 2082,948 2127,945 2172,945 2217,945 2261,942 2306,942 2351,945 2396,945 2440,945 2485,945"/>
+				<TextEquiv>
+					<Unicode>ſprachen ſÿ. ſo nym̄ was du wilt. Eſopus beſahe alles daz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="1021,1056 2484,1025 2484,975 2398,953 1023,988"/>
+				<Baseline points="1032,1032 1056,1032 1101,1032 1145,1032 1190,1029 1235,1029 1280,1029 1324,1026 1369,1026 1414,1023 1459,1020 1503,1020 1548,1020 1593,1020 1638,1020 1682,1017 1727,1020 1772,1017 1817,1017 1862,1017 1906,1014 1951,1014 1996,1011 2041,1011 2085,1011 2130,1008 2175,1008 2220,1008 2264,1008 2309,1011 2354,1011 2399,1011 2443,1011 2488,1014"/>
+				<TextEquiv>
+					<Unicode>das zuͦtragen was. ſeck. matraczen vnd die koͤrb. vn̄ er ſahe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="1021,1124 1478,1087 1527,1119 2261,1110 2482,1087 2484,1025 1021,1054"/>
+				<Baseline points="1032,1098 1053,1098 1098,1098 1142,1095 1187,1095 1232,1092 1277,1092 1321,1092 1366,1089 1411,1089 1456,1086 1500,1086 1545,1089 1590,1086 1635,1083 1679,1083 1724,1083 1769,1083 1814,1083 1859,1080 1903,1080 1948,1080 1993,1080 2038,1077 2082,1077 2127,1077 2172,1077 2217,1077 2261,1080 2306,1077 2351,1077 2396,1077 2440,1077 2485,1077"/>
+				<TextEquiv>
+					<Unicode>einen korb mit brot geladē den jr czwen ſoͤlten tragen haben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="1021,1185 2478,1165 2467,1087 1023,1126"/>
+				<Baseline points="1032,1160 1053,1160 1098,1163 1142,1160 1187,1157 1232,1157 1277,1157 1321,1151 1366,1154 1411,1154 1456,1154 1500,1151 1545,1151 1590,1148 1635,1148 1679,1148 1724,1148 1769,1148 1814,1148 1859,1148 1903,1145 1948,1145 1993,1145 2038,1142 2082,1142 2127,1142 2172,1142 2217,1142 2261,1142 2306,1142 2351,1142 2396,1142 2440,1145 2485,1142"/>
+				<TextEquiv>
+					<Unicode>vnnd ſprach zuͦ jn. den korb laſſent mir. do ſprachent ſÿ. wie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="1021,1240 2398,1233 2473,1220 2475,1165 1023,1183"/>
+				<Baseline points="1032,1226 1047,1226 1092,1226 1136,1226 1181,1223 1226,1226 1271,1223 1315,1220 1360,1220 1405,1220 1450,1220 1494,1217 1539,1217 1584,1217 1629,1214 1674,1214 1718,1214 1763,1211 1808,1214 1853,1211 1897,1211 1942,1211 1987,1211 2032,1208 2076,1208 2121,1208 2166,1208 2211,1208 2255,1208 2300,1208 2345,1208 2390,1208 2434,1208 2479,1205"/>
+				<TextEquiv>
+					<Unicode>ein groſſer narr iſt er. er hat einer ringen bürde begeret. vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="1019,1321 2491,1290 2456,1218 1021,1251"/>
+				<Baseline points="1029,1292 1062,1289 1107,1289 1151,1289 1196,1289 1241,1286 1286,1286 1330,1286 1375,1286 1420,1286 1465,1283 1509,1283 1554,1283 1599,1280 1644,1280 1688,1280 1733,1277 1778,1277 1823,1277 1867,1274 1912,1277 1957,1274 2002,1274 2047,1271 2091,1271 2136,1274 2181,1271 2226,1271 2270,1271 2315,1271 2360,1274 2405,1274 2449,1277 2494,1280"/>
+				<TextEquiv>
+					<Unicode>erwoͤlt jm ſelber die ſchwaͤrſtē. wir woͤllen jm es wol gün</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="1016,1382 2486,1354 2486,1292 2320,1277 1016,1323"/>
+				<Baseline points="1026,1357 1059,1357 1104,1354 1148,1351 1193,1354 1238,1351 1283,1351 1327,1351 1372,1351 1417,1348 1462,1348 1506,1348 1551,1345 1596,1345 1641,1345 1685,1342 1730,1342 1775,1342 1820,1345 1865,1342 1909,1342 1954,1339 1999,1339 2044,1339 2088,1339 2133,1339 2178,1336 2223,1333 2267,1336 2312,1336 2357,1336 2402,1339 2446,1339 2491,1342"/>
+				<TextEquiv>
+					<Unicode>nen Eſopus nam den korb auf ſich mit dē brot. vn̄ fürgien</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="1030,1443 2482,1409 2482,1360 2260,1345 1030,1380"/>
+				<Baseline points="1041,1429 1053,1426 1098,1423 1142,1420 1187,1420 1232,1417 1277,1417 1321,1417 1366,1414 1411,1414 1456,1414 1500,1414 1545,1411 1590,1411 1635,1408 1679,1408 1724,1408 1769,1408 1814,1405 1859,1405 1903,1405 1948,1405 1993,1405 2038,1405 2082,1402 2127,1405 2172,1402 2217,1399 2261,1402 2306,1402 2351,1402 2396,1402 2440,1402 2485,1399"/>
+				<TextEquiv>
+					<Unicode>ge die anderen gar weÿt. darab wūderten ſÿ vn̄ ſprachen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="1027,1500 2486,1498 2473,1409 1029,1443"/>
+				<Baseline points="1038,1483 1059,1486 1104,1486 1148,1486 1193,1483 1238,1483 1283,1480 1327,1480 1372,1480 1417,1480 1462,1480 1506,1480 1551,1477 1596,1477 1641,1477 1685,1474 1730,1474 1775,1474 1820,1474 1865,1474 1909,1474 1954,1471 1999,1471 2044,1471 2088,1468 2133,1468 2178,1465 2223,1465 2267,1465 2312,1465 2357,1468 2402,1468 2446,1471 2491,1474"/>
+				<TextEquiv>
+					<Unicode>der iſt nit traͤg mit der arbeÿt er ligt vns allen ob mit tragē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="1023,1582 2412,1546 2394,1479 1025,1501"/>
+				<Baseline points="1035,1551 1074,1551 1119,1551 1163,1551 1208,1548 1253,1548 1298,1545 1342,1548 1387,1548 1432,1545 1477,1542 1521,1542 1566,1542 1611,1542 1656,1539 1700,1539 1745,1539 1790,1539 1835,1539 1879,1542 1924,1539 1969,1539 2014,1536 2058,1536 2103,1536 2148,1533 2193,1533 2238,1533 2282,1533 2327,1530 2372,1533 2417,1533"/>
+				<TextEquiv>
+					<Unicode>er iſt ſeines gelts wol wert er truͤg den eſel zuͦ der bürde.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="1040,2541 2495,2524 2467,2455 2287,2473 2162,2421 1939,2475 1040,2466"/>
+				<Baseline points="1050,2512 1068,2512 1113,2506 1157,2512 1202,2512 1247,2512 1292,2512 1336,2512 1381,2512 1426,2515 1471,2512 1515,2512 1560,2515 1605,2512 1650,2512 1694,2515 1739,2515 1784,2512 1829,2512 1873,2509 1918,2509 1963,2512 2008,2509 2052,2512 2097,2512 2142,2512 2187,2509 2232,2509 2276,2509 2321,2509 2366,2509 2411,2509 2455,2506 2500,2509"/>
+				<TextEquiv>
+					<Unicode>¶ Mit ſoͤlichen worten verſpoteten ſÿ Eſopum jrer czwen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="1040,2587 2493,2598 2478,2521 1040,2541"/>
+				<Baseline points="1050,2575 1095,2575 1139,2575 1184,2578 1229,2578 1274,2578 1318,2578 1363,2581 1408,2581 1453,2581 1497,2578 1542,2578 1587,2581 1632,2581 1677,2581 1721,2578 1766,2578 1811,2578 1856,2578 1900,2578 1945,2578 1990,2578 2035,2578 2079,2578 2124,2578 2169,2575 2214,2575 2258,2578 2303,2578 2348,2575 2393,2575 2437,2575 2482,2572 2497,2575"/>
+				<TextEquiv>
+					<Unicode>nur als vil truͦgen als er allein. Aber do eſopus vor jnen czuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="1043,2653 2490,2661 2491,2594 2414,2587 2287,2618 2208,2585 2116,2616 1045,2594"/>
+				<Baseline points="1053,2640 1098,2640 1142,2643 1187,2643 1232,2643 1277,2643 1321,2646 1366,2643 1411,2646 1456,2643 1500,2646 1545,2646 1590,2646 1635,2646 1679,2643 1724,2646 1769,2646 1814,2643 1859,2643 1903,2643 1948,2643 1993,2643 2038,2643 2082,2643 2127,2643 2172,2643 2217,2640 2261,2640 2306,2640 2351,2640 2396,2637 2440,2637 2485,2637 2494,2640"/>
+				<TextEquiv>
+					<Unicode>einem berg kam. do luͦd er ab ſeinen korb von den achßeln.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="1043,2723 2495,2727 2495,2657 2421,2651 1043,2666"/>
+				<Baseline points="1053,2706 1098,2706 1142,2706 1187,2706 1232,2706 1277,2706 1321,2709 1366,2709 1411,2709 1456,2712 1500,2709 1545,2709 1590,2709 1635,2709 1679,2709 1724,2709 1769,2709 1814,2709 1859,2709 1903,2709 1948,2709 1993,2709 2038,2709 2082,2709 2127,2709 2172,2709 2217,2706 2261,2706 2306,2706 2351,2706 2396,2706 2440,2703 2485,2703 2500,2706"/>
+				<TextEquiv>
+					<Unicode>vnnd nam jn fürſich an die arme vnd ergreyffet jn mitt den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="1049,2793 2495,2784 2466,2714 1049,2729"/>
+				<Baseline points="1059,2775 1068,2772 1113,2772 1157,2769 1202,2766 1247,2769 1292,2772 1336,2775 1381,2778 1426,2778 1471,2781 1515,2778 1560,2778 1605,2778 1650,2775 1694,2775 1739,2775 1784,2775 1829,2775 1873,2775 1918,2775 1963,2775 2008,2775 2052,2778 2097,2775 2142,2772 2187,2772 2232,2772 2276,2772 2321,2772 2366,2772 2411,2769 2455,2769 2500,2769"/>
+				<TextEquiv>
+					<Unicode>zennen. vnd gienge geringklicher hynauff vnnd kam weÿt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="1045,2854 2501,2850 2501,2782 1045,2795"/>
+				<Baseline points="1056,2834 1101,2834 1145,2834 1190,2834 1235,2837 1280,2837 1324,2837 1369,2837 1414,2837 1459,2837 1503,2840 1548,2843 1593,2843 1638,2843 1682,2840 1727,2840 1772,2843 1817,2840 1862,2840 1906,2840 1951,2840 1996,2837 2041,2840 2085,2840 2130,2837 2175,2837 2220,2837 2264,2837 2309,2837 2354,2837 2399,2834 2443,2834 2488,2834 2506,2834"/>
+				<TextEquiv>
+					<Unicode>vor den andern an die herberg Do ſÿ aber allſampt hinauf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="roIFi_1_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="1045,2915 1308,2961 2506,2933 2506,2846 1045,2852"/>
+				<Baseline points="1056,2900 1101,2900 1145,2903 1190,2903 1235,2906 1280,2906 1324,2906 1369,2906 1414,2912 1459,2912 1503,2912 1548,2912 1593,2909 1638,2909 1682,2909 1727,2909 1772,2909 1817,2906 1862,2909 1906,2909 1951,2909 1996,2909 2041,2909 2085,2906 2130,2906 2175,2906 2220,2906 2264,2903 2309,2906 2354,2906 2399,2906 2443,2903 2488,2900 2509,2900"/>
+				<TextEquiv>
+					<Unicode>kament ſchuͦff der herr mit jnen das ſÿ ruͦen ſoͤlten ein weil</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>rach eſopus zuͦ jn. Ir guͦten mitknecht. als jr ſehent ꝺas ich
+kleiner vn̄ krencker bin ſo woͤllēt mir ein leichte pürꝺe oꝛꝺ¬
+nen Do ſpꝛachē ſÿ. ſo ꝺu ꝺan̄ nichtznit magſt. ſo trag auch
+nichtz. ꝺo ſpꝛach eſopus. ſo jr aber all arbeytenꝺ. ſo iſt auch
+nit zimlich ꝺz ich ꝺē herꝛen allein vnnücz geſehen werꝺe. ꝺo
+ſpꝛachen ſÿ. ſo nym̄ was ꝺu wilt. Eſopus beſahe alles ꝺaz
+ꝺas zuͦtragen was. ſeck. matraczen vnꝺ ꝺie koͤꝛb. vn̄ er ſahe
+einen koꝛb mit bꝛot gelaꝺē ꝺen jr czwen ſoͤlten tragen haben
+vnnꝺ ſpꝛach zuͦ jn. ꝺen koꝛb laſſent mir. ꝺo ſpꝛachent ſÿ. wie
+ein groſſer narꝛ iſt er. er hat einer ringen bürꝺe begeret. vnꝺ
+erwoͤlt jm ſelber ꝺie ſchwaͤrſtē. wir woͤllen jm es wol gün
+nen Eſopus nam ꝺen koꝛb auf ſich mit ꝺē bꝛot. vn̄ fürgien
+ge ꝺie anꝺeren gar weÿt. ꝺarab wūꝺerten ſÿ vn̄ ſpꝛachen.
+ꝺer iſt nit traͤg mit ꝺer arbeÿt er ligt vns allen ob mit tragē
+er iſt ſeines gelts wol wert er truͤg ꝺen eſel zuͦ ꝺer bürꝺe.
+¶ Mit ſoͤlichen woꝛten verſpoteten ſÿ Eſopum jrer czwen
+nur als vil truͦgen als er allein. Aber ꝺo eſopus voꝛ jnen czuͦ
+einem berg kam. ꝺo luͦꝺ er ab ſeinen koꝛb von ꝺen achßeln.
+vnnꝺ nam jn fürſich an ꝺie arme vnꝺ ergreyffet jn mitt ꝺen
+zennen. vnꝺ gienge geringklicher hynauff vnnꝺ kam weÿt
+voꝛ ꝺen anꝺern an ꝺie herberg Do ſÿ aber allſampt hinauf
+kament ſchuͦff ꝺer herꝛ mit jnen ꝺas ſÿ ruͦen ſoͤlten ein weil</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

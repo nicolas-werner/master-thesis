@@ -1,0 +1,29 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Alberics Ueſpuccius Laurentio,Albericus Wespuccius Laurentio,0.10344827586206896,0.6666666666666666,0.6666666666666666,7474185,mistral
+2,Petri Franciſci de Medicis vil gruͦß.,Petri Francisci de Medicis vil gruß.,0.05405405405405406,0.3333333333333333,0.3333333333333333,7474185,mistral
+3,N vergangnen tagē hab ich dir ebē wit geſchri¬,,1.0,1.0,1.0,7474185,mistral
+4,ben von miner widerfart von den nüwen lant¬,N vergangnen tagen hab ich dir eben wir geſchri-,0.8604651162790697,1.125,1.125,7474185,mistral
+5,ſchafften die ich mit Claſſen verſambneter ſchif,ben von mincr widerfart von den nüwen lant,0.7708333333333334,1.1428571428571428,1.1428571428571428,7474185,mistral
+6,fen mit ſchwerem koſten von gebot des Durchlichtigo¬,ſchafften die ich mit Claſſen verſammeteſchif-,0.7692307692307693,1.0,0.875,7474185,mistral
+7,ſten Künigs von portigal durchſuͦcht haben vnd fundē,fen mit ſchwerem koſten von gebot des Durchlichtigo-,0.9038461538461539,1.0,0.875,7474185,mistral
+8,Die man mag die Nuwen welt nennen/ So by vnſern̄,ſten Künigs von portigal durchſucht haben und fun-,0.8541666666666666,1.0,1.0,7474185,mistral
+9,vorfarn̄ vettern̄ dauon keyn wiſſen geweſen/ vnd allen dē,den. Man mag die Nüwen welt nennen. So by unſern,0.7543859649122807,1.1111111111111112,1.1111111111111112,7474185,mistral
+10,die ſolichs hoͤren eyn aller ding nuws ſy/ Sunder ouch,vorfarn vettern davon keyn wiſſen geweſen / und allen,0.8148148148148148,1.0,1.0,7474185,mistral
+11,das alle wenung vnßer eltern über trüfft ſo doch der mer,die ſolichs hören ein aller ding nüws ſy. Sunder ouch,0.7142857142857143,1.0,1.0,7474185,mistral
+12,teyl der ſelben ſpricht/ das über die glichmitnechtige ly¬,das alle wenung unſer eltern über trüfft. So doch der mer,0.7758620689655172,1.1111111111111112,0.8888888888888888,7474185,mistral
+13,nien genant Equinoctialis. vn̄ gegē mittag keyn wonūg,teyl der ſelben ſpricht / das über die glichmitechtige ly-,0.9056603773584906,1.25,1.25,7474185,mistral
+14,d̓ litten ſunder alleyn dz groſ mer inhaltē/ Das ſy nennē,nien genant Equinoctialis. vn gegen mittag keyn wonnge,0.8070175438596491,1.0,1.0,7474185,mistral
+15,das Attlandiſch mer/ Und ob yemand der ſelbē wonun,ſlitten ſunder alleyn ꝺzgroſ mer inhalten / Das ſy nennen,0.88,1.1111111111111112,1.1111111111111112,7474185,mistral
+16,gen daſelbs ſyn geredt ſo habē ſy doch vß vil ſachen das,das Attlandiſch mer / Und ob yemand der ſelbe wonun,0.7857142857142857,1.0,0.9166666666666666,7474185,mistral
+17,da wonhafftig land vnd ertrich ſy widerredt/ Aber dz ſo,gen daſelbs ſyn geredt. So haben ſy doch vß vil ſachen das,0.8909090909090909,1.1,1.1,7474185,mistral
+18,lich ir wenen falſch vn̄ der worheit widerig ſy in alle weg,da wonhafftig land vnd ertrich ſy widerredt. Aber dz so,0.711864406779661,1.0,0.9166666666666666,7474185,mistral
+19,hat diß mindeſte ſchiffung bewyßt/ So ich in den ſelben,lich ir wenen falſch vn der worheit widerig ſy in alle weg,0.8,1.1,1.1,7474185,mistral
+20,gegnūgen gegen mittag menſchliche inwonung funden,hat diß min leste ſchiffung bewyſt. So ich in den ſelben,0.8163265306122449,1.8333333333333333,1.8333333333333333,7474185,mistral
+21,hab mit vil volcks vnd vil thieren bewert/ den̄ vnſer euro,gegenden gegen mittag menſchliche inwonung funden,0.8275862068965517,1.0,1.0,7474185,mistral
+22,pa oder Aſiam oder Affricam/ vnnd ſo vil me geſunden,hab mit vil volcks vnd vil thieren bewert / den unſer euro,0.9038461538461539,1.2,1.1,7474185,mistral
+23,temperierten lufft ſchon vnd luter me vnd luſtiger denn,pa oder Aſiam oder Affricam. vnnd so vil me geſunden,0.7636363636363637,1.1111111111111112,1.0,7474185,mistral
+24,in eynicher andern lantſchafft die wir wiſſen/ Als du har,temperierten lufft ſchon vnd luter me vnd luſtiger denn,0.7894736842105263,1.0,1.0,7474185,mistral
+25,nach ſehen vnd verſtan würſt ſo ich kurtz die obern̄ ding,in eynicher andern lantſchafft die wir wiſſen / Als du har,0.7894736842105263,1.0,0.9090909090909091,7474185,mistral
+26,beſchriben vnd die ding ſo vermerckens vnd gedechtniß,nach ſehen vnd verſtan würſt. So ich kurtz die obern ding,0.7924528301886793,1.25,1.0,7474185,mistral
+27,aller würdigeſt vn̄ von mir geſehen oder gehoͤrt in dißer,beſchriben vnd die ding ſo vermerckens vnd gedechtniß,0.7368421052631579,1.0,1.0,7474185,mistral
+28,nüwen welt ſind/ Als harnach gezeygt würt.,aller würdigest vn von mir geſehen oder gehort in diſer,1.0,1.4285714285714286,1.4285714285714286,7474185,mistral

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=21_03_2025_17:28</Creator>
+        <Created>2025-03-21T12:30:59.854+01:00</Created>
+        <LastChange>2025-03-21T17:28:50.678+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_7474184.jpg" imageWidth="2148" imageHeight="2648">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1742817695816" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="256,461 256,2355 1229,2355 1229,461"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="346,517 508,505 610,541 684,516 810,554 900,517 1183,532 1226,514 1225,397 536,424 343,384"/>
+                <Baseline points="352,498 395,501 439,501 483,501 527,501 571,501 615,501 658,504 702,504 746,506 790,507 834,507 878,507 922,507 965,507 1009,507 1053,507 1097,507 1141,509 1185,510 1229,504"/>
+                <TextEquiv>
+                    <Unicode>Lon der neum gefunden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="250,584 1210,589 1190,539 248,532"/>
+                <Baseline points="256,576 303,576 351,576 399,576 447,576 495,577 542,579 590,579 638,581 686,582 734,582 781,582 829,584 877,585 925,585 973,585 1020,585 1068,585 1116,586 1164,587 1212,588"/>
+                <TextEquiv>
+                    <Unicode>Region so wol ein welt genempt mag werden /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="256,634 1199,672 1217,587 254,588"/>
+                <Baseline points="262,629 312,629 362,629 413,629 463,629 514,631 564,632 615,629 665,632 716,632 766,633 817,635 867,637 918,638 968,640 1019,638 1069,641 1120,644 1170,644 1221,647"/>
+                <TextEquiv>
+                    <Unicode>durch den Cristeͤlichen künig / von Portigai /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="252,685 518,707 581,686 652,719 827,697 826,643 251,643"/>
+                <Baseline points="259,683 287,683 316,682 344,680 373,680 401,680 430,682 458,683 487,683 515,683 544,683 572,683 601,685 629,686 658,686 686,686 715,687 743,688 772,690 800,692 829,695"/>
+                <TextEquiv>
+                    <Unicode>wunderbarlich erfunden /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="265,776 301,781 317,770 322,774 330,770 335,774 373,774 371,698 360,698 343,714 330,706 307,708 300,704 281,721 264,724"/>
+                <Baseline points="271,746 297,744 323,744 349,747 376,749"/>
+                <TextEquiv>
+                    <Unicode>-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="293,883 307,880 318,887 326,883 348,889 373,886 396,890 398,826 337,826 324,835 295,828"/>
+                <Baseline points="301,871 334,871 367,870 400,868"/>
+                <TextEquiv>
+                    <Unicode>Käm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="479,934 510,943 523,943 539,935 563,938 583,847 569,842 556,850 553,846 518,859 497,854"/>
+                <Baseline points="483,942 511,936 540,929 569,922"/>
+                <TextEquiv>
+                    <Unicode>„ —.—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="328,1002 353,1001 366,986 409,1013 442,1008 440,954 427,952 407,937 397,942 392,938 378,940 367,931 346,941 325,941"/>
+                <Baseline points="334,997 361,999 389,1000 416,1000 444,1000"/>
+                <TextEquiv>
+                    <Unicode>-5-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="305,1106 324,1102 343,1116 350,1111 368,1116 386,1106 392,1110 401,1105 388,1032 376,1031 367,1038 356,1034 342,1038 311,1026 302,1032 290,1032"/>
+                <Baseline points="307,1083 339,1089 371,1096 403,1101"/>
+                <TextEquiv>
+                    <Unicode>de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="638,2364 676,2356 708,2370 728,2358 767,2360 826,2329 850,2332 846,2264 826,2255 766,2269 740,2269 713,2256 672,2278 649,2274 635,2282"/>
+                <Baseline points="644,2325 670,2327 696,2328 722,2328 748,2329 774,2331 800,2332 826,2334 853,2337"/>
+                <TextEquiv>
+                    <Unicode>(1505)</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

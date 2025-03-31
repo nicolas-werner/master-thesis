@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=55964:lm=provided:date=11_12_2023_10:32</Creator>
+		<Created>2023-12-11T09:34:55.624+01:00</Created>
+		<LastChange>2024-03-05T20:52:14.433+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075178" pageNr="183" tsid="154460374" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=HDZZHLXFYKUDSAHSTTZFTXPY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WEQKCFRRKFHBBIUAZBGWMPSS" imageId="52869757"/>
+	</Metadata>
+	<Page imageFilename="7788738.jpg" imageWidth="2898" imageHeight="3804">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711357068345" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1702287086474_1548"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1702287086474_1548" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="1209,647 2577,647 2577,2890 1209,2890"/>
+			<TextLine id="region_1702287086474_1548_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1253,764 2507,773 2505,711 2188,689 1251,695"/>
+				<Baseline points="1260,746 1304,743 1349,743 1394,743 1439,746 1483,743 1528,746 1573,746 1618,746 1663,746 1707,746 1752,749 1797,749 1842,749 1887,746 1931,746 1976,749 2021,749 2066,752 2111,752 2155,755 2200,755 2245,758 2290,758 2334,758 2379,761 2424,761 2469,761 2511,761"/>
+				<TextEquiv>
+					<Unicode>Nun ſag mir warumb heyßt der dritt artickel Narratio vnnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="1259,814 1357,811 1397,827 1478,808 1516,826 1548,811 1632,829 1688,821 1686,768 1572,756 1541,775 1500,757 1449,773 1403,757 1357,776 1257,772"/>
+				<Baseline points="1266,800 1310,797 1355,797 1400,800 1445,797 1489,800 1534,800 1579,800 1624,800 1669,800 1690,803"/>
+				<TextEquiv>
+					<Unicode>wann iſt er zeſetzen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="1999,833 2067,835 2094,824 2127,833 2148,819 2230,835 2229,778 2202,783 2188,772 2157,784 2097,776 2080,783 2029,764 1997,775"/>
+				<Baseline points="2006,812 2051,809 2096,809 2140,809 2185,809 2230,815 2233,815"/>
+				<TextEquiv>
+					<Unicode>Antwurt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="1256,872 2427,899 2500,881 2499,829 1254,811"/>
+				<Baseline points="1263,850 1307,850 1352,850 1397,853 1442,853 1486,853 1531,853 1576,853 1621,853 1666,853 1710,853 1755,853 1800,853 1845,853 1890,856 1934,856 1979,859 2024,859 2069,859 2113,859 2158,859 2203,862 2248,862 2293,865 2337,865 2382,868 2427,868 2472,871 2505,871"/>
+				<TextEquiv>
+					<Unicode>Darumb heyßt er narratio das auß im gat die meldūg eyner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="1257,933 2513,940 2513,881 2472,878 1257,872"/>
+				<Baseline points="1266,907 1310,907 1355,904 1400,904 1445,904 1489,904 1534,904 1579,907 1624,904 1669,907 1713,907 1758,910 1803,910 1848,910 1893,910 1937,910 1982,910 2027,910 2072,913 2116,913 2161,913 2206,916 2251,916 2296,919 2340,919 2385,922 2430,922 2475,922 2517,922"/>
+				<TextEquiv>
+					<Unicode>yeglichen ſach vnd durch in beriert wirt vnd wa das exordiū</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="1248,989 2513,994 2513,948 2424,932 1248,933"/>
+				<Baseline points="1257,967 1301,961 1346,958 1391,958 1436,958 1480,961 1525,958 1570,958 1615,961 1660,961 1704,961 1749,961 1794,964 1839,964 1884,964 1928,964 1973,967 2018,964 2063,967 2108,967 2152,967 2197,967 2242,970 2287,970 2331,973 2376,976 2421,976 2466,976 2511,979 2517,982"/>
+				<TextEquiv>
+					<Unicode>gebraucht wirt da ſol die narratio czuͦ naͤchſt darnach geſezet</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="1251,1033 2413,1051 2511,1040 2511,994 1249,986"/>
+				<Baseline points="1260,1015 1304,1012 1349,1012 1394,1012 1439,1012 1483,1015 1528,1015 1573,1015 1618,1012 1663,1015 1707,1015 1752,1018 1797,1018 1842,1018 1887,1015 1931,1018 1976,1018 2021,1021 2066,1018 2111,1021 2155,1018 2200,1021 2245,1021 2290,1024 2334,1024 2379,1027 2424,1030 2469,1030 2514,1033"/>
+				<TextEquiv>
+					<Unicode>werden/ aber wen̄ man eyn ſendbrieff ſchreibt darinn nichtzit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="1248,1095 1503,1078 1621,1124 1727,1075 2084,1114 2207,1086 2342,1121 2510,1106 2508,1040 1246,1048"/>
+				<Baseline points="1257,1071 1301,1071 1346,1065 1391,1065 1436,1065 1480,1068 1525,1068 1570,1068 1615,1068 1660,1068 1704,1068 1749,1068 1794,1068 1839,1068 1884,1068 1928,1071 1973,1071 2018,1071 2063,1074 2108,1074 2152,1074 2197,1071 2242,1074 2287,1077 2331,1077 2376,1080 2421,1083 2466,1083 2511,1089 2514,1089"/>
+				<TextEquiv>
+					<Unicode>exordinieret wirt ſo ſol die narrario der ſalutation nachfolgen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="1807,1137 1840,1148 1862,1138 1880,1138 1899,1148 1907,1145 1929,1153 1942,1146 1938,1099 1919,1095 1913,1102 1895,1094 1889,1099 1878,1091 1867,1094 1859,1086 1842,1087 1830,1097 1824,1091 1818,1099 1803,1094"/>
+				<Baseline points="1815,1122 1860,1125 1904,1128 1946,1134"/>
+				<TextEquiv>
+					<Unicode>Frag</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="1248,1195 2510,1197 2508,1145 2443,1135 1246,1137"/>
+				<Baseline points="1257,1176 1301,1176 1346,1176 1391,1176 1436,1176 1480,1179 1525,1176 1570,1176 1615,1176 1660,1176 1704,1176 1749,1176 1794,1179 1839,1179 1884,1182 1928,1182 1973,1179 2018,1182 2063,1182 2108,1182 2152,1182 2197,1182 2242,1182 2287,1182 2331,1185 2376,1188 2421,1188 2466,1188 2511,1188 2514,1188"/>
+				<TextEquiv>
+					<Unicode>Nun vnderricht mich warūb heyſſet der viert artickel petitio</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="1254,1241 1770,1283 2056,1238 2507,1257 2505,1200 2416,1195 1253,1189"/>
+				<Baseline points="1263,1233 1307,1230 1352,1230 1397,1230 1442,1230 1486,1230 1531,1230 1576,1230 1621,1230 1666,1233 1710,1239 1755,1239 1800,1236 1845,1233 1890,1233 1934,1233 1979,1233 2024,1233 2069,1233 2113,1236 2158,1236 2203,1236 2248,1239 2293,1239 2337,1239 2382,1242 2427,1242 2472,1242 2511,1245"/>
+				<TextEquiv>
+					<Unicode>iſt als vil als bittung geſprochen vnd an weliche ſtatt ſol er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702287246707_1571" custom="readingOrder {index:11;}">
+				<Coords points="1245,1268 1330,1243 1392,1254 1524,1241 1574,1251 1574,1299 1410,1292 1381,1311 1359,1294 1245,1310"/>
+				<Baseline points="1254,1295 1286,1292 1331,1283 1376,1283 1421,1283 1466,1283 1510,1283 1555,1286 1574,1287"/>
+				<TextEquiv>
+					<Unicode>geſetzt werden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="1943,1308 1964,1316 2010,1299 2024,1310 2099,1300 2132,1316 2191,1308 2191,1253 2153,1262 2118,1240 2096,1253 2056,1238 2013,1253 1992,1241 1943,1246"/>
+				<Baseline points="1952,1286 1997,1292 2042,1289 2087,1289 2131,1289 2176,1292 2194,1292"/>
+				<TextEquiv>
+					<Unicode>Antwurt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="1259,1354 2496,1360 2481,1284 1259,1311"/>
+				<Baseline points="1268,1340 1313,1337 1358,1337 1403,1340 1448,1337 1492,1337 1537,1337 1582,1337 1627,1337 1672,1337 1716,1340 1761,1337 1806,1340 1851,1340 1896,1340 1940,1340 1985,1340 2030,1346 2075,1343 2119,1343 2164,1343 2209,1343 2254,1343 2299,1343 2343,1346 2388,1346 2433,1346 2478,1346 2499,1349"/>
+				<TextEquiv>
+					<Unicode>Er heyſſet darumb Petitio iſt als vil geſprochen als bittung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="1257,1402 2502,1421 2500,1365 2450,1359 1256,1357"/>
+				<Baseline points="1266,1391 1310,1388 1355,1391 1400,1391 1445,1391 1489,1391 1534,1391 1579,1391 1624,1391 1669,1391 1713,1391 1758,1391 1803,1394 1848,1394 1893,1394 1937,1394 1982,1394 2027,1394 2072,1394 2116,1397 2161,1394 2206,1394 2251,1397 2296,1397 2340,1400 2385,1400 2430,1400 2475,1400 2505,1400"/>
+				<TextEquiv>
+					<Unicode>vnd ſol allwegē das bitten beſchehen nach meldung der ſach</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="1254,1454 2076,1459 2138,1495 2194,1457 2484,1483 2507,1424 1253,1403"/>
+				<Baseline points="1263,1442 1307,1442 1352,1442 1397,1442 1442,1445 1486,1445 1531,1445 1576,1445 1621,1445 1666,1445 1710,1445 1755,1445 1800,1448 1845,1448 1890,1448 1934,1448 1979,1448 2024,1448 2069,1451 2113,1451 2158,1451 2203,1451 2248,1451 2293,1451 2337,1454 2382,1454 2427,1454 2472,1454 2511,1457"/>
+				<TextEquiv>
+					<Unicode>darumb ſol die petitio nach der narration geſetzt vnd gebrau</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="1251,1514 1283,1518 1297,1505 1324,1519 1364,1511 1411,1526 1453,1505 1464,1516 1514,1507 1514,1462 1503,1459 1468,1472 1456,1465 1372,1473 1346,1459 1251,1456"/>
+				<Baseline points="1260,1495 1304,1495 1349,1495 1394,1495 1439,1495 1483,1498 1519,1498"/>
+				<TextEquiv>
+					<Unicode>chet werden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="1873,1513 1883,1513 1899,1524 1907,1519 1930,1521 1940,1510 1957,1521 1994,1526 2003,1522 2000,1473 1968,1470 1948,1459 1930,1470 1913,1460 1900,1465 1892,1457 1868,1465"/>
+				<Baseline points="1881,1498 1925,1501 1970,1504 2006,1507"/>
+				<TextEquiv>
+					<Unicode>Frag</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="1259,1562 2440,1600 2464,1508 2237,1487 1984,1530 1803,1480 1257,1516"/>
+				<Baseline points="1268,1552 1313,1549 1358,1549 1403,1549 1448,1549 1492,1552 1537,1552 1582,1552 1627,1552 1672,1552 1716,1549 1761,1552 1806,1555 1851,1555 1896,1555 1940,1552 1985,1555 2030,1552 2075,1555 2119,1555 2164,1555 2209,1555 2254,1555 2299,1558 2343,1558 2388,1558 2433,1558 2469,1561"/>
+				<TextEquiv>
+					<Unicode>Warumb heyſſet denn der fünfft artickel Concluſio finalis</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="1830,1632 1859,1622 1883,1630 1892,1622 1927,1622 1937,1630 1970,1619 2015,1627 2046,1621 2046,1578 2032,1572 2021,1580 1981,1580 1949,1567 1900,1583 1867,1567 1830,1568"/>
+				<Baseline points="1839,1612 1872,1609 1916,1609 1961,1609 2006,1609 2051,1609"/>
+				<TextEquiv>
+					<Unicode>Antwurt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="1249,1664 2499,1683 2497,1605 2296,1640 2081,1594 1854,1641 1743,1603 1248,1618"/>
+				<Baseline points="1257,1657 1301,1657 1346,1657 1391,1657 1436,1654 1480,1657 1525,1657 1570,1657 1615,1660 1660,1660 1704,1657 1749,1657 1794,1660 1839,1663 1884,1660 1928,1660 1973,1660 2018,1663 2063,1663 2108,1663 2152,1663 2197,1663 2242,1663 2287,1666 2331,1663 2376,1663 2421,1666 2466,1666 2502,1663"/>
+				<TextEquiv>
+					<Unicode>Darumb das eyn yegklicher artickel beſchlieſſung hat vnnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="1248,1735 2503,1737 2503,1689 2378,1673 1248,1681"/>
+				<Baseline points="1257,1710 1301,1710 1346,1713 1391,1710 1436,1710 1480,1710 1525,1710 1570,1710 1615,1710 1660,1710 1704,1710 1749,1710 1794,1710 1839,1710 1884,1713 1928,1713 1973,1713 2018,1713 2063,1713 2108,1716 2152,1713 2197,1713 2242,1713 2287,1716 2331,1716 2376,1719 2421,1719 2466,1719 2508,1719"/>
+				<TextEquiv>
+					<Unicode>wann man vmb eyn ſach bittet zethuͦn ſo ſol darnach beriert</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="1243,1778 2503,1783 2503,1737 2440,1727 1243,1734"/>
+				<Baseline points="1251,1764 1295,1764 1340,1764 1385,1767 1430,1764 1475,1764 1519,1761 1564,1761 1609,1764 1654,1764 1698,1767 1743,1764 1788,1767 1833,1767 1878,1773 1922,1770 1967,1767 2012,1767 2057,1767 2102,1767 2146,1767 2191,1770 2236,1770 2281,1773 2325,1773 2370,1770 2415,1770 2460,1773 2505,1770 2508,1770"/>
+				<TextEquiv>
+					<Unicode>werden das woͤllen ſy oder er geren vmb in oder ſy gnaͤdig¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="1248,1830 2500,1845 2500,1788 2446,1784 1248,1780"/>
+				<Baseline points="1257,1818 1301,1818 1346,1818 1391,1818 1436,1818 1480,1818 1525,1818 1570,1818 1615,1818 1660,1815 1704,1815 1749,1818 1794,1821 1839,1821 1884,1818 1928,1821 1973,1821 2018,1821 2063,1824 2108,1821 2152,1824 2197,1824 2242,1821 2287,1824 2331,1824 2376,1824 2421,1824 2466,1821 2502,1827"/>
+				<TextEquiv>
+					<Unicode>klich beſchulden vnd wann ſich der brieff mit ſolicher beſchlieſ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="1248,1899 2496,1888 2465,1832 1248,1830"/>
+				<Baseline points="1257,1875 1301,1872 1346,1872 1391,1872 1436,1872 1480,1872 1525,1869 1570,1872 1615,1869 1660,1869 1704,1872 1749,1872 1794,1872 1839,1872 1884,1872 1928,1872 1973,1875 2018,1875 2063,1875 2108,1872 2152,1875 2197,1875 2242,1875 2287,1875 2331,1875 2376,1875 2421,1875 2466,1875 2499,1878"/>
+				<TextEquiv>
+					<Unicode>ſung endet darūb heyßt er Concluſio finalis vn̄ ſel nach der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="1254,1948 2503,1954 2503,1891 2440,1881 1254,1900"/>
+				<Baseline points="1263,1934 1298,1925 1343,1925 1388,1925 1433,1925 1478,1925 1522,1922 1567,1922 1612,1922 1657,1922 1701,1922 1746,1925 1791,1925 1836,1925 1881,1925 1925,1925 1970,1925 2015,1928 2060,1928 2105,1925 2149,1925 2194,1925 2239,1925 2284,1925 2328,1925 2373,1925 2418,1925 2463,1928 2508,1931"/>
+				<TextEquiv>
+					<Unicode>petition geſetzt werden hat man auch gern antwurt vmb die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="1257,2008 2450,1992 2427,1930 1257,1946"/>
+				<Baseline points="1266,1985 1289,1982 1334,1979 1379,1976 1424,1976 1469,1976 1513,1976 1558,1976 1603,1976 1648,1976 1692,1976 1737,1976 1782,1976 1827,1976 1872,1979 1916,1976 1961,1976 2006,1976 2051,1976 2096,1976 2140,1979 2185,1976 2230,1979 2275,1979 2320,1979 2364,1979 2409,1979 2454,1982"/>
+				<TextEquiv>
+					<Unicode>ſach ſol man vordern vnd darnach des brieff datum ſetzen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="1851,2051 1878,2054 1907,2046 1918,2057 1978,2054 1978,1994 1968,1992 1946,2005 1927,2005 1899,1986 1889,1992 1851,1991"/>
+				<Baseline points="1860,2033 1904,2030 1949,2030 1982,2033"/>
+				<TextEquiv>
+					<Unicode>Frag</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="1243,2103 2069,2094 2149,2132 2411,2115 2410,2035 1241,2042"/>
+				<Baseline points="1251,2087 1295,2084 1340,2084 1385,2084 1430,2084 1475,2078 1519,2081 1564,2081 1609,2081 1654,2081 1698,2081 1743,2081 1788,2081 1833,2081 1878,2084 1922,2081 1967,2081 2012,2084 2057,2084 2102,2087 2146,2087 2191,2087 2236,2087 2281,2087 2325,2087 2370,2087 2415,2090 2418,2087"/>
+				<TextEquiv>
+					<Unicode>Hat die ſelb concluſio finalis eyn meynung in ir oder nit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="1734,2149 1762,2164 1826,2148 1872,2156 1916,2146 1962,2162 2005,2151 2005,2107 1973,2094 1926,2111 1907,2094 1864,2108 1808,2091 1762,2121 1734,2118"/>
+				<Baseline points="1743,2131 1788,2140 1833,2137 1878,2137 1922,2137 1967,2137 2009,2140"/>
+				<TextEquiv>
+					<Unicode>Antwurt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="1251,2221 2492,2219 2492,2135 1251,2149"/>
+				<Baseline points="1260,2185 1301,2191 1346,2191 1391,2188 1436,2188 1480,2188 1525,2188 1570,2185 1615,2188 1660,2188 1704,2185 1749,2188 1794,2188 1839,2188 1884,2191 1928,2188 1973,2188 2018,2188 2063,2188 2108,2191 2152,2191 2197,2191 2242,2191 2287,2191 2331,2191 2376,2194 2421,2194 2466,2197 2496,2197"/>
+				<TextEquiv>
+					<Unicode>Wie moͤcht ſy an eyner meynūg in allen ſachē beſtan ſy muͦß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="1243,2269 2500,2278 2500,2216 2410,2203 1243,2215"/>
+				<Baseline points="1251,2248 1295,2248 1340,2245 1385,2245 1430,2242 1475,2239 1519,2239 1564,2239 1609,2239 1654,2239 1698,2239 1743,2242 1788,2242 1833,2239 1878,2242 1922,2242 1967,2242 2012,2242 2057,2245 2102,2245 2146,2245 2191,2245 2236,2245 2281,2245 2325,2248 2370,2248 2415,2248 2460,2248 2505,2251"/>
+				<TextEquiv>
+					<Unicode>offt verwandelt werden ye darnach vnd den̄ die ſach geſtalt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702287411517_1608" custom="readingOrder {index:32;}">
+				<Coords points="1247,2255 1313,2258 1311,2308 1245,2305"/>
+				<Baseline points="1245,2300 1311,2303"/>
+				<TextEquiv>
+					<Unicode>iſt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_33" custom="readingOrder {index:33;}">
+				<Coords points="1791,2319 1821,2318 1840,2308 1864,2324 1872,2318 1894,2323 1911,2313 1905,2267 1881,2269 1849,2248 1819,2259 1811,2254 1784,2265"/>
+				<Baseline points="1797,2293 1839,2299 1884,2302 1913,2308"/>
+				<TextEquiv>
+					<Unicode>Frag</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_34" custom="readingOrder {index:34;}">
+				<Coords points="1254,2364 2507,2373 2488,2283 2384,2321 1254,2313"/>
+				<Baseline points="1263,2349 1307,2349 1352,2352 1397,2349 1442,2349 1486,2349 1531,2346 1576,2346 1621,2346 1666,2349 1710,2349 1755,2346 1800,2346 1845,2349 1890,2349 1934,2349 1979,2349 2024,2349 2069,2352 2113,2352 2158,2349 2203,2349 2248,2349 2293,2352 2337,2352 2382,2352 2427,2355 2472,2355 2511,2361"/>
+				<TextEquiv>
+					<Unicode>Was muͦß eyner wiſſen das er müg künnen allerley brieff de</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702287463393_1624" custom="readingOrder {index:35;}">
+				<Coords points="1251,2364 2478,2365 2507,2393 2507,2413 1251,2426"/>
+				<Baseline points="1260,2409 1274,2406 1319,2403 1364,2403 1409,2403 1454,2403 1498,2400 1543,2400 1588,2400 1633,2403 1678,2400 1722,2400 1767,2400 1812,2400 1857,2403 1901,2403 1946,2403 1991,2403 2036,2403 2081,2403 2125,2406 2170,2406 2215,2406 2260,2406 2305,2406 2349,2406 2394,2409 2439,2409 2484,2406 2507,2404"/>
+				<TextEquiv>
+					<Unicode>ſter bas articulieren vnd die woͤrter eyns yeglichen artickels</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_36" custom="readingOrder {index:36;}">
+				<Coords points="1248,2481 1995,2459 2122,2503 2351,2465 2321,2424 2211,2415 1248,2424"/>
+				<Baseline points="1257,2457 1301,2460 1346,2457 1391,2454 1436,2454 1480,2457 1525,2454 1570,2454 1615,2454 1660,2454 1704,2454 1749,2454 1794,2454 1839,2457 1884,2454 1928,2457 1973,2457 2018,2454 2063,2457 2108,2460 2152,2460 2197,2460 2242,2460 2287,2460 2331,2460 2355,2463"/>
+				<TextEquiv>
+					<Unicode>deſter bas zeſamen ſetzen vnd auch orthographieren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_37" custom="readingOrder {index:37;}">
+				<Coords points="1786,2538 1811,2529 1849,2534 1884,2519 1894,2526 1922,2519 1945,2537 1961,2524 1972,2532 2013,2523 2038,2532 2038,2486 2015,2491 1989,2476 1930,2484 1913,2473 1895,2483 1880,2472 1846,2480 1821,2467 1786,2473"/>
+				<Baseline points="1794,2517 1818,2514 1863,2511 1907,2511 1952,2511 1997,2514 2042,2514"/>
+				<TextEquiv>
+					<Unicode>Antwurt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_38" custom="readingOrder {index:38;}">
+				<Coords points="1248,2580 2500,2578 2500,2518 2416,2503 2178,2546 1557,2502 1248,2529"/>
+				<Baseline points="1257,2564 1301,2564 1346,2561 1391,2564 1436,2561 1480,2561 1525,2561 1570,2561 1615,2561 1660,2561 1704,2561 1749,2561 1794,2561 1839,2561 1884,2561 1928,2561 1973,2561 2018,2561 2063,2561 2108,2564 2152,2564 2197,2564 2242,2564 2287,2564 2331,2567 2376,2567 2421,2567 2466,2570 2502,2573"/>
+				<TextEquiv>
+					<Unicode>Er muͦß wiſſenn congruitates coniunctiones conſtructiones</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_39" custom="readingOrder {index:39;}">
+				<Coords points="1248,2634 2500,2634 2500,2592 2421,2577 1248,2581"/>
+				<Baseline points="1257,2615 1301,2615 1346,2615 1391,2615 1436,2615 1480,2615 1525,2612 1570,2612 1615,2615 1660,2615 1704,2612 1749,2615 1794,2615 1839,2615 1884,2618 1928,2618 1973,2615 2018,2615 2063,2618 2108,2618 2152,2618 2197,2618 2242,2618 2287,2618 2331,2618 2376,2621 2421,2621 2466,2621 2502,2621"/>
+				<TextEquiv>
+					<Unicode>copulationes diſtinctiones orthographiam mutationes altera</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_40" custom="readingOrder {index:40;}">
+				<Coords points="1245,2684 2062,2688 2062,2650 1988,2635 1245,2630"/>
+				<Baseline points="1254,2669 1298,2669 1343,2669 1388,2669 1433,2666 1478,2666 1522,2669 1567,2669 1612,2669 1657,2669 1701,2666 1746,2669 1791,2669 1836,2672 1881,2669 1925,2669 1970,2669 2015,2672 2060,2672 2066,2675"/>
+				<TextEquiv>
+					<Unicode>tiones et verba ſuperflua zuͦuermeiden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_41" custom="readingOrder {index:41;}">
+				<Coords points="2215,2697 2238,2694 2249,2683 2256,2688 2262,2683 2269,2688 2283,2686 2297,2696 2318,2700 2340,2694 2340,2637 2318,2634 2305,2645 2297,2645 2289,2638 2286,2642 2280,2637 2264,2638 2245,2627 2226,2642 2215,2643"/>
+				<Baseline points="2224,2675 2269,2675 2314,2675 2343,2678"/>
+				<TextEquiv>
+					<Unicode>Frag</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_42" custom="readingOrder {index:42;}">
+				<Coords points="1254,2735 1964,2734 1964,2694 1884,2681 1254,2688"/>
+				<Baseline points="1263,2723 1307,2723 1352,2723 1397,2723 1442,2720 1486,2720 1531,2723 1576,2720 1621,2720 1666,2720 1710,2720 1755,2720 1800,2723 1845,2723 1890,2723 1934,2723 1967,2726"/>
+				<TextEquiv>
+					<Unicode>Warzuͦ dienend das in den dingen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_43" custom="readingOrder {index:43;}">
+				<Coords points="2178,2754 2203,2738 2270,2750 2310,2732 2338,2748 2351,2738 2399,2743 2399,2697 2372,2692 2362,2700 2334,2689 2316,2700 2254,2683 2226,2697 2200,2675 2176,2680"/>
+				<Baseline points="2185,2729 2230,2726 2275,2726 2320,2726 2364,2726 2403,2732"/>
+				<TextEquiv>
+					<Unicode>Antwurt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_44" custom="readingOrder {index:44;}">
+				<Coords points="1245,2799 2500,2800 2489,2730 1245,2730"/>
+				<Baseline points="1254,2773 1298,2773 1343,2773 1388,2773 1433,2773 1478,2773 1522,2773 1567,2773 1612,2773 1657,2773 1701,2773 1746,2773 1791,2773 1836,2776 1881,2776 1925,2776 1970,2776 2015,2776 2060,2776 2105,2776 2149,2776 2194,2776 2239,2776 2284,2779 2328,2779 2373,2779 2418,2782 2463,2779 2505,2785"/>
+				<TextEquiv>
+					<Unicode>Congruitas leret recht ſchreiben vnnd reden denn wa congrue</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702287086474_1548_tl_45" custom="readingOrder {index:45;}">
+				<Coords points="1249,2872 1735,2838 2502,2869 2462,2789 1248,2796"/>
+				<Baseline points="1257,2839 1301,2830 1346,2827 1391,2827 1436,2827 1480,2830 1525,2833 1570,2830 1615,2830 1660,2830 1704,2830 1749,2827 1794,2830 1839,2830 1884,2830 1928,2833 1973,2833 2018,2833 2063,2830 2108,2830 2152,2833 2197,2833 2242,2836 2287,2836 2331,2836 2376,2836 2421,2836 2466,2839 2505,2839"/>
+				<TextEquiv>
+					<Unicode>geredt oder geſchriben wirt das czieret die rede vnd geſchrifft</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Nun ſag mir warumb heyßt der dritt artickel Narratio vnnd
+wann iſt er zeſetzen
+Antwurt
+Darumb heyßt er narratio das auß im gat die meldūg eyner
+yeglichen ſach vnd durch in beriert wirt vnd wa das exordiū
+gebraucht wirt da ſol die narratio czuͦ naͤchſt darnach geſezet
+werden/ aber wen̄ man eyn ſendbrieff ſchreibt darinn nichtzit
+exordinieret wirt ſo ſol die narrario der ſalutation nachfolgen
+Frag
+Nun vnderricht mich warūb heyſſet der viert artickel petitio
+iſt als vil als bittung geſprochen vnd an weliche ſtatt ſol er
+geſetzt werden
+Antwurt
+Er heyſſet darumb Petitio iſt als vil geſprochen als bittung
+vnd ſol allwegē das bitten beſchehen nach meldung der ſach
+darumb ſol die petitio nach der narration geſetzt vnd gebrau
+chet werden
+Frag
+Warumb heyſſet denn der fünfft artickel Concluſio finalis
+Antwurt
+Darumb das eyn yegklicher artickel beſchlieſſung hat vnnd
+wann man vmb eyn ſach bittet zethuͦn ſo ſol darnach beriert
+werden das woͤllen ſy oder er geren vmb in oder ſy gnaͤdig¬
+klich beſchulden vnd wann ſich der brieff mit ſolicher beſchlieſ
+ſung endet darūb heyßt er Concluſio finalis vn̄ ſel nach der
+petition geſetzt werden hat man auch gern antwurt vmb die
+ſach ſol man vordern vnd darnach des brieff datum ſetzen
+Frag
+Hat die ſelb concluſio finalis eyn meynung in ir oder nit
+Antwurt
+Wie moͤcht ſy an eyner meynūg in allen ſachē beſtan ſy muͦß
+offt verwandelt werden ye darnach vnd den̄ die ſach geſtalt
+iſt
+Frag
+Was muͦß eyner wiſſen das er müg künnen allerley brieff de
+ſter bas articulieren vnd die woͤrter eyns yeglichen artickels
+deſter bas zeſamen ſetzen vnd auch orthographieren
+Antwurt
+Er muͦß wiſſenn congruitates coniunctiones conſtructiones
+copulationes diſtinctiones orthographiam mutationes altera
+tiones et verba ſuperflua zuͦuermeiden
+Frag
+Warzuͦ dienend das in den dingen
+Antwurt
+Congruitas leret recht ſchreiben vnnd reden denn wa congrue
+geredt oder geſchriben wirt das czieret die rede vnd geſchrifft</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

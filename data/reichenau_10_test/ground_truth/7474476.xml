@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_13:37</Creator>
+		<Created>2023-06-07T09:11:09.939+02:00</Created>
+		<LastChange>2023-12-20T15:42:16.713+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67074996" pageNr="21" tsid="154460063" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=ANAHZKSUYPNZEAINCYSPNJAT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LTMDIKFDNJRTHLOFLHUCHTKB" imageId="45286808"/>
+	</Metadata>
+	<Page imageFilename="7474476.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356394921" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573317879_165"/>
+				<RegionRefIndexed index="1" regionRef="region_1686573320623_168"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573317879_165" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="231,449 1030,449 1030,612 231,612"/>
+			<TextLine id="region_1686573317879_165_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="290,539 717,529 957,553 956,487 890,469 591,497 290,460"/>
+				<Baseline points="298,527 343,521 387,524 432,524 477,524 521,521 566,521 611,521 656,521 700,524 745,524 790,527 835,527 879,530 924,533 957,533"/>
+				<TextEquiv>
+					<Unicode>Von den zween mordern die ſant</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573317879_165_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="279,592 416,606 436,591 546,624 620,600 689,622 727,596 793,599 793,550 719,531 502,555 373,551 338,528 279,546"/>
+				<Baseline points="286,584 304,581 348,581 393,581 438,581 483,578 527,578 572,578 617,578 662,581 706,581 751,581 796,581"/>
+				<TextEquiv>
+					<Unicode>Meynrat ermordet hant/</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1686573320623_168" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="95,1837 1192,1837 1192,2286 95,2286"/>
+			<TextLine id="region_1686573320623_168_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="124,1906 497,1942 1127,1919 1127,1861 1006,1842 910,1881 124,1871"/>
+				<Baseline points="131,1900 175,1903 220,1903 265,1905 310,1908 354,1908 399,1908 444,1911 489,1911 533,1911 578,1911 623,1911 668,1911 712,1911 757,1908 802,1908 847,1911 891,1908 936,1908 981,1905 1026,1905 1070,1905 1115,1903 1130,1905"/>
+				<TextEquiv>
+					<Unicode>¶ Noch dem aber gottes fründt ſant Meynrad in di¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573320623_168_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="127,1969 1136,1965 1122,1916 498,1943 127,1913"/>
+				<Baseline points="134,1953 178,1953 223,1956 268,1959 313,1959 357,1959 402,1962 447,1962 492,1962 536,1962 581,1962 626,1965 671,1962 715,1965 760,1962 805,1959 850,1959 894,1962 939,1962 984,1959 1029,1956 1073,1956 1118,1956 1139,1959"/>
+				<TextEquiv>
+					<Unicode>ſer wuͤſtny ſechs vnd zweintzig ior ſin leben vertriben vn̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573320623_168_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="128,2028 1137,2021 1136,1964 892,1992 127,1968"/>
+				<Baseline points="134,2007 178,2004 223,2007 268,2007 313,2010 357,2013 402,2016 447,2016 492,2016 536,2016 581,2013 626,2013 671,2013 715,2013 760,2013 805,2013 850,2013 894,2013 939,2013 984,2010 1029,2010 1073,2010 1118,2010 1139,2013"/>
+				<TextEquiv>
+					<Unicode>ſich in dem dienſt gottes/ mit wachen/ beten vn̄ abbruch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573320623_168_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="124,2070 1133,2092 1112,2020 124,2027"/>
+				<Baseline points="131,2055 175,2055 220,2058 265,2061 310,2064 354,2067 399,2067 444,2067 489,2070 533,2067 578,2067 623,2070 668,2067 712,2067 757,2070 802,2067 847,2067 891,2067 936,2064 981,2064 1026,2064 1070,2064 1115,2064 1136,2070"/>
+				<TextEquiv>
+					<Unicode>aller weltlichen ding gekeſtiget het. Begab es ſich durch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573320623_168_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="124,2126 1129,2129 1129,2087 1041,2071 446,2099 124,2066"/>
+				<Baseline points="131,2105 175,2108 220,2111 265,2114 310,2114 354,2120 399,2117 444,2117 489,2117 533,2120 578,2120 623,2120 668,2120 712,2120 757,2117 802,2117 847,2117 891,2117 936,2117 981,2117 1026,2114 1070,2114 1115,2114 1133,2114"/>
+				<TextEquiv>
+					<Unicode>ingebung des fyndes der durch den mundt der ſchlan</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573320623_168_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="127,2162 448,2201 1127,2189 1127,2129 127,2124"/>
+				<Baseline points="134,2159 178,2159 223,2162 268,2165 313,2168 357,2168 402,2171 447,2171 492,2171 536,2174 581,2174 626,2171 671,2171 715,2171 760,2174 805,2171 850,2171 894,2171 939,2171 984,2168 1029,2168 1073,2168 1118,2168 1130,2171"/>
+				<TextEquiv>
+					<Unicode>gen die erſte menſchē betriegend vß dē paradis ꝟtreib</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1686577174316_1524" custom="readingOrder {index:6;}">
+				<Coords points="123,2162 1014,2179 1105,2187 1130,2192 1130,2264 375,2280 126,2265"/>
+				<Baseline points="124,2215 175,2216 220,2219 265,2219 310,2222 354,2225 399,2228 444,2231 489,2228 533,2231 578,2228 623,2231 659,2231 742,2225 787,2228 832,2228 876,2228 921,2228 966,2228 1011,2228 1055,2225 1100,2228 1133,2231"/>
+				<TextEquiv>
+					<Unicode>dz zween moͤrder an dē zurch ſee komēt die warē bürtig</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,34 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,fiertzig iar do keyſer Otto drüzehen ior gerichßnet hett/,fierzig iar do keyſer Otto driizehen io: gerickinet Hete/,0.14035087719298245,0.5555555555555556,0.5555555555555556,7474507,gemini
+2,vnnd Agapitus der ander/ des namen babſt zuͦ rome,vnnd Agapitus der ander/des namen babit zu rome,0.061224489795918366,0.4444444444444444,0.4444444444444444,7474507,gemini
+3,was/ vn̄ der heilig ſant Cuͦnrat biſchoff was zuͦ Coſtētz,was/vn der Heilig ſant Cunrat bischoff was zu Coſters,0.15789473684210525,0.7,0.7,7474507,gemini
+4,in dem vierzehenē iar ſyner pflegnüſſe/ an des heiligen,in dem vierzehene iar ſyner pflegniffe/an des Heiligen,0.10909090909090909,0.4444444444444444,0.4444444444444444,7474507,gemini
+5,crutzes tag zeherbſt wart gewyhet die cappel zuͦ den ein,cruzes tag zeherbst wart gewyhet die cappel zu den ein,0.05357142857142857,0.3,0.3,7474507,gemini
+6,ſidlen vō vnſerem lieben herren ieſu criſto/ vnd von ſy,fidlen vo vnſerem ließen Herren ieſu criſto/vnd von (y/,0.12727272727272726,0.7,0.7,7474507,gemini
+7,nen lieben heiligen engelen/ als vnß hat geſeit ſant cuͦn,nen lieben Heiligen engelen/als onß hat geseir ſant cun,0.10526315789473684,0.6,0.6,7474507,gemini
+8,rat biſchoff zuͦ Coſtantz/ ſant vlrich biſchoff zuͦ Auſpurg,rat Biſchoff zu Coſtants/ſant vlrich biſchoff zu Auſpurg,0.0847457627118644,0.5555555555555556,0.5555555555555556,7474507,gemini
+9,Sāt Gregorius des küngs ſun vō Engellaͤd abt zuͦ d̓,Sat Gregorius des kings ſun võ Engelläd abt zu d,0.13725490196078433,0.6,0.6,7474507,gemini
+10,ſelben hofſtat/ ſant dietlant abt des ſelben cloſters/ die in,ſelven Sofftar/ſant dielant abe des ſelben cloſters-die in,0.14754098360655737,0.7,0.7,7474507,gemini
+11,iren heimlichen geſichten es befundē habent/ vnſer herr,tren beimlichen geſichten es Beſunde habent/vnſer Herr,0.12727272727272726,0.75,0.75,7474507,gemini
+12,kā ſelber vō himel/ vnd was becleyt mitt einē vyolfarbē,ka ſelber võ himel/vnd was Becleyt mitt eine vyolſarbe,0.12727272727272726,0.7,0.7,7474507,gemini
+13,meßgewant/ vnd ſtuͤnd vor dem altar in vnſer frowen,meßgewant/vnd ſtund vor dem altar in vnser frowen,0.058823529411764705,0.4444444444444444,0.4444444444444444,7474507,gemini
+14,cappel zuͦ volbringen das heilig ampt/ vnd waren zege,cappel zu volbingen das heilig ampt-vnd waren zege,0.07547169811320754,0.4444444444444444,0.4444444444444444,7474507,gemini
+15,gen die vier euangeliſten/ vnd ſatzten im die ynflen vf/,gen die vier euangeliſten/vnd ſatsten im die ynſlen of/,0.07142857142857142,0.5,0.5,7474507,gemini
+16,vnd ab als den gewonlich iſt/ vnd die heiligen engel het,und ab als den gewonlich iſt/vnd die heiligen engel het,0.03571428571428571,0.2727272727272727,0.2727272727272727,7474507,gemini
+17,tent gulden rouchuaß die ruſchetēt recht als die geloub¬,rent gulden rouchuaß die ruschetét recht als die geloub,0.07142857142857142,0.3333333333333333,0.3333333333333333,7474507,gemini
+18,ten eſte thuͦnt vff den boumē. Sant gregorius der bab¬,"ten este thunt off den boumé, Sant gregozius der bab",0.12962962962962962,0.6,0.6,7474507,gemini
+19,ſte ſtund by vnſerm herren/ and hett den wadel in der,ſte ſtund by vnſerm herren/and hett den wadel in der,0.018867924528301886,0.18181818181818182,0.18181818181818182,7474507,gemini
+20,hant/ Sant peter ſtünd an einem ort des altars/ vnd,hant/Sant peter ſtund an cinem on des altars/vnd,0.11764705882352941,0.7,0.7,7474507,gemini
+21,het den biſchof ſtab in ſyner hant/ Sant Ambroſius vn̄,Het den biſchofſtab in ſyner hant/Sant Ambroſius vi,0.09259259259259259,0.6,0.6,7474507,gemini
+22,ſant Auguſtinus die ſtuͦndent vor vnſerem herrē/ vnd,ſant Augustinus die ſtündent voz vnſerem Berré/vnd,0.1346153846153846,0.625,0.625,7474507,gemini
+23,dienten im zuͦ dem ampte/ vnſer liebe frow ſancta ma¬,dienten um zu dem ampte/vnſer liebe frow ſancta ma/,0.07547169811320754,0.5,0.5,7474507,gemini
+24,ria ſtund vff dem altar in ſolichem ſchine als ein blitzge,ria ſtund off dem altar in ſolichem ſchine als ein blizge,0.034482758620689655,0.18181818181818182,0.18181818181818182,7474507,gemini
+25,ſchoß/ ſant michel was vorſinger/ Ouch ſoll man wiſſen,Schoß/ſant michel was vorsinger/Duch ſoll man wiſſen,0.09259259259259259,0.4444444444444444,0.4444444444444444,7474507,gemini
+26,das die engel ſollichen geſang do ſungent/ als biſchoff,das die engel ſollichen geſang do ſungent/ als Biſchoff,0.01818181818181818,0.1111111111111111,0.1111111111111111,7474507,gemini
+27,die kilchen wyhent hüt by tag pflegen zuͦ habent/ Sant,Die kilchen wyhent hut By tag pflegen zu habent/Sant,0.09259259259259259,0.6,0.6,7474507,gemini
+28,Steffan laß die Epiſtel/ ſant Laurentz laß das euan¬,Steffan laſs die Epiſtel ſant Laurentz laß das cuan/,0.09615384615384616,0.3333333333333333,0.3333333333333333,7474507,gemini
+29,geli/ vnd die ander engel vol brachten das heilig ampt,geli/vnd die ander engel vol zachten das heilig ampt,0.05555555555555555,0.3,0.3,7474507,gemini
+30,glich alſo mit orgelē/ Das ſanctus ward alſo geſungē,glich alſo mit orgele/ Sas ſanctus ward alſo geſunge,0.057692307692307696,0.3333333333333333,0.3333333333333333,7474507,gemini
+31,der heilig got in dem palaſt der kuniglichen megde/ d̓,Der heilig got in dem palaſt der kuniglichen megde/8,0.07407407407407407,0.3,0.3,7474507,gemini
+32,heilig got an dem altar des fron crützs/ Der heilig vn,Heilig got an dem altar des fron crüzs/Ser heilig vn,0.07407407407407407,0.2727272727272727,0.2727272727272727,7474507,gemini
+33,totlich got/ dominus deus ſabbaoth/ Pleni ſunt celi et,tetlich got/dominus deus ſabbaoth/pleni ſunt celi es,0.09259259259259259,0.6666666666666666,0.6666666666666666,7474507,gemini

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:36</Creator>
+		<Created>2023-06-07T09:11:11.766+02:00</Created>
+		<LastChange>2023-12-20T15:42:19.921+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075008" pageNr="33" tsid="154460082" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=XJWRIDQFSOUIWDPNPWDDZHZL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QIVRCXZOIZGITLQFBQDJTWNF" imageId="45286859"/>
+	</Metadata>
+	<Page imageFilename="7474489.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356421162" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573442863_261"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573442863_261" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="894,1679 2048,1679 2048,2297 894,2297"/>
+			<TextLine id="region_1686573442863_261_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1166,1765 1989,1755 2002,1681 1884,1676 1839,1709 1735,1685 1166,1700"/>
+				<Baseline points="1151,1745 1199,1744 1243,1741 1288,1741 1333,1741 1378,1741 1422,1741 1467,1741 1512,1741 1557,1738 1601,1738 1646,1738 1691,1738 1735,1738 1780,1738 1825,1735 1870,1732 1914,1732 1959,1730 2004,1732"/>
+				<TextEquiv>
+					<Unicode>Iſes mord vnd der tod des heiligen herrē ſāt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573442863_261_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="1129,1825 2002,1800 1990,1740 1222,1769 1131,1726"/>
+				<Baseline points="1136,1804 1157,1804 1202,1801 1246,1801 1291,1795 1336,1795 1381,1792 1425,1792 1470,1792 1515,1792 1559,1792 1604,1792 1649,1789 1694,1789 1738,1789 1783,1789 1828,1786 1873,1786 1917,1783 1962,1780 2007,1783"/>
+				<TextEquiv>
+					<Unicode>Mſeynrats ward verkündet vn̄ geſcit ſynē vat</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573442863_261_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="1134,1867 2001,1847 2002,1800 1970,1792 1832,1818 1136,1809"/>
+				<Baseline points="1142,1858 1154,1855 1199,1852 1243,1849 1288,1849 1333,1849 1378,1846 1422,1846 1467,1843 1512,1843 1557,1843 1601,1843 1646,1840 1691,1840 1735,1840 1780,1840 1825,1837 1870,1837 1914,1834 1959,1831 2004,1831"/>
+				<TextEquiv>
+					<Unicode>ter dem abte in der richnaw/ der ſyn geiſtlicher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1686639615753_231" custom="readingOrder {index:3;}">
+				<Coords points="1137,1865 1143,1862 2005,1851 2003,1897 1930,1909 1137,1930"/>
+				<Baseline points="1137,1909 1157,1905 1202,1905 1246,1903 1291,1903 1336,1900 1381,1900 1425,1897 1470,1894 1515,1897 1559,1894 1604,1894 1649,1894 1694,1891 1738,1891 1783,1888 1828,1891 1873,1888 1917,1885 1962,1885 2014,1884"/>
+				<TextEquiv>
+					<Unicode>vatter vnd ſyn obrer was/ der ſelb abte ſāt ſyne</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573442863_261_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="966,1971 1998,1952 1999,1900 967,1932"/>
+				<Baseline points="975,1959 1017,1959 1061,1959 1106,1959 1151,1959 1196,1956 1240,1956 1285,1953 1330,1950 1375,1950 1419,1950 1464,1947 1509,1947 1554,1947 1598,1944 1643,1944 1688,1944 1732,1944 1777,1941 1822,1941 1867,1938 1911,1935 1956,1932 2001,1935"/>
+				<TextEquiv>
+					<Unicode>botten vnd bruͤder in den ſinſtren walt/ das ſy den hey</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573442863_261_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="967,2023 1997,2003 1971,1946 969,1976"/>
+				<Baseline points="975,2016 1017,2013 1061,2010 1106,2010 1151,2010 1196,2007 1240,2007 1285,2004 1330,2004 1375,2001 1419,2001 1464,2001 1509,2001 1554,1998 1598,1998 1643,1998 1688,1998 1732,1995 1777,1995 1822,1992 1867,1992 1911,1986 1956,1983 2001,1980"/>
+				<TextEquiv>
+					<Unicode>ligen man wider in die richnow in ſyn gotzhuß fuͦrten/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573442863_261_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="974,2076 1905,2068 2003,2050 2005,2002 975,2027"/>
+				<Baseline points="981,2067 1023,2064 1067,2061 1112,2061 1157,2061 1202,2061 1246,2058 1291,2058 1336,2055 1381,2055 1425,2055 1470,2052 1515,2052 1559,2052 1604,2049 1649,2049 1694,2049 1738,2049 1783,2046 1828,2043 1873,2040 1917,2037 1962,2034 2007,2037"/>
+				<TextEquiv>
+					<Unicode>da er ruͦwen ſolte nach ſynē tod/ Vnd do ſy in brochtent</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573442863_261_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="971,2141 2001,2098 1976,2045 973,2076"/>
+				<Baseline points="978,2120 1020,2111 1064,2111 1109,2111 1154,2114 1199,2111 1243,2108 1288,2108 1333,2108 1378,2105 1422,2105 1467,2105 1512,2102 1557,2099 1601,2102 1646,2099 1691,2099 1735,2096 1780,2096 1825,2093 1870,2090 1914,2087 1959,2084 2004,2081"/>
+				<TextEquiv>
+					<Unicode>fornen vff den etzel/ vnd ſy do wolten ruͦwen/ do wolt ſi¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573442863_261_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="971,2181 1994,2156 1988,2102 973,2139"/>
+				<Baseline points="978,2171 1014,2168 1058,2165 1103,2165 1148,2165 1193,2162 1237,2162 1282,2159 1327,2156 1372,2159 1416,2159 1461,2156 1506,2156 1551,2153 1595,2153 1640,2153 1685,2150 1730,2147 1774,2147 1819,2144 1864,2144 1908,2141 1953,2138 1998,2135"/>
+				<TextEquiv>
+					<Unicode>ch der tod lichnam nit me abſtet noch von dannen tra¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573442863_261_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="967,2248 1687,2251 1844,2205 2006,2216 2009,2145 969,2194"/>
+				<Baseline points="975,2231 981,2231 1026,2225 1070,2222 1115,2222 1160,2222 1205,2219 1249,2216 1294,2216 1339,2213 1384,2213 1428,2213 1473,2216 1518,2213 1562,2210 1607,2210 1652,2207 1697,2207 1741,2207 1786,2201 1831,2201 1876,2198 1920,2195 1965,2195 2010,2192"/>
+				<TextEquiv>
+					<Unicode>gen laſſen e das man in vff ſchneid/ vnd vſſer ime thett</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

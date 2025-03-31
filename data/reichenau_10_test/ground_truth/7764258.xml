@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.3.0:model_id=54840:lm=provided:date=11_09_2023_16:25</Creator>
+		<Created>2023-09-11T14:08:28.665+02:00</Created>
+		<LastChange>2024-01-10T09:17:02.545+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075153" pageNr="158" tsid="154460324" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=YHQILIHAWBXZQDACSHOHIYJP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VLDIDOUIRCADSMTHXHRFBQUN" imageId="48050379"/>
+	</Metadata>
+	<Page imageFilename="7764258.jpg" imageWidth="2786" imageHeight="3640">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356954661" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1694442237135_4110"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1694442237135_4110" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="223,415 2018,415 2018,2803 223,2803"/>
+			<TextLine id="region_1694442237135_4110_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="341,536 1872,566 1870,511 1747,484 1650,513 1382,465 1255,509 1058,475 970,507 846,461 341,494"/>
+				<Baseline points="352,525 396,525 441,525 486,525 531,528 575,528 620,531 665,531 710,531 754,531 799,534 844,534 889,537 933,537 978,537 1023,537 1068,540 1112,540 1157,540 1202,540 1247,543 1291,543 1336,543 1381,546 1426,546 1470,546 1515,548 1560,548 1605,548 1649,548 1694,548 1739,548 1784,551 1828,551 1867,551 1870,551 1873,551"/>
+				<TextEquiv>
+					<Unicode>ab ein jor ſo haſtu vom anfang der welt bitz zuͦ der gebuͦrt chriſti die zal fürwar. von wi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="335,597 1810,628 1854,620 1854,568 333,542"/>
+				<Baseline points="346,575 390,578 435,578 480,578 525,581 569,581 614,581 659,581 704,584 748,587 793,584 838,587 883,587 927,587 972,587 1017,590 1062,590 1106,590 1151,590 1196,593 1241,593 1285,596 1330,596 1375,596 1420,596 1464,599 1509,599 1554,599 1599,602 1643,599 1688,605 1733,605 1778,605 1822,602 1855,605 1857,605 1860,605"/>
+				<TextEquiv>
+					<Unicode>ter vſlegung dieſer froͤg ſich an ob es dir geuelt Auguſtinū do wie obnē. vnd Iheroni¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="337,651 1757,679 1858,674 1856,618 335,597"/>
+				<Baseline points="346,629 390,629 435,629 480,629 525,632 569,632 614,635 659,635 704,635 748,635 793,635 838,638 883,638 927,641 972,638 1017,641 1062,641 1106,644 1151,644 1196,644 1241,647 1285,647 1330,647 1375,650 1420,650 1464,650 1509,650 1554,653 1599,653 1643,653 1688,653 1733,653 1778,656 1822,656 1858,659 1860,659 1863,659"/>
+				<TextEquiv>
+					<Unicode>mū vnd die anderen an iren orten aber ſiteinmol wir hie vnß kürtzer fliſent ſoͤllent wir</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="339,697 1866,727 1864,676 1816,666 339,651"/>
+				<Baseline points="349,680 393,683 438,683 483,683 528,683 572,686 617,683 662,686 707,686 751,689 796,689 841,689 886,689 930,689 975,692 1020,692 1065,695 1109,695 1154,698 1199,698 1244,698 1288,698 1333,698 1378,701 1423,701 1467,704 1512,704 1557,704 1602,704 1646,707 1691,707 1736,707 1781,707 1825,707 1864,710 1866,710 1869,710"/>
+				<TextEquiv>
+					<Unicode>miden was lang iſt wir hād vnßouch fürwar geſchickt mit der hülff gots zuͦ ſamelnn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="341,754 1851,767 1849,725 1793,716 339,699"/>
+				<Baseline points="349,730 393,733 438,733 483,733 528,736 572,736 617,736 662,736 707,736 751,736 796,739 841,739 886,742 930,742 975,742 1020,745 1065,745 1109,745 1154,745 1199,748 1244,748 1288,748 1333,751 1378,751 1423,754 1467,754 1512,754 1557,754 1602,757 1646,757 1691,757 1736,757 1781,757 1825,757 1852,754 1868,755"/>
+				<TextEquiv>
+					<Unicode>vß vil buͤchern ein bürdelin der zit von anfang der welt bitz ietz im welchem wir wer¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="335,794 1856,829 1841,767 335,739"/>
+				<Baseline points="346,781 390,781 435,784 480,784 525,787 569,787 614,790 659,790 704,790 748,790 793,793 838,793 883,793 927,793 972,796 1017,796 1062,796 1106,796 1151,799 1196,799 1241,799 1285,802 1330,802 1375,805 1420,805 1464,805 1509,805 1554,808 1599,808 1643,808 1688,808 1733,808 1778,811 1822,811 1855,814 1857,814 1860,814"/>
+				<TextEquiv>
+					<Unicode>dē zuͦtettigclich alß ī eim gedechnißbrieff verbūdē beide der heiligen geſchrift vn̄ ouch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="341,850 1851,888 1862,832 339,798"/>
+				<Baseline points="349,835 393,835 438,838 483,838 528,838 572,838 617,838 662,841 707,841 751,841 796,844 841,844 886,847 930,847 975,847 1020,847 1065,850 1109,850 1154,850 1199,853 1244,853 1288,853 1333,853 1378,856 1423,856 1467,859 1512,859 1557,859 1602,859 1646,859 1691,859 1736,862 1781,862 1825,862 1861,862 1864,862 1867,862"/>
+				<TextEquiv>
+					<Unicode>mācherley ander hyſtoriē geſchichtē ich wil ouch tuͦn noch dē ſind. l. flori alß die pfle</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="339,905 1793,938 1862,926 1862,888 337,850"/>
+				<Baseline points="349,892 393,889 438,889 483,889 528,892 572,892 617,892 662,892 707,895 751,895 796,895 841,895 886,898 930,898 975,898 1020,898 1065,901 1109,901 1154,901 1199,904 1244,904 1288,904 1333,907 1378,907 1423,907 1467,910 1512,912 1557,912 1602,912 1646,912 1691,912 1736,912 1781,915 1825,915 1861,915 1864,915 1867,915"/>
+				<TextEquiv>
+					<Unicode>gent die den begriff der welt in ein clein tofel molent alſo wil ich die gantz bildung men</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="329,953 1860,978 1820,922 329,907"/>
+				<Baseline points="340,936 384,939 429,939 474,942 519,945 563,942 608,942 653,942 698,945 742,945 787,948 832,948 877,948 921,951 966,951 1011,951 1056,951 1100,951 1145,951 1190,954 1235,954 1279,957 1324,957 1369,960 1414,960 1458,960 1503,963 1548,963 1593,963 1638,963 1682,963 1727,963 1772,963 1817,963 1858,966 1860,966 1863,966"/>
+				<TextEquiv>
+					<Unicode>ſchlichs geſlechts ouch die louf der zit in wenig bletterenn begrifen. Mir iſt ouch nit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="333,1012 1843,1032 1830,972 333,963"/>
+				<Baseline points="343,996 387,990 432,990 477,993 522,993 566,993 611,993 656,996 701,999 745,999 790,999 835,999 880,999 924,1002 969,1002 1014,1002 1059,1005 1103,1005 1148,1005 1193,1005 1238,1008 1282,1008 1327,1008 1372,1011 1417,1011 1461,1011 1506,1014 1551,1014 1596,1014 1640,1014 1685,1014 1730,1017 1775,1017 1820,1017 1829,1015 1840,1017 1859,1018"/>
+				<TextEquiv>
+					<Unicode>zuͦ wiſſen das ich ütz geſetzt hab das nit in gloubhaftigen hyſtorien ſige oder in dē buͤ¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="331,1056 1854,1093 1853,1026 329,1010"/>
+				<Baseline points="340,1041 384,1044 429,1044 474,1044 519,1044 563,1044 608,1047 653,1047 698,1047 742,1047 787,1050 832,1050 877,1053 921,1053 966,1056 1011,1056 1056,1056 1100,1056 1145,1056 1190,1059 1235,1059 1279,1059 1324,1062 1369,1062 1414,1065 1458,1065 1503,1065 1548,1065 1593,1065 1638,1065 1682,1068 1727,1065 1772,1068 1817,1068 1855,1071 1857,1071 1860,1071"/>
+				<TextEquiv>
+					<Unicode>cheren der lerer d̓ heiligen kilchē oder das iren ſagē noch volge offenbaͤrlich wo ouch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="333,1112 1858,1133 1856,1093 1786,1079 333,1058"/>
+				<Baseline points="343,1097 387,1092 432,1094 477,1094 522,1094 566,1094 611,1097 656,1097 701,1100 745,1100 790,1100 835,1100 880,1103 924,1103 969,1106 1014,1106 1059,1106 1103,1106 1148,1106 1193,1109 1238,1109 1282,1109 1327,1112 1372,1112 1417,1112 1461,1115 1506,1115 1551,1115 1596,1115 1640,1118 1685,1118 1730,1121 1775,1118 1820,1118 1858,1124 1860,1124 1863,1124"/>
+				<TextEquiv>
+					<Unicode>zwifel gefin iſt ob es alſo ode̓ alſo ſige hab ich ouch in aller moß alß ichs fundē hab be</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="327,1167 1851,1190 1849,1133 1797,1125 327,1112"/>
+				<Baseline points="337,1142 381,1145 426,1145 471,1148 516,1148 560,1148 605,1148 650,1151 695,1151 739,1154 784,1154 829,1154 874,1154 918,1157 963,1157 1008,1157 1053,1157 1097,1157 1142,1160 1187,1160 1232,1163 1276,1163 1321,1163 1366,1163 1411,1166 1456,1166 1500,1166 1545,1166 1590,1166 1635,1166 1679,1169 1724,1169 1769,1169 1814,1172 1849,1178 1851,1178 1854,1178"/>
+				<TextEquiv>
+					<Unicode>ſchriben vff das ouch den geiſtlichen luͤten oberangeſicht der hyſtorien nit verdruͤſſig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="333,1208 1858,1238 1858,1188 1730,1179 333,1165"/>
+				<Baseline points="343,1196 387,1196 432,1199 477,1199 522,1202 566,1202 611,1202 656,1202 701,1202 745,1205 790,1205 835,1205 880,1208 924,1208 969,1208 1014,1211 1059,1211 1103,1211 1148,1211 1193,1211 1238,1211 1282,1214 1327,1214 1372,1217 1417,1217 1461,1217 1506,1217 1551,1217 1596,1217 1640,1220 1685,1220 1730,1220 1775,1223 1820,1223 1858,1226 1860,1226 1863,1226"/>
+				<TextEquiv>
+					<Unicode>vürd hab ich zuͦmdickerenmol etlich gebluͤmpt ſinn hinzuͦgeſetzt vß den ſagen d̓ heili</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="329,1267 1854,1294 1853,1236 329,1206"/>
+				<Baseline points="340,1253 384,1250 429,1250 474,1250 519,1253 563,1253 608,1253 653,1253 698,1256 742,1256 787,1256 832,1259 877,1259 921,1262 966,1262 1011,1262 1056,1262 1100,1262 1145,1262 1190,1262 1235,1262 1279,1265 1324,1265 1369,1268 1414,1268 1458,1268 1503,1271 1548,1268 1593,1271 1638,1271 1682,1271 1727,1274 1772,1274 1817,1274 1852,1276 1854,1276 1857,1276"/>
+				<TextEquiv>
+					<Unicode>gen die von inen gebent ein geſchmack geiſtlicheit der lere do mit das wir ouch gebēt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="327,1311 1851,1328 1807,1284 327,1267"/>
+				<Baseline points="337,1297 381,1300 426,1303 471,1303 516,1303 560,1306 605,1306 650,1306 695,1306 739,1306 784,1309 829,1309 874,1309 918,1309 963,1312 1008,1312 1053,1312 1097,1312 1142,1315 1187,1315 1232,1315 1276,1315 1321,1318 1366,1318 1411,1318 1456,1321 1500,1321 1545,1321 1590,1321 1635,1321 1679,1321 1724,1324 1769,1324 1814,1324 1849,1324 1852,1324 1855,1324"/>
+				<TextEquiv>
+					<Unicode>er vn̄ groͤſachtūg denē die vor vns gearbeit hāt ſo ſind wir ingetreten in ir arbeit no¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="323,1368 1851,1391 1849,1328 323,1313"/>
+				<Baseline points="334,1351 378,1354 423,1354 468,1354 513,1354 557,1357 602,1357 647,1357 692,1357 736,1357 781,1360 826,1360 871,1363 915,1363 960,1363 1005,1366 1050,1366 1094,1369 1139,1366 1184,1366 1229,1369 1274,1369 1318,1369 1363,1372 1408,1372 1453,1372 1497,1372 1542,1372 1587,1375 1632,1375 1676,1375 1721,1375 1766,1375 1811,1378 1849,1378 1852,1378 1855,1378"/>
+				<TextEquiv>
+					<Unicode>ch vnßem vermügen vnd hant hin vnd her genummē was wir hand gemoͤcht vnd vff</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="333,1410 1805,1449 1847,1445 1847,1389 331,1366"/>
+				<Baseline points="343,1405 387,1405 432,1405 477,1405 522,1405 566,1408 611,1408 656,1408 701,1411 745,1411 790,1411 835,1411 880,1414 924,1414 969,1417 1014,1417 1059,1417 1103,1417 1148,1420 1193,1420 1238,1420 1282,1420 1327,1420 1372,1423 1417,1423 1461,1423 1506,1423 1551,1423 1596,1426 1640,1426 1685,1429 1730,1426 1775,1429 1820,1429 1846,1429 1849,1429 1852,1429"/>
+				<TextEquiv>
+					<Unicode>das man wiß in welcher ordenūg ich inen noch geuolget hab ſo vinden wir zuͦm erſtē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="327,1460 1847,1497 1847,1445 1795,1439 327,1426"/>
+				<Baseline points="337,1456 381,1456 426,1456 471,1458 516,1458 560,1458 605,1458 650,1458 695,1461 739,1461 784,1461 829,1464 874,1464 918,1464 963,1467 1008,1467 1053,1470 1097,1470 1142,1470 1187,1470 1232,1470 1276,1470 1321,1473 1366,1473 1411,1473 1456,1476 1500,1476 1545,1476 1590,1476 1635,1476 1679,1476 1724,1476 1769,1479 1814,1479 1846,1482 1848,1482 1851,1482"/>
+				<TextEquiv>
+					<Unicode>die gātz zit des alten teſtaments vᵐcxcix. jor geteilt in fünff alter. in eim buͤchlin das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="329,1531 1849,1550 1847,1497 1774,1483 327,1464"/>
+				<Baseline points="340,1512 384,1509 429,1509 474,1509 519,1509 563,1509 608,1512 653,1512 698,1512 742,1512 787,1512 832,1515 877,1515 921,1515 966,1521 1011,1518 1056,1521 1100,1521 1145,1521 1190,1521 1235,1524 1279,1524 1324,1524 1369,1524 1414,1527 1458,1527 1503,1527 1548,1527 1593,1527 1638,1530 1682,1530 1727,1530 1772,1530 1817,1530 1846,1536 1848,1536 1851,1536"/>
+				<TextEquiv>
+					<Unicode>yſidero zuͦ geſchribenn ward do er vaſt meiſterlich in fürgot in volfuͤrung d̓ jor der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="333,1579 1812,1608 1843,1544 331,1531"/>
+				<Baseline points="343,1560 387,1560 432,1560 477,1560 522,1560 566,1563 611,1563 656,1563 701,1563 745,1566 790,1566 835,1566 880,1569 924,1569 969,1572 1014,1572 1059,1572 1103,1572 1148,1572 1193,1575 1238,1575 1282,1578 1327,1578 1372,1578 1417,1578 1461,1578 1506,1581 1551,1581 1596,1581 1640,1581 1685,1581 1730,1581 1775,1584 1820,1584 1840,1587 1842,1587 1845,1587"/>
+				<TextEquiv>
+					<Unicode>welt bitz vff ſyn zit das iſt die zit Eracly d̓ anfing zuͦ regniren vm̄ die jor chriſti dcxij.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="318,1621 1837,1652 1826,1594 318,1581"/>
+				<Baseline points="328,1611 372,1611 417,1614 462,1614 507,1614 551,1614 596,1614 641,1614 686,1617 730,1617 775,1620 820,1620 865,1620 910,1620 954,1623 999,1623 1044,1623 1089,1623 1133,1626 1178,1626 1223,1626 1268,1626 1312,1629 1357,1629 1402,1629 1447,1629 1491,1632 1536,1632 1581,1632 1626,1632 1670,1632 1715,1632 1760,1635 1805,1635 1837,1638 1839,1638 1842,1638"/>
+				<TextEquiv>
+					<Unicode>aber ſine rechnung oder zal ordinet er nit noch der zal chriſti noch Oroſy vnd dē vol¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="327,1684 1841,1701 1828,1648 327,1625"/>
+				<Baseline points="337,1670 381,1664 426,1664 471,1664 516,1664 560,1667 605,1664 650,1667 695,1667 739,1667 784,1667 829,1670 874,1670 918,1673 963,1673 1008,1673 1053,1676 1097,1676 1142,1676 1187,1676 1232,1676 1276,1679 1321,1679 1366,1682 1411,1682 1456,1682 1500,1682 1545,1682 1590,1682 1635,1685 1679,1685 1724,1685 1769,1685 1814,1688 1840,1691 1842,1691 1845,1691"/>
+				<TextEquiv>
+					<Unicode>genn wir noch in den zweien erſtē alteren zuͦglicherwiß ouch in den zweien nochgendē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="327,1726 1831,1755 1831,1699 1707,1692 327,1686"/>
+				<Baseline points="337,1715 381,1715 426,1715 471,1715 516,1715 560,1715 605,1718 650,1718 695,1718 739,1718 784,1721 829,1721 874,1724 918,1724 963,1724 1008,1724 1053,1724 1097,1727 1142,1727 1187,1730 1232,1730 1276,1730 1321,1730 1366,1733 1411,1733 1456,1733 1500,1736 1545,1733 1590,1733 1635,1736 1679,1733 1724,1736 1769,1736 1814,1739 1828,1739 1838,1739 1850,1740"/>
+				<TextEquiv>
+					<Unicode>vßgenūmen an wenig orten wan̄ der text noch der hebreiſchen worheit vō d̓ gebuͦrt A¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="318,1787 1808,1818 1841,1761 316,1728"/>
+				<Baseline points="328,1766 372,1766 417,1769 462,1769 507,1769 551,1769 596,1769 641,1769 686,1769 730,1769 775,1772 820,1775 865,1775 910,1775 954,1778 999,1778 1044,1778 1089,1778 1133,1778 1178,1781 1223,1781 1268,1781 1312,1784 1357,1784 1402,1784 1447,1784 1491,1784 1536,1784 1581,1787 1626,1784 1670,1787 1715,1790 1760,1790 1805,1793 1840,1793 1843,1793 1846,1793"/>
+				<TextEquiv>
+					<Unicode>brahe bitz vff die babiloniſch gefengniß iſt by vns gerechter vnd mit mher fliß vßgelegt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="327,1839 1837,1853 1837,1805 1682,1793 327,1786"/>
+				<Baseline points="337,1820 381,1820 426,1820 471,1820 516,1820 560,1820 605,1820 650,1820 695,1822 739,1822 784,1822 829,1825 874,1825 918,1828 963,1828 1008,1828 1053,1828 1097,1828 1142,1831 1187,1831 1232,1831 1276,1831 1321,1834 1366,1834 1411,1834 1456,1834 1500,1834 1545,1837 1590,1837 1635,1837 1679,1837 1724,1840 1769,1843 1814,1840 1834,1840 1837,1840 1840,1840"/>
+				<TextEquiv>
+					<Unicode>dor vmb volgent wir im noch doch iſt clein vnderſcheit do. In dē fünfften alter hand</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="327,1893 1839,1916 1839,1864 1776,1851 327,1839"/>
+				<Baseline points="337,1870 381,1870 426,1873 471,1870 516,1870 560,1870 605,1870 650,1873 695,1873 739,1873 784,1876 829,1876 874,1879 918,1879 963,1882 1008,1882 1053,1882 1097,1882 1142,1882 1187,1882 1232,1882 1276,1885 1321,1885 1366,1885 1411,1888 1456,1888 1500,1888 1545,1888 1590,1888 1635,1891 1679,1891 1724,1891 1769,1894 1814,1894 1837,1894 1840,1894 1843,1894"/>
+				<TextEquiv>
+					<Unicode>wir groͤſer arbeit gehan durch zuͦ vil mancherley willen der hyſtorien ich beger ouch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="323,1939 1845,1958 1843,1912 1753,1904 323,1893"/>
+				<Baseline points="334,1930 378,1921 423,1921 468,1921 513,1924 557,1924 602,1927 647,1924 692,1924 736,1927 781,1927 826,1927 871,1930 915,1930 960,1933 1005,1933 1050,1933 1094,1933 1139,1936 1184,1936 1229,1936 1274,1936 1318,1936 1363,1939 1408,1939 1453,1939 1497,1939 1542,1939 1587,1942 1632,1939 1676,1942 1721,1942 1766,1945 1811,1945 1840,1945 1843,1945 1846,1945"/>
+				<TextEquiv>
+					<Unicode>genod wā ich hab ietz eim ietz dē andern noch geuolget noch dē mich all̓ beſt beducht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="314,1990 1835,2011 1835,1962 1755,1952 314,1939"/>
+				<Baseline points="325,1975 369,1975 414,1975 459,1975 504,1975 548,1975 593,1978 638,1975 683,1978 728,1978 772,1978 817,1981 862,1981 907,1981 951,1984 996,1984 1041,1984 1086,1987 1130,1984 1175,1987 1220,1987 1265,1987 1309,1987 1354,1990 1399,1990 1444,1990 1488,1990 1533,1993 1578,1993 1623,1990 1667,1993 1712,1993 1757,1996 1802,1996 1834,1996 1837,1996 1840,1996"/>
+				<TextEquiv>
+					<Unicode>hat ob ich ouch alle jor recht noch einande̓ geordent oder gerechnet hab beuill ich vr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="314,2038 1833,2065 1820,2006 314,1992"/>
+				<Baseline points="325,2025 369,2025 414,2025 459,2025 504,2025 548,2025 593,2028 638,2028 683,2028 728,2028 772,2028 817,2031 862,2031 907,2031 951,2034 996,2034 1041,2037 1086,2037 1130,2037 1175,2037 1220,2037 1265,2040 1309,2040 1354,2040 1399,2040 1444,2040 1488,2040 1533,2043 1578,2043 1623,2043 1667,2043 1712,2043 1757,2043 1802,2046 1837,2043 1839,2042 1841,2040"/>
+				<TextEquiv>
+					<Unicode>teil des leſers. ich hab ouch mit vil arbeit zuͦ ſamen gefuͤgt die linien der aſſiriorū vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="320,2084 1833,2128 1833,2063 318,2038"/>
+				<Baseline points="331,2079 375,2076 420,2079 465,2079 510,2079 554,2079 599,2079 644,2079 689,2079 733,2082 778,2082 823,2082 868,2082 912,2085 957,2085 1002,2088 1047,2088 1092,2088 1136,2088 1181,2091 1226,2091 1271,2091 1315,2091 1360,2091 1405,2091 1450,2091 1494,2094 1539,2094 1584,2094 1629,2094 1673,2094 1718,2094 1763,2097 1808,2097 1834,2103 1836,2103 1839,2103"/>
+				<TextEquiv>
+					<Unicode>der roͤmer vß mancherley hyſtorien bit ouch ob yemant geuiel abzuͦſchribenn diß buͦch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="314,2145 1833,2161 1787,2109 314,2094"/>
+				<Baseline points="325,2130 369,2130 414,2130 459,2130 504,2130 548,2130 593,2133 638,2133 683,2133 728,2133 772,2133 817,2133 862,2136 907,2136 951,2139 996,2139 1041,2139 1086,2139 1130,2142 1175,2142 1220,2142 1265,2142 1309,2142 1354,2142 1399,2142 1444,2145 1488,2145 1533,2145 1578,2145 1623,2145 1667,2145 1712,2148 1757,2148 1802,2148 1831,2151 1833,2151 1836,2151"/>
+				<TextEquiv>
+					<Unicode>das er mit fliß merck die vnderſcheidūg vnd gegēdienendē zal dar er nit witer oder en¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_33" custom="readingOrder {index:32;}">
+				<Coords points="320,2205 1839,2218 1824,2161 318,2147"/>
+				<Baseline points="331,2186 375,2181 420,2181 465,2181 510,2181 554,2184 599,2184 644,2184 689,2184 733,2186 778,2186 823,2186 868,2186 912,2186 957,2189 1002,2189 1047,2189 1092,2192 1136,2189 1181,2192 1226,2192 1271,2192 1315,2192 1360,2192 1405,2195 1450,2195 1494,2195 1539,2195 1584,2198 1629,2198 1673,2198 1718,2198 1763,2201 1808,2201 1837,2204 1839,2204 1842,2204"/>
+				<TextEquiv>
+					<Unicode>ger ſetz den das exemplar halt anders ſyn arbeit iſt nirgenfür vn̄ dor zuͦ ſchaffet er keī</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_34" custom="readingOrder {index:33;}">
+				<Coords points="314,2249 1824,2274 1835,2216 312,2201"/>
+				<Baseline points="322,2231 366,2231 411,2231 456,2234 501,2234 546,2234 590,2237 635,2234 680,2234 725,2234 769,2237 814,2237 859,2237 904,2237 948,2240 993,2240 1038,2243 1083,2243 1127,2243 1172,2243 1217,2246 1262,2246 1306,2246 1351,2246 1396,2246 1441,2246 1485,2246 1530,2249 1575,2249 1620,2249 1664,2249 1709,2252 1754,2252 1799,2252 1837,2255 1839,2255 1842,2255"/>
+				<TextEquiv>
+					<Unicode>nutz. wirt ouch diß werck ſo vil felſcher ſo es kurtz begriffene̓ iſt es ſige dan̄ daſ mā fli</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_35" custom="readingOrder {index:34;}">
+				<Coords points="308,2306 1828,2321 1828,2272 1768,2262 308,2252"/>
+				<Baseline points="319,2285 364,2282 408,2282 453,2288 498,2285 543,2288 587,2285 632,2288 677,2288 722,2288 766,2288 811,2288 856,2288 901,2291 945,2291 990,2294 1035,2294 1080,2294 1124,2297 1169,2297 1214,2297 1259,2297 1303,2297 1348,2297 1393,2297 1438,2300 1482,2300 1527,2303 1572,2303 1617,2300 1661,2303 1706,2303 1751,2303 1796,2303 1828,2309 1830,2309 1833,2309"/>
+				<TextEquiv>
+					<Unicode>ſenlich das merck vn̄ halt. iſt aber ſach das einer ordēdclih dieſe dīg veruaß das wir</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_36" custom="readingOrder {index:35;}">
+				<Coords points="308,2356 1822,2371 1822,2319 1755,2310 308,2308"/>
+				<Baseline points="319,2336 364,2336 408,2333 453,2336 498,2336 543,2339 587,2339 632,2339 677,2339 722,2339 766,2339 811,2342 856,2342 901,2342 945,2345 990,2345 1035,2345 1080,2348 1124,2345 1169,2348 1214,2348 1259,2348 1303,2351 1348,2351 1393,2351 1438,2351 1482,2354 1527,2357 1572,2354 1617,2354 1661,2354 1706,2354 1751,2354 1796,2354 1822,2357 1824,2357 1827,2357"/>
+				<TextEquiv>
+					<Unicode>meinent lichticlich geſchehē muͤg ſo wirt es im nit wenig erlüchtūg gebē zuͤ verſtent.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_37" custom="readingOrder {index:36;}">
+				<Coords points="308,2398 1831,2421 1831,2369 1755,2363 308,2356"/>
+				<Baseline points="319,2386 364,2386 408,2389 453,2386 498,2389 543,2389 587,2389 632,2389 677,2389 722,2389 766,2389 811,2392 856,2392 901,2395 945,2395 990,2395 1035,2395 1080,2398 1124,2398 1169,2401 1214,2401 1259,2401 1303,2401 1348,2401 1393,2401 1438,2401 1482,2401 1527,2404 1572,2404 1617,2404 1661,2404 1706,2404 1751,2407 1796,2407 1831,2410 1833,2410 1836,2410"/>
+				<TextEquiv>
+					<Unicode>niß d̓ heiligē geſchrifft vnd d̓ buͤcher Auguſtini Iheronimi vnd Oroſy vn̄ d̓ anderē ⁊cͣ.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_38" custom="readingOrder {index:37;}">
+				<Coords points="312,2452 1831,2480 1812,2417 312,2398"/>
+				<Baseline points="322,2440 366,2437 411,2440 456,2440 501,2437 546,2440 590,2440 635,2440 680,2440 725,2440 769,2440 814,2443 859,2443 904,2446 948,2446 993,2449 1038,2449 1083,2449 1127,2449 1172,2449 1217,2449 1262,2452 1306,2452 1351,2452 1396,2455 1441,2455 1485,2455 1530,2455 1575,2455 1620,2455 1664,2455 1709,2455 1754,2455 1799,2458 1831,2461 1833,2461 1836,2461"/>
+				<TextEquiv>
+					<Unicode>iſt echter wor das wir in vil buͤcherē geſchribē vīdēt. Dor noch in dē ſechſtē alter vol</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_39" custom="readingOrder {index:38;}">
+				<Coords points="308,2511 1826,2526 1791,2465 308,2461"/>
+				<Baseline points="319,2497 364,2491 408,2491 453,2491 498,2491 543,2491 587,2491 632,2491 677,2491 722,2491 766,2494 811,2494 856,2497 901,2497 945,2497 990,2500 1035,2500 1080,2500 1124,2500 1169,2503 1214,2503 1259,2503 1303,2503 1348,2506 1393,2506 1438,2506 1482,2506 1527,2509 1572,2509 1617,2509 1661,2509 1706,2509 1751,2509 1796,2509 1825,2515 1827,2515 1830,2515"/>
+				<TextEquiv>
+					<Unicode>gent wir noch der croniken Martini vn̄ Uincentij die gont bitz vff ir zit gar begriflich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_40" custom="readingOrder {index:39;}">
+				<Coords points="306,2553 1828,2574 1826,2528 1751,2522 306,2509"/>
+				<Baseline points="316,2539 361,2542 405,2542 450,2542 495,2545 540,2545 584,2545 629,2545 674,2545 719,2545 763,2548 808,2548 853,2548 898,2548 942,2548 987,2548 1032,2550 1077,2550 1121,2553 1166,2553 1211,2556 1256,2556 1300,2556 1345,2556 1390,2556 1435,2559 1479,2556 1524,2559 1569,2559 1614,2559 1658,2559 1703,2559 1748,2559 1793,2559 1825,2562 1827,2562 1830,2562"/>
+				<TextEquiv>
+					<Unicode>noch denen by cc jor volgt ich noch eim treflichem buͦch des dichter ich nit weiß das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_41" custom="readingOrder {index:40;}">
+				<Coords points="308,2607 1820,2622 1818,2578 1747,2570 308,2553"/>
+				<Baseline points="319,2592 364,2592 408,2592 453,2595 498,2595 543,2595 587,2595 632,2595 677,2595 722,2598 766,2601 811,2598 856,2598 901,2601 945,2601 990,2601 1035,2601 1080,2604 1124,2604 1169,2604 1214,2607 1259,2607 1303,2607 1348,2610 1393,2610 1438,2610 1482,2610 1527,2610 1572,2610 1617,2610 1661,2613 1706,2613 1751,2610 1796,2610 1820,2613 1822,2613 1825,2613"/>
+				<TextEquiv>
+					<Unicode>ſelb buͦch ſtregt ſich ouch gar noch vff ſyn zit was dor noch gedechtniß wirdig geſche¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_42" custom="readingOrder {index:41;}">
+				<Coords points="308,2660 1761,2689 1828,2687 1828,2622 306,2607"/>
+				<Baseline points="319,2646 364,2643 408,2643 453,2646 498,2646 543,2646 587,2649 632,2649 677,2649 722,2649 766,2649 811,2652 856,2652 901,2655 945,2652 990,2652 1035,2655 1080,2655 1124,2658 1169,2658 1214,2658 1259,2658 1303,2658 1348,2658 1393,2661 1438,2661 1482,2661 1527,2661 1572,2661 1617,2664 1661,2664 1706,2664 1751,2661 1796,2661 1825,2664 1827,2664 1830,2664"/>
+				<TextEquiv>
+					<Unicode>hen iſt alß wir gehat vnd geſehen hand. habent wir getrülich den vorderē geſchichtē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1694442237135_4110_tl_43" custom="readingOrder {index:42;}">
+				<Coords points="297,2746 498,2712 1831,2754 1803,2674 297,2672"/>
+				<Baseline points="307,2703 352,2700 396,2700 441,2700 486,2700 531,2700 575,2700 620,2703 665,2703 710,2703 754,2706 799,2706 844,2706 889,2706 933,2706 978,2706 1023,2709 1068,2709 1112,2709 1157,2712 1202,2712 1247,2715 1291,2712 1336,2712 1381,2715 1426,2715 1470,2718 1515,2715 1560,2715 1605,2715 1649,2715 1694,2715 1739,2715 1784,2715 1828,2724 1831,2724 1834,2724 1837,2724"/>
+				<TextEquiv>
+					<Unicode>zuͦ geſchribē die ding werdē alle in dieſem buͦch mit groſer kürtzi offēbaͤr die ordenūg</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>ab ein jor ſo haſtu vom anfang der welt bitz zuͦ der gebuͦrt chriſti die zal fürwar. von wi
+ter vſlegung dieſer froͤg ſich an ob es dir geuelt Auguſtinū do wie obnē. vnd Iheroni¬
+mū vnd die anderen an iren orten aber ſiteinmol wir hie vnß kürtzer fliſent ſoͤllent wir
+miden was lang iſt wir hād vnßouch fürwar geſchickt mit der hülff gots zuͦ ſamelnn
+vß vil buͤchern ein bürdelin der zit von anfang der welt bitz ietz im welchem wir wer¬
+dē zuͦtettigclich alß ī eim gedechnißbrieff verbūdē beide der heiligen geſchrift vn̄ ouch
+mācherley ander hyſtoriē geſchichtē ich wil ouch tuͦn noch dē ſind. l. flori alß die pfle
+gent die den begriff der welt in ein clein tofel molent alſo wil ich die gantz bildung men
+ſchlichs geſlechts ouch die louf der zit in wenig bletterenn begrifen. Mir iſt ouch nit
+zuͦ wiſſen das ich ütz geſetzt hab das nit in gloubhaftigen hyſtorien ſige oder in dē buͤ¬
+cheren der lerer d̓ heiligen kilchē oder das iren ſagē noch volge offenbaͤrlich wo ouch
+zwifel gefin iſt ob es alſo ode̓ alſo ſige hab ich ouch in aller moß alß ichs fundē hab be
+ſchriben vff das ouch den geiſtlichen luͤten oberangeſicht der hyſtorien nit verdruͤſſig
+vürd hab ich zuͦmdickerenmol etlich gebluͤmpt ſinn hinzuͦgeſetzt vß den ſagen d̓ heili
+gen die von inen gebent ein geſchmack geiſtlicheit der lere do mit das wir ouch gebēt
+er vn̄ groͤſachtūg denē die vor vns gearbeit hāt ſo ſind wir ingetreten in ir arbeit no¬
+ch vnßem vermügen vnd hant hin vnd her genummē was wir hand gemoͤcht vnd vff
+das man wiß in welcher ordenūg ich inen noch geuolget hab ſo vinden wir zuͦm erſtē
+die gātz zit des alten teſtaments vᵐcxcix. jor geteilt in fünff alter. in eim buͤchlin das
+yſidero zuͦ geſchribenn ward do er vaſt meiſterlich in fürgot in volfuͤrung d̓ jor der
+welt bitz vff ſyn zit das iſt die zit Eracly d̓ anfing zuͦ regniren vm̄ die jor chriſti dcxij.
+aber ſine rechnung oder zal ordinet er nit noch der zal chriſti noch Oroſy vnd dē vol¬
+genn wir noch in den zweien erſtē alteren zuͦglicherwiß ouch in den zweien nochgendē
+vßgenūmen an wenig orten wan̄ der text noch der hebreiſchen worheit vō d̓ gebuͦrt A¬
+brahe bitz vff die babiloniſch gefengniß iſt by vns gerechter vnd mit mher fliß vßgelegt
+dor vmb volgent wir im noch doch iſt clein vnderſcheit do. In dē fünfften alter hand
+wir groͤſer arbeit gehan durch zuͦ vil mancherley willen der hyſtorien ich beger ouch
+genod wā ich hab ietz eim ietz dē andern noch geuolget noch dē mich all̓ beſt beducht
+hat ob ich ouch alle jor recht noch einande̓ geordent oder gerechnet hab beuill ich vr
+teil des leſers. ich hab ouch mit vil arbeit zuͦ ſamen gefuͤgt die linien der aſſiriorū vnd
+der roͤmer vß mancherley hyſtorien bit ouch ob yemant geuiel abzuͦſchribenn diß buͦch
+das er mit fliß merck die vnderſcheidūg vnd gegēdienendē zal dar er nit witer oder en¬
+ger ſetz den das exemplar halt anders ſyn arbeit iſt nirgenfür vn̄ dor zuͦ ſchaffet er keī
+nutz. wirt ouch diß werck ſo vil felſcher ſo es kurtz begriffene̓ iſt es ſige dan̄ daſ mā fli
+ſenlich das merck vn̄ halt. iſt aber ſach das einer ordēdclih dieſe dīg veruaß das wir
+meinent lichticlich geſchehē muͤg ſo wirt es im nit wenig erlüchtūg gebē zuͤ verſtent.
+niß d̓ heiligē geſchrifft vnd d̓ buͤcher Auguſtini Iheronimi vnd Oroſy vn̄ d̓ anderē ⁊cͣ.
+iſt echter wor das wir in vil buͤcherē geſchribē vīdēt. Dor noch in dē ſechſtē alter vol
+gent wir noch der croniken Martini vn̄ Uincentij die gont bitz vff ir zit gar begriflich
+noch denen by cc jor volgt ich noch eim treflichem buͦch des dichter ich nit weiß das
+ſelb buͦch ſtregt ſich ouch gar noch vff ſyn zit was dor noch gedechtniß wirdig geſche¬
+hen iſt alß wir gehat vnd geſehen hand. habent wir getrülich den vorderē geſchichtē
+zuͦ geſchribē die ding werdē alle in dieſem buͦch mit groſer kürtzi offēbaͤr die ordenūg</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=55964:lm=provided:date=11_12_2023_10:49</Creator>
+		<Created>2023-12-11T09:34:55.147+01:00</Created>
+		<LastChange>2024-03-05T20:52:11.148+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075173" pageNr="178" tsid="154460365" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=QJJKOQSYCOWZPOCBJMWVZHVH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FZDZSIFVPUJIGZAEZLGACZDK" imageId="52869711"/>
+	</Metadata>
+	<Page imageFilename="7788732.jpg" imageWidth="2898" imageHeight="3804">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711357042468" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1702291615889_1934"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1702291615889_1934" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="1229,580 2562,580 2526,2880 1193,2880"/>
+			<TextLine id="region_1702291615889_1934_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1253,678 2438,711 2523,700 2521,641 2253,635 2165,590 2051,627 1250,593"/>
+				<Baseline points="1260,653 1304,656 1349,653 1394,653 1439,653 1483,653 1528,656 1573,659 1618,659 1663,662 1707,662 1752,662 1797,662 1842,665 1887,665 1931,665 1976,668 2021,668 2066,671 2111,671 2155,674 2200,677 2245,677 2290,677 2334,680 2379,683 2424,686 2469,689 2514,686 2526,689"/>
+				<TextEquiv>
+					<Unicode>Eyn ſaͤndbrieff als eyner den andern mant ſeiner verſten xv</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="1252,727 2516,763 2496,700 1252,679"/>
+				<Baseline points="1260,710 1304,707 1349,707 1394,710 1439,710 1483,713 1528,713 1573,713 1618,713 1663,716 1707,716 1752,716 1797,716 1842,719 1887,722 1931,722 1976,722 2021,725 2066,725 2111,728 2155,731 2200,731 2245,734 2290,737 2334,737 2379,740 2424,737 2469,740 2514,743 2520,746"/>
+				<TextEquiv>
+					<Unicode>Als eyn herr ſeinen mitburgern zuͦſchreibt ſy on ſchaden zele</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="1255,780 2531,812 2496,761 1253,726"/>
+				<Baseline points="1263,767 1307,761 1352,761 1397,764 2534,798"/>
+				<TextEquiv>
+					<Unicode>ſen am xv</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="1253,838 2513,860 2512,819 2273,798 1252,779"/>
+				<Baseline points="1263,815 1307,812 1352,812 1397,818 1442,818 1486,821 1531,821 1576,824 1621,824 1666,824 1710,824 1755,827 1800,827 1845,830 1890,830 1934,830 1979,830 2024,836 2069,839 2113,839 2158,842 2203,845 2248,842 2293,845 2337,845 2382,847 2427,847 2472,847 2517,850"/>
+				<TextEquiv>
+					<Unicode>Als eyn herr ſeinen mitburgern brieff gibt ſy zebiten burger</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="1253,894 2516,924 2515,868 1252,828"/>
+				<Baseline points="1263,877 1304,868 1349,868 1394,871 1439,871 1483,871 1528,877 2519,905"/>
+				<TextEquiv>
+					<Unicode>zewerden am xv</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="1250,946 2508,966 2480,916 2256,895 1249,897"/>
+				<Baseline points="1257,916 1301,919 1346,922 1391,922 1436,925 1480,925 1525,931 1570,928 1615,928 1660,928 1704,928 1749,931 1794,937 1839,937 1884,937 1928,937 1973,937 2018,940 2063,940 2108,940 2152,943 2197,946 2242,949 2287,949 2331,949 2376,955 2421,955 2466,955 2511,952"/>
+				<TextEquiv>
+					<Unicode>Eyn credentz glaubwirdig zeenpfahen als der perſon xv</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="1252,980 2507,1020 2457,966 1252,945"/>
+				<Baseline points="1260,973 1304,973 1349,976 1394,976 1439,979 1483,979 1528,982 1573,982 1618,985 1663,985 1707,985 1752,988 1797,988 1842,988 1887,991 1931,991 1976,991 2021,991 2066,991 2111,994 2155,997 2200,997 2245,1000 2290,1003 2334,1006 2379,1006 2424,1006 2469,1006 2511,1012"/>
+				<TextEquiv>
+					<Unicode>Eyn credentz als eyn fuͤrſt zweyen part heyenn tag ſetzt für</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="1253,1054 2513,1074 2486,1018 1252,990"/>
+				<Baseline points="1263,1030 1307,1027 1352,1027 1397,1030 1442,1030 1486,1033 1531,1036 1576,1036 1621,1039 1666,1039 1710,1045 1755,1042 1800,1042 1845,1045 1890,1042 1934,1042 1979,1048 2024,1045 2069,1048 2113,1048 2158,1051 2203,1051 2248,1054 2293,1054 2337,1056 2382,1059 2427,1059 2472,1062 2517,1065"/>
+				<TextEquiv>
+					<Unicode>ſich vnd der eyn teyl gewalthaber ſaͤndet volmaͤchtig den ſa</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="1245,1102 2496,1140 2478,1082 1245,1055"/>
+				<Baseline points="1254,1080 1298,1080 1343,1080 1388,1083 1433,1086 1478,1086 1522,1086 1567,1089 1612,1089 1657,1092 2500,1114"/>
+				<TextEquiv>
+					<Unicode>chen beyſtaͤndig am xv</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="1250,1157 2513,1185 2512,1138 2427,1119 1249,1108"/>
+				<Baseline points="1257,1131 1301,1134 1346,1137 1391,1137 1436,1137 1480,1140 1525,1143 1570,1143 1615,1143 1660,1146 1704,1146 1749,1146 1794,1146 1839,1149 1884,1152 1928,1155 1973,1155 2018,1155 2063,1155 2108,1155 2152,1155 2197,1155 2242,1158 2287,1158 2331,1161 2376,1164 2421,1164 2466,1170 2511,1176 2514,1176"/>
+				<TextEquiv>
+					<Unicode>Eyn credentz als eyn rat oder eyn gemeyn an eyn weltlichē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291675148_1949" custom="readingOrder {index:10;}">
+				<Coords points="1245,1213 2513,1237 2500,1186 1244,1159"/>
+				<Baseline points="1254,1191 1298,1188 1343,1194 1388,1194 1433,1194 1478,1194 1522,1194 1567,1197 1612,1200 1657,1197 1701,1200 1746,1200 1791,1200 1836,1203 1881,1203 1925,1206 1970,1206 2015,1209 2060,1209 2105,1209 2149,1209 2179,1215 2442,1227 2487,1224 2517,1230"/>
+				<TextEquiv>
+					<Unicode>oder geyſtlichen eyn machtbotten ſandet am xvi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291677336_1953" custom="readingOrder {index:11;}">
+				<Coords points="1249,1247 2505,1293 2504,1242 2435,1236 1249,1212"/>
+				<Baseline points="1257,1239 1301,1242 1346,1242 1391,1242 1436,1245 1480,1248 1525,1248 1570,1248 1615,1251 1660,1251 1704,1254 1749,1254 1794,1254 1839,1257 1884,1257 1928,1260 1973,1263 1979,1263 2436,1280 2481,1274 2508,1280"/>
+				<TextEquiv>
+					<Unicode>Eyn credentz an eynen fürſten am xvi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291680564_1958" custom="readingOrder {index:12;}">
+				<Coords points="1242,1298 2507,1345 2468,1289 1241,1253"/>
+				<Baseline points="1251,1295 1295,1292 1340,1295 1385,1295 1430,1298 1475,1298 1519,1301 1564,1304 1609,1304 1654,1304 1698,1304 1743,1304 1788,1307 1833,1310 1878,1310 1887,1310 2436,1334 2466,1328 2511,1331"/>
+				<TextEquiv>
+					<Unicode>Als man vmb ſigel bittet am xvi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291682458_1962" custom="readingOrder {index:13;}">
+				<Coords points="1242,1361 2510,1399 2497,1345 1241,1297"/>
+				<Baseline points="1251,1349 1295,1349 1340,1349 1385,1352 1430,1352 1475,1355 1519,1355 1564,1355 1609,1355 1654,1358 1698,1361 1743,1358 1788,1361 1833,1361 1878,1364 1922,1367 1967,1367 2012,1367 2057,1367 2102,1370 2146,1370 2191,1373 2218,1376 2439,1385 2484,1382 2514,1388"/>
+				<TextEquiv>
+					<Unicode>So man eyn vrteyl in ſchrifft überantwurt am xvi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291683912_1966" custom="readingOrder {index:14;}">
+				<Coords points="1236,1408 2505,1452 2480,1394 1236,1365"/>
+				<Baseline points="1245,1400 1289,1400 1334,1403 1379,1403 1424,1409 1469,1406 1513,1406 1558,1409 1603,1409 1648,1409 1692,1412 1737,1412 1782,1415 1827,1418 1872,1418 1916,1418 1961,1421 2006,1421 2051,1424 2096,1424 2140,1421 2185,1424 2230,1427 2272,1427 2412,1439 2457,1436 2502,1439 2508,1439"/>
+				<TextEquiv>
+					<Unicode>So man glück wünſcht zuͦ eyner wirdigkeyt am xvii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_21" custom="readingOrder {index:15;}">
+				<Coords points="1242,1464 2505,1504 2489,1448 1241,1408"/>
+				<Baseline points="1251,1457 1295,1454 1340,1457 1385,1457 1430,1460 1475,1460 1519,1460 1564,1460 1609,1460 1654,1463 1698,1463 1743,1463 1788,1469 1833,1469 1878,1475 1922,1475 1967,1475 2012,1475 2057,1478 2102,1475 2146,1478 2191,1483 2236,1483 2281,1483 2325,1483 2370,1486 2415,1492 2460,1486 2505,1492 2508,1492"/>
+				<TextEquiv>
+					<Unicode>Als eyner dē and̓n ſchreibt auff eyn begrebnuß zekomē xvii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291686726_1970" custom="readingOrder {index:16;}">
+				<Coords points="1249,1512 2508,1556 2505,1504 1247,1466"/>
+				<Baseline points="1257,1504 1301,1504 1346,1507 1391,1507 1436,1510 1480,1510 1525,1510 1570,1513 1615,1513 1660,1513 1704,1513 1749,1516 1794,1519 1839,1519 1884,1522 1928,1522 1967,1525 2421,1549 2421,1546 2466,1543 2511,1546"/>
+				<TextEquiv>
+					<Unicode>Als eyn fürſt grauen antwurt am xvii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291688470_1974" custom="readingOrder {index:17;}">
+				<Coords points="1236,1562 2237,1620 2489,1618 2502,1557 1234,1524"/>
+				<Baseline points="1245,1555 1289,1558 1334,1561 1379,1561 1424,1561 1469,1561 1513,1564 1558,1564 1603,1564 1648,1567 1692,1567 1737,1570 1782,1570 1827,1573 1872,1573 1916,1573 1961,1576 2006,1576 2033,1579 2421,1600 2466,1597 2508,1600"/>
+				<TextEquiv>
+					<Unicode>Eyn vrkund eyner eelichen geburt am xvii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291689952_1978" custom="readingOrder {index:18;}">
+				<Coords points="1236,1624 2500,1667 2484,1610 1234,1556"/>
+				<Baseline points="1245,1609 1289,1612 1334,1612 1379,1612 1424,1615 1469,1618 1513,1615 1558,1618 1603,1621 1648,1621 1692,1624 1737,1624 1782,1624 1827,1627 1872,1630 1916,1630 1961,1630 2006,1630 2051,1633 2096,1636 2137,1636 2415,1657 2460,1651 2502,1657"/>
+				<TextEquiv>
+					<Unicode>Eyn ander form eyner eelichen geburt am xvii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291693176_1983" custom="readingOrder {index:19;}">
+				<Coords points="1237,1677 2496,1722 2484,1660 1236,1636"/>
+				<Baseline points="1245,1663 1289,1663 1334,1666 1379,1666 1424,1669 1469,1669 1513,1669 1558,1672 1603,1672 1648,1675 1692,1678 1737,1678 1782,1681 1818,1681 2403,1704 2448,1701 2493,1707 2499,1707"/>
+				<TextEquiv>
+					<Unicode>Eyn andere kuntſchafft am xviii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_30" custom="readingOrder {index:20;}">
+				<Coords points="1236,1733 2283,1787 2504,1771 2502,1720 1233,1664"/>
+				<Baseline points="1245,1716 1289,1716 1334,1719 1379,1722 1424,1722 1469,1722 1513,1725 1558,1725 1603,1725 1648,1728 1692,1731 1737,1731 1782,1731 1827,1731 1872,1734 1916,1734 1961,1737 2006,1737 2051,1737 2096,1740 2140,1740 2185,1746 2230,1749 2275,1752 2320,1752 2364,1758 2409,1755 2454,1755 2499,1761 2508,1761"/>
+				<TextEquiv>
+					<Unicode>Eyn guͦtte fürderung eyns todſchlagß kurtz begriffen xviii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291694690_1987" custom="readingOrder {index:21;}">
+				<Coords points="1236,1771 2419,1839 2497,1823 2496,1773 1234,1731"/>
+				<Baseline points="1245,1767 1289,1770 1334,1773 1379,1773 1424,1776 1469,1776 1513,1779 1558,1779 1603,1779 1648,1782 1692,1782 1737,1782 1782,1785 1827,1788 1872,1791 1916,1788 1961,1791 2006,1791 2051,1791 2096,1794 2140,1797 2155,1800 2382,1812 2427,1809 2472,1809 2502,1812"/>
+				<TextEquiv>
+					<Unicode>Eyn fürdernuß an eyn kirchen zeſamlen am xviii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_33" custom="readingOrder {index:22;}">
+				<Coords points="1234,1839 2184,1853 2337,1896 2510,1879 2508,1829 1231,1771"/>
+				<Baseline points="1242,1824 1286,1824 1331,1824 1376,1827 1421,1827 1466,1833 1510,1830 1555,1833 1600,1833 1645,1833 1690,1836 1734,1836 1779,1839 1824,1839 1869,1842 1913,1842 1958,1845 2003,1845 2048,1848 2514,1868"/>
+				<TextEquiv>
+					<Unicode>Bekantnuß getrewer handlangen am xix</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291700247_1992" custom="readingOrder {index:23;}">
+				<Coords points="1225,1890 2429,1944 2497,1938 2496,1883 1223,1845"/>
+				<Baseline points="1233,1875 1277,1875 1322,1878 1367,1881 1412,1881 1457,1884 1501,1884 1546,1884 1591,1884 1636,1890 1681,1890 1725,1893 1770,1896 1815,1896 1860,1896 1904,1896 1949,1896 1994,1896 2039,1901 2084,1901 2128,1899 2173,1901 2218,1901 2263,1907 2308,1907 2352,1910 2391,1910 2430,1916 2475,1916 2502,1916"/>
+				<TextEquiv>
+					<Unicode>Eyn fürdernußbrieff wa eyn gotzhauß gebrechen hat xix</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_36" custom="readingOrder {index:24;}">
+				<Coords points="1225,1947 2507,1981 2470,1928 1223,1890"/>
+				<Baseline points="1233,1931 1277,1928 1322,1931 1367,1934 1412,1934 1457,1940 1501,1940 1546,1940 1591,1940 1636,1943 1681,1943 1725,1946 1770,1946 1815,1946 1860,1946 1904,1946 1949,1946 1994,1946 2039,1946 2084,1949 2511,1971"/>
+				<TextEquiv>
+					<Unicode>Als eyner gefürdert wirt an eyn dienſt am xx</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_37" custom="readingOrder {index:25;}">
+				<Coords points="1223,2016 1974,2006 2270,2048 2497,2040 2497,1990 1221,1946"/>
+				<Baseline points="1230,1985 1274,1985 1319,1988 1364,1988 1409,1988 1454,1988 1498,1991 1543,1994 1588,1991 1633,1994 1678,1994 1722,1994 1767,1994 1812,1994 1857,1994 1901,1994 1946,1997 1991,1997 2036,1997 2081,2000 2110,2004 2501,2022"/>
+				<TextEquiv>
+					<Unicode>Eyn fürdernuß ſo etwas verſtolen wirt am xx</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_38" custom="readingOrder {index:26;}">
+				<Coords points="1229,2051 2496,2088 2468,2034 1228,2003"/>
+				<Baseline points="1236,2036 1280,2036 1325,2039 1370,2039 1415,2039 1460,2039 1504,2042 1549,2042 1594,2048 1639,2045 1684,2045 1728,2045 1773,2045 1818,2048 1863,2048 1907,2051 1952,2051 1997,2051 2042,2051 2087,2057 2500,2078"/>
+				<TextEquiv>
+					<Unicode>Eyn fürdernußbrieff eynem cappellan am xx</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_39" custom="readingOrder {index:27;}">
+				<Coords points="1233,2096 2195,2163 2497,2144 2494,2088 2432,2083 1231,2051"/>
+				<Baseline points="1242,2090 1286,2090 1331,2090 1376,2090 1421,2093 1466,2090 1510,2093 1555,2096 1600,2096 1645,2102 1690,2102 1734,2102 1779,2099 1824,2102 1869,2102 1913,2102 1958,2105 2003,2105 2048,2108 2093,2111 2137,2116 2182,2119 2227,2119 2272,2125 2317,2128 2361,2131 2406,2128 2451,2128 2496,2131 2499,2131"/>
+				<TextEquiv>
+					<Unicode>Eyn fürdernuß von grafen herren rittern oder ſunſt hohen leü</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_40" custom="readingOrder {index:28;}">
+				<Coords points="1221,2147 2320,2208 2473,2201 2491,2141 1220,2106"/>
+				<Baseline points="1230,2140 1274,2140 1319,2143 1364,2146 2497,2182"/>
+				<TextEquiv>
+					<Unicode>ten. am xx</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_41" custom="readingOrder {index:29;}">
+				<Coords points="1229,2211 2413,2261 2504,2251 2502,2192 1226,2147"/>
+				<Baseline points="1236,2191 1280,2194 1325,2197 1370,2197 1415,2197 1460,2200 1504,2203 1549,2206 1594,2206 1639,2206 1684,2209 1728,2209 1773,2209 1818,2209 1863,2212 1907,2212 1952,2212 1997,2215 2042,2218 2087,2218 2131,2221 2176,2224 2221,2227 2508,2241"/>
+				<TextEquiv>
+					<Unicode>Eyn fürdernuß als eyn herr eynen verſpricht am xxi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_42" custom="readingOrder {index:30;}">
+				<Coords points="1229,2256 2446,2321 2497,2315 2496,2248 1228,2211"/>
+				<Baseline points="1239,2248 1283,2248 1328,2251 1373,2251 1418,2251 1463,2254 1507,2254 1552,2257 1597,2260 1642,2260 1687,2260 1731,2263 1776,2263 1821,2263 1866,2269 1910,2266 1955,2269 2500,2287"/>
+				<TextEquiv>
+					<Unicode>Eyn fürdernuß eyns todſchlagß am xxi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_43" custom="readingOrder {index:31;}">
+				<Coords points="1229,2321 2488,2347 2486,2310 2393,2296 1228,2259"/>
+				<Baseline points="1236,2302 1280,2299 1325,2305 1370,2305 1415,2305 1460,2305 1504,2311 1549,2311 1594,2314 1639,2314 1684,2317 1728,2317 1773,2317 1818,2317 1863,2317 1907,2320 1952,2323 1997,2323 2042,2325 2087,2325 2131,2328 2176,2328 2221,2331 2266,2334 2311,2337 2355,2337 2400,2340 2445,2337 2490,2337"/>
+				<TextEquiv>
+					<Unicode>Da eyn meyſter eynem knecht der bey im gelernet hat kunt¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291722983_2002" custom="readingOrder {index:32;}">
+				<Coords points="1231,2379 2457,2422 2504,2411 2502,2350 1229,2321"/>
+				<Baseline points="1239,2355 1283,2355 1328,2358 1373,2361 1418,2358 1463,2358 1507,2364 1552,2367 1561,2367 2406,2391 2451,2394 2496,2394 2508,2394"/>
+				<TextEquiv>
+					<Unicode>ſchafft gibt am xxi.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_46" custom="readingOrder {index:33;}">
+				<Coords points="1229,2421 2384,2472 2489,2459 2488,2413 1228,2377"/>
+				<Baseline points="1239,2409 1283,2412 1328,2412 1373,2415 1418,2415 1463,2415 1507,2418 1552,2421 1597,2421 1642,2421 1687,2424 1731,2424 1776,2424 1821,2424 1866,2430 1910,2430 1955,2427 2000,2430 2045,2430 2090,2436 2134,2436 2179,2439 2224,2439 2269,2442 2314,2445 2358,2445 2403,2445 2448,2445 2493,2454"/>
+				<TextEquiv>
+					<Unicode>Als eyn herr eynem fürdernuß gibt in auff eyn altar zeinue</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291726195_2006" custom="readingOrder {index:34;}">
+				<Coords points="1234,2491 2484,2512 2481,2457 1771,2472 1231,2421"/>
+				<Baseline points="1242,2469 1286,2466 1331,2469 1376,2469 1421,2469 1451,2469 2403,2505 2442,2499 2487,2502"/>
+				<TextEquiv>
+					<Unicode>ſtieren am xxii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291727901_2010" custom="readingOrder {index:35;}">
+				<Coords points="1228,2528 2329,2574 2475,2561 2473,2510 2256,2537 1687,2476 1226,2491"/>
+				<Baseline points="1236,2517 1280,2520 1325,2520 1370,2523 1415,2520 1460,2523 1504,2526 1549,2526 1594,2529 1639,2532 1684,2532 1728,2529 1773,2532 1818,2532 1863,2537 1907,2537 1913,2540 2397,2558 2433,2555 2478,2555"/>
+				<TextEquiv>
+					<Unicode>Fürdernuß eelicher geburt am xxii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_51" custom="readingOrder {index:36;}">
+				<Coords points="1225,2584 2325,2633 2476,2619 2475,2563 1223,2529"/>
+				<Baseline points="1233,2570 1277,2573 1322,2573 1367,2573 1412,2573 1457,2576 1501,2579 1546,2582 1591,2582 1636,2582 1681,2585 1725,2585 1770,2585 1815,2585 1860,2588 1904,2591 1949,2591 1994,2591 2039,2594 2084,2594 2128,2597 2173,2597 2218,2600 2263,2600 2308,2603 2352,2603 2397,2603 2442,2603 2481,2603"/>
+				<TextEquiv>
+					<Unicode>Eyn guͦt fürdernußbrieff als eyn iunger von land zeucht die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291730036_2014" custom="readingOrder {index:37;}">
+				<Coords points="1225,2633 2438,2681 2475,2620 1223,2590"/>
+				<Baseline points="1233,2624 1277,2624 1322,2624 1367,2627 1412,2627 1457,2630 1501,2633 1519,2633 2394,2663 2436,2660 2481,2660"/>
+				<TextEquiv>
+					<Unicode>nens halb am xxii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_54" custom="readingOrder {index:38;}">
+				<Coords points="1225,2708 2483,2726 2481,2670 1223,2632"/>
+				<Baseline points="1233,2681 1277,2678 1322,2678 1367,2681 1412,2681 1457,2684 1501,2687 1546,2687 1591,2690 1636,2690 1681,2690 1725,2690 1770,2693 1815,2696 1860,2696 1904,2696 1949,2696 1994,2696 2039,2699 2084,2705 2128,2708 2173,2705 2218,2705 2263,2708 2308,2708 2352,2711 2397,2714 2442,2711 2487,2717"/>
+				<TextEquiv>
+					<Unicode>Als man fuͤr eynen bitt den man leiblos thuͦn will am xxii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702291615889_1934_tl_55" custom="readingOrder {index:39;}">
+				<Coords points="1276,2756 2438,2774 2421,2719 1274,2705"/>
+				<Baseline points="1283,2735 1328,2735 1373,2738 1418,2738 1463,2741 1507,2744 1552,2744 1597,2747 1642,2747 1687,2747 1731,2749 1776,2749 1821,2752 1866,2752 1910,2752 1955,2755 2000,2758 2045,2758 2090,2761 2134,2764 2179,2764 2224,2764 2269,2764 2314,2764 2358,2764 2403,2767 2442,2770"/>
+				<TextEquiv>
+					<Unicode>So volgt hie nach das regiſter der gemeynen brieff</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702291731788_2018" custom="readingOrder {index:40;}">
+				<Coords points="1226,2860 1495,2817 1850,2859 1954,2809 2488,2839 2486,2766 2278,2809 1223,2745"/>
+				<Baseline points="1233,2791 1277,2788 1322,2788 1367,2788 1412,2791 1457,2794 1501,2797 1546,2800 1591,2800 1636,2803 1681,2800 1725,2803 1770,2803 1815,2803 1860,2803 1904,2806 1928,2809 2388,2824 2400,2821 2445,2818 2490,2821"/>
+				<TextEquiv>
+					<Unicode>Gewaltzbrieff zeinß zeſamben am xxiii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Eyn ſaͤndbrieff als eyner den andern mant ſeiner verſten xv
+Als eyn herr ſeinen mitburgern zuͦſchreibt ſy on ſchaden zele
+ſen am xv
+Als eyn herr ſeinen mitburgern brieff gibt ſy zebiten burger
+zewerden am xv
+Eyn credentz glaubwirdig zeenpfahen als der perſon xv
+Eyn credentz als eyn fuͤrſt zweyen part heyenn tag ſetzt für
+ſich vnd der eyn teyl gewalthaber ſaͤndet volmaͤchtig den ſa
+chen beyſtaͤndig am xv
+Eyn credentz als eyn rat oder eyn gemeyn an eyn weltlichē
+oder geyſtlichen eyn machtbotten ſandet am xvi
+Eyn credentz an eynen fürſten am xvi
+Als man vmb ſigel bittet am xvi
+So man eyn vrteyl in ſchrifft überantwurt am xvi
+So man glück wünſcht zuͦ eyner wirdigkeyt am xvii
+Als eyner dē and̓n ſchreibt auff eyn begrebnuß zekomē xvii
+Als eyn fürſt grauen antwurt am xvii
+Eyn vrkund eyner eelichen geburt am xvii
+Eyn ander form eyner eelichen geburt am xvii
+Eyn andere kuntſchafft am xviii
+Eyn guͦtte fürderung eyns todſchlagß kurtz begriffen xviii
+Eyn fürdernuß an eyn kirchen zeſamlen am xviii
+Bekantnuß getrewer handlangen am xix
+Eyn fürdernußbrieff wa eyn gotzhauß gebrechen hat xix
+Als eyner gefürdert wirt an eyn dienſt am xx
+Eyn fürdernuß ſo etwas verſtolen wirt am xx
+Eyn fürdernußbrieff eynem cappellan am xx
+Eyn fürdernuß von grafen herren rittern oder ſunſt hohen leü
+ten. am xx
+Eyn fürdernuß als eyn herr eynen verſpricht am xxi
+Eyn fürdernuß eyns todſchlagß am xxi
+Da eyn meyſter eynem knecht der bey im gelernet hat kunt¬
+ſchafft gibt am xxi.
+Als eyn herr eynem fürdernuß gibt in auff eyn altar zeinue
+ſtieren am xxii
+Fürdernuß eelicher geburt am xxii
+Eyn guͦt fürdernußbrieff als eyn iunger von land zeucht die
+nens halb am xxii
+Als man fuͤr eynen bitt den man leiblos thuͦn will am xxii
+So volgt hie nach das regiſter der gemeynen brieff
+Gewaltzbrieff zeinß zeſamben am xxiii</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

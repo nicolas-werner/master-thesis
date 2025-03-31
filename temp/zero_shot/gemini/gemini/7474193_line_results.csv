@@ -1,0 +1,33 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,geile vn̄ begirig ſind/ ſo legten ſy alle zucht vnd ſcham vō,geile vin begirig sind/so legten sy alle zucht vnd scham võ,0.13333333333333333,0.5,0.5,7474193,gemini
+2,in zuͦ volbringung boͤſer dingen/ Sy leben wol hundertt,in zu volbungung båser dingen/Sy leben wol hundertt,0.12727272727272726,0.5555555555555556,0.5555555555555556,7474193,gemini
+3,vn̄ fünffzig iar vnd werden ſelten kranck/ Und ob ſy et¬,vn fünffsig iar vnd werden selten Franck/And ob sy et/,0.14285714285714285,0.6363636363636364,0.6363636363636364,7474193,gemini
+4,wen in kranckheit fallen ſo heilen ſy ſich ſelbs mit ettlithē,wen in Franckheit fallen so heilen sy sich selbs mit etrlithe,0.11475409836065574,0.5454545454545454,0.5454545454545454,7474193,gemini
+5,wurtzen der kreüter/ Diß ſind die fürmercklichſten ding,wurzen der Freüter/Diß sind die fürmercklichsten ding,0.09090909090909091,0.625,0.625,7474193,gemini
+6,die ich by innen geſehen vnd erkant hab/ Der lufft iſt an,die ich By innen gesehen vnd erkant hab/Der lufft ist an,0.07017543859649122,0.4166666666666667,0.4166666666666667,7474193,gemini
+7,dem ende gar geſund vnd wol temperieret vn̄ guͦt/ Und,dem ende gar gesind vnd wol temperieret vn gut/And,0.11320754716981132,0.4,0.4,7474193,gemini
+8,ſo vil ich vß yrem ſagē verſton kond vnd erkennen mocht,so vil ich vß yrem sage verston kond vnd erkennen mocht,0.07272727272727272,0.2727272727272727,0.2727272727272727,7474193,gemini
+9,ſo iſt an dem ende nyemer keyn peſtlentz oder eyniche ſie,so ist an dem ende nyemer keyn pestlentz oder eyniche sie,0.07017543859649122,0.36363636363636365,0.36363636363636365,7474193,gemini
+10,chung die von boͤſem lufft kumpt/ Und wo ſy nit vō fre¬,chung die von Bösem lufft Eumpt/And wo sy nit vo fre,0.18181818181818182,0.5,0.5,7474193,gemini
+11,felem getzwungenē tod ſterben ſo leben ſy by langē zyten,felem getzwungene tod sterben so leben sy by lange syten,0.10714285714285714,0.6,0.6,7474193,gemini
+12,Ich mein das an dē ende alzeit die mittegigē wynd weyē,Ich mein das an de ende alzeit die mittegige wynd weyć,0.05555555555555555,0.2727272727272727,0.2727272727272727,7474193,gemini
+13,vnd vorab allermeyſt den wir nennen etwan der inen al¬,vnd vorab allermeyst den wir nennen etwan der inen al,0.037037037037037035,0.2,0.2,7474193,gemini
+14,ſo iſt wie vnß der mittenechtig wind genāt. Aquilo / Sy,so ist wie vnß der mittenechtig wind genat. Aquilo/Sy,0.09090909090909091,0.5454545454545454,0.5454545454545454,7474193,gemini
+15,ſind künſtrich mit viſchen vnd viſchfahen/ Und daſſelb,find künstrich mit vischen vnd vischfahen/Und dasselb,0.12962962962962962,0.75,0.75,7474193,gemini
+16,mer iſt voͤllig vnd von vil viſchen vnnd von allen vnd al¬,mer ist völlig vnd von vil vischen vnnd von allen vnd al,0.08620689655172414,0.3333333333333333,0.3333333333333333,7474193,gemini
+17,lerley viſchen überflüſſig/ Da ſynd nit ieger vn̄ ich mein,lerley vischen überflüssig/Da synd nit ieger vin ich mein,0.1206896551724138,0.5,0.5,7474193,gemini
+18,ſo da ſynd vil wilder waldthieren geſchlecht vnd beſund̓,so da synd vil wilder waldthieren geschlecht und Besimd,0.16071428571428573,0.5555555555555556,0.5555555555555556,7474193,gemini
+19,lowen vnd beren vnd on zall vil ſchlangen vnd anderer,lowen vnd beren vnd on zall vil ſchlangen und anderer,0.018867924528301886,0.1,0.1,7474193,gemini
+20,gruſelichen vnd vngeſtalten dieren/ Dar zu vnd als an,gruselichen vnd vngestalten dieren/Dar zu vnd als an,0.05660377358490566,0.4444444444444444,0.4444444444444444,7474193,gemini
+21,denen enden lang vnd breyt weld vnnd baum über alle,Henen enden lang vnd breyt weld vnnd Baum über alle,0.0392156862745098,0.2,0.2,7474193,gemini
+22,maß groß vnd ſo ſy nackend ſynd gethuͤren ſy ſich ſolich,maß groß vnd so sy nackend synd gethiiren ſy ſich ſolich,0.08928571428571429,0.36363636363636365,0.36363636363636365,7474193,gemini
+23,er dingen nit vnder ſtan on waffen/ Das ertrich diſer,er dingen nit vnder stan on waffen/ Dasertrich diser,0.05660377358490566,0.4,0.4,7474193,gemini
+24,landen vnnd region iſt faſt fruchtbar vnd luſtiger an¬,landen vnnd region ist fast fruchtbar vnd lustiger an,0.07407407407407407,0.4444444444444444,0.4444444444444444,7474193,gemini
+25,ſehung vnd von vil bergen vnd Buͦhelen vnd on zall vil,sehung vnd von vil bergenvnd Bihelen vnd on zall vil,0.07407407407407407,0.36363636363636365,0.36363636363636365,7474193,gemini
+26,Theler vnnd mit faſt groſſen flieſſenden waſſeren/ über,Theler vnnd mit fast grossen fliessenden wasseren/über,0.14545454545454545,0.625,0.625,7474193,gemini
+27,flüſſig/ Und von guͦten heylſamē brunnen gefuchtet vn̄,flüssig/And von guten beylſame Byunnen gefuchtet vi,0.2037037037037037,0.75,0.75,7474193,gemini
+28,mit groſſen breytten welden vnnd dick die kum̄ vnnd,mit grossen Breytten welden vnnd dick die kum vnnd,0.0784313725490196,0.3333333333333333,0.3333333333333333,7474193,gemini
+29,ſchwarlich moͤgen durchgangen werden vnnd die von,schwarlich mogen durchgangen werden vnnd die von,0.04081632653061224,0.2857142857142857,0.2857142857142857,7474193,gemini
+30,allerley willden thyeren vnderſcheid voll vnd überſetzt/,allerley wilden thyeren onderscheid voll und übersetzt/,0.08928571428571429,0.5714285714285714,0.5714285714285714,7474193,gemini
+31,Da wachßen ſelbs on alle der lüten zuͦthon vnd arbeytt,Da wachen selbs on alle der lüten zuth on vnd arbeytt,0.07407407407407407,0.4,0.4,7474193,gemini
+32,die aller groͤſten boum/ Und vnder den ſelben vil die frü,die aller grösten Boum/And vnder den selben vil die frü,0.12280701754385964,0.36363636363636365,0.36363636363636365,7474193,gemini

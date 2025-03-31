@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=55964:lm=provided:date=11_12_2023_12:46</Creator>
+		<Created>2023-12-11T09:34:55.312+01:00</Created>
+		<LastChange>2024-03-23T12:12:33.747+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075175" pageNr="180" tsid="154460369" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=QIVVZBYVYXRSXTIJMVOKNQZZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FAIUWWRMRFSODLSIPSJUGHHT" imageId="52869722"/>
+	</Metadata>
+	<Page imageFilename="7788734.jpg" imageWidth="2898" imageHeight="3804">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711357053111" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1702294995107_2240"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1702294995107_2240" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="1204,623 2584,623 2584,2883 1204,2883"/>
+			<TextLine id="region_1702294995107_2240_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="1257,727 2522,720 2522,642 2337,617 2184,660 1645,615 1414,673 1257,653"/>
+				<Baseline points="1266,707 1271,710 1316,704 1361,704 1406,704 1451,704 1495,701 1540,701 1585,704 1630,701 1675,701 1719,701 1764,701 1809,698 1854,698 1899,698 1943,698 1988,695 2033,695 2078,698 2122,698 2167,698 2212,698 2257,701 2302,701 2346,698 2391,698 2436,701 2481,701 2526,701"/>
+				<TextEquiv>
+					<Unicode>Als eyn herr eynem amptman quitiert ſeins einnemens vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702295063053_2248" custom="readingOrder {index:1;}">
+				<Coords points="1257,778 2522,768 2522,720 2197,706 2131,748 1922,706 1257,725"/>
+				<Baseline points="1266,767 1298,761 1343,764 1388,758 1433,758 1478,758 1522,755 1567,758 2415,758 2436,758 2481,755 2526,755"/>
+				<TextEquiv>
+					<Unicode>außgebens am xxxv</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_4" custom="readingOrder {index:2;}">
+				<Coords points="1257,824 2527,823 2516,760 1257,772"/>
+				<Baseline points="1266,815 1277,815 1322,815 1367,815 1412,815 1457,812 1501,812 1546,812 1591,812 1636,812 1681,812 1725,812 1770,809 1815,809 1860,809 1904,806 1949,806 1994,806 2039,806 2084,806 2128,806 2173,806 2218,809 2263,809 2308,812 2352,812 2397,812 2442,815 2487,809 2532,809"/>
+				<TextEquiv>
+					<Unicode>Eyn quitantz eyner gemeyn vmb ſchatzſteür am xxxvi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_5" custom="readingOrder {index:3;}">
+				<Coords points="1257,890 2522,875 2481,816 1257,829"/>
+				<Baseline points="1266,871 1271,871 1316,865 1361,868 1406,868 1451,865 1495,865 1540,865 1585,865 1630,865 1675,865 1719,862 1764,862 1809,862 1854,862 1899,862 1943,862 1988,862 2033,859 2078,859 2122,862 2167,862 2212,862 2257,862 2302,862 2346,862 2391,862 2436,862 2481,859 2526,859"/>
+				<TextEquiv>
+					<Unicode>Als eyner oder czwen vormünder quitieren von ir vormund¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702295065950_2253" custom="readingOrder {index:4;}">
+				<Coords points="1262,944 2519,930 2491,877 1262,888"/>
+				<Baseline points="1271,931 1313,922 1358,922 1403,922 1448,922 1492,922 1537,919 1582,919 1627,922 2403,919 2448,916 2493,916 2523,919"/>
+				<TextEquiv>
+					<Unicode>ſchafft wegen am xxxvi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_8" custom="readingOrder {index:5;}">
+				<Coords points="1262,995 2518,982 2519,928 2353,919 1264,946"/>
+				<Baseline points="1271,979 1313,976 1358,976 1403,976 1448,976 1492,976 1537,976 1582,973 1627,973 1672,973 1716,973 1761,973 1806,976 1851,973 1896,973 1940,970 1985,970 2030,970 2075,970 2119,970 2164,970 2209,970 2254,970 2299,973 2343,970 2388,970 2433,970 2478,973 2523,970"/>
+				<TextEquiv>
+					<Unicode>Da eyn prieſter von ſeiner pfruͤnd ſtat eym andern leicht vn̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702295068607_2257" custom="readingOrder {index:6;}">
+				<Coords points="1257,1054 2519,1038 2483,976 1979,1018 1257,995"/>
+				<Baseline points="1266,1033 1286,1033 1331,1030 1376,1030 1421,1027 1466,1027 1510,1030 2403,1030 2433,1027 2478,1024 2523,1027"/>
+				<TextEquiv>
+					<Unicode>quitiert am xxxvi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702295070411_2261" custom="readingOrder {index:7;}">
+				<Coords points="1259,1099 2522,1089 2522,1035 1259,1054"/>
+				<Baseline points="1268,1086 1283,1086 1328,1086 1373,1086 1418,1083 1463,1080 1507,1083 1552,1083 1597,1083 1642,1083 1687,1080 1731,1083 1776,1083 1821,1083 1866,1083 1910,1080 1955,1083 2403,1083 2436,1077 2481,1074 2526,1080"/>
+				<TextEquiv>
+					<Unicode>Eyn guͦtte form eyner vrfaͤcht am xxxvi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702295072278_2265" custom="readingOrder {index:8;}">
+				<Coords points="1254,1149 2526,1145 2498,1088 1254,1109"/>
+				<Baseline points="1263,1143 1277,1143 1322,1143 1367,1140 1412,1137 1457,1137 1501,1137 1546,1137 1591,1137 1636,1137 1681,1137 1725,1137 1770,1140 2379,1137 2424,1131 2469,1131 2514,1131 2529,1137"/>
+				<TextEquiv>
+					<Unicode>Eyn ſchlechte vrfach am xxxviii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702295074916_2269" custom="readingOrder {index:9;}">
+				<Coords points="1265,1206 2519,1201 2483,1141 1265,1152"/>
+				<Baseline points="1274,1197 1289,1194 1334,1194 1379,1191 1424,1191 1469,1191 1513,1194 1558,1191 1603,1191 1648,1191 1692,1191 1737,1191 2367,1191 2388,1188 2433,1185 2478,1185 2523,1188"/>
+				<TextEquiv>
+					<Unicode>Eyn ander vrfach am xxxviii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702295077138_2273" custom="readingOrder {index:10;}">
+				<Coords points="1259,1265 2519,1252 2519,1201 2470,1193 1259,1206"/>
+				<Baseline points="1268,1254 1274,1251 1319,1248 1364,1248 1409,1248 1454,1245 1498,1245 1543,1245 1588,1245 1633,1245 1678,1245 1722,1245 1767,1245 1812,1251 2415,1242 2433,1242 2478,1239 2523,1236"/>
+				<TextEquiv>
+					<Unicode>Aber eyn ander vrfaͤch am xxxix</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_19" custom="readingOrder {index:11;}">
+				<Coords points="1272,1318 2526,1304 2526,1248 2353,1241 1967,1249 1877,1289 1272,1267"/>
+				<Baseline points="1280,1304 1325,1301 1370,1301 1415,1298 1460,1295 1504,1295 1549,1298 1594,1298 1639,1295 1684,1295 1728,1298 1773,1298 1818,1298 1863,1304 2529,1290"/>
+				<TextEquiv>
+					<Unicode>Vrfaͤch kurtz mit bürgen am xl</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_20" custom="readingOrder {index:12;}">
+				<Coords points="1254,1367 2534,1361 2534,1304 2449,1294 1254,1313"/>
+				<Baseline points="1263,1358 1307,1358 1352,1355 1397,1352 1442,1352 1486,1352 1531,1352 1576,1352 1621,1352 1666,1352 1710,1352 1755,1352 1800,1352 1845,1355 1890,1355 2538,1343"/>
+				<TextEquiv>
+					<Unicode>Schuldbrieff mit fürpfanden am xl</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702295088355_2279" custom="readingOrder {index:13;}">
+				<Coords points="1254,1436 2524,1414 2524,1358 2425,1343 1922,1390 1256,1380"/>
+				<Baseline points="1264,1409 1283,1412 1328,1409 1373,1409 1418,1409 1463,1406 1507,1406 1552,1406 1597,1403 1642,1403 1687,1403 1731,1406 1776,1406 1821,1406 1866,1409 1910,1409 1955,1412 2000,1409 2045,1412 2090,1412 2134,1412 2179,1409 2224,1406 2269,1403 2314,1403 2358,1400 2403,1403 2448,1400 2493,1400 2526,1403"/>
+				<TextEquiv>
+					<Unicode>Forma eyns ſchuldbrieffs kurtz vmb fuͤnff gulden am xli</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_22" custom="readingOrder {index:14;}">
+				<Coords points="1265,1479 2530,1468 2530,1412 2449,1404 1265,1436"/>
+				<Baseline points="1274,1466 1286,1463 1331,1463 1376,1463 1421,1460 1466,1457 1510,1457 1555,1457 1600,1460 1645,1460 1690,1460 1734,1460 1779,1460 1824,1460 1869,1463 1913,1463 1958,1463 2003,1466 2048,1463 2093,1463 2137,1460 2182,1460 2534,1456"/>
+				<TextEquiv>
+					<Unicode>Eyn ſchuldbrieff mit gewer vnd leyſtung am xli</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702295094816_2289" custom="readingOrder {index:15;}">
+				<Coords points="1262,1526 2522,1522 2494,1459 1989,1497 1262,1476"/>
+				<Baseline points="1271,1516 1274,1516 1319,1516 1364,1513 1409,1510 1454,1510 1498,1513 1543,1510 1588,1510 1633,1513 1678,1507 1722,1510 1767,1510 1812,1510 1857,1513 1901,1513 1946,1516 1991,1513 2036,1513 2081,1510 2125,1510 2170,1510 2215,1510 2260,1510 2305,1507 2349,1510 2448,1507 2481,1504 2526,1504"/>
+				<TextEquiv>
+					<Unicode>Schuldbrieff mit gewerſchafft vnd mit leyſtung am xlii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_25" custom="readingOrder {index:16;}">
+				<Coords points="1259,1580 2527,1575 2527,1518 2428,1506 2246,1540 1259,1524"/>
+				<Baseline points="1268,1567 1274,1567 1319,1567 1364,1567 1409,1564 1454,1561 1498,1561 1543,1561 1588,1561 1633,1558 1678,1558 1722,1558 1767,1561 1812,1561 1857,1564 1901,1564 1946,1564 1991,1567 2036,1567 2081,1567 2125,1564 2170,1561 2215,1561 2260,1561 2305,1558 2349,1561 2394,1564 2439,1558 2484,1558 2529,1558"/>
+				<TextEquiv>
+					<Unicode>Eyn ſchuldbrieff vmb anderhalbhundert gulden am xliiii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_26" custom="readingOrder {index:17;}">
+				<Coords points="1262,1626 2516,1628 2497,1566 1262,1585"/>
+				<Baseline points="1271,1621 1310,1621 1355,1621 1400,1615 1445,1615 1489,1615 1534,1615 1579,1615 1624,1615 1669,1615 1713,1612 1758,1615 1803,1618 1848,1618 1893,1618 1937,1618 1982,1618 2027,1621 2072,1618 2116,1618 2161,1615 2206,1615 2251,1612 2296,1612 2340,1612 2385,1612 2430,1615 2475,1612 2520,1609"/>
+				<TextEquiv>
+					<Unicode>Eyn form eyns ſchuldbriefs vm̄ fünff rohe barchattuͤcher xlv</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_27" custom="readingOrder {index:18;}">
+				<Coords points="1262,1685 1663,1677 1824,1716 2526,1676 2526,1634 2439,1613 1262,1636"/>
+				<Baseline points="1271,1672 1274,1675 1319,1675 1364,1675 1409,1675 1454,1672 1498,1669 1543,1669 1588,1669 1633,1669 1678,1669 1722,1669 1767,1669 1812,1672 1857,1672 1901,1672 1946,1672 1991,1672 2036,1675 2081,1672 2125,1672 2170,1669 2215,1669 2260,1666 2305,1669 2349,1672 2394,1666 2439,1666 2484,1666 2529,1666"/>
+				<TextEquiv>
+					<Unicode>Eyn guͦte kurtze form eyns ſchuldbrieffs vmb. 1300. guldenn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702295098386_2293" custom="readingOrder {index:19;}">
+				<Coords points="1259,1743 2443,1738 2522,1730 2524,1677 1826,1714 1713,1681 1636,1716 1260,1681"/>
+				<Baseline points="1268,1731 1313,1728 1340,1731 2406,1716 2451,1719 2496,1719 2526,1722"/>
+				<TextEquiv>
+					<Unicode>am xlvi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_30" custom="readingOrder {index:20;}">
+				<Coords points="1268,1797 2526,1784 2502,1724 1268,1744"/>
+				<Baseline points="1277,1782 1319,1782 1364,1782 1409,1779 1454,1776 1498,1776 1543,1776 1588,1779 1633,1776 1678,1776 1722,1776 1767,1776 1812,1776 1857,1779 1901,1779 1946,1779 1991,1779 2036,1779 2081,1779 2125,1779 2170,1776 2215,1776 2260,1776 2305,1776 2349,1773 2394,1776 2439,1773 2484,1773 2529,1773"/>
+				<TextEquiv>
+					<Unicode>Eyn ſchuldbrieff ſchlecht leyſtung vnd auf angreiffen xlvii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702295099508_2297" custom="readingOrder {index:21;}">
+				<Coords points="1262,1844 2526,1836 2526,1786 2414,1778 2259,1813 1262,1796"/>
+				<Baseline points="1271,1836 1316,1836 1361,1833 1406,1830 1451,1830 1495,1830 1540,1830 1585,1833 1630,1830 1675,1830 1719,1830 1764,1830 1809,1833 1854,1833 1899,1833 1943,1836 1988,1836 2033,1833 2078,1833 2122,1833 2167,1830 2212,1833 2227,1836 2373,1824 2418,1827 2463,1824 2508,1824 2529,1827"/>
+				<TextEquiv>
+					<Unicode>Eyn ſchuldbrieff mit bürgen vnd geweren am xlviii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_33" custom="readingOrder {index:22;}">
+				<Coords points="1259,1901 2281,1907 2519,1895 2521,1842 1260,1842"/>
+				<Baseline points="1268,1893 1313,1893 1358,1890 1403,1890 1448,1890 1492,1890 1537,1890 1582,1887 1627,1887 1672,1887 1716,1887 1761,1887 1806,1887 1851,1887 1896,1887 1940,1887 1985,1890 2030,1887 2075,1887 2119,1887 2164,1887 2209,1884 2254,1884 2299,1881 2343,1881 2388,1881 2433,1878 2478,1878 2523,1884"/>
+				<TextEquiv>
+					<Unicode>Hie nach volgend kauffbrieff am erſten eyn guͦtter kauf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_34" custom="readingOrder {index:23;}">
+				<Coords points="1268,1955 2182,1947 2267,1987 2522,1949 2487,1888 1268,1909"/>
+				<Baseline points="1277,1940 1319,1943 1364,1943 1409,1943 1454,1943 1498,1943 1543,1943 1588,1943 1633,1940 1678,1943 1722,1943 1767,1943 1812,1943 1857,1943 1901,1943 1946,1940 1991,1937 2036,1937 2081,1937 2125,1937 2170,1934 2215,1934 2260,1934 2305,1934 2349,1934 2394,1934 2439,1934 2484,1934 2526,1940"/>
+				<TextEquiv>
+					<Unicode>brieff vmb leüt gült vn̄ guͦt mit bürgen leyſten angreif</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702295101575_2301" custom="readingOrder {index:24;}">
+				<Coords points="1268,2019 2526,2002 2495,1943 1869,1986 1270,1955"/>
+				<Baseline points="1277,2003 1322,1997 1367,1997 1412,1997 1433,2003 2424,1988 2469,1988 2514,1988 2529,1991"/>
+				<TextEquiv>
+					<Unicode>fen am xlix</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_37" custom="readingOrder {index:25;}">
+				<Coords points="1268,2067 2382,2074 2475,2038 2532,2069 2532,1997 2401,1987 1268,2021"/>
+				<Baseline points="1277,2048 1289,2048 1334,2048 1379,2045 1424,2045 1469,2045 1513,2042 1558,2045 1603,2042 1648,2042 1692,2039 1737,2039 1782,2039 1827,2042 1872,2042 1916,2042 1961,2042 2006,2042 2051,2045 2096,2042 2140,2039 2185,2039 2230,2039 2275,2039 2320,2042 2364,2042 2409,2039 2536,2037"/>
+				<TextEquiv>
+					<Unicode>Eyn kauffbrieff vmb hauß hof ſtadel garten vnd geſaͤſſer lj</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_38" custom="readingOrder {index:26;}">
+				<Coords points="1265,2112 2537,2107 2486,2050 2444,2082 2197,2046 1265,2066"/>
+				<Baseline points="1274,2105 1277,2105 1322,2102 1367,2102 1412,2096 1457,2099 1501,2099 1546,2096 1591,2096 1636,2093 1681,2093 1725,2093 1770,2093 1815,2096 1860,2096 1904,2096 1949,2096 1994,2099 2039,2096 2084,2096 2128,2096 2173,2093 2218,2093 2263,2093 2541,2094"/>
+				<TextEquiv>
+					<Unicode>Kauffbrieff vmb eyn ewigen zeinßherren gült am lii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_39" custom="readingOrder {index:27;}">
+				<Coords points="1268,2157 2045,2158 2115,2195 2529,2161 2529,2107 2316,2091 1268,2115"/>
+				<Baseline points="1277,2152 1322,2155 1367,2155 1412,2152 1457,2155 1501,2152 1546,2152 1591,2152 1636,2149 1681,2149 1725,2149 1770,2149 1815,2149 1860,2149 1904,2149 1949,2149 1994,2149 2039,2149 2084,2149 2128,2149 2173,2146 2218,2149 2263,2149 2308,2149 2352,2149 2397,2149 2442,2149 2487,2146 2532,2149"/>
+				<TextEquiv>
+					<Unicode>Eyn kauffbrieff in auff verzucken vmb wiſmad boͤßfaͤtig lii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_40" custom="readingOrder {index:28;}">
+				<Coords points="1272,2222 2540,2213 2540,2160 2486,2157 2120,2192 2005,2157 1272,2171"/>
+				<Baseline points="1280,2206 1325,2206 1370,2206 1415,2206 1460,2206 1504,2206 1549,2203 1594,2203 1639,2203 1684,2200 1728,2203 1773,2203 1818,2203 1863,2200 1907,2200 1952,2200 1997,2203 2042,2203 2543,2197"/>
+				<TextEquiv>
+					<Unicode>Eyn kurtzer kauffbrieff vmb aͤcker am liii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_41" custom="readingOrder {index:29;}">
+				<Coords points="1265,2268 2535,2267 2535,2211 2447,2198 1265,2225"/>
+				<Baseline points="1274,2260 1319,2260 1364,2260 1409,2260 1454,2260 1498,2260 1543,2260 1588,2260 1633,2257 1678,2254 1722,2257 1767,2254 1812,2254 1857,2254 1901,2257 1946,2257 1991,2257 2036,2254 2081,2257 2125,2257 2170,2257 2215,2257 2260,2257 2305,2257 2349,2257 2394,2257 2539,2254"/>
+				<TextEquiv>
+					<Unicode>Eyn kauffbrieff vmb eyn ſchloß mit aller zuͦgeherde am liii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702295119567_2311" custom="readingOrder {index:30;}">
+				<Coords points="1268,2331 2537,2318 2537,2264 2435,2300 1268,2276"/>
+				<Baseline points="1277,2311 1322,2311 1367,2311 1412,2311 1457,2314 1501,2314 1546,2314 1591,2314 1636,2311 1681,2311 1725,2308 1770,2308 1815,2311 1860,2311 1904,2308 1949,2308 1994,2308 2039,2311 2054,2311 2463,2311 2508,2311 2540,2311"/>
+				<TextEquiv>
+					<Unicode>Eyn kauffbriefflin vmb eyn acker am lvi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_44" custom="readingOrder {index:31;}">
+				<Coords points="1268,2372 2126,2411 2193,2372 2530,2372 2530,2316 2425,2312 1268,2331"/>
+				<Baseline points="1277,2367 1280,2367 1325,2367 1370,2364 1415,2367 1460,2367 1504,2367 1549,2370 1594,2370 1639,2364 1684,2364 1728,2364 1773,2364 1818,2367 1863,2364 1907,2364 1952,2364 1997,2364 2042,2364 2087,2364 2131,2364 2176,2364 2221,2364 2266,2367 2311,2367 2355,2367 2400,2364 2445,2364 2490,2361 2535,2361"/>
+				<TextEquiv>
+					<Unicode>Eyn kauffbrieff vmb eyn gulden ewig auff vnderpfand vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702295121811_2315" custom="readingOrder {index:32;}">
+				<Coords points="1272,2438 2540,2425 2508,2367 1706,2415 1272,2372"/>
+				<Baseline points="1280,2424 1325,2418 1370,2418 1415,2421 1460,2424 1504,2424 1549,2427 1555,2427 2457,2415 2499,2415 2543,2412"/>
+				<TextEquiv>
+					<Unicode>abbeſung am lvii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_47" custom="readingOrder {index:33;}">
+				<Coords points="1272,2492 2535,2478 2535,2431 2422,2420 1272,2438"/>
+				<Baseline points="1280,2475 1286,2478 1331,2475 1376,2475 1421,2475 1466,2481 1510,2478 1555,2475 1600,2475 1645,2475 1690,2469 1734,2472 1779,2472 1824,2472 1869,2472 1913,2472 1958,2472 2003,2472 2048,2475 2093,2472 2137,2472 2182,2472 2227,2472 2272,2475 2317,2475 2361,2475 2406,2475 2451,2472 2496,2469 2540,2469"/>
+				<TextEquiv>
+					<Unicode>Eyn ewiger kauff über eyn wald mit vertrettung am lvii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1702295126507_2320" custom="readingOrder {index:34;}">
+				<Coords points="1268,2538 2473,2551 2534,2535 2535,2483 2236,2519 2168,2483 1268,2494"/>
+				<Baseline points="1277,2529 1322,2529 1367,2529 1412,2529 1457,2532 1501,2529 1546,2529 1591,2529 1636,2526 1681,2529 1725,2526 1770,2526 1815,2526 1860,2526 1904,2526 1949,2526 1994,2526 2039,2526 2084,2526 2128,2526 2173,2526 2218,2532 2233,2529 2436,2523 2481,2523 2526,2523 2537,2526"/>
+				<TextEquiv>
+					<Unicode>Eyn kurtz kauffbriefflin vmb eyn wiſmad am lviii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_50" custom="readingOrder {index:35;}">
+				<Coords points="1272,2598 2532,2591 2532,2534 2366,2524 1272,2542"/>
+				<Baseline points="1280,2588 1325,2585 1370,2585 1415,2585 1460,2585 1504,2585 1549,2585 1594,2585 1639,2585 1684,2585 1728,2582 1773,2582 1818,2582 1863,2582 1907,2582 1952,2582 1997,2582 2042,2582 2087,2582 2131,2585 2176,2585 2221,2585 2266,2585 2311,2582 2355,2585 2400,2585 2445,2582 2490,2579 2535,2579"/>
+				<TextEquiv>
+					<Unicode>Hie nach volgent guͦt anfang vnd end ſpruchbrief lviii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_51" custom="readingOrder {index:36;}">
+				<Coords points="1280,2650 2545,2650 2545,2590 2505,2585 2361,2620 1280,2604"/>
+				<Baseline points="1289,2639 1328,2636 1373,2636 1418,2636 1463,2639 1507,2639 1552,2636 1597,2636 1642,2636 1687,2636 1731,2636 1776,2633 1821,2633 1866,2633 1910,2636 1955,2636 2000,2636 2045,2633 2549,2629"/>
+				<TextEquiv>
+					<Unicode>Eyn kurtz ſpruchbriefflin vmb gelt am lix</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_52" custom="readingOrder {index:37;}">
+				<Coords points="1278,2717 2543,2700 2543,2650 2403,2629 1278,2652"/>
+				<Baseline points="1286,2693 1295,2693 1340,2690 1385,2690 1430,2693 1475,2693 1519,2693 1564,2693 1609,2693 1654,2693 1698,2690 1743,2687 1788,2687 1833,2690 1878,2690 1922,2687 1967,2690 2012,2690 2057,2690 2102,2690 2146,2690 2191,2690 2236,2690 2547,2680"/>
+				<TextEquiv>
+					<Unicode>Forma eyn guͦtter anfang eyns ſpruchbrieffs am lix</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_53" custom="readingOrder {index:38;}">
+				<Coords points="1275,2757 2540,2754 2502,2697 2457,2729 1275,2717"/>
+				<Baseline points="1283,2749 1328,2747 1373,2747 1418,2747 1463,2747 1507,2747 1552,2747 1597,2747 1642,2747 1687,2747 1731,2747 1776,2744 1821,2744 1866,2744 1910,2747 1955,2747 2000,2747 2544,2738"/>
+				<TextEquiv>
+					<Unicode>Hie nach volgent gleytzbrieff am lx</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1702294995107_2240_tl_54" custom="readingOrder {index:39;}">
+				<Coords points="1268,2821 2550,2802 2502,2749 2238,2784 2067,2745 1268,2754"/>
+				<Baseline points="1277,2797 1322,2800 1367,2800 1412,2800 1457,2800 1501,2800 1546,2800 1591,2800 1636,2800 1681,2800 1725,2800 1770,2797 1815,2800 1860,2800 1904,2797 1949,2800 1994,2797 2039,2797 2084,2797 2128,2797 2554,2787"/>
+				<TextEquiv>
+					<Unicode>Eyn brieff als eyn herr gleyt zuͦſchreibt am lx</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Als eyn herr eynem amptman quitiert ſeins einnemens vnd
+außgebens am xxxv
+Eyn quitantz eyner gemeyn vmb ſchatzſteür am xxxvi
+Als eyner oder czwen vormünder quitieren von ir vormund¬
+ſchafft wegen am xxxvi
+Da eyn prieſter von ſeiner pfruͤnd ſtat eym andern leicht vn̄
+quitiert am xxxvi
+Eyn guͦtte form eyner vrfaͤcht am xxxvi
+Eyn ſchlechte vrfach am xxxviii
+Eyn ander vrfach am xxxviii
+Aber eyn ander vrfaͤch am xxxix
+Vrfaͤch kurtz mit bürgen am xl
+Schuldbrieff mit fürpfanden am xl
+Forma eyns ſchuldbrieffs kurtz vmb fuͤnff gulden am xli
+Eyn ſchuldbrieff mit gewer vnd leyſtung am xli
+Schuldbrieff mit gewerſchafft vnd mit leyſtung am xlii
+Eyn ſchuldbrieff vmb anderhalbhundert gulden am xliiii
+Eyn form eyns ſchuldbriefs vm̄ fünff rohe barchattuͤcher xlv
+Eyn guͦte kurtze form eyns ſchuldbrieffs vmb. 1300. guldenn
+am xlvi
+Eyn ſchuldbrieff ſchlecht leyſtung vnd auf angreiffen xlvii
+Eyn ſchuldbrieff mit bürgen vnd geweren am xlviii
+Hie nach volgend kauffbrieff am erſten eyn guͦtter kauf
+brieff vmb leüt gült vn̄ guͦt mit bürgen leyſten angreif
+fen am xlix
+Eyn kauffbrieff vmb hauß hof ſtadel garten vnd geſaͤſſer lj
+Kauffbrieff vmb eyn ewigen zeinßherren gült am lii
+Eyn kauffbrieff in auff verzucken vmb wiſmad boͤßfaͤtig lii
+Eyn kurtzer kauffbrieff vmb aͤcker am liii
+Eyn kauffbrieff vmb eyn ſchloß mit aller zuͦgeherde am liii
+Eyn kauffbriefflin vmb eyn acker am lvi
+Eyn kauffbrieff vmb eyn gulden ewig auff vnderpfand vnd
+abbeſung am lvii
+Eyn ewiger kauff über eyn wald mit vertrettung am lvii
+Eyn kurtz kauffbriefflin vmb eyn wiſmad am lviii
+Hie nach volgent guͦt anfang vnd end ſpruchbrief lviii
+Eyn kurtz ſpruchbriefflin vmb gelt am lix
+Forma eyn guͦtter anfang eyns ſpruchbrieffs am lix
+Hie nach volgent gleytzbrieff am lx
+Eyn brieff als eyn herr gleyt zuͦſchreibt am lx</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

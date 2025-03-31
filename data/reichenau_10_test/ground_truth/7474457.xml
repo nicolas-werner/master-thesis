@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52681:lm=provided:date=08_06_2023_10:26</Creator>
+		<Created>2023-06-07T09:11:07.241+02:00</Created>
+		<LastChange>2023-12-20T15:42:12.713+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67074979" pageNr="4" tsid="154460032" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=ODERRIDTBIONHIWMCQNUZQCF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RWJDFOPBGVOIJIGMHGNTEQBF" imageId="45286753"/>
+	</Metadata>
+	<Page imageFilename="7474457.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356357882" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686212691707_844"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686212691707_844" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="916,430 2025,430 2025,1023 916,1023"/>
+			<TextLine id="region_1686212691707_844_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="932,510 1968,496 1955,417 1358,457 1300,425 932,430"/>
+				<Baseline points="939,492 942,492 987,489 1032,486 1076,483 1121,486 1166,483 1211,483 1255,480 1300,483 1345,480 1389,480 1434,480 1479,480 1524,477 1568,480 1613,480 1658,480 1703,477 1747,477 1792,477 1837,480 1882,480 1926,480 1971,483"/>
+				<TextEquiv>
+					<Unicode>mer an tugenden dann an zittlicher hab rich. ¶ Des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686212691707_844_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="944,559 1958,553 1938,488 945,501"/>
+				<Baseline points="951,539 978,542 1023,539 1067,536 1112,536 1157,533 1202,533 1246,533 1291,533 1336,533 1381,530 1425,530 1470,530 1515,530 1559,530 1604,530 1649,530 1694,530 1738,530 1783,530 1828,530 1873,530 1917,530 1980,529"/>
+				<TextEquiv>
+					<Unicode>gab im got einen ſun/ der ward genempt Meynrad/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686212691707_844_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="944,604 1969,593 1970,547 1918,538 945,559"/>
+				<Baseline points="951,593 990,590 1035,587 1079,587 1124,587 1169,587 1213,584 1258,584 1303,584 1348,584 1392,584 1437,581 1482,581 1527,581 1571,581 1616,581 1661,581 1706,581 1750,581 1795,581 1840,581 1885,578 1929,578 1974,581"/>
+				<TextEquiv>
+					<Unicode>vnd do der ſelb knab in dem fünffte ior was/ vnd des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686212691707_844_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="944,652 1970,643 1970,593 944,609"/>
+				<Baseline points="951,644 990,641 1035,641 1079,638 1124,638 1169,638 1213,638 1258,638 1303,635 1348,635 1392,635 1437,635 1482,635 1527,635 1571,635 1616,635 1661,632 1706,632 1750,635 1795,635 1840,632 1885,632 1929,632 1974,632"/>
+				<TextEquiv>
+					<Unicode>alters das er zuͦ der ler geſchickt ſyn moͤcht/ fuͦrt er in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686212691707_844_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="944,715 1849,706 1969,695 1970,644 945,655"/>
+				<Baseline points="951,700 987,694 1032,692 1076,689 1121,689 1166,689 1211,689 1255,689 1300,689 1345,686 1389,686 1434,686 1479,686 1524,689 1568,686 1613,686 1658,686 1703,686 1747,686 1792,686 1837,683 1882,683 1926,683 1971,683"/>
+				<TextEquiv>
+					<Unicode>ſyn vatter in die Richnow die zuͦ den zittē ein inſel was</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686212691707_844_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="944,749 1846,763 1969,750 1970,695 944,718"/>
+				<Baseline points="951,745 987,742 1032,739 1076,739 1121,742 1166,739 1211,739 1255,739 1300,736 1345,736 1389,736 1434,736 1479,736 1524,736 1568,736 1613,736 1658,736 1703,736 1747,736 1792,736 1837,736 1882,736 1926,733 1971,733"/>
+				<TextEquiv>
+					<Unicode>genant Syndelochs auwe von einē prieſter der Synd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686212691707_844_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="946,806 1972,801 1972,753 1929,742 946,750"/>
+				<Baseline points="954,796 990,793 1035,793 1079,790 1124,790 1169,790 1213,790 1258,790 1303,790 1348,787 1392,790 1437,787 1482,787 1527,787 1571,787 1616,787 1661,787 1706,787 1750,787 1795,787 1840,787 1885,787 1929,787 1974,784"/>
+				<TextEquiv>
+					<Unicode>loch geheiſſen was der vō erſten an dē end wonung für</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686212691707_844_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="941,864 1977,848 1977,801 1871,794 941,817"/>
+				<Baseline points="948,847 951,847 996,844 1040,841 1085,841 1130,841 1175,841 1219,841 1264,838 1309,838 1354,841 1398,838 1443,838 1488,841 1533,838 1577,838 1622,838 1667,838 1712,838 1756,838 1801,835 1846,835 1891,838 1935,838 1980,838"/>
+				<TextEquiv>
+					<Unicode>ettlich münch buwet vn̄ ſant pyrminiū mit ſambt ſynē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686212691707_844_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="950,918 1976,897 1976,852 1934,847 950,856"/>
+				<Baseline points="957,897 993,894 1038,891 1082,891 1127,891 1172,891 1216,891 1261,891 1306,888 1351,888 1395,888 1440,888 1485,888 1530,888 1574,888 1619,888 1664,888 1709,891 1753,888 1798,888 1843,888 1888,888 1932,885 1977,888"/>
+				<TextEquiv>
+					<Unicode>geſellen dar in zuͦ wonend fuͦrt vß entpfelch des edelen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686212691707_844_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="941,957 1974,962 1974,905 1921,896 941,915"/>
+				<Baseline points="948,945 993,942 1038,942 1082,942 1127,942 1172,942 1216,942 1261,942 1306,939 1351,939 1395,939 1440,939 1485,942 1530,942 1574,942 1619,939 1664,942 1709,942 1753,942 1798,942 1843,942 1888,942 1932,939 1977,939"/>
+				<TextEquiv>
+					<Unicode>tütſchen Graue Berchtolden zuͦ den zitten pipini des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686212691707_844_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="944,1016 1134,1006 1234,1019 1320,999 1364,1015 1389,1006 1391,956 945,961"/>
+				<Baseline points="951,1002 990,996 1035,996 1079,996 1124,993 1169,993 1213,993 1258,990 1303,993 1348,993 1392,993"/>
+				<TextEquiv>
+					<Unicode>künigs von franckrich.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

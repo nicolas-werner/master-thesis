@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:37</Creator>
+		<Created>2023-06-07T09:11:13.348+02:00</Created>
+		<LastChange>2023-12-20T16:31:55.727+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075018" pageNr="43" tsid="154460098" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=ESMESBIVZHRSPLWHMOJCFEUO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LRZPFZZSBMVJNATTZUJBZSSP" imageId="45286901"/>
+	</Metadata>
+	<Page imageFilename="7474500.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356442881" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573599359_350"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573599359_350" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="114,429 1229,429 1229,2192 114,2192"/>
+			<TextLine id="region_1686573599359_350_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="313,534 906,548 905,470 761,460 633,488 312,465"/>
+				<Baseline points="319,519 363,516 408,516 453,516 498,519 542,519 587,519 632,521 677,521 721,524 766,524 811,527 856,527 900,530 909,533"/>
+				<TextEquiv>
+					<Unicode>Beſtettung des obgeſchribenē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="309,578 950,605 991,603 990,551 308,537"/>
+				<Baseline points="316,569 360,569 405,569 450,569 495,569 539,572 584,572 629,575 674,575 718,578 763,578 808,581 853,581 897,584 942,584 987,587 993,590"/>
+				<TextEquiv>
+					<Unicode>aploß/ von babſt Pio dem andern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="297,648 1118,673 1169,668 1168,605 296,590"/>
+				<Baseline points="304,641 348,635 393,632 438,632 483,635 527,638 572,638 617,638 662,638 706,641 751,641 796,644 841,644 885,647 930,647 975,647 1020,647 1064,650 1109,650 1154,650 1172,653"/>
+				<TextEquiv>
+					<Unicode>Ius biſchoff ein knecht des diener gottes den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="285,690 1128,724 1160,716 1159,660 973,680 283,642"/>
+				<Baseline points="292,686 337,683 381,686 426,686 471,686 516,686 560,689 605,689 650,692 694,692 739,692 784,694 829,694 873,697 918,697 963,697 1008,700 1052,700 1097,700 1142,700 1163,700"/>
+				<TextEquiv>
+					<Unicode>lieben ſuͦnen abbt vnd conuent des cloſter vn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="300,747 1169,766 1145,711 736,724 299,691"/>
+				<Baseline points="307,736 351,733 396,736 441,736 486,739 530,739 575,739 620,742 665,742 709,742 754,745 799,748 844,748 888,748 933,751 978,751 1023,751 1067,751 1112,751 1157,754 1172,757"/>
+				<TextEquiv>
+					<Unicode>ſer lieben frawē zuͦ den einſydeln ordens ſant</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="294,798 1106,833 1154,818 1152,765 292,752"/>
+				<Baseline points="301,787 346,787 390,787 435,787 480,790 524,790 569,793 614,793 659,793 703,796 748,799 793,799 838,799 882,799 927,802 972,802 1017,802 1061,802 1106,805 1151,808 1172,809"/>
+				<TextEquiv>
+					<Unicode>benedicten koſtantzer biſtums heil vnd bebſtli¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="138,848 1051,883 1156,874 1155,818 136,803"/>
+				<Baseline points="143,835 187,835 232,835 277,835 322,838 366,841 411,841 456,841 501,841 545,844 590,844 635,844 680,847 724,850 769,850 814,850 859,850 903,853 948,853 993,856 1038,856 1082,856 1127,859 1160,862"/>
+				<TextEquiv>
+					<Unicode>chen ſegen/ Das babſtlich ambt vns darvmb vff geſe¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="145,904 1124,937 1160,931 1159,876 144,854"/>
+				<Baseline points="152,891 196,885 241,888 286,888 331,888 375,888 420,891 465,894 510,894 554,894 599,894 644,897 689,897 733,900 778,900 823,900 867,903 912,903 957,906 1002,906 1046,906 1091,909 1136,909 1163,909"/>
+				<TextEquiv>
+					<Unicode>tzt weckt vnnd bewegt vns das wir üwer bitt vor vß ſo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="140,948 1003,984 1163,980 1163,930 139,904"/>
+				<Baseline points="146,939 190,939 235,939 280,939 325,942 369,942 414,942 459,942 504,945 548,945 593,948 638,948 683,951 727,951 772,951 817,954 862,954 906,957 951,957 996,957 1040,960 1085,960 1130,960 1166,954"/>
+				<TextEquiv>
+					<Unicode>criſtgloubiger ſelen heil antreffent/ zuͦ der gnad der er¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="143,1011 1159,1043 1170,979 140,950"/>
+				<Baseline points="149,987 193,990 238,993 283,993 328,993 372,993 417,993 462,996 507,996 551,999 596,999 641,1002 686,1002 730,1005 775,1005 820,1005 865,1008 909,1008 954,1011 999,1011 1043,1011 1088,1011 1133,1014 1175,1017"/>
+				<TextEquiv>
+					<Unicode>hoͤrung günſtlichen kumē laſſen/ Nun iſt in vergangnē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="147,1056 1128,1087 1165,1085 1165,1043 145,1009"/>
+				<Baseline points="152,1043 196,1040 241,1043 286,1043 331,1043 375,1043 420,1046 465,1046 510,1046 554,1049 599,1052 644,1055 689,1055 733,1055 778,1055 823,1055 867,1058 912,1058 957,1061 1002,1061 1046,1061 1091,1061 1136,1061 1169,1061"/>
+				<TextEquiv>
+					<Unicode>zyten an ſelliger gedechtnuß Nicolaū den fünffien vn¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="147,1111 1146,1136 1168,1088 145,1056"/>
+				<Baseline points="152,1091 196,1091 241,1091 286,1094 331,1094 375,1094 420,1097 465,1100 510,1100 554,1103 599,1103 644,1103 689,1106 733,1106 778,1106 823,1106 867,1109 912,1109 957,1112 1002,1112 1046,1112 1091,1112 1136,1115 1172,1115"/>
+				<TextEquiv>
+					<Unicode>ſern vorfaren von wegen vnſers lieben ſuͦns des edelen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="140,1157 1166,1181 1164,1128 139,1116"/>
+				<Baseline points="146,1142 190,1145 235,1142 280,1145 325,1145 369,1145 414,1148 459,1151 504,1151 548,1154 593,1154 638,1154 683,1157 727,1157 772,1157 817,1160 862,1160 906,1163 951,1163 996,1163 1040,1163 1085,1166 1130,1166 1169,1172"/>
+				<TextEquiv>
+					<Unicode>mānes Albrecht hertzoge zuͦ oͤſterich gelangt/ das etwā</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="147,1209 1137,1242 1155,1186 145,1155"/>
+				<Baseline points="152,1196 196,1196 241,1196 286,1196 331,1199 375,1199 420,1202 465,1202 510,1205 554,1205 599,1208 644,1208 689,1208 733,1208 778,1211 823,1211 867,1213 912,1213 957,1213 1002,1213 1046,1213 1091,1216 1136,1216 1170,1217"/>
+				<TextEquiv>
+					<Unicode>durch loͤblicher gedechtnuß babſt Eugenium den vier¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="139,1257 1169,1290 1168,1235 138,1208"/>
+				<Baseline points="146,1246 190,1246 235,1246 280,1249 325,1249 369,1249 414,1252 459,1252 504,1255 548,1255 593,1258 638,1258 683,1258 727,1261 772,1261 817,1261 862,1264 906,1264 951,1264 996,1264 1040,1267 1085,1267 1130,1270 1172,1273"/>
+				<TextEquiv>
+					<Unicode>den ouch vnſern vorfaren nach dem er vermerckt hatt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="142,1311 921,1344 1166,1334 1165,1285 140,1258"/>
+				<Baseline points="149,1300 193,1297 238,1300 283,1300 328,1303 372,1303 417,1306 462,1306 507,1306 551,1309 596,1309 641,1309 686,1312 730,1315 775,1312 820,1315 865,1315 909,1315 954,1318 999,1318 1043,1318 1088,1318 1133,1318 1169,1321"/>
+				<TextEquiv>
+					<Unicode>das zuͦ der cappellen der wirdigen iunckfraw Mariē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="147,1367 1159,1398 1164,1333 145,1318"/>
+				<Baseline points="152,1354 196,1348 241,1351 286,1354 331,1354 375,1354 420,1357 465,1360 510,1363 554,1363 599,1363 644,1363 689,1363 733,1366 778,1366 823,1366 867,1366 912,1369 957,1369 1002,1369 1046,1369 1091,1372 1136,1372 1169,1378"/>
+				<TextEquiv>
+					<Unicode>zuͦ dem Einſidelen Coſtantzer biſtuͦms vnnd die kilch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="143,1415 1165,1436 1164,1398 1039,1378 142,1371"/>
+				<Baseline points="149,1404 193,1401 238,1401 283,1404 328,1404 372,1404 417,1407 462,1407 507,1410 551,1413 596,1413 641,1413 686,1416 730,1416 775,1416 820,1416 865,1419 909,1419 954,1419 999,1419 1043,1422 1088,1422 1133,1422 1169,1422"/>
+				<TextEquiv>
+					<Unicode>üwers cloſters ordens ſancti Benedicti des ſelben ortes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="148,1465 1159,1491 1150,1434 147,1414"/>
+				<Baseline points="155,1455 199,1452 244,1455 289,1455 334,1458 378,1458 423,1458 468,1461 513,1461 557,1464 602,1464 647,1467 692,1464 736,1467 781,1467 826,1467 870,1470 915,1473 960,1473 1005,1473 1049,1473 1094,1473 1139,1476 1160,1476"/>
+				<TextEquiv>
+					<Unicode>durch manifaltig ſo do ſelbſt der almechtig/ als miltte¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="142,1514 1006,1550 1165,1540 1164,1490 140,1461"/>
+				<Baseline points="149,1506 193,1506 238,1506 283,1509 328,1509 372,1509 417,1512 462,1512 507,1515 551,1515 596,1515 641,1515 686,1518 730,1518 775,1521 820,1521 865,1521 909,1524 954,1524 999,1527 1043,1527 1088,1527 1133,1527 1169,1530"/>
+				<TextEquiv>
+					<Unicode>klich gloubt wurdt/ vß verdienſt der künigclichen iunck</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="145,1576 1163,1599 1161,1541 1114,1536 144,1514"/>
+				<Baseline points="152,1557 196,1557 241,1557 286,1559 331,1559 375,1562 420,1562 465,1562 510,1565 554,1568 599,1568 644,1568 689,1571 733,1571 778,1571 823,1571 867,1571 912,1574 957,1574 1002,1577 1046,1577 1091,1577 1136,1577 1166,1574"/>
+				<TextEquiv>
+					<Unicode>frowen wunder werck geruͦcht zuͦ würcken/ vnd zuͦ erfol¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="147,1634 1156,1649 1155,1594 144,1576"/>
+				<Baseline points="152,1610 196,1607 241,1607 286,1610 331,1613 375,1613 420,1613 465,1616 510,1616 554,1619 599,1622 644,1622 689,1622 733,1622 778,1622 823,1625 867,1625 912,1628 957,1628 1002,1628 1046,1631 1091,1628 1136,1631 1171,1631"/>
+				<TextEquiv>
+					<Unicode>gen gnad vnd ablaß der ſünden durch ſeliger gedecht¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_23" custom="readingOrder {index:22;}">
+				<Coords points="143,1678 1123,1706 1155,1649 142,1634"/>
+				<Baseline points="149,1661 193,1658 238,1661 283,1664 328,1664 372,1664 417,1667 462,1667 507,1670 551,1670 596,1670 641,1673 686,1673 730,1673 775,1676 820,1676 865,1676 909,1679 954,1679 999,1682 1043,1682 1088,1682 1133,1682 1172,1684"/>
+				<TextEquiv>
+					<Unicode>nuß babſt leo den achſten ouch vnſern vorfaren nun lā¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_24" custom="readingOrder {index:23;}">
+				<Coords points="139,1729 1164,1756 1161,1694 138,1684"/>
+				<Baseline points="146,1712 190,1712 235,1715 280,1715 325,1715 369,1718 414,1718 459,1721 504,1721 548,1721 593,1724 638,1724 683,1727 727,1730 772,1730 817,1727 862,1730 906,1730 951,1732 996,1732 1040,1732 1085,1732 1130,1732 1166,1738"/>
+				<TextEquiv>
+					<Unicode>geſt vß eehafften dann ze mal vß getrückten vrſachen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_25" custom="readingOrder {index:24;}">
+				<Coords points="139,1773 1154,1799 1152,1756 1040,1745 138,1715"/>
+				<Baseline points="146,1759 190,1762 235,1762 280,1765 325,1765 369,1768 414,1771 459,1771 504,1771 548,1774 593,1774 638,1774 683,1777 727,1777 772,1780 817,1780 862,1780 906,1783 951,1783 996,1783 1040,1786 1085,1786 1130,1786 1169,1787"/>
+				<TextEquiv>
+					<Unicode>do ſelbſt verluhen ouch das der criſtgloubigen beyder¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_26" custom="readingOrder {index:25;}">
+				<Coords points="140,1830 1172,1858 1170,1812 1102,1797 138,1772"/>
+				<Baseline points="146,1813 190,1813 235,1816 280,1816 325,1819 369,1822 414,1822 459,1825 504,1825 548,1825 593,1828 638,1828 683,1831 727,1831 772,1831 817,1834 862,1834 906,1834 951,1837 996,1837 1040,1837 1085,1837 1130,1837 1175,1837"/>
+				<TextEquiv>
+					<Unicode>ley geſchlecht do hin zuͦflüſß ein merckliche zal/ vnd das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_27" custom="readingOrder {index:26;}">
+				<Coords points="147,1890 1163,1903 1161,1851 1085,1842 635,1862 145,1826"/>
+				<Baseline points="152,1867 196,1864 241,1867 286,1873 331,1873 375,1873 420,1873 465,1876 510,1876 554,1879 599,1879 644,1882 689,1882 733,1882 778,1882 823,1885 867,1885 912,1885 957,1888 1002,1891 1046,1891 1091,1888 1136,1891 1166,1894"/>
+				<TextEquiv>
+					<Unicode>ſo der obgenant babſt Eugenius vnſer vorfar/ des ob¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_28" custom="readingOrder {index:27;}">
+				<Coords points="148,1943 1163,1966 1161,1904 1123,1898 147,1890"/>
+				<Baseline points="155,1920 199,1917 244,1920 289,1923 334,1926 378,1926 423,1926 468,1926 513,1932 557,1935 602,1932 647,1935 692,1935 736,1932 781,1935 826,1935 870,1938 915,1938 960,1941 1005,1941 1049,1941 1094,1944 1139,1941 1166,1944"/>
+				<TextEquiv>
+					<Unicode>gemelten Cloſters vff die yytt abbt/ das er vnnd ſyn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_29" custom="readingOrder {index:28;}">
+				<Coords points="139,1979 1160,2009 1078,1952 139,1934"/>
+				<Baseline points="146,1968 190,1968 235,1971 280,1974 325,1974 369,1977 414,1977 459,1980 504,1983 548,1983 593,1986 638,1986 683,1986 727,1986 772,1986 817,1989 862,1989 906,1992 951,1992 996,1992 1040,1992 1085,1992 1130,1995 1163,1998"/>
+				<TextEquiv>
+					<Unicode>nach kummen abbt zuͦ zytten des gemelten cloſters/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_30" custom="readingOrder {index:29;}">
+				<Coords points="151,2039 989,2073 1170,2055 1169,2002 149,1979"/>
+				<Baseline points="158,2022 202,2022 247,2025 292,2025 337,2028 381,2031 426,2031 471,2034 516,2034 560,2037 605,2037 650,2040 694,2037 739,2040 784,2040 829,2040 873,2043 918,2043 963,2043 1008,2046 1052,2046 1097,2046 1142,2046 1172,2049"/>
+				<TextEquiv>
+					<Unicode>des glychen ouch teglich durch den ſelben abt vnnd ſyn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_31" custom="readingOrder {index:30;}">
+				<Coords points="145,2087 1172,2124 1170,2054 707,2048 663,2077 144,2038"/>
+				<Baseline points="152,2073 196,2073 241,2076 286,2076 331,2078 375,2081 420,2084 465,2087 510,2087 554,2090 599,2087 644,2090 689,2090 733,2093 778,2093 823,2093 867,2096 912,2096 957,2096 1002,2096 1046,2096 1091,2096 1136,2099 1175,2108"/>
+				<TextEquiv>
+					<Unicode>nochkumen darzuͦ zuͦ zytten geordent prieſter weltlich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573599359_350_tl_32" custom="readingOrder {index:31;}">
+				<Coords points="145,2150 1172,2186 1170,2123 1118,2108 144,2088"/>
+				<Baseline points="152,2123 196,2126 241,2132 286,2135 331,2138 375,2138 420,2141 465,2144 510,2144 554,2144 599,2147 644,2147 689,2147 733,2147 778,2150 823,2150 867,2153 912,2153 957,2153 1002,2150 1046,2153 1091,2153 1136,2156 1175,2159"/>
+				<TextEquiv>
+					<Unicode>oder geiſtlich/ von der zyt an zehen ior lang/ der ſelben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv>
+				<Unicode>Beſtettung des obgeſchribenē
+aploß/ von babſt Pio dem andern
+Ius biſchoff ein knecht des diener gottes den
+lieben ſuͦnen abbt vnd conuent des cloſter vn
+ſer lieben frawē zuͦ den einſydeln ordens ſant
+benedicten koſtantzer biſtums heil vnd bebſtli¬
+chen ſegen/ Das babſtlich ambt vns darvmb vff geſe¬
+tzt weckt vnnd bewegt vns das wir üwer bitt vor vß ſo
+criſtgloubiger ſelen heil antreffent/ zuͦ der gnad der er¬
+hoͤrung günſtlichen kumē laſſen/ Nun iſt in vergangnē
+zyten an ſelliger gedechtnuß Nicolaū den fünffien vn¬
+ſern vorfaren von wegen vnſers lieben ſuͦns des edelen
+mānes Albrecht hertzoge zuͦ oͤſterich gelangt/ das etwā
+durch loͤblicher gedechtnuß babſt Eugenium den vier¬
+den ouch vnſern vorfaren nach dem er vermerckt hatt
+das zuͦ der cappellen der wirdigen iunckfraw Mariē
+zuͦ dem Einſidelen Coſtantzer biſtuͦms vnnd die kilch
+üwers cloſters ordens ſancti Benedicti des ſelben ortes
+durch manifaltig ſo do ſelbſt der almechtig/ als miltte¬
+klich gloubt wurdt/ vß verdienſt der künigclichen iunck
+frowen wunder werck geruͦcht zuͦ würcken/ vnd zuͦ erfol¬
+gen gnad vnd ablaß der ſünden durch ſeliger gedecht¬
+nuß babſt leo den achſten ouch vnſern vorfaren nun lā¬
+geſt vß eehafften dann ze mal vß getrückten vrſachen/
+do ſelbſt verluhen ouch das der criſtgloubigen beyder¬
+ley geſchlecht do hin zuͦflüſß ein merckliche zal/ vnd das
+ſo der obgenant babſt Eugenius vnſer vorfar/ des ob¬
+gemelten Cloſters vff die yytt abbt/ das er vnnd ſyn
+nach kummen abbt zuͦ zytten des gemelten cloſters/
+des glychen ouch teglich durch den ſelben abt vnnd ſyn
+nochkumen darzuͦ zuͦ zytten geordent prieſter weltlich
+oder geiſtlich/ von der zyt an zehen ior lang/ der ſelben</Unicode>
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

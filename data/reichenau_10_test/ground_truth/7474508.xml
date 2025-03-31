@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:37</Creator>
+		<Created>2023-06-07T09:11:14.600+02:00</Created>
+		<LastChange>2023-12-20T15:42:28.784+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075025" pageNr="50" tsid="154460110" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=KJAIHHRUEMDDRTEXKTMRTRSN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OUKGWTCCTOGHHDQKNZTUAMRX" imageId="45286932"/>
+	</Metadata>
+	<Page imageFilename="7474508.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356458223" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573670400_405"/>
+				<RegionRefIndexed index="1" regionRef="region_1689004270511_137"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573670400_405" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="85,420 1253,420 1253,1600 85,1600"/>
+			<TextLine id="region_1686573670400_405_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="116,492 1145,512 1128,445 917,416 727,452 638,421 511,460 116,447"/>
+				<Baseline points="122,483 167,480 211,480 256,480 301,480 346,480 390,480 435,480 480,480 524,480 569,480 614,480 659,483 703,483 748,483 793,483 838,483 882,483 927,486 972,486 1017,486 1061,486 1106,486 1148,486"/>
+				<TextEquiv>
+					<Unicode>terra gloria tua oſanna ī excelſis/ vn̄ dz benedictus alſo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="118,551 1141,553 1141,506 1078,497 118,497"/>
+				<Baseline points="125,536 170,533 214,533 259,533 304,533 348,530 393,530 438,530 483,533 527,533 572,533 617,533 662,533 706,533 751,533 796,533 841,533 885,536 930,536 975,536 1020,539 1064,539 1109,539 1145,545"/>
+				<TextEquiv>
+					<Unicode>Geſegnet ſy marien kint ewenclichen richßnend/ qui ve</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="118,598 1123,610 1132,561 117,551"/>
+				<Baseline points="125,584 170,584 214,584 259,581 304,581 348,584 393,584 438,584 483,584 527,584 572,584 617,584 662,587 706,584 751,587 796,584 841,587 885,590 930,590 975,590 1020,590 1064,590 1109,590 1136,584"/>
+				<TextEquiv>
+					<Unicode>nit in nomine domini oſanna in excelſis. Vn̄ das Ag¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_4" custom="readingOrder {index:3;}">
+				<Coords points="116,655 1139,668 1139,608 1103,596 116,608"/>
+				<Baseline points="122,638 167,635 211,635 256,635 301,635 346,635 390,638 435,635 480,635 524,638 569,638 614,638 659,638 703,638 748,638 793,638 838,638 882,638 927,641 972,641 1017,641 1061,641 1106,644 1142,644"/>
+				<TextEquiv>
+					<Unicode>nus dei/ Heiliges lamp gib freud den lebenden vn̄ dē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="118,701 1141,703 1141,668 1049,653 118,655"/>
+				<Baseline points="125,686 170,686 214,686 259,686 304,686 348,689 393,686 438,689 483,689 527,689 572,689 617,689 662,689 706,689 751,689 796,689 841,689 885,692 930,694 975,692 1020,694 1064,697 1109,694 1145,697"/>
+				<TextEquiv>
+					<Unicode>todten die miltenclichen by dir werden richßnen. Das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="125,752 1141,765 1141,719 1091,703 125,700"/>
+				<Baseline points="131,739 175,736 220,736 265,739 310,739 354,739 399,739 444,739 489,739 533,739 578,742 623,742 668,739 712,742 757,742 802,742 847,742 891,742 936,742 981,745 1026,745 1070,745 1115,745 1145,748"/>
+				<TextEquiv>
+					<Unicode>dis alles alſo beſchehen ſy/ das mag man milteclichen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="118,816 1141,809 1141,764 1101,756 118,761"/>
+				<Baseline points="125,790 170,787 214,790 259,790 304,790 348,790 393,793 438,790 483,790 527,790 572,793 617,793 662,793 706,796 751,793 796,793 841,793 885,793 930,796 975,796 1020,796 1064,799 1109,796 1145,796"/>
+				<TextEquiv>
+					<Unicode>glouben/ Wann weres das die zungen das geſchwigē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="122,864 1081,872 1137,859 1136,806 121,818"/>
+				<Baseline points="128,844 173,838 217,841 262,841 307,841 351,844 396,841 441,844 486,844 530,844 575,844 620,847 665,847 709,847 754,847 799,844 844,844 888,847 933,847 978,847 1023,850 1067,850 1112,850 1139,850"/>
+				<TextEquiv>
+					<Unicode>ſo bewiſſet es doch mengerley zeychen/ die da noch alle</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="112,905 1141,922 1141,858 112,867"/>
+				<Baseline points="119,894 164,891 208,891 253,894 298,894 343,894 387,894 432,894 477,894 521,894 566,897 611,897 656,897 700,900 745,897 790,897 835,897 879,897 924,897 969,897 1014,900 1058,900 1103,900 1145,906"/>
+				<TextEquiv>
+					<Unicode>iag beſchehē zuͦ der egenanten cappel/ Es koment ouch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="112,955 1134,968 1132,926 1048,913 112,909"/>
+				<Baseline points="119,945 164,942 208,945 253,945 298,945 343,948 387,948 432,948 477,948 521,948 566,948 611,948 656,948 700,948 745,948 790,948 835,948 879,951 924,951 969,951 1014,951 1058,951 1103,951 1136,951"/>
+				<TextEquiv>
+					<Unicode>menger hand lüt do von ferren landen die da erfrew¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_11" custom="readingOrder {index:10;}">
+				<Coords points="116,1004 1139,1019 1139,967 1103,964 116,960"/>
+				<Baseline points="122,996 167,996 211,996 256,996 301,999 346,999 390,999 435,999 480,999 524,999 569,999 614,999 659,999 703,1002 748,1002 793,999 838,1002 882,1002 927,1002 972,1002 1017,1005 1061,1008 1106,1005 1142,1005"/>
+				<TextEquiv>
+					<Unicode>et werden in iren kommer vnd in ire betruͤbnuſſe. Vn̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_12" custom="readingOrder {index:11;}">
+				<Coords points="116,1062 1113,1080 1130,1015 114,1004"/>
+				<Baseline points="122,1046 167,1046 211,1046 256,1049 301,1049 346,1049 390,1049 435,1049 480,1052 524,1052 569,1052 614,1052 659,1052 703,1052 748,1052 793,1055 838,1055 882,1055 927,1052 972,1055 1017,1055 1061,1055 1106,1055 1133,1058"/>
+				<TextEquiv>
+					<Unicode>do vnſer lieber herr ieſus criſtus ſprechen ſolt/ Domi¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_13" custom="readingOrder {index:12;}">
+				<Coords points="109,1112 1140,1125 1139,1074 1069,1067 109,1062"/>
+				<Baseline points="116,1097 161,1097 205,1097 250,1100 295,1100 340,1100 384,1103 429,1100 474,1103 519,1103 563,1103 608,1103 653,1103 697,1103 742,1106 787,1109 832,1106 876,1106 921,1106 966,1109 1011,1106 1055,1109 1100,1106 1142,1109"/>
+				<TextEquiv>
+					<Unicode>nus vobiſcum/ Do ſprach er got ſy mit üch/ Do ſpra</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_14" custom="readingOrder {index:13;}">
+				<Coords points="116,1161 1137,1176 1114,1118 116,1112"/>
+				<Baseline points="122,1151 167,1148 211,1148 256,1151 301,1154 346,1154 390,1154 435,1154 480,1154 524,1157 569,1154 614,1154 659,1160 703,1157 748,1154 793,1157 838,1157 882,1157 927,1157 972,1157 1017,1157 1061,1157 1106,1157 1139,1160"/>
+				<TextEquiv>
+					<Unicode>chent die engel/ der do ſitzet vff dem obreſten trone/ vn̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_15" custom="readingOrder {index:14;}">
+				<Coords points="116,1216 1141,1225 1141,1169 116,1159"/>
+				<Baseline points="122,1202 167,1202 211,1202 256,1202 301,1205 346,1205 390,1205 435,1205 480,1205 524,1208 569,1208 614,1208 659,1208 703,1211 748,1208 793,1211 838,1211 882,1211 927,1208 972,1208 1017,1211 1061,1211 1106,1211 1145,1213"/>
+				<TextEquiv>
+					<Unicode>ſicht in die abgrunt der hellen. Diſes ſtat alles geſchri</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_16" custom="readingOrder {index:15;}">
+				<Coords points="109,1259 1139,1279 1130,1222 109,1217"/>
+				<Baseline points="116,1249 161,1249 205,1252 250,1252 295,1255 340,1255 384,1255 429,1258 474,1258 519,1258 563,1261 608,1258 653,1258 697,1258 742,1261 787,1261 832,1261 876,1261 921,1261 966,1261 1011,1261 1055,1261 1100,1261 1142,1261"/>
+				<TextEquiv>
+					<Unicode>ben in der heimlichi der heimlichkeit des heiligen ſant</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_17" custom="readingOrder {index:16;}">
+				<Coords points="112,1311 1139,1324 1116,1275 112,1259"/>
+				<Baseline points="119,1303 164,1303 208,1303 253,1303 298,1306 343,1309 387,1312 432,1312 477,1312 521,1312 566,1312 611,1312 656,1312 700,1312 745,1312 790,1312 835,1312 879,1312 924,1315 969,1312 1014,1315 1058,1315 1103,1312 1142,1315"/>
+				<TextEquiv>
+					<Unicode>Conrat biſchoff zuͦ Cofftantz in dem buͦch des anfangs</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_18" custom="readingOrder {index:17;}">
+				<Coords points="118,1367 1074,1392 1066,1325 118,1316"/>
+				<Baseline points="125,1354 170,1354 214,1357 259,1357 304,1357 348,1360 393,1360 438,1363 483,1363 527,1366 572,1363 617,1363 662,1363 706,1363 751,1363 796,1366 841,1366 885,1366 930,1366 975,1366 1020,1363 1064,1366 1146,1363"/>
+				<TextEquiv>
+					<Unicode>der hoffſtat zuͦ den einſidlen/ wann es iſt darumb den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_19" custom="readingOrder {index:18;}">
+				<Coords points="117,1426 1060,1434 1059,1376 503,1398 116,1367"/>
+				<Baseline points="122,1404 167,1404 211,1407 256,1407 301,1410 346,1413 390,1413 435,1416 480,1416 524,1416 569,1416 614,1413 659,1413 703,1416 748,1416 793,1416 838,1416 882,1416 927,1416 972,1416 1017,1416 1052,1417 1139,1422"/>
+				<TextEquiv>
+					<Unicode>heiligen biſchoffen ſant Cuͦnraten vnd ſant vlrichen wol</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_20" custom="readingOrder {index:19;}">
+				<Coords points="118,1471 1041,1480 1004,1424 684,1452 118,1429"/>
+				<Baseline points="125,1458 170,1458 214,1458 259,1461 304,1461 348,1464 393,1464 438,1470 483,1467 527,1467 572,1467 617,1464 662,1467 706,1467 751,1467 796,1467 841,1467 885,1467 930,1467 975,1467 1020,1467 1141,1474"/>
+				<TextEquiv>
+					<Unicode>zuͦ glouben/ wann ſy warē zwey erwirdiger liechter der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_21" custom="readingOrder {index:20;}">
+				<Coords points="121,1526 917,1544 937,1489 119,1471"/>
+				<Baseline points="128,1509 173,1509 217,1509 262,1512 307,1515 351,1515 396,1518 441,1521 486,1524 530,1518 575,1518 620,1518 665,1518 709,1521 754,1518 799,1518 844,1521 888,1521 933,1524 1140,1528"/>
+				<TextEquiv>
+					<Unicode>heligen criſtenheit. Hie mit hat dis buͦch ein end/ gott</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573670400_405_tl_22" custom="readingOrder {index:21;}">
+				<Coords points="116,1600 829,1596 815,1528 116,1532"/>
+				<Baseline points="122,1562 167,1562 211,1565 256,1568 301,1568 346,1571 390,1571 435,1571 480,1574 524,1574 569,1574 614,1571 659,1571 703,1571 748,1571 793,1571 909,1580"/>
+				<TextEquiv>
+					<Unicode>vnſer aller kumer wend/ an vnſerem end/</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion type="paragraph" id="region_1689004270511_137" custom="readingOrder {index:1;} structure {type:paragraph;}">
+			<Coords points="78,1622 1450,1622 1450,2233 78,2233"/>
+		</TextRegion>
+	</Page>
+</PcGts>

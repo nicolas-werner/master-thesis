@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=52684:lm=provided:date=12_06_2023_20:37</Creator>
+		<Created>2023-06-07T09:11:12.739+02:00</Created>
+		<LastChange>2023-12-20T15:42:25.578+01:00</LastChange>
+		<TranskribusMetadata docId="1895716" pageId="67075014" pageNr="39" tsid="154460092" status="GT" userId="158921" imgUrl="https://files.transkribus.eu/Get?id=BCVCJOYXYZEIHZCSOWSDQTSE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SHZVJXALHZWQDLDOZQUEDIFT" imageId="45286884"/>
+	</Metadata>
+	<Page imageFilename="7474496.jpg" imageWidth="2120" imageHeight="2768">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1711356434122" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1686573564991_326"/>
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion type="paragraph" id="region_1686573564991_326" custom="readingOrder {index:0;} structure {type:paragraph;}">
+			<Coords points="77,1639 1190,1639 1190,2250 77,2250"/>
+			<TextLine id="region_1686573564991_326_tl_1" custom="readingOrder {index:0;}">
+				<Coords points="252,1724 1118,1714 1118,1672 1082,1661 414,1671 252,1641"/>
+				<Baseline points="259,1697 304,1697 348,1697 393,1700 438,1697 483,1700 527,1700 572,1703 617,1703 662,1700 706,1703 751,1706 796,1703 841,1703 885,1703 930,1703 975,1700 1020,1703 1064,1703 1109,1703 1121,1706"/>
+				<TextEquiv>
+					<Unicode>Abſt Leo ein knecht aller gottes dyeneren es</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573564991_326_tl_2" custom="readingOrder {index:1;}">
+				<Coords points="252,1763 1112,1763 1112,1719 252,1723"/>
+				<Baseline points="259,1750 304,1747 348,1750 393,1747 438,1750 483,1750 527,1750 572,1753 617,1753 662,1753 706,1753 751,1753 796,1753 841,1756 885,1756 930,1753 975,1753 1020,1753 1064,1753 1109,1753 1115,1756"/>
+				<TextEquiv>
+					<Unicode>zympt wol der babſtlichen fürſichtigkeit/ wo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573564991_326_tl_3" custom="readingOrder {index:2;}">
+				<Coords points="247,1830 1109,1823 1090,1762 247,1775"/>
+				<Baseline points="253,1801 298,1801 343,1801 387,1804 432,1804 477,1804 521,1807 566,1804 611,1804 656,1804 700,1804 745,1804 790,1807 835,1807 879,1807 924,1807 969,1807 1014,1807 1058,1807 1103,1807 1112,1807"/>
+				<TextEquiv>
+					<Unicode>ſelig hoffſtet ſynd/ vnd die in criſtlichem ſchi¬</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1686641025151_1021" custom="readingOrder {index:3;}">
+				<Coords points="250,1810 301,1832 1107,1819 1114,1876 250,1865"/>
+				<Baseline points="250,1851 256,1852 301,1852 346,1852 390,1855 435,1855 480,1855 524,1855 569,1858 614,1855 659,1855 703,1858 748,1858 793,1858 838,1858 882,1858 927,1858 972,1858 1017,1858 1061,1861 1106,1858 1118,1861"/>
+				<TextEquiv>
+					<Unicode>ne weſen hant mit willigen lüten/ das wir dē</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573564991_326_tl_5" custom="readingOrder {index:4;}">
+				<Coords points="94,1901 911,1941 1104,1923 1104,1886 92,1858"/>
+				<Baseline points="101,1891 146,1891 190,1897 235,1900 280,1903 325,1905 369,1905 414,1905 459,1908 504,1908 548,1908 593,1908 638,1908 683,1908 727,1908 772,1911 817,1911 862,1911 906,1911 951,1908 996,1911 1040,1908 1085,1908 1106,1911"/>
+				<TextEquiv>
+					<Unicode>zuͦ hilff komē/ vnd allen den/ die vns ratz frogen/ oder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573564991_326_tl_6" custom="readingOrder {index:5;}">
+				<Coords points="100,1954 1112,1975 1078,1925 100,1905"/>
+				<Baseline points="107,1941 152,1944 196,1950 241,1953 286,1953 331,1956 375,1956 420,1959 465,1959 510,1962 554,1962 599,1959 644,1962 689,1962 733,1962 778,1962 823,1962 867,1962 912,1962 957,1962 1002,1962 1046,1962 1091,1962 1115,1965"/>
+				<TextEquiv>
+					<Unicode>vnß darumb bittē/ mit ſchneller demuͦtygunſte/ vn̄ rot</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573564991_326_tl_7" custom="readingOrder {index:6;}">
+				<Coords points="97,2006 1056,2039 1112,2027 1111,1972 525,1991 96,1957"/>
+				<Baseline points="104,1992 149,1992 193,2001 238,2004 283,2007 328,2007 372,2010 417,2010 462,2013 507,2013 551,2013 596,2013 641,2013 686,2016 730,2016 775,2016 820,2016 865,2016 909,2016 954,2013 999,2016 1043,2013 1088,2013 1115,2019"/>
+				<TextEquiv>
+					<Unicode>gebent/ wan̄ do mit verdienen mir von dem ſchoͤffer al</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573564991_326_tl_8" custom="readingOrder {index:7;}">
+				<Coords points="94,2059 434,2091 1097,2077 1095,2035 1026,2027 574,2044 92,1992"/>
+				<Baseline points="101,2040 146,2046 190,2052 235,2055 280,2058 325,2061 369,2061 414,2064 459,2064 504,2067 548,2067 593,2067 638,2067 683,2067 727,2067 772,2067 817,2067 862,2067 906,2067 951,2070 996,2070 1040,2067 1085,2067 1100,2070"/>
+				<TextEquiv>
+					<Unicode>ler dingen den hochſten lon/ wen̄ wir eewirdig hoffſtet/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573564991_326_tl_9" custom="readingOrder {index:8;}">
+				<Coords points="97,2105 407,2142 1103,2135 1070,2076 721,2100 97,2061"/>
+				<Baseline points="104,2093 149,2099 193,2105 238,2108 283,2111 328,2111 372,2114 417,2117 462,2117 507,2117 551,2117 596,2120 641,2123 686,2120 730,2120 775,2120 820,2120 865,2120 909,2120 954,2120 999,2120 1043,2120 1088,2120 1106,2123"/>
+				<TextEquiv>
+					<Unicode>der gotzhüſer beſſerent/ vnd ſy in ein hocher gnade vn̄</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="region_1686573564991_326_tl_10" custom="readingOrder {index:9;}">
+				<Coords points="94,2178 722,2181 806,2214 1065,2200 1107,2187 1106,2133 92,2113"/>
+				<Baseline points="101,2147 146,2153 190,2159 235,2162 280,2168 325,2168 369,2168 414,2171 459,2174 504,2174 548,2174 593,2177 638,2177 683,2174 727,2174 772,2177 817,2177 862,2177 906,2177 951,2177 996,2174 1040,2174 1085,2174 1109,2180"/>
+				<TextEquiv>
+					<Unicode>eewirdikeit gekert wurdent/ Hie von ſo thuͦn wir kunt</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

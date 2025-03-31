@@ -1,0 +1,2 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Uon der neü gefunden,Lon der neu gefunden\nRegion so wol ein welt genempt mag werden /\ndurch den Cristeͤlichen künig / von Portigal /\nwunderbarlich erfunden /,6.0,5.0,5.0,7474184,openai

@@ -1,0 +1,35 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,keit gottes vmbſcheyn vnß da wir diſen landen zuͦ kamē,Feit gottes vmbſcheyn vnſ da wir diſen landen zů ſamē,0.09259259259259259,0.4,0.4,7474188,mistral
+2,den̄ vns was abgangen an holtz an waſſer/ vnnd hetten,den vns was abgangen an holtz an waſſer/ vnnd hetten,0.018867924528301886,0.1,0.1,7474188,mistral
+3,noch wenig tag moͤgen bliben/ vnd vff dem mere vnßer,noch wenig tag moͤgen bliben/ vnd vſſ dem mere vnſer,0.057692307692307696,0.2,0.2,7474188,mistral
+4,leben enthalten/ Im ſie ere vnd glorig vnd danck geſagt/,leben enthalten/ Jm ſie ere vnd gloria vnd danck geſagt/,0.03571428571428571,0.2,0.2,7474188,mistral
+5,Wir wurden da zerate dz wir fuͦrē nach dem begriff des,Wir wurden da zerate ſo wir füre nach dem begriff des,0.09259259259259259,0.18181818181818182,0.18181818181818182,7474188,mistral
+6,ſtaden vn̄ des lands diſer lantſchafft gegē der Sonnen,ſtaden vn̄ deſ lands diſer lantſchafft gege der ſonnen,0.05555555555555555,0.3333333333333333,0.3333333333333333,7474188,mistral
+7,vffgang vn̄ die anſehung ſolichs lands nyemer ze laſſen/,vffgang vn̄ die anſehing ſolichs lands nyemer ze laſſen/,0.017857142857142856,0.1111111111111111,0.1111111111111111,7474188,mistral
+8,Und zuͦ ſtundan durch fuͦren wir das/ damit wir kamē,Vn̄ zu ſtundan durch füren wir daſ/ damit wir kamen,0.15384615384615385,0.5,0.5,7474188,mistral
+9,zuͦ einem winckel/ da das land eyn inkere machet gegen,zu einem winckel/ da daſ land eyn inre machet gegen,0.07407407407407407,0.3,0.3,7474188,mistral
+10,mittag vnd von der ſtatt da wir am erſten das land traf,mittag vnd von der ſtatt da wir am erſten daſ land traf,0.01818181818181818,0.08333333333333333,0.08333333333333333,7474188,mistral
+11,fen biß zuͦ diſem winckel waren by dryhundert welſcher,fen Biß zů diſem winckel waren by dryhundert reiſcher,0.09259259259259259,0.3333333333333333,0.3333333333333333,7474188,mistral
+12,mile/ vnd in zyt dißer ſchiffung ſind wir zuͦ dickern̄ malē,mile/ vnd in zyt diſer ſchiffung ſind wir zu dickern malen,0.0847457627118644,0.36363636363636365,0.36363636363636365,7474188,mistral
+13,zuͦ land gefaren vnd haben früntlich geſprech vnnd wan,zu land geſaren vnd haben fruntlich geſprech vnnd wan,0.05555555555555555,0.3333333333333333,0.3333333333333333,7474188,mistral
+14,del mit dem ſelben volck gehept als du hienach vernemen,del mit dem ſelben volck gehept als du bienach vernemen,0.01818181818181818,0.1,0.1,7474188,mistral
+15,wirdeſt/ Mir was vergeſſen dir ze ſchriben das von dem,wirdest/ Mir was vergeſſen dir ze ſchriben daſ von dem,0.037037037037037035,0.2,0.2,7474188,mistral
+16,hochgebirg des grünē houpts biß zuͦ anfang diſer bewo¬,hochgebirg deſ grüne houpts Biß zu anfang diſer bewo-,0.09259259259259259,0.5555555555555556,0.5555555555555556,7474188,mistral
+17,den landtſchafft ſind by Sibenhundert welſcher milen,nen landtſchafft ſind by Sibenhundert reiſcher milen,0.057692307692307696,0.2857142857142857,0.2857142857142857,7474188,mistral
+18,Wie wol ich meyn das wir me den̄ Tuſent vn̄ achthun¬,Wie wol ich meyn daſ wir me den Luſent vn̄ achthun-,0.07692307692307693,0.36363636363636365,0.36363636363636365,7474188,mistral
+19,dert mile gefaren ſo von vnwiſſenheyt d̓ ſtetten vn̄ ſchiff¬,dert mile geſaren ſo von vnwiſſenheyt ſtetten vn̄ ſchiff-,0.08333333333333333,0.3,0.3,7474188,mistral
+20,meiſters ſo von vngewitter vnd von winden verhindert,meiſters ſo von vngewitter vnd von winden verhindert,0.0,0.0,0.0,7474188,mistral
+21,die vnßern ſchlechten weg widertriben zuͦ ſtetten vnd vil,die vnſer ſchlechten weg widertriben zu ſtetten vn̄ vil,0.07017543859649122,0.3333333333333333,0.3333333333333333,7474188,mistral
+22,abwendungen/ Den̄ wen min geſellen ir gemüt vnd ver.,abwendungen/ Den wen min geſellen ir gemüt vnd ver-,0.038461538461538464,0.2222222222222222,0.2222222222222222,7474188,mistral
+23,truwen nit zuͦ mir geſetzt hetten/ ſo mir bekantlich was d̓,truwen nit zů mir geſeſſet hetten/ ſo mir bekanntlich was 8,0.13559322033898305,0.36363636363636365,0.36363636363636365,7474188,mistral
+24,groſſen welt lantſterlugūg vnd gelegenheit ſo weis kein,groſſen welt lantſterlung vnd gelegenheit ſo weiß kein,0.05454545454545454,0.25,0.25,7474188,mistral
+25,ſchiffman oder wegwiſer vnßer fart der ioch by fünffhū,ſchiffman oder wegwiſer vnſer fart der ioch by finffhu-,0.07407407407407407,0.2222222222222222,0.2222222222222222,7474188,mistral
+26,dert milen wußte wō wir waren/ Denn wir waren vmb¬,dert milen wuſſte wo wir waren/ Senn wir vmb-,0.22,0.5,0.5,7474188,mistral
+27,ſchweiffig vnd irrig/ Den̄ allein der himelſchen zeichen,ſchweiffing vnd irrig/ Den allein der himelſchen zeichen,0.03571428571428571,0.25,0.25,7474188,mistral
+28,hohe waren vns zuͦbewiſung vnd zoͤugten vns warheyt,hohe waren vnſ zuͤbewiſung vnd zōugten vnſ warheit,0.11764705882352941,0.625,0.625,7474188,mistral
+29,verlorner dingen vnd die ſelben waren vns der quadrāt,verlorner dingen vnd die ſelben waren vnſ der quadrat,0.03773584905660377,0.2222222222222222,0.2222222222222222,7474188,mistral
+30,vnd das Aſtralabium als ſy alle erkantē/ Hie von ſi alle,vnd daſ Aſtralabium alſ ſy alle erkanten/ hie von ſi alle,0.08928571428571429,0.36363636363636365,0.36363636363636365,7474188,mistral
+31,mich in groſſen eren hielten/ Denn ich zoigt inen das on,mich in groſſen eren hielten/ Senn ich zoigt inen daſ on,0.03571428571428571,0.18181818181818182,0.18181818181818182,7474188,mistral
+32,die verſchreibnen meres karten kunſt der ſchiffung ich be,die verſchreibnen mereſ karten kunſt der ſchiffling ich be,0.05263157894736842,0.2222222222222222,0.2222222222222222,7474188,mistral
+33,richter was dan̄ alle Schiffherren der gantzen welt den̄,richter was dan alle ſchiffherren der gantzen welt den,0.05357142857142857,0.3333333333333333,0.3333333333333333,7474188,mistral
+34,A iii,A iii,0.0,0.0,0.0,7474188,mistral

@@ -1,0 +1,32 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,cht bringen am koſten vnnd geſmackt lieplich vnd luͦſtli¬,"Here is the transcription of the provided manuscript image, preserving the original text, spelling, and line breaks exactly as they appear:",1.9473684210526316,2.3333333333333335,2.3333333333333335,7474194,mistral
+2,ch vnd den menſchlichen liben nützlich vn̄ komlich/ Da,,1.0,1.0,1.0,7474194,mistral
+3,gegen ouch ſind etlich anders weſens vnnd keyn fruchtt,cht bringen am koſten vnnd geſmackt lieplich vnd luͤſtli¬,0.9074074074074074,1.0,0.8888888888888888,7474194,mistral
+4,ſynd vnſeran früchten vnd opß gleich/ Da wachßen ou¬,ch vnd den menſchlichen liben nuͤtzlich vn komlich/ Sa,0.7884615384615384,1.0,0.8888888888888888,7474194,mistral
+5,ch über alle zal vil vnd mengerley krüter geſtalten vnd,gegen ouch ſind etlich anders weſens vnd keyn frucht,0.8363636363636363,1.0,0.9,7474194,mistral
+6,wurtzen vß denen ſy brot machen/ vnd die aller beſten ge,ſynd vnſeran fruͤchten vnd opß gleich/ Sa wachſen on¬,0.7678571428571429,1.0,0.9090909090909091,7474194,mistral
+7,muͤſe haben ſy vnnd vil ſamen diſen vnſern ſamen gantz,ich uͤber alle zal vil vnd mengerley fruͤter geſtalten vnd,0.7407407407407407,0.9,0.9,7474194,mistral
+8,vnglich/ Da ſind ouch keynerley metallen vnd geſchmid,wurzen vß denen ſy brot machen/ vnd die allerbeſten ge,0.8679245283018868,1.125,1.125,7474194,mistral
+9,den̄ allein gold da vō diß region vn̄ land überflieſſen wie,muͤſe haben ſy vnd vil ſamen diſen vnſern ſamen gantz,0.7627118644067796,1.0,1.0,7474194,mistral
+10,wol wir des nützit mit vnß namen/ In dißer erſten vnſer,vnglich/ Sa ſind ouch keynerley metallen vnd geſchmid,0.8727272727272727,1.0,1.0,7474194,mistral
+11,ſchiffart/ Und das ſagen vnß die inwonere vnd ſprachē,den allein gold da vo diß region vn land vͤberflieſſen wie,0.8679245283018868,1.2222222222222223,1.2222222222222223,7474194,mistral
+12,das in der mittliſten gegne diſes lands große volle ſie deſ,wol wir deſ nützit mit vnſ namen/ In dieſer erſten vnſer,0.7288135593220338,1.0,0.9090909090909091,7474194,mistral
+13,goldes vnd von ienen verachtet vnnd für nicht geſchetzt,ſchiffart/ Vnd daſ ſagen vnſ die inwoner vnd ſprachen,0.7636363636363637,1.0,0.8888888888888888,7474194,mistral
+14,werde/ Sye überflüſſig von edelem geſteyn/ Marga¬,daſ in der mittliſten gegne dieſ land groſſe volle ſie deſ,0.9183673469387755,1.5714285714285714,1.5714285714285714,7474194,mistral
+15,eiten/ Als ich dyr vor me geſchryben hab/ Wenn ich,goldes vnd von ienen verachtet vnd fur nicht geſchetzt,0.9,1.0,1.0,7474194,mistral
+16,wolt alle vnnd yegliche ding erzellen dye da ſynd vnd,werde/ Sye vͤberfluͤſſig von edelem geſteyn/ Marga¬,0.7735849056603774,1.0,1.0,7474194,mistral
+17,von den on zall mengerley thieren geſchlecht vnnd der,eiten/ Alſ ich dyr vor me geſchryben hab/ Wenn ich,0.7547169811320755,1.1111111111111112,1.1111111111111112,7474194,mistral
+18,ſelben vile/ Das were eyn ding gar zelang vnd on maß,wolt alle vnd yegliche ding erzehlen dye de ſynd vnd,0.6730769230769231,0.9090909090909091,0.8181818181818182,7474194,mistral
+19,Und ſlechtliche glaub ich das vnßer plimus dem tuſent¬,von den on zal mengerley thieren geſchlecht vnd der,0.8518518518518519,1.0,1.0,7474194,mistral
+20,teyl nit zuͦkomen ſye/ Des volcks der Sitkuſten vnd der,ſelben vile/ Daſ were eyn ding gar zelang vnd on maſ,0.8,1.0,1.0,7474194,mistral
+21,andern voͤgelen vnnd der thyeren die in den ſelben lan¬,Vnd ſiechtliche glaub ich daſ vnſer plimus dem tuſent¬,0.7636363636363637,1.0,1.0,7474194,mistral
+22,den ſynd Mit ſo mengerley vnderſcheydt der antlitten,teyl nit zuͤkomen ſye/ Des volcks der ſitkusten vnd der,0.7884615384615384,1.125,1.125,7474194,mistral
+23,vnd frouwen das der volkomneſten lyt Maler kunſt ver,andern voͤgelen vnd der thyeren die in deſen selben lan¬,0.7692307692307693,1.0,0.8888888888888888,7474194,mistral
+24,rumpt Meiſter Pollicletus die abzemalē erlygen müſte,den ſynd mit ſo mengerley vnderscheydt der antlitten,0.8269230769230769,1.1428571428571428,1.1428571428571428,7474194,mistral
+25,Da ſynd alle boum guͦtds vnnd wolgeſchmackes vnd,vnd frouwen daſ der volkomnesten lyt Waler kunst ver,0.8958333333333334,1.125,1.0,7474194,mistral
+26,bryngen alle ettwas oͤls oder ſolicher füchtigkeyt/ Wen̄,rumpt/ Meiſter Pollicletus die abzemalen erlygen muͤſte,0.8571428571428571,1.0,1.0,7474194,mistral
+27,ir krafft vnnd eygenſchafft vnnß bekant were zwifelen,Sa ſynd alle boum guͤtſ vnd wolgeſchmackes vnd,0.8301886792452831,1.0,1.0,7474194,mistral
+28,ich nit den das ſye der menſchen lyben zuͦ artzenye groſ,bryngen alle ettwas oͤls oder ſolicher fruchtigkeyt/ Wenn,0.8035714285714286,1.0,1.0,7474194,mistral
+29,ſer heylung ſyn ſolten/ Unnd on zwyfel halt ich ob der,ir krafft vnd eygenſchafft vnnſ bekant were zwifelen,0.8148148148148148,1.0,1.0,7474194,mistral
+30,Irdyſch Paradyß vff erttrich das der nitt ferr vonn,ich nit daſ ſye der menſchen lybenſ zu artzenye groſ,0.8235294117647058,1.1111111111111112,1.0,7474194,mistral
+31,dyßer lanttſchaffte ſye/ So ir gelegenheyt als ich vor,ser heylung ſyn ſolten/ Vnd onzwyſel halt ich ob der,0.7592592592592593,1.0,1.0,7474194,mistral
