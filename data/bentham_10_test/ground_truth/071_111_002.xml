@@ -1,0 +1,2209 @@
+<?xml version='1.0'?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+    <Metadata>
+        <Creator/>
+        <Created>2013-03-08T01:03:58</Created>
+        <LastChange>2013-09-09T12:23:44</LastChange>
+    </Metadata>
+    <Page imageWidth="2731" imageFilename="071_111_002.jpg" imageHeight="4096">
+        <TextRegion type="paragraph" id="r1">
+            <Coords>
+                <Point x="60" y="65"/>
+                <Point x="126" y="60"/>
+                <Point x="156" y="143"/>
+                <Point x="104" y="165"/>
+                <Point x="56" y="139"/>
+                <Point x="47" y="95"/>
+            </Coords>
+            <TextLine id="r215">
+                <Coords>
+                    <Point x="73" y="74"/>
+                    <Point x="94" y="72"/>
+                    <Point x="105" y="80"/>
+                    <Point x="108" y="86"/>
+                    <Point x="113" y="97"/>
+                    <Point x="115" y="105"/>
+                    <Point x="118" y="116"/>
+                    <Point x="116" y="119"/>
+                    <Point x="102" y="129"/>
+                    <Point x="97" y="130"/>
+                    <Point x="74" y="125"/>
+                    <Point x="63" y="103"/>
+                </Coords>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r2">
+            <Coords>
+                <Point x="1030" y="239"/>
+                <Point x="1415" y="187"/>
+                <Point x="2086" y="208"/>
+                <Point x="1995" y="362"/>
+                <Point x="1577" y="357"/>
+                <Point x="1470" y="365"/>
+                <Point x="1367" y="362"/>
+                <Point x="1055" y="395"/>
+                <Point x="986" y="291"/>
+            </Coords>
+            <TextLine id="r10">
+                <Coords>
+                    <Point x="1519" y="196"/>
+                    <Point x="2026" y="196"/>
+                    <Point x="2026" y="367"/>
+                    <Point x="1519" y="367"/>
+                    <Point x="1519" y="364"/>
+                    <Point x="1144" y="364"/>
+                    <Point x="1144" y="396"/>
+                    <Point x="1010" y="396"/>
+                    <Point x="1010" y="237"/>
+                    <Point x="1175" y="237"/>
+                    <Point x="1175" y="208"/>
+                    <Point x="1519" y="208"/>
+                </Coords>
+                <Word id="r6">
+                    <Coords>
+                        <Point x="1010" y="237"/>
+                        <Point x="1010" y="396"/>
+                        <Point x="1144" y="396"/>
+                        <Point x="1144" y="237"/>
+                    </Coords>
+                </Word>
+                <Word id="r7">
+                    <Coords>
+                        <Point x="1175" y="208"/>
+                        <Point x="1175" y="364"/>
+                        <Point x="1516" y="364"/>
+                        <Point x="1516" y="208"/>
+                    </Coords>
+                </Word>
+                <Word id="r9">
+                    <Coords>
+                        <Point x="1519" y="196"/>
+                        <Point x="1519" y="367"/>
+                        <Point x="2026" y="367"/>
+                        <Point x="2026" y="196"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>Of Family Imposture.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r3">
+            <Coords>
+                <Point x="755" y="515"/>
+                <Point x="1443" y="508"/>
+                <Point x="2478" y="495"/>
+                <Point x="2530" y="765"/>
+                <Point x="2470" y="1102"/>
+                <Point x="2475" y="1260"/>
+                <Point x="2500" y="1410"/>
+                <Point x="2535" y="2255"/>
+                <Point x="2525" y="4010"/>
+                <Point x="707" y="4010"/>
+                <Point x="707" y="1302"/>
+                <Point x="710" y="1155"/>
+                <Point x="712" y="557"/>
+            </Coords>
+            <TextLine id="r22">
+                <Coords>
+                    <Point x="717" y="516"/>
+                    <Point x="1021" y="516"/>
+                    <Point x="1021" y="521"/>
+                    <Point x="1228" y="521"/>
+                    <Point x="1228" y="539"/>
+                    <Point x="1442" y="539"/>
+                    <Point x="1442" y="537"/>
+                    <Point x="1553" y="537"/>
+                    <Point x="1553" y="548"/>
+                    <Point x="1669" y="548"/>
+                    <Point x="1669" y="539"/>
+                    <Point x="1853" y="539"/>
+                    <Point x="1853" y="521"/>
+                    <Point x="1921" y="521"/>
+                    <Point x="1921" y="530"/>
+                    <Point x="2026" y="530"/>
+                    <Point x="2026" y="516"/>
+                    <Point x="2353" y="516"/>
+                    <Point x="2353" y="626"/>
+                    <Point x="2026" y="626"/>
+                    <Point x="2026" y="621"/>
+                    <Point x="1921" y="621"/>
+                    <Point x="1921" y="625"/>
+                    <Point x="1850" y="625"/>
+                    <Point x="1850" y="632"/>
+                    <Point x="1669" y="632"/>
+                    <Point x="1669" y="603"/>
+                    <Point x="1553" y="603"/>
+                    <Point x="1553" y="617"/>
+                    <Point x="1355" y="617"/>
+                    <Point x="1355" y="626"/>
+                    <Point x="1021" y="626"/>
+                    <Point x="1021" y="623"/>
+                    <Point x="717" y="623"/>
+                </Coords>
+                <Word id="r12">
+                    <Coords>
+                        <Point x="717" y="516"/>
+                        <Point x="717" y="623"/>
+                        <Point x="1021" y="623"/>
+                        <Point x="1021" y="516"/>
+                    </Coords>
+                </Word>
+                <Word id="r13">
+                    <Coords>
+                        <Point x="1021" y="521"/>
+                        <Point x="1021" y="626"/>
+                        <Point x="1228" y="626"/>
+                        <Point x="1228" y="521"/>
+                    </Coords>
+                </Word>
+                <Word id="r14">
+                    <Coords>
+                        <Point x="1230" y="539"/>
+                        <Point x="1230" y="626"/>
+                        <Point x="1355" y="626"/>
+                        <Point x="1355" y="539"/>
+                    </Coords>
+                </Word>
+                <Word id="r15">
+                    <Coords>
+                        <Point x="1358" y="564"/>
+                        <Point x="1358" y="610"/>
+                        <Point x="1442" y="610"/>
+                        <Point x="1442" y="564"/>
+                    </Coords>
+                </Word>
+                <Word id="r16">
+                    <Coords>
+                        <Point x="1442" y="537"/>
+                        <Point x="1442" y="617"/>
+                        <Point x="1553" y="617"/>
+                        <Point x="1553" y="537"/>
+                    </Coords>
+                </Word>
+                <Word id="r17">
+                    <Coords>
+                        <Point x="1551" y="548"/>
+                        <Point x="1551" y="603"/>
+                        <Point x="1671" y="603"/>
+                        <Point x="1671" y="548"/>
+                    </Coords>
+                </Word>
+                <Word id="r18">
+                    <Coords>
+                        <Point x="1669" y="539"/>
+                        <Point x="1669" y="632"/>
+                        <Point x="1850" y="632"/>
+                        <Point x="1850" y="539"/>
+                    </Coords>
+                </Word>
+                <Word id="r19">
+                    <Coords>
+                        <Point x="1853" y="521"/>
+                        <Point x="1853" y="625"/>
+                        <Point x="1921" y="625"/>
+                        <Point x="1921" y="521"/>
+                    </Coords>
+                </Word>
+                <Word id="r20">
+                    <Coords>
+                        <Point x="1919" y="530"/>
+                        <Point x="1919" y="621"/>
+                        <Point x="2026" y="621"/>
+                        <Point x="2026" y="530"/>
+                    </Coords>
+                </Word>
+                <Word id="r21">
+                    <Coords>
+                        <Point x="2026" y="516"/>
+                        <Point x="2026" y="626"/>
+                        <Point x="2353" y="626"/>
+                        <Point x="2353" y="516"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>pretended mother was or was not privy to the Imposture.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r37">
+                <Coords>
+                    <Point x="875" y="730"/>
+                    <Point x="1017" y="730"/>
+                    <Point x="1017" y="758"/>
+                    <Point x="1089" y="758"/>
+                    <Point x="1089" y="782"/>
+                    <Point x="1194" y="782"/>
+                    <Point x="1194" y="783"/>
+                    <Point x="1316" y="783"/>
+                    <Point x="1316" y="750"/>
+                    <Point x="1448" y="750"/>
+                    <Point x="1448" y="766"/>
+                    <Point x="1600" y="766"/>
+                    <Point x="1600" y="760"/>
+                    <Point x="1771" y="760"/>
+                    <Point x="1771" y="757"/>
+                    <Point x="1994" y="757"/>
+                    <Point x="1994" y="744"/>
+                    <Point x="2066" y="744"/>
+                    <Point x="2066" y="750"/>
+                    <Point x="2328" y="750"/>
+                    <Point x="2328" y="746"/>
+                    <Point x="2487" y="746"/>
+                    <Point x="2487" y="833"/>
+                    <Point x="2328" y="833"/>
+                    <Point x="2328" y="837"/>
+                    <Point x="2066" y="837"/>
+                    <Point x="2066" y="860"/>
+                    <Point x="1771" y="860"/>
+                    <Point x="1771" y="833"/>
+                    <Point x="1548" y="833"/>
+                    <Point x="1548" y="839"/>
+                    <Point x="1448" y="839"/>
+                    <Point x="1448" y="858"/>
+                    <Point x="1316" y="858"/>
+                    <Point x="1316" y="828"/>
+                    <Point x="1194" y="828"/>
+                    <Point x="1194" y="846"/>
+                    <Point x="1092" y="846"/>
+                    <Point x="1092" y="839"/>
+                    <Point x="1023" y="839"/>
+                    <Point x="1023" y="830"/>
+                    <Point x="846" y="830"/>
+                    <Point x="846" y="835"/>
+                    <Point x="757" y="835"/>
+                    <Point x="757" y="764"/>
+                    <Point x="875" y="764"/>
+                </Coords>
+                <Word id="r23">
+                    <Coords>
+                        <Point x="757" y="764"/>
+                        <Point x="757" y="835"/>
+                        <Point x="846" y="835"/>
+                        <Point x="846" y="764"/>
+                    </Coords>
+                </Word>
+                <Word id="r24">
+                    <Coords>
+                        <Point x="875" y="730"/>
+                        <Point x="875" y="830"/>
+                        <Point x="1017" y="830"/>
+                        <Point x="1017" y="730"/>
+                    </Coords>
+                </Word>
+                <Word id="r25">
+                    <Coords>
+                        <Point x="1023" y="758"/>
+                        <Point x="1023" y="839"/>
+                        <Point x="1089" y="839"/>
+                        <Point x="1089" y="758"/>
+                    </Coords>
+                </Word>
+                <Word id="r26">
+                    <Coords>
+                        <Point x="1092" y="782"/>
+                        <Point x="1092" y="846"/>
+                        <Point x="1194" y="846"/>
+                        <Point x="1194" y="782"/>
+                    </Coords>
+                </Word>
+                <Word id="r27">
+                    <Coords>
+                        <Point x="1205" y="783"/>
+                        <Point x="1205" y="828"/>
+                        <Point x="1308" y="828"/>
+                        <Point x="1308" y="783"/>
+                    </Coords>
+                </Word>
+                <Word id="r28">
+                    <Coords>
+                        <Point x="1316" y="750"/>
+                        <Point x="1316" y="858"/>
+                        <Point x="1448" y="858"/>
+                        <Point x="1448" y="750"/>
+                    </Coords>
+                </Word>
+                <Word id="r29">
+                    <Coords>
+                        <Point x="1458" y="766"/>
+                        <Point x="1458" y="839"/>
+                        <Point x="1548" y="839"/>
+                        <Point x="1548" y="766"/>
+                    </Coords>
+                </Word>
+                <Word id="r30">
+                    <Coords>
+                        <Point x="1550" y="785"/>
+                        <Point x="1550" y="816"/>
+                        <Point x="1594" y="816"/>
+                        <Point x="1594" y="785"/>
+                    </Coords>
+                </Word>
+                <Word id="r31">
+                    <Coords>
+                        <Point x="1600" y="760"/>
+                        <Point x="1600" y="833"/>
+                        <Point x="1766" y="833"/>
+                        <Point x="1766" y="760"/>
+                    </Coords>
+                </Word>
+                <Word id="r32">
+                    <Coords>
+                        <Point x="1771" y="757"/>
+                        <Point x="1771" y="860"/>
+                        <Point x="1992" y="860"/>
+                        <Point x="1992" y="757"/>
+                    </Coords>
+                </Word>
+                <Word id="r33">
+                    <Coords>
+                        <Point x="1994" y="744"/>
+                        <Point x="1994" y="860"/>
+                        <Point x="2066" y="860"/>
+                        <Point x="2066" y="744"/>
+                    </Coords>
+                </Word>
+                <Word id="r34">
+                    <Coords>
+                        <Point x="2067" y="776"/>
+                        <Point x="2067" y="816"/>
+                        <Point x="2101" y="816"/>
+                        <Point x="2101" y="776"/>
+                    </Coords>
+                </Word>
+                <Word id="r35">
+                    <Coords>
+                        <Point x="2100" y="750"/>
+                        <Point x="2100" y="837"/>
+                        <Point x="2328" y="837"/>
+                        <Point x="2328" y="750"/>
+                    </Coords>
+                </Word>
+                <Word id="r36">
+                    <Coords>
+                        <Point x="2328" y="746"/>
+                        <Point x="2328" y="833"/>
+                        <Point x="2487" y="833"/>
+                        <Point x="2487" y="746"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>4. But if any one bring up a child begotten of a married Woman</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r50">
+                <Coords>
+                    <Point x="708" y="917"/>
+                    <Point x="928" y="917"/>
+                    <Point x="928" y="926"/>
+                    <Point x="1037" y="926"/>
+                    <Point x="1037" y="933"/>
+                    <Point x="1350" y="933"/>
+                    <Point x="1350" y="928"/>
+                    <Point x="1521" y="928"/>
+                    <Point x="1521" y="937"/>
+                    <Point x="1783" y="937"/>
+                    <Point x="1783" y="925"/>
+                    <Point x="1962" y="925"/>
+                    <Point x="1962" y="923"/>
+                    <Point x="2300" y="923"/>
+                    <Point x="2300" y="919"/>
+                    <Point x="2367" y="919"/>
+                    <Point x="2367" y="917"/>
+                    <Point x="2450" y="917"/>
+                    <Point x="2450" y="994"/>
+                    <Point x="2366" y="994"/>
+                    <Point x="2366" y="1026"/>
+                    <Point x="2300" y="1026"/>
+                    <Point x="2300" y="1019"/>
+                    <Point x="1875" y="1019"/>
+                    <Point x="1875" y="1030"/>
+                    <Point x="1521" y="1030"/>
+                    <Point x="1521" y="1032"/>
+                    <Point x="1432" y="1032"/>
+                    <Point x="1432" y="1030"/>
+                    <Point x="1350" y="1030"/>
+                    <Point x="1350" y="1023"/>
+                    <Point x="1037" y="1023"/>
+                    <Point x="1037" y="1033"/>
+                    <Point x="928" y="1033"/>
+                    <Point x="928" y="1050"/>
+                    <Point x="708" y="1050"/>
+                </Coords>
+                <Word id="r38">
+                    <Coords>
+                        <Point x="708" y="917"/>
+                        <Point x="708" y="1050"/>
+                        <Point x="928" y="1050"/>
+                        <Point x="928" y="917"/>
+                    </Coords>
+                </Word>
+                <Word id="r39">
+                    <Coords>
+                        <Point x="928" y="926"/>
+                        <Point x="928" y="1033"/>
+                        <Point x="1037" y="1033"/>
+                        <Point x="1037" y="926"/>
+                    </Coords>
+                </Word>
+                <Word id="r40">
+                    <Coords>
+                        <Point x="1035" y="933"/>
+                        <Point x="1035" y="1023"/>
+                        <Point x="1353" y="1023"/>
+                        <Point x="1353" y="933"/>
+                    </Coords>
+                </Word>
+                <Word id="r41">
+                    <Coords>
+                        <Point x="1350" y="928"/>
+                        <Point x="1350" y="1030"/>
+                        <Point x="1428" y="1030"/>
+                        <Point x="1428" y="928"/>
+                    </Coords>
+                </Word>
+                <Word id="r42">
+                    <Coords>
+                        <Point x="1432" y="928"/>
+                        <Point x="1432" y="1032"/>
+                        <Point x="1521" y="1032"/>
+                        <Point x="1521" y="928"/>
+                    </Coords>
+                </Word>
+                <Word id="r43">
+                    <Coords>
+                        <Point x="1523" y="937"/>
+                        <Point x="1523" y="1030"/>
+                        <Point x="1783" y="1030"/>
+                        <Point x="1783" y="937"/>
+                    </Coords>
+                </Word>
+                <Word id="r44">
+                    <Coords>
+                        <Point x="1783" y="925"/>
+                        <Point x="1783" y="1030"/>
+                        <Point x="1875" y="1030"/>
+                        <Point x="1875" y="925"/>
+                    </Coords>
+                </Word>
+                <Word id="r45">
+                    <Coords>
+                        <Point x="1875" y="933"/>
+                        <Point x="1875" y="1008"/>
+                        <Point x="1958" y="1008"/>
+                        <Point x="1958" y="933"/>
+                    </Coords>
+                </Word>
+                <Word id="r46">
+                    <Coords>
+                        <Point x="1962" y="923"/>
+                        <Point x="1962" y="1019"/>
+                        <Point x="2228" y="1019"/>
+                        <Point x="2228" y="923"/>
+                    </Coords>
+                </Word>
+                <Word id="r47">
+                    <Coords>
+                        <Point x="2228" y="944"/>
+                        <Point x="2228" y="998"/>
+                        <Point x="2303" y="998"/>
+                        <Point x="2303" y="944"/>
+                    </Coords>
+                </Word>
+                <Word id="r48">
+                    <Coords>
+                        <Point x="2300" y="919"/>
+                        <Point x="2300" y="1026"/>
+                        <Point x="2366" y="1026"/>
+                        <Point x="2366" y="919"/>
+                    </Coords>
+                </Word>
+                <Word id="r49">
+                    <Coords>
+                        <Point x="2367" y="917"/>
+                        <Point x="2367" y="994"/>
+                        <Point x="2450" y="994"/>
+                        <Point x="2450" y="917"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>during the continuance of the marriage by and Adulterer, as if it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r62">
+                <Coords>
+                    <Point x="2132" y="1071"/>
+                    <Point x="2455" y="1071"/>
+                    <Point x="2455" y="1205"/>
+                    <Point x="2132" y="1205"/>
+                    <Point x="2132" y="1194"/>
+                    <Point x="1919" y="1194"/>
+                    <Point x="1919" y="1185"/>
+                    <Point x="1801" y="1185"/>
+                    <Point x="1801" y="1194"/>
+                    <Point x="1726" y="1194"/>
+                    <Point x="1726" y="1191"/>
+                    <Point x="1589" y="1191"/>
+                    <Point x="1589" y="1196"/>
+                    <Point x="1292" y="1196"/>
+                    <Point x="1292" y="1205"/>
+                    <Point x="1207" y="1205"/>
+                    <Point x="1207" y="1212"/>
+                    <Point x="1133" y="1212"/>
+                    <Point x="1133" y="1208"/>
+                    <Point x="966" y="1208"/>
+                    <Point x="966" y="1207"/>
+                    <Point x="858" y="1207"/>
+                    <Point x="858" y="1198"/>
+                    <Point x="721" y="1198"/>
+                    <Point x="721" y="1150"/>
+                    <Point x="858" y="1150"/>
+                    <Point x="858" y="1119"/>
+                    <Point x="969" y="1119"/>
+                    <Point x="969" y="1121"/>
+                    <Point x="1133" y="1121"/>
+                    <Point x="1133" y="1116"/>
+                    <Point x="1589" y="1116"/>
+                    <Point x="1589" y="1112"/>
+                    <Point x="1725" y="1112"/>
+                    <Point x="1725" y="1123"/>
+                    <Point x="1919" y="1123"/>
+                    <Point x="1919" y="1103"/>
+                    <Point x="2132" y="1103"/>
+                </Coords>
+                <Word id="r51">
+                    <Coords>
+                        <Point x="721" y="1150"/>
+                        <Point x="721" y="1198"/>
+                        <Point x="860" y="1198"/>
+                        <Point x="860" y="1150"/>
+                    </Coords>
+                </Word>
+                <Word id="r52">
+                    <Coords>
+                        <Point x="858" y="1119"/>
+                        <Point x="858" y="1207"/>
+                        <Point x="969" y="1207"/>
+                        <Point x="969" y="1119"/>
+                    </Coords>
+                </Word>
+                <Word id="r53">
+                    <Coords>
+                        <Point x="966" y="1121"/>
+                        <Point x="966" y="1208"/>
+                        <Point x="1132" y="1208"/>
+                        <Point x="1132" y="1121"/>
+                    </Coords>
+                </Word>
+                <Word id="r54">
+                    <Coords>
+                        <Point x="1133" y="1116"/>
+                        <Point x="1133" y="1212"/>
+                        <Point x="1207" y="1212"/>
+                        <Point x="1207" y="1116"/>
+                    </Coords>
+                </Word>
+                <Word id="r55">
+                    <Coords>
+                        <Point x="1207" y="1119"/>
+                        <Point x="1207" y="1205"/>
+                        <Point x="1292" y="1205"/>
+                        <Point x="1292" y="1119"/>
+                    </Coords>
+                </Word>
+                <Word id="r56">
+                    <Coords>
+                        <Point x="1291" y="1116"/>
+                        <Point x="1291" y="1196"/>
+                        <Point x="1589" y="1196"/>
+                        <Point x="1589" y="1116"/>
+                    </Coords>
+                </Word>
+                <Word id="r57">
+                    <Coords>
+                        <Point x="1589" y="1112"/>
+                        <Point x="1589" y="1191"/>
+                        <Point x="1725" y="1191"/>
+                        <Point x="1725" y="1112"/>
+                    </Coords>
+                </Word>
+                <Word id="r58">
+                    <Coords>
+                        <Point x="1726" y="1123"/>
+                        <Point x="1726" y="1194"/>
+                        <Point x="1801" y="1194"/>
+                        <Point x="1801" y="1123"/>
+                    </Coords>
+                </Word>
+                <Word id="r59">
+                    <Coords>
+                        <Point x="1798" y="1123"/>
+                        <Point x="1798" y="1185"/>
+                        <Point x="1921" y="1185"/>
+                        <Point x="1921" y="1123"/>
+                    </Coords>
+                </Word>
+                <Word id="r60">
+                    <Coords>
+                        <Point x="1919" y="1103"/>
+                        <Point x="1919" y="1194"/>
+                        <Point x="2130" y="1194"/>
+                        <Point x="2130" y="1103"/>
+                    </Coords>
+                </Word>
+                <Word id="r61">
+                    <Coords>
+                        <Point x="2132" y="1071"/>
+                        <Point x="2132" y="1205"/>
+                        <Point x="2455" y="1205"/>
+                        <Point x="2455" y="1071"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>were the child of the Husband, this is not Family Imposture.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r64">
+                <Coords>
+                    <Point x="1233" y="1260"/>
+                    <Point x="1733" y="1260"/>
+                    <Point x="1733" y="1444"/>
+                    <Point x="1233" y="1444"/>
+                </Coords>
+                <Word id="r63">
+                    <Coords>
+                        <Point x="1233" y="1260"/>
+                        <Point x="1233" y="1444"/>
+                        <Point x="1733" y="1444"/>
+                        <Point x="1733" y="1260"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>Punishment.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r73">
+                <Coords>
+                    <Point x="933" y="1505"/>
+                    <Point x="1067" y="1505"/>
+                    <Point x="1067" y="1523"/>
+                    <Point x="1285" y="1523"/>
+                    <Point x="1285" y="1532"/>
+                    <Point x="1585" y="1532"/>
+                    <Point x="1585" y="1555"/>
+                    <Point x="1692" y="1555"/>
+                    <Point x="1692" y="1535"/>
+                    <Point x="2035" y="1535"/>
+                    <Point x="2035" y="1580"/>
+                    <Point x="2205" y="1580"/>
+                    <Point x="2205" y="1541"/>
+                    <Point x="2473" y="1541"/>
+                    <Point x="2473" y="1662"/>
+                    <Point x="2110" y="1662"/>
+                    <Point x="2110" y="1664"/>
+                    <Point x="2035" y="1664"/>
+                    <Point x="2035" y="1660"/>
+                    <Point x="1692" y="1660"/>
+                    <Point x="1692" y="1630"/>
+                    <Point x="1585" y="1630"/>
+                    <Point x="1585" y="1637"/>
+                    <Point x="1285" y="1637"/>
+                    <Point x="1285" y="1641"/>
+                    <Point x="1073" y="1641"/>
+                    <Point x="1073" y="1607"/>
+                    <Point x="933" y="1607"/>
+                </Coords>
+                <Word id="r65">
+                    <Coords>
+                        <Point x="933" y="1505"/>
+                        <Point x="933" y="1607"/>
+                        <Point x="1067" y="1607"/>
+                        <Point x="1067" y="1505"/>
+                    </Coords>
+                </Word>
+                <Word id="r66">
+                    <Coords>
+                        <Point x="1073" y="1523"/>
+                        <Point x="1073" y="1641"/>
+                        <Point x="1285" y="1641"/>
+                        <Point x="1285" y="1523"/>
+                    </Coords>
+                </Word>
+                <Word id="r67">
+                    <Coords>
+                        <Point x="1287" y="1532"/>
+                        <Point x="1287" y="1637"/>
+                        <Point x="1585" y="1637"/>
+                        <Point x="1585" y="1532"/>
+                    </Coords>
+                </Word>
+                <Word id="r68">
+                    <Coords>
+                        <Point x="1585" y="1555"/>
+                        <Point x="1585" y="1630"/>
+                        <Point x="1694" y="1630"/>
+                        <Point x="1694" y="1555"/>
+                    </Coords>
+                </Word>
+                <Word id="r69">
+                    <Coords>
+                        <Point x="1692" y="1535"/>
+                        <Point x="1692" y="1660"/>
+                        <Point x="2035" y="1660"/>
+                        <Point x="2035" y="1535"/>
+                    </Coords>
+                </Word>
+                <Word id="r70">
+                    <Coords>
+                        <Point x="2035" y="1580"/>
+                        <Point x="2035" y="1664"/>
+                        <Point x="2110" y="1664"/>
+                        <Point x="2110" y="1580"/>
+                    </Coords>
+                </Word>
+                <Word id="r71">
+                    <Coords>
+                        <Point x="2112" y="1594"/>
+                        <Point x="2112" y="1625"/>
+                        <Point x="2198" y="1625"/>
+                        <Point x="2198" y="1594"/>
+                    </Coords>
+                </Word>
+                <Word id="r72">
+                    <Coords>
+                        <Point x="2205" y="1541"/>
+                        <Point x="2205" y="1662"/>
+                        <Point x="2473" y="1662"/>
+                        <Point x="2473" y="1541"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>For Family Imposture the Punishment of an Impostor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r80">
+                <Coords>
+                    <Point x="710" y="1687"/>
+                    <Point x="937" y="1687"/>
+                    <Point x="937" y="1707"/>
+                    <Point x="1105" y="1707"/>
+                    <Point x="1105" y="1737"/>
+                    <Point x="1246" y="1737"/>
+                    <Point x="1246" y="1716"/>
+                    <Point x="1469" y="1716"/>
+                    <Point x="1469" y="1851"/>
+                    <Point x="1246" y="1851"/>
+                    <Point x="1246" y="1821"/>
+                    <Point x="1105" y="1821"/>
+                    <Point x="1105" y="1828"/>
+                    <Point x="710" y="1828"/>
+                </Coords>
+                <Word id="r74">
+                    <Coords>
+                        <Point x="710" y="1687"/>
+                        <Point x="710" y="1828"/>
+                        <Point x="937" y="1828"/>
+                        <Point x="937" y="1687"/>
+                    </Coords>
+                </Word>
+                <Word id="r75">
+                    <Coords>
+                        <Point x="941" y="1707"/>
+                        <Point x="941" y="1828"/>
+                        <Point x="1105" y="1828"/>
+                        <Point x="1105" y="1707"/>
+                    </Coords>
+                </Word>
+                <Word id="r77">
+                    <Coords>
+                        <Point x="1105" y="1737"/>
+                        <Point x="1105" y="1821"/>
+                        <Point x="1173" y="1821"/>
+                        <Point x="1173" y="1737"/>
+                    </Coords>
+                </Word>
+                <Word id="r78">
+                    <Coords>
+                        <Point x="1171" y="1751"/>
+                        <Point x="1171" y="1807"/>
+                        <Point x="1250" y="1807"/>
+                        <Point x="1250" y="1751"/>
+                    </Coords>
+                </Word>
+                <Word id="r79">
+                    <Coords>
+                        <Point x="1246" y="1716"/>
+                        <Point x="1246" y="1851"/>
+                        <Point x="1469" y="1851"/>
+                        <Point x="1469" y="1716"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>himself shall be as follows.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r91">
+                <Coords>
+                    <Point x="910" y="1907"/>
+                    <Point x="1007" y="1907"/>
+                    <Point x="1007" y="1928"/>
+                    <Point x="1169" y="1928"/>
+                    <Point x="1169" y="1930"/>
+                    <Point x="1501" y="1930"/>
+                    <Point x="1501" y="1942"/>
+                    <Point x="1894" y="1942"/>
+                    <Point x="1894" y="1967"/>
+                    <Point x="2019" y="1967"/>
+                    <Point x="2019" y="1946"/>
+                    <Point x="2289" y="1946"/>
+                    <Point x="2289" y="1987"/>
+                    <Point x="2419" y="1987"/>
+                    <Point x="2419" y="1982"/>
+                    <Point x="2500" y="1982"/>
+                    <Point x="2500" y="2060"/>
+                    <Point x="2419" y="2060"/>
+                    <Point x="2419" y="2046"/>
+                    <Point x="2289" y="2046"/>
+                    <Point x="2289" y="2080"/>
+                    <Point x="2019" y="2080"/>
+                    <Point x="2019" y="2042"/>
+                    <Point x="1894" y="2042"/>
+                    <Point x="1894" y="2075"/>
+                    <Point x="1507" y="2075"/>
+                    <Point x="1507" y="2037"/>
+                    <Point x="1239" y="2037"/>
+                    <Point x="1239" y="2014"/>
+                    <Point x="1021" y="2014"/>
+                    <Point x="1021" y="2005"/>
+                    <Point x="910" y="2005"/>
+                    <Point x="910" y="1998"/>
+                    <Point x="783" y="1998"/>
+                    <Point x="783" y="1928"/>
+                    <Point x="910" y="1928"/>
+                </Coords>
+                <Word id="r81">
+                    <Coords>
+                        <Point x="783" y="1928"/>
+                        <Point x="783" y="1998"/>
+                        <Point x="896" y="1998"/>
+                        <Point x="896" y="1928"/>
+                    </Coords>
+                </Word>
+                <Word id="r82">
+                    <Coords>
+                        <Point x="910" y="1907"/>
+                        <Point x="910" y="2005"/>
+                        <Point x="1007" y="2005"/>
+                        <Point x="1007" y="1907"/>
+                    </Coords>
+                </Word>
+                <Word id="r83">
+                    <Coords>
+                        <Point x="1021" y="1928"/>
+                        <Point x="1021" y="2014"/>
+                        <Point x="1169" y="2014"/>
+                        <Point x="1169" y="1928"/>
+                    </Coords>
+                </Word>
+                <Word id="r84">
+                    <Coords>
+                        <Point x="1173" y="1933"/>
+                        <Point x="1173" y="2007"/>
+                        <Point x="1239" y="2007"/>
+                        <Point x="1239" y="1933"/>
+                    </Coords>
+                </Word>
+                <Word id="r85">
+                    <Coords>
+                        <Point x="1239" y="1930"/>
+                        <Point x="1239" y="2037"/>
+                        <Point x="1501" y="2037"/>
+                        <Point x="1501" y="1930"/>
+                    </Coords>
+                </Word>
+                <Word id="r86">
+                    <Coords>
+                        <Point x="1507" y="1942"/>
+                        <Point x="1507" y="2075"/>
+                        <Point x="1894" y="2075"/>
+                        <Point x="1894" y="1942"/>
+                    </Coords>
+                </Word>
+                <Word id="r87">
+                    <Coords>
+                        <Point x="1896" y="1967"/>
+                        <Point x="1896" y="2042"/>
+                        <Point x="2021" y="2042"/>
+                        <Point x="2021" y="1967"/>
+                    </Coords>
+                </Word>
+                <Word id="r88">
+                    <Coords>
+                        <Point x="2019" y="1946"/>
+                        <Point x="2019" y="2080"/>
+                        <Point x="2289" y="2080"/>
+                        <Point x="2289" y="1946"/>
+                    </Coords>
+                </Word>
+                <Word id="r89">
+                    <Coords>
+                        <Point x="2289" y="1987"/>
+                        <Point x="2289" y="2046"/>
+                        <Point x="2419" y="2046"/>
+                        <Point x="2419" y="1987"/>
+                    </Coords>
+                </Word>
+                <Word id="r90">
+                    <Coords>
+                        <Point x="2419" y="1982"/>
+                        <Point x="2419" y="2060"/>
+                        <Point x="2500" y="2060"/>
+                        <Point x="2500" y="1982"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>1. He shall be punished ignominiously and afflictively with the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r96">
+                <Coords>
+                    <Point x="716" y="2076"/>
+                    <Point x="1014" y="2076"/>
+                    <Point x="1014" y="2114"/>
+                    <Point x="1226" y="2114"/>
+                    <Point x="1226" y="2117"/>
+                    <Point x="1350" y="2117"/>
+                    <Point x="1350" y="2114"/>
+                    <Point x="1796" y="2114"/>
+                    <Point x="1796" y="2248"/>
+                    <Point x="1350" y="2248"/>
+                    <Point x="1350" y="2208"/>
+                    <Point x="1226" y="2208"/>
+                    <Point x="1226" y="2214"/>
+                    <Point x="1014" y="2214"/>
+                    <Point x="1014" y="2216"/>
+                    <Point x="716" y="2216"/>
+                </Coords>
+                <Word id="r92">
+                    <Coords>
+                        <Point x="716" y="2076"/>
+                        <Point x="716" y="2216"/>
+                        <Point x="1014" y="2216"/>
+                        <Point x="1014" y="2076"/>
+                    </Coords>
+                </Word>
+                <Word id="r93">
+                    <Coords>
+                        <Point x="1021" y="2114"/>
+                        <Point x="1021" y="2214"/>
+                        <Point x="1226" y="2214"/>
+                        <Point x="1226" y="2114"/>
+                    </Coords>
+                </Word>
+                <Word id="r94">
+                    <Coords>
+                        <Point x="1230" y="2117"/>
+                        <Point x="1230" y="2208"/>
+                        <Point x="1341" y="2208"/>
+                        <Point x="1341" y="2117"/>
+                    </Coords>
+                </Word>
+                <Word id="r95">
+                    <Coords>
+                        <Point x="1350" y="2114"/>
+                        <Point x="1350" y="2248"/>
+                        <Point x="1796" y="2248"/>
+                        <Point x="1796" y="2114"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>Impostor's Mask. See [Punishments]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r109">
+                <Coords>
+                    <Point x="912" y="2271"/>
+                    <Point x="1033" y="2271"/>
+                    <Point x="1033" y="2303"/>
+                    <Point x="1210" y="2303"/>
+                    <Point x="1210" y="2298"/>
+                    <Point x="1296" y="2298"/>
+                    <Point x="1296" y="2308"/>
+                    <Point x="1598" y="2308"/>
+                    <Point x="1598" y="2333"/>
+                    <Point x="1921" y="2333"/>
+                    <Point x="1921" y="2328"/>
+                    <Point x="1991" y="2328"/>
+                    <Point x="1991" y="2323"/>
+                    <Point x="2128" y="2323"/>
+                    <Point x="2128" y="2317"/>
+                    <Point x="2305" y="2317"/>
+                    <Point x="2305" y="2314"/>
+                    <Point x="2394" y="2314"/>
+                    <Point x="2394" y="2307"/>
+                    <Point x="2500" y="2307"/>
+                    <Point x="2500" y="2458"/>
+                    <Point x="2394" y="2458"/>
+                    <Point x="2394" y="2453"/>
+                    <Point x="2305" y="2453"/>
+                    <Point x="2305" y="2442"/>
+                    <Point x="2128" y="2442"/>
+                    <Point x="2128" y="2425"/>
+                    <Point x="1923" y="2425"/>
+                    <Point x="1923" y="2446"/>
+                    <Point x="1676" y="2446"/>
+                    <Point x="1676" y="2423"/>
+                    <Point x="1294" y="2423"/>
+                    <Point x="1294" y="2412"/>
+                    <Point x="1210" y="2412"/>
+                    <Point x="1210" y="2408"/>
+                    <Point x="1033" y="2408"/>
+                    <Point x="1033" y="2423"/>
+                    <Point x="912" y="2423"/>
+                    <Point x="912" y="2410"/>
+                    <Point x="798" y="2410"/>
+                    <Point x="798" y="2303"/>
+                    <Point x="912" y="2303"/>
+                </Coords>
+                <Word id="r100">
+                    <Coords>
+                        <Point x="1210" y="2298"/>
+                        <Point x="1210" y="2412"/>
+                        <Point x="1296" y="2412"/>
+                        <Point x="1296" y="2298"/>
+                    </Coords>
+                </Word>
+                <Word id="r101">
+                    <Coords>
+                        <Point x="1294" y="2308"/>
+                        <Point x="1294" y="2423"/>
+                        <Point x="1598" y="2423"/>
+                        <Point x="1598" y="2308"/>
+                    </Coords>
+                </Word>
+                <Word id="r102">
+                    <Coords>
+                        <Point x="1605" y="2339"/>
+                        <Point x="1605" y="2414"/>
+                        <Point x="1675" y="2414"/>
+                        <Point x="1675" y="2339"/>
+                    </Coords>
+                </Word>
+                <Word id="r103">
+                    <Coords>
+                        <Point x="1676" y="2333"/>
+                        <Point x="1676" y="2446"/>
+                        <Point x="1923" y="2446"/>
+                        <Point x="1923" y="2333"/>
+                    </Coords>
+                </Word>
+                <Word id="r104">
+                    <Coords>
+                        <Point x="1921" y="2328"/>
+                        <Point x="1921" y="2421"/>
+                        <Point x="1991" y="2421"/>
+                        <Point x="1991" y="2328"/>
+                    </Coords>
+                </Word>
+                <Word id="r105">
+                    <Coords>
+                        <Point x="1991" y="2323"/>
+                        <Point x="1991" y="2425"/>
+                        <Point x="2128" y="2425"/>
+                        <Point x="2128" y="2323"/>
+                    </Coords>
+                </Word>
+                <Word id="r106">
+                    <Coords>
+                        <Point x="2128" y="2317"/>
+                        <Point x="2128" y="2442"/>
+                        <Point x="2305" y="2442"/>
+                        <Point x="2305" y="2317"/>
+                    </Coords>
+                </Word>
+                <Word id="r107">
+                    <Coords>
+                        <Point x="2305" y="2314"/>
+                        <Point x="2305" y="2453"/>
+                        <Point x="2391" y="2453"/>
+                        <Point x="2391" y="2314"/>
+                    </Coords>
+                </Word>
+                <Word id="r108">
+                    <Coords>
+                        <Point x="2394" y="2307"/>
+                        <Point x="2394" y="2458"/>
+                        <Point x="2500" y="2458"/>
+                        <Point x="2500" y="2307"/>
+                    </Coords>
+                </Word>
+                <Word id="r97">
+                    <Coords>
+                        <Point x="798" y="2303"/>
+                        <Point x="798" y="2410"/>
+                        <Point x="908" y="2410"/>
+                        <Point x="908" y="2303"/>
+                    </Coords>
+                </Word>
+                <Word id="r98">
+                    <Coords>
+                        <Point x="912" y="2271"/>
+                        <Point x="912" y="2423"/>
+                        <Point x="1033" y="2423"/>
+                        <Point x="1033" y="2271"/>
+                    </Coords>
+                </Word>
+                <Word id="r99">
+                    <Coords>
+                        <Point x="1035" y="2303"/>
+                        <Point x="1035" y="2408"/>
+                        <Point x="1205" y="2408"/>
+                        <Point x="1205" y="2303"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>2. He shall be imprisoned or confined to hard Labour for Life.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r119">
+                <Coords>
+                    <Point x="1148" y="2519"/>
+                    <Point x="1508" y="2519"/>
+                    <Point x="1508" y="2576"/>
+                    <Point x="1633" y="2576"/>
+                    <Point x="1633" y="2567"/>
+                    <Point x="1892" y="2624"/>
+                    <Point x="2073" y="2576"/>
+                    <Point x="2073" y="2592"/>
+                    <Point x="2250" y="2592"/>
+                    <Point x="2250" y="2583"/>
+                    <Point x="2492" y="2583"/>
+                    <Point x="2492" y="2710"/>
+                    <Point x="2250" y="2710"/>
+                    <Point x="2250" y="2683"/>
+                    <Point x="2073" y="2683"/>
+                    <Point x="2073" y="2692"/>
+                    <Point x="1910" y="2692"/>
+                    <Point x="1910" y="2683"/>
+                    <Point x="1589" y="2683"/>
+                    <Point x="1589" y="2689"/>
+                    <Point x="1510" y="2689"/>
+                    <Point x="1510" y="2676"/>
+                    <Point x="1148" y="2676"/>
+                    <Point x="1148" y="2646"/>
+                    <Point x="991" y="2646"/>
+                    <Point x="991" y="2525"/>
+                    <Point x="1148" y="2525"/>
+                </Coords>
+                <Word id="r110">
+                    <Coords>
+                        <Point x="991" y="2525"/>
+                        <Point x="991" y="2646"/>
+                        <Point x="1139" y="2646"/>
+                        <Point x="1139" y="2525"/>
+                    </Coords>
+                </Word>
+                <Word id="r111">
+                    <Coords>
+                        <Point x="1148" y="2519"/>
+                        <Point x="1148" y="2676"/>
+                        <Point x="1508" y="2676"/>
+                        <Point x="1508" y="2519"/>
+                    </Coords>
+                </Word>
+                <Word id="r112">
+                    <Coords>
+                        <Point x="1510" y="2576"/>
+                        <Point x="1510" y="2689"/>
+                        <Point x="1589" y="2689"/>
+                        <Point x="1589" y="2576"/>
+                    </Coords>
+                </Word>
+                <Word id="r113">
+                    <Coords>
+                        <Point x="1592" y="2612"/>
+                        <Point x="1592" y="2655"/>
+                        <Point x="1630" y="2655"/>
+                        <Point x="1630" y="2612"/>
+                    </Coords>
+                </Word>
+                <Word id="r114">
+                    <Coords>
+                        <Point x="1633" y="2567"/>
+                        <Point x="1633" y="2683"/>
+                        <Point x="1892" y="2683"/>
+                        <Point x="1892" y="2567"/>
+                    </Coords>
+                </Word>
+                <Word id="r115">
+                    <Coords>
+                        <Point x="1910" y="2576"/>
+                        <Point x="1910" y="2692"/>
+                        <Point x="2073" y="2692"/>
+                        <Point x="2073" y="2576"/>
+                    </Coords>
+                </Word>
+                <Word id="r116">
+                    <Coords>
+                        <Point x="2083" y="2592"/>
+                        <Point x="2083" y="2683"/>
+                        <Point x="2176" y="2683"/>
+                        <Point x="2176" y="2592"/>
+                    </Coords>
+                </Word>
+                <Word id="r117">
+                    <Coords>
+                        <Point x="2182" y="2625"/>
+                        <Point x="2182" y="2671"/>
+                        <Point x="2251" y="2671"/>
+                        <Point x="2251" y="2625"/>
+                    </Coords>
+                </Word>
+                <Word id="r118">
+                    <Coords>
+                        <Point x="2250" y="2583"/>
+                        <Point x="2250" y="2710"/>
+                        <Point x="2492" y="2710"/>
+                        <Point x="2492" y="2583"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>The Punishment of a Suborner shall be as follows: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r132">
+                <Coords>
+                    <Point x="891" y="2750"/>
+                    <Point x="967" y="2750"/>
+                    <Point x="967" y="2773"/>
+                    <Point x="1194" y="2773"/>
+                    <Point x="1194" y="2771"/>
+                    <Point x="1562" y="2771"/>
+                    <Point x="1562" y="2801"/>
+                    <Point x="1812" y="2801"/>
+                    <Point x="1812" y="2832"/>
+                    <Point x="2033" y="2832"/>
+                    <Point x="2033" y="2807"/>
+                    <Point x="2257" y="2807"/>
+                    <Point x="2257" y="2833"/>
+                    <Point x="2391" y="2833"/>
+                    <Point x="2391" y="2798"/>
+                    <Point x="2491" y="2798"/>
+                    <Point x="2491" y="2932"/>
+                    <Point x="2391" y="2932"/>
+                    <Point x="2391" y="2908"/>
+                    <Point x="2257" y="2908"/>
+                    <Point x="2257" y="2914"/>
+                    <Point x="2033" y="2914"/>
+                    <Point x="2033" y="2905"/>
+                    <Point x="1951" y="2905"/>
+                    <Point x="1951" y="2900"/>
+                    <Point x="1812" y="2900"/>
+                    <Point x="1812" y="2903"/>
+                    <Point x="1562" y="2903"/>
+                    <Point x="1562" y="2914"/>
+                    <Point x="1194" y="2914"/>
+                    <Point x="1194" y="2853"/>
+                    <Point x="1123" y="2853"/>
+                    <Point x="1123" y="2848"/>
+                    <Point x="969" y="2848"/>
+                    <Point x="969" y="2832"/>
+                    <Point x="858" y="2832"/>
+                    <Point x="858" y="2839"/>
+                    <Point x="787" y="2839"/>
+                    <Point x="787" y="2767"/>
+                    <Point x="891" y="2767"/>
+                </Coords>
+                <Word id="r120">
+                    <Coords>
+                        <Point x="787" y="2767"/>
+                        <Point x="787" y="2839"/>
+                        <Point x="858" y="2839"/>
+                        <Point x="858" y="2767"/>
+                    </Coords>
+                </Word>
+                <Word id="r121">
+                    <Coords>
+                        <Point x="891" y="2750"/>
+                        <Point x="891" y="2832"/>
+                        <Point x="967" y="2832"/>
+                        <Point x="967" y="2750"/>
+                    </Coords>
+                </Word>
+                <Word id="r122">
+                    <Coords>
+                        <Point x="969" y="2773"/>
+                        <Point x="969" y="2848"/>
+                        <Point x="1119" y="2848"/>
+                        <Point x="1119" y="2773"/>
+                    </Coords>
+                </Word>
+                <Word id="r123">
+                    <Coords>
+                        <Point x="1123" y="2789"/>
+                        <Point x="1123" y="2853"/>
+                        <Point x="1189" y="2853"/>
+                        <Point x="1189" y="2789"/>
+                    </Coords>
+                </Word>
+                <Word id="r124">
+                    <Coords>
+                        <Point x="1194" y="2771"/>
+                        <Point x="1194" y="2914"/>
+                        <Point x="1562" y="2914"/>
+                        <Point x="1562" y="2771"/>
+                    </Coords>
+                </Word>
+                <Word id="r125">
+                    <Coords>
+                        <Point x="1573" y="2801"/>
+                        <Point x="1573" y="2903"/>
+                        <Point x="1812" y="2903"/>
+                        <Point x="1812" y="2801"/>
+                    </Coords>
+                </Word>
+                <Word id="r126">
+                    <Coords>
+                        <Point x="1826" y="2832"/>
+                        <Point x="1826" y="2900"/>
+                        <Point x="1944" y="2900"/>
+                        <Point x="1944" y="2832"/>
+                    </Coords>
+                </Word>
+                <Word id="r127">
+                    <Coords>
+                        <Point x="1951" y="2848"/>
+                        <Point x="1951" y="2905"/>
+                        <Point x="2030" y="2905"/>
+                        <Point x="2030" y="2848"/>
+                    </Coords>
+                </Word>
+                <Word id="r128">
+                    <Coords>
+                        <Point x="2033" y="2807"/>
+                        <Point x="2033" y="2914"/>
+                        <Point x="2257" y="2914"/>
+                        <Point x="2257" y="2807"/>
+                    </Coords>
+                </Word>
+                <Word id="r129">
+                    <Coords>
+                        <Point x="2264" y="2857"/>
+                        <Point x="2264" y="2908"/>
+                        <Point x="2321" y="2908"/>
+                        <Point x="2321" y="2857"/>
+                    </Coords>
+                </Word>
+                <Word id="r130">
+                    <Coords>
+                        <Point x="2325" y="2833"/>
+                        <Point x="2325" y="2900"/>
+                        <Point x="2392" y="2900"/>
+                        <Point x="2392" y="2833"/>
+                    </Coords>
+                </Word>
+                <Word id="r131">
+                    <Coords>
+                        <Point x="2391" y="2798"/>
+                        <Point x="2391" y="2932"/>
+                        <Point x="2491" y="2932"/>
+                        <Point x="2491" y="2798"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>1. He shall be ignominiously connected with an Impostor or the Effig-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r137">
+                <Coords>
+                    <Point x="971" y="2946"/>
+                    <Point x="1244" y="2946"/>
+                    <Point x="1244" y="3071"/>
+                    <Point x="971" y="3071"/>
+                    <Point x="971" y="3055"/>
+                    <Point x="810" y="3055"/>
+                    <Point x="810" y="3048"/>
+                    <Point x="717" y="3048"/>
+                    <Point x="717" y="2971"/>
+                    <Point x="810" y="2971"/>
+                    <Point x="810" y="2953"/>
+                    <Point x="971" y="2953"/>
+                </Coords>
+                <Word id="r133">
+                    <Coords>
+                        <Point x="717" y="2971"/>
+                        <Point x="717" y="3048"/>
+                        <Point x="808" y="3048"/>
+                        <Point x="808" y="2971"/>
+                    </Coords>
+                </Word>
+                <Word id="r134">
+                    <Coords>
+                        <Point x="810" y="2953"/>
+                        <Point x="810" y="3055"/>
+                        <Point x="889" y="3055"/>
+                        <Point x="889" y="2953"/>
+                    </Coords>
+                </Word>
+                <Word id="r135">
+                    <Coords>
+                        <Point x="969" y="3035"/>
+                        <Point x="969" y="2982"/>
+                        <Point x="896" y="2982"/>
+                        <Point x="896" y="3035"/>
+                    </Coords>
+                </Word>
+                <Word id="r136">
+                    <Coords>
+                        <Point x="1244" y="3071"/>
+                        <Point x="1244" y="2946"/>
+                        <Point x="971" y="2946"/>
+                        <Point x="971" y="3071"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>-y of an Impostor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r150">
+                <Coords>
+                    <Point x="882" y="3096"/>
+                    <Point x="992" y="3096"/>
+                    <Point x="992" y="3117"/>
+                    <Point x="1158" y="3117"/>
+                    <Point x="1158" y="3123"/>
+                    <Point x="1235" y="3123"/>
+                    <Point x="1235" y="3128"/>
+                    <Point x="1539" y="3128"/>
+                    <Point x="1539" y="3139"/>
+                    <Point x="1844" y="3139"/>
+                    <Point x="1844" y="3146"/>
+                    <Point x="2026" y="3146"/>
+                    <Point x="2026" y="3137"/>
+                    <Point x="2307" y="3137"/>
+                    <Point x="2307" y="3141"/>
+                    <Point x="2448" y="3141"/>
+                    <Point x="2448" y="3244"/>
+                    <Point x="2217" y="3244"/>
+                    <Point x="2217" y="3246"/>
+                    <Point x="2026" y="3246"/>
+                    <Point x="2026" y="3241"/>
+                    <Point x="1844" y="3241"/>
+                    <Point x="1844" y="3242"/>
+                    <Point x="1610" y="3242"/>
+                    <Point x="1610" y="3233"/>
+                    <Point x="1237" y="3233"/>
+                    <Point x="1237" y="3198"/>
+                    <Point x="1169" y="3198"/>
+                    <Point x="1169" y="3196"/>
+                    <Point x="882" y="3196"/>
+                    <Point x="882" y="3180"/>
+                    <Point x="782" y="3180"/>
+                    <Point x="782" y="3112"/>
+                    <Point x="882" y="3112"/>
+                </Coords>
+                <Word id="r138">
+                    <Coords>
+                        <Point x="782" y="3112"/>
+                        <Point x="782" y="3180"/>
+                        <Point x="876" y="3180"/>
+                        <Point x="876" y="3112"/>
+                    </Coords>
+                </Word>
+                <Word id="r139">
+                    <Coords>
+                        <Point x="882" y="3096"/>
+                        <Point x="882" y="3196"/>
+                        <Point x="992" y="3196"/>
+                        <Point x="992" y="3096"/>
+                    </Coords>
+                </Word>
+                <Word id="r140">
+                    <Coords>
+                        <Point x="1000" y="3117"/>
+                        <Point x="1000" y="3196"/>
+                        <Point x="1158" y="3196"/>
+                        <Point x="1158" y="3117"/>
+                    </Coords>
+                </Word>
+                <Word id="r141">
+                    <Coords>
+                        <Point x="1169" y="3123"/>
+                        <Point x="1169" y="3198"/>
+                        <Point x="1235" y="3198"/>
+                        <Point x="1235" y="3123"/>
+                    </Coords>
+                </Word>
+                <Word id="r142">
+                    <Coords>
+                        <Point x="1237" y="3128"/>
+                        <Point x="1237" y="3233"/>
+                        <Point x="1539" y="3233"/>
+                        <Point x="1539" y="3128"/>
+                    </Coords>
+                </Word>
+                <Word id="r143">
+                    <Coords>
+                        <Point x="1542" y="3164"/>
+                        <Point x="1542" y="3208"/>
+                        <Point x="1607" y="3208"/>
+                        <Point x="1607" y="3164"/>
+                    </Coords>
+                </Word>
+                <Word id="r144">
+                    <Coords>
+                        <Point x="1610" y="3139"/>
+                        <Point x="1610" y="3242"/>
+                        <Point x="1844" y="3242"/>
+                        <Point x="1844" y="3139"/>
+                    </Coords>
+                </Word>
+                <Word id="r145">
+                    <Coords>
+                        <Point x="1846" y="3153"/>
+                        <Point x="1846" y="3226"/>
+                        <Point x="1903" y="3226"/>
+                        <Point x="1903" y="3153"/>
+                    </Coords>
+                </Word>
+                <Word id="r146">
+                    <Coords>
+                        <Point x="1908" y="3146"/>
+                        <Point x="1908" y="3241"/>
+                        <Point x="2023" y="3241"/>
+                        <Point x="2023" y="3146"/>
+                    </Coords>
+                </Word>
+                <Word id="r147">
+                    <Coords>
+                        <Point x="2026" y="3137"/>
+                        <Point x="2026" y="3246"/>
+                        <Point x="2217" y="3246"/>
+                        <Point x="2217" y="3137"/>
+                    </Coords>
+                </Word>
+                <Word id="r148">
+                    <Coords>
+                        <Point x="2217" y="3137"/>
+                        <Point x="2217" y="3244"/>
+                        <Point x="2307" y="3244"/>
+                        <Point x="2307" y="3137"/>
+                    </Coords>
+                </Word>
+                <Word id="r149">
+                    <Coords>
+                        <Point x="2307" y="3141"/>
+                        <Point x="2307" y="3244"/>
+                        <Point x="2448" y="3244"/>
+                        <Point x="2448" y="3141"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>2. He shall be imprisoned or confined to hard Labour for Life.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r152">
+                <Coords>
+                    <Point x="1383" y="3258"/>
+                    <Point x="1778" y="3258"/>
+                    <Point x="1778" y="3375"/>
+                    <Point x="1383" y="3375"/>
+                </Coords>
+                <Word id="r151">
+                    <Coords>
+                        <Point x="1383" y="3258"/>
+                        <Point x="1383" y="3375"/>
+                        <Point x="1778" y="3375"/>
+                        <Point x="1778" y="3258"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>Exposition</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r166">
+                <Coords>
+                    <Point x="726" y="3400"/>
+                    <Point x="880" y="3400"/>
+                    <Point x="880" y="3401"/>
+                    <Point x="1137" y="3401"/>
+                    <Point x="1137" y="3435"/>
+                    <Point x="1305" y="3435"/>
+                    <Point x="1305" y="3476"/>
+                    <Point x="1437" y="3476"/>
+                    <Point x="1437" y="3460"/>
+                    <Point x="1516" y="3460"/>
+                    <Point x="1516" y="3469"/>
+                    <Point x="1782" y="3469"/>
+                    <Point x="1782" y="3473"/>
+                    <Point x="1832" y="3473"/>
+                    <Point x="1832" y="3480"/>
+                    <Point x="2096" y="3480"/>
+                    <Point x="2096" y="3498"/>
+                    <Point x="2366" y="3498"/>
+                    <Point x="2366" y="3483"/>
+                    <Point x="2410" y="3483"/>
+                    <Point x="2410" y="3521"/>
+                    <Point x="2487" y="3521"/>
+                    <Point x="2487" y="3580"/>
+                    <Point x="2410" y="3580"/>
+                    <Point x="2410" y="3587"/>
+                    <Point x="2366" y="3587"/>
+                    <Point x="2366" y="3582"/>
+                    <Point x="2239" y="3582"/>
+                    <Point x="2239" y="3573"/>
+                    <Point x="2096" y="3573"/>
+                    <Point x="2096" y="3575"/>
+                    <Point x="1835" y="3575"/>
+                    <Point x="1835" y="3569"/>
+                    <Point x="1783" y="3569"/>
+                    <Point x="1783" y="3558"/>
+                    <Point x="1564" y="3558"/>
+                    <Point x="1564" y="3533"/>
+                    <Point x="1430" y="3533"/>
+                    <Point x="1430" y="3573"/>
+                    <Point x="1308" y="3573"/>
+                    <Point x="1308" y="3532"/>
+                    <Point x="1137" y="3532"/>
+                    <Point x="1137" y="3557"/>
+                    <Point x="883" y="3557"/>
+                    <Point x="883" y="3551"/>
+                    <Point x="726" y="3551"/>
+                </Coords>
+                <Word id="r153">
+                    <Coords>
+                        <Point x="726" y="3400"/>
+                        <Point x="726" y="3551"/>
+                        <Point x="880" y="3551"/>
+                        <Point x="880" y="3400"/>
+                    </Coords>
+                </Word>
+                <Word id="r154">
+                    <Coords>
+                        <Point x="883" y="3401"/>
+                        <Point x="883" y="3557"/>
+                        <Point x="1137" y="3557"/>
+                        <Point x="1137" y="3401"/>
+                    </Coords>
+                </Word>
+                <Word id="r155">
+                    <Coords>
+                        <Point x="1150" y="3435"/>
+                        <Point x="1150" y="3532"/>
+                        <Point x="1305" y="3532"/>
+                        <Point x="1305" y="3435"/>
+                    </Coords>
+                </Word>
+                <Word id="r156">
+                    <Coords>
+                        <Point x="1308" y="3476"/>
+                        <Point x="1308" y="3573"/>
+                        <Point x="1430" y="3573"/>
+                        <Point x="1430" y="3476"/>
+                    </Coords>
+                </Word>
+                <Word id="r157">
+                    <Coords>
+                        <Point x="1437" y="3460"/>
+                        <Point x="1437" y="3533"/>
+                        <Point x="1516" y="3533"/>
+                        <Point x="1516" y="3460"/>
+                    </Coords>
+                </Word>
+                <Word id="r158">
+                    <Coords>
+                        <Point x="1521" y="3498"/>
+                        <Point x="1521" y="3532"/>
+                        <Point x="1560" y="3532"/>
+                        <Point x="1560" y="3498"/>
+                    </Coords>
+                </Word>
+                <Word id="r159">
+                    <Coords>
+                        <Point x="1564" y="3469"/>
+                        <Point x="1564" y="3558"/>
+                        <Point x="1782" y="3558"/>
+                        <Point x="1782" y="3469"/>
+                    </Coords>
+                </Word>
+                <Word id="r160">
+                    <Coords>
+                        <Point x="1783" y="3473"/>
+                        <Point x="1783" y="3569"/>
+                        <Point x="1832" y="3569"/>
+                        <Point x="1832" y="3473"/>
+                    </Coords>
+                </Word>
+                <Word id="r161">
+                    <Coords>
+                        <Point x="1835" y="3480"/>
+                        <Point x="1835" y="3575"/>
+                        <Point x="2096" y="3575"/>
+                        <Point x="2096" y="3480"/>
+                    </Coords>
+                </Word>
+                <Word id="r162">
+                    <Coords>
+                        <Point x="2094" y="3498"/>
+                        <Point x="2094" y="3573"/>
+                        <Point x="2241" y="3573"/>
+                        <Point x="2241" y="3498"/>
+                    </Coords>
+                </Word>
+                <Word id="r163">
+                    <Coords>
+                        <Point x="2239" y="3498"/>
+                        <Point x="2239" y="3582"/>
+                        <Point x="2366" y="3582"/>
+                        <Point x="2366" y="3498"/>
+                    </Coords>
+                </Word>
+                <Word id="r164">
+                    <Coords>
+                        <Point x="2366" y="3483"/>
+                        <Point x="2366" y="3587"/>
+                        <Point x="2410" y="3587"/>
+                        <Point x="2410" y="3483"/>
+                    </Coords>
+                </Word>
+                <Word id="r165">
+                    <Coords>
+                        <Point x="2414" y="3521"/>
+                        <Point x="2414" y="3580"/>
+                        <Point x="2487" y="3580"/>
+                        <Point x="2487" y="3521"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>[(A) Suborner] There may be a suborner of imposture, where there is no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r178">
+                <Coords>
+                    <Point x="1064" y="3616"/>
+                    <Point x="1217" y="3616"/>
+                    <Point x="1217" y="3623"/>
+                    <Point x="1403" y="3623"/>
+                    <Point x="1403" y="3646"/>
+                    <Point x="1662" y="3646"/>
+                    <Point x="1662" y="3650"/>
+                    <Point x="1900" y="3650"/>
+                    <Point x="1900" y="3655"/>
+                    <Point x="2000" y="3655"/>
+                    <Point x="2000" y="3680"/>
+                    <Point x="2228" y="3680"/>
+                    <Point x="2228" y="3705"/>
+                    <Point x="2508" y="3705"/>
+                    <Point x="2508" y="3801"/>
+                    <Point x="2314" y="3801"/>
+                    <Point x="2314" y="3767"/>
+                    <Point x="2001" y="3767"/>
+                    <Point x="2001" y="3766"/>
+                    <Point x="1721" y="3766"/>
+                    <Point x="1721" y="3742"/>
+                    <Point x="1403" y="3742"/>
+                    <Point x="1403" y="3753"/>
+                    <Point x="1219" y="3753"/>
+                    <Point x="1219" y="3732"/>
+                    <Point x="1064" y="3732"/>
+                    <Point x="1064" y="3716"/>
+                    <Point x="978" y="3716"/>
+                    <Point x="978" y="3712"/>
+                    <Point x="719" y="3712"/>
+                    <Point x="719" y="3619"/>
+                    <Point x="1064" y="3619"/>
+                </Coords>
+                <Word id="r167">
+                    <Coords>
+                        <Point x="719" y="3619"/>
+                        <Point x="719" y="3712"/>
+                        <Point x="976" y="3712"/>
+                        <Point x="976" y="3619"/>
+                    </Coords>
+                </Word>
+                <Word id="r168">
+                    <Coords>
+                        <Point x="978" y="3628"/>
+                        <Point x="978" y="3716"/>
+                        <Point x="1064" y="3716"/>
+                        <Point x="1064" y="3628"/>
+                    </Coords>
+                </Word>
+                <Word id="r169">
+                    <Coords>
+                        <Point x="1064" y="3616"/>
+                        <Point x="1064" y="3732"/>
+                        <Point x="1217" y="3732"/>
+                        <Point x="1217" y="3616"/>
+                    </Coords>
+                </Word>
+                <Word id="r170">
+                    <Coords>
+                        <Point x="1219" y="3623"/>
+                        <Point x="1219" y="3753"/>
+                        <Point x="1403" y="3753"/>
+                        <Point x="1403" y="3623"/>
+                    </Coords>
+                </Word>
+                <Word id="r171">
+                    <Coords>
+                        <Point x="1401" y="3646"/>
+                        <Point x="1401" y="3742"/>
+                        <Point x="1662" y="3742"/>
+                        <Point x="1662" y="3646"/>
+                    </Coords>
+                </Word>
+                <Word id="r172">
+                    <Coords>
+                        <Point x="1666" y="3667"/>
+                        <Point x="1666" y="3733"/>
+                        <Point x="1721" y="3733"/>
+                        <Point x="1721" y="3667"/>
+                    </Coords>
+                </Word>
+                <Word id="r173">
+                    <Coords>
+                        <Point x="1721" y="3650"/>
+                        <Point x="1721" y="3766"/>
+                        <Point x="1900" y="3766"/>
+                        <Point x="1900" y="3650"/>
+                    </Coords>
+                </Word>
+                <Word id="r174">
+                    <Coords>
+                        <Point x="1905" y="3655"/>
+                        <Point x="1905" y="3751"/>
+                        <Point x="2000" y="3751"/>
+                        <Point x="2000" y="3655"/>
+                    </Coords>
+                </Word>
+                <Word id="r175">
+                    <Coords>
+                        <Point x="2001" y="3680"/>
+                        <Point x="2001" y="3767"/>
+                        <Point x="2228" y="3767"/>
+                        <Point x="2228" y="3680"/>
+                    </Coords>
+                </Word>
+                <Word id="r176">
+                    <Coords>
+                        <Point x="2230" y="3705"/>
+                        <Point x="2230" y="3758"/>
+                        <Point x="2310" y="3758"/>
+                        <Point x="2310" y="3705"/>
+                    </Coords>
+                </Word>
+                <Word id="r177">
+                    <Coords>
+                        <Point x="2314" y="3705"/>
+                        <Point x="2314" y="3801"/>
+                        <Point x="2508" y="3801"/>
+                        <Point x="2508" y="3705"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>impostor: the party falsely pretended to possess the character in question</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r195">
+                <Coords>
+                    <Point x="832" y="3801"/>
+                    <Point x="1078" y="3801"/>
+                    <Point x="1078" y="3833"/>
+                    <Point x="1191" y="3833"/>
+                    <Point x="1191" y="3817"/>
+                    <Point x="1333" y="3817"/>
+                    <Point x="1333" y="3814"/>
+                    <Point x="1535" y="3814"/>
+                    <Point x="1535" y="3841"/>
+                    <Point x="1666" y="3841"/>
+                    <Point x="1666" y="3828"/>
+                    <Point x="1753" y="3828"/>
+                    <Point x="1753" y="3844"/>
+                    <Point x="1964" y="3844"/>
+                    <Point x="1964" y="3848"/>
+                    <Point x="2026" y="3848"/>
+                    <Point x="2026" y="3858"/>
+                    <Point x="2125" y="3858"/>
+                    <Point x="2125" y="3878"/>
+                    <Point x="2241" y="3878"/>
+                    <Point x="2241" y="3860"/>
+                    <Point x="2298" y="3860"/>
+                    <Point x="2298" y="3867"/>
+                    <Point x="2516" y="3867"/>
+                    <Point x="2516" y="3941"/>
+                    <Point x="2298" y="3941"/>
+                    <Point x="2298" y="3942"/>
+                    <Point x="2248" y="3949"/>
+                    <Point x="2241" y="3937"/>
+                    <Point x="2028" y="3937"/>
+                    <Point x="2028" y="3930"/>
+                    <Point x="1962" y="3930"/>
+                    <Point x="1962" y="3925"/>
+                    <Point x="1753" y="3925"/>
+                    <Point x="1753" y="3930"/>
+                    <Point x="1666" y="3930"/>
+                    <Point x="1666" y="3912"/>
+                    <Point x="1535" y="3912"/>
+                    <Point x="1535" y="3923"/>
+                    <Point x="1333" y="3923"/>
+                    <Point x="1333" y="3908"/>
+                    <Point x="1191" y="3908"/>
+                    <Point x="1191" y="3892"/>
+                    <Point x="1078" y="3892"/>
+                    <Point x="1078" y="3905"/>
+                    <Point x="832" y="3905"/>
+                    <Point x="832" y="3878"/>
+                    <Point x="725" y="3878"/>
+                    <Point x="725" y="3808"/>
+                    <Point x="832" y="3808"/>
+                </Coords>
+                <Word id="r179">
+                    <Coords>
+                        <Point x="725" y="3808"/>
+                        <Point x="725" y="3878"/>
+                        <Point x="828" y="3878"/>
+                        <Point x="828" y="3808"/>
+                    </Coords>
+                </Word>
+                <Word id="r180">
+                    <Coords>
+                        <Point x="832" y="3801"/>
+                        <Point x="832" y="3905"/>
+                        <Point x="1078" y="3905"/>
+                        <Point x="1078" y="3801"/>
+                    </Coords>
+                </Word>
+                <Word id="r181">
+                    <Coords>
+                        <Point x="1080" y="3833"/>
+                        <Point x="1080" y="3892"/>
+                        <Point x="1185" y="3892"/>
+                        <Point x="1185" y="3833"/>
+                    </Coords>
+                </Word>
+                <Word id="r182">
+                    <Coords>
+                        <Point x="1191" y="3817"/>
+                        <Point x="1191" y="3908"/>
+                        <Point x="1267" y="3908"/>
+                        <Point x="1267" y="3817"/>
+                    </Coords>
+                </Word>
+                <Word id="r183">
+                    <Coords>
+                        <Point x="1267" y="3844"/>
+                        <Point x="1267" y="3894"/>
+                        <Point x="1330" y="3894"/>
+                        <Point x="1330" y="3844"/>
+                    </Coords>
+                </Word>
+                <Word id="r184">
+                    <Coords>
+                        <Point x="1333" y="3814"/>
+                        <Point x="1333" y="3923"/>
+                        <Point x="1535" y="3923"/>
+                        <Point x="1535" y="3814"/>
+                    </Coords>
+                </Word>
+                <Word id="r185">
+                    <Coords>
+                        <Point x="1591" y="3903"/>
+                        <Point x="1591" y="3841"/>
+                        <Point x="1537" y="3841"/>
+                        <Point x="1537" y="3903"/>
+                    </Coords>
+                </Word>
+                <Word id="r186">
+                    <Coords>
+                        <Point x="1592" y="3842"/>
+                        <Point x="1592" y="3912"/>
+                        <Point x="1667" y="3912"/>
+                        <Point x="1667" y="3842"/>
+                    </Coords>
+                </Word>
+                <Word id="r187">
+                    <Coords>
+                        <Point x="1666" y="3828"/>
+                        <Point x="1666" y="3930"/>
+                        <Point x="1753" y="3930"/>
+                        <Point x="1753" y="3828"/>
+                    </Coords>
+                </Word>
+                <Word id="r188">
+                    <Coords>
+                        <Point x="1753" y="3844"/>
+                        <Point x="1753" y="3925"/>
+                        <Point x="1964" y="3925"/>
+                        <Point x="1964" y="3844"/>
+                    </Coords>
+                </Word>
+                <Word id="r189">
+                    <Coords>
+                        <Point x="1962" y="3848"/>
+                        <Point x="1962" y="3930"/>
+                        <Point x="2026" y="3930"/>
+                        <Point x="2026" y="3848"/>
+                    </Coords>
+                </Word>
+                <Word id="r190">
+                    <Coords>
+                        <Point x="2028" y="3858"/>
+                        <Point x="2028" y="3937"/>
+                        <Point x="2125" y="3937"/>
+                        <Point x="2125" y="3858"/>
+                    </Coords>
+                </Word>
+                <Word id="r191">
+                    <Coords>
+                        <Point x="2126" y="3878"/>
+                        <Point x="2126" y="3937"/>
+                        <Point x="2239" y="3937"/>
+                        <Point x="2239" y="3878"/>
+                    </Coords>
+                </Word>
+                <Word id="r192">
+                    <Coords>
+                        <Point x="2241" y="3860"/>
+                        <Point x="2241" y="3942"/>
+                        <Point x="2298" y="3942"/>
+                        <Point x="2298" y="3860"/>
+                    </Coords>
+                </Word>
+                <Word id="r193">
+                    <Coords>
+                        <Point x="2300" y="3891"/>
+                        <Point x="2300" y="3930"/>
+                        <Point x="2325" y="3930"/>
+                        <Point x="2325" y="3891"/>
+                    </Coords>
+                </Word>
+                <Word id="r194">
+                    <Coords>
+                        <Point x="2342" y="3867"/>
+                        <Point x="2342" y="3941"/>
+                        <Point x="2516" y="3941"/>
+                        <Point x="2516" y="3867"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>not knowing but he is intitled to it; for instance in the case of a suppo=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r199">
+                <Coords>
+                    <Point x="717" y="3925"/>
+                    <Point x="966" y="3925"/>
+                    <Point x="966" y="3937"/>
+                    <Point x="1160" y="3937"/>
+                    <Point x="1160" y="3946"/>
+                    <Point x="2132" y="3966"/>
+                    <Point x="2255" y="3969"/>
+                    <Point x="2310" y="3948"/>
+                    <Point x="2507" y="3946"/>
+                    <Point x="2507" y="4000"/>
+                    <Point x="1160" y="4000"/>
+                    <Point x="1160" y="4025"/>
+                    <Point x="975" y="4025"/>
+                    <Point x="975" y="4016"/>
+                    <Point x="717" y="4016"/>
+                </Coords>
+                <Word id="r196">
+                    <Coords>
+                        <Point x="717" y="3925"/>
+                        <Point x="717" y="4016"/>
+                        <Point x="966" y="4016"/>
+                        <Point x="966" y="3925"/>
+                    </Coords>
+                </Word>
+                <Word id="r197">
+                    <Coords>
+                        <Point x="975" y="3937"/>
+                        <Point x="975" y="4025"/>
+                        <Point x="1160" y="4025"/>
+                        <Point x="1160" y="3937"/>
+                    </Coords>
+                </Word>
+                <Word id="r198">
+                    <Coords>
+                        <Point x="2282" y="3946"/>
+                        <Point x="2282" y="4000"/>
+                        <Point x="2507" y="4000"/>
+                        <Point x="2507" y="3946"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>:ssitious Child. Excuses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r216">
+                <Coords>
+                    <Point x="1845" y="2544"/>
+                    <Point x="1815" y="2588"/>
+                    <Point x="1847" y="2612"/>
+                    <Point x="1920" y="2612"/>
+                    <Point x="1950" y="2578"/>
+                    <Point x="1940" y="2555"/>
+                    <Point x="1892" y="2547"/>
+                </Coords>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>(A) </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r8">
+            <Coords>
+                <Point x="1347" y="152"/>
+                <Point x="1390" y="117"/>
+                <Point x="1455" y="112"/>
+                <Point x="1430" y="177"/>
+                <Point x="1377" y="190"/>
+                <Point x="1332" y="165"/>
+            </Coords>
+            <TextLine id="r11">
+                <Coords>
+                    <Point x="1371" y="128"/>
+                    <Point x="1423" y="128"/>
+                    <Point x="1423" y="187"/>
+                    <Point x="1371" y="187"/>
+                </Coords>
+                <Word id="r5">
+                    <Coords>
+                        <Point x="1371" y="128"/>
+                        <Point x="1371" y="187"/>
+                        <Point x="1423" y="187"/>
+                        <Point x="1423" y="128"/>
+                    </Coords>
+                </Word>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>C</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,12 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,C,C.  ,1.0,1.0,1.0,071_133_003,openai
+2,23.,Of Semi-public Offences in General.  ,11.333333333333334,5.0,5.0,071_133_003,openai
+3,Of Semi-public Offences in General.,persons or destroy the property of particular individuals among the  ,1.6,2.0,2.0,071_133_003,openai
+4,persons or destroys the property of particular individuals among the,Jews he may be not only punished criminally for the calumny  ,0.7794117647058824,1.0,1.0,071_133_003,openai
+5,Jews he may be not only punished criminally for the calumny,"thrown on the sect, but made civilly responsible for the particular  ",0.7457627118644068,0.8181818181818182,0.8181818181818182,071_133_003,openai
+6,"thrown on the Sect, but made civilly responsible for the particular",mischief done to the individual Jews whose persons or property  ,0.7761194029850746,1.0,0.9090909090909091,071_133_003,openai
+7,mischief done to the individual Jews whose persons or property,were thus attacked.  ,0.8548387096774194,1.0,1.0,071_133_003,openai
+8,were thus attacked.,"As to any farther particulars relative to this head, they  ",2.3684210526315788,3.3333333333333335,3.3333333333333335,071_133_003,openai
+9,"As to any farther particulars relative to this head, they",must depend upon the particular class in question. They are therefore  ,0.7192982456140351,1.1,1.1,071_133_003,openai
+10,of a local nature; and are without the limits of the present under=,of a local nature; and are without the limits of the present  ,0.1044776119402985,0.07692307692307693,0.07692307692307693,071_133_003,openai
+11,:taking work.,being work.,0.3076923076923077,0.5,0.5,071_133_003,openai

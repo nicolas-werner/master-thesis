@@ -1,0 +1,24 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,17 5,C,1.0,1.0,1.0,071157001,gemini
+2,Of Simple Merchantile Defraudment,Of Simple Mercantile Defraudment,0.030303030303030304,0.25,0.25,071157001,gemini
+3,more advantages than it were to be wished it had over indi:,more advantage than it were to be wished it had over indi:,0.01694915254237288,0.08333333333333333,0.08333333333333333,071157001,gemini
+4,:gent merit: and an artificial arrangement of this sort would,gent merit: and an artificial arrangement of this sort would,0.01639344262295082,0.1,0.1,071157001,gemini
+5,add to the natural incitements which urge a man from all,add to the natural incitements which urge a man from all,0.0,0.0,0.0,071157001,gemini
+6,quarters to seek the acquirement of wealth by dishonesty,quarters to seek the acquirement of wealth by dishonesty,0.0,0.0,0.0,071157001,gemini
+7,and other unworthy means. As to the affections of the peo:,and other unworthy means. As to the affections of the peo=,0.017241379310344827,0.09090909090909091,0.09090909090909091,071157001,gemini
+8,less numerous class over the more numerous will na:,"ple, so striking and oppressive a preference given to the",0.8627450980392157,1.1111111111111112,1.0,071157001,gemini
+9,real: for a man in responsible circumstances may probably,less numerous class over the more numerous will na:,0.8245614035087719,1.0,1.0,071157001,gemini
+10,in point of fact suffer as much by being deprived of part,turally be but ill relished by the latter.,0.7894736842105263,0.9166666666666666,0.9166666666666666,071157001,gemini
+11,"of his property, considering the share of reputation that",,1.0,1.0,1.0,071157001,gemini
+12,"goes along with it, as a man in irresponsible circumstances","The difference, it is true, is rather apparent than",0.7627118644067796,1.0,1.0,071157001,gemini
+13,:nishment: and if both were to undergo the same corporal,real: for a man in responsible circumstances may probably,0.8392857142857143,1.0,1.0,071157001,gemini
+14,"punishment, the punishment, that is the suffering, though",in point of fact suffer as much by being deprived of part,0.8245614035087719,1.5,1.5,071157001,gemini
+15,":ter.] But this distinction , however real, is too subtle to be gene:","of his property, considering the share of reputation that",0.7971014492753623,1.0,1.0,071157001,gemini
+16,"The difference, it is true, is rather apparent than","goes along with it, as a man in irresponsible circumstances",0.8823529411764706,1.1111111111111112,1.1111111111111112,071157001,gemini
+17,would be by being made to undergo a severe corporal pu:,would be by being made to undergo a severe corporal pu:,0.0,0.0,0.0,071157001,gemini
+18,nominally [the same ] would in reality be much greater to the lat:,nishment: and if both were to undergo the same corporal,0.7424242424242424,1.0,0.7692307692307693,071157001,gemini
+19,:rally,"punishment, the punishment, that is the suffering, though",9.333333333333334,8.0,8.0,071157001,gemini
+20,":ple, so striking and oppressive a preference given to the","equal,",0.9655172413793104,1.0,1.0,071157001,gemini
+21,:turally be but ill relished by the latter.,very much the reverse.,0.7441860465116279,0.875,0.875,071157001,gemini
+22,"equal, very much the reverse.",nominally [the same] would in reality be [much greater to the lat:,1.7586206896551724,2.2,2.2,071157001,gemini
+23,C,"ter.] But this distinction, however real, is too subtle to be gene:",67.0,12.0,12.0,071157001,gemini

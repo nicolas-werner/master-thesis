@@ -1,0 +1,72 @@
+<?xml version='1.0'?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+    <Metadata>
+        <Creator/>
+        <Created>2013-03-07T23:03:58</Created>
+        <LastChange>2013-09-09T09:41:28</LastChange>
+    </Metadata>
+    <Page imageWidth="2731" imageFilename="002_579_001.jpg" imageHeight="4096">
+        <TextRegion type="paragraph" id="r1">
+            <Coords points="252,413 456,365 900,369 1047,347 1539,400 1891,469 1969,560 1930,769 1956,1165 1673,1173 334,1256 239,1208 252,639"/>
+            <TextLine id="r6">
+                <Coords points="295,377 311,490 378,557 1218,574 1895,549 1884,418 1158,461 786,438"/>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>(a)The distinction is material: for as fixed income comes </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7">
+                <Coords points="270,603 279,710 526,743 708,703 936,735 1017,701 1078,750 1468,690 1909,682 1914,680 1966,562 1789,557 302,621"/>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>in in masses at the beginning of a period and professional &amp;c </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8">
+                <Coords points="278,729 284,839 810,824 836,865 1153,842 1491,837 1918,761 1920,693 1276,714 1086,745 1062,718 914,738 886,719 641,725 526,746 500,732"/>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>income in driblets day by day during the course of the same </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9">
+                <Coords points="283,860 282,986 1919,913 1906,805 843,862 813,842"/>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>period it will be found in calculation that on equal annual </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11">
+                <Coords points="277,1005 281,1080 1658,1053 1753,1069 1842,1017 1942,1003 1943,936 665,973"/>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>amounts there will be twice as much to dispose of in any such </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12">
+                <Coords points="281,1104 272,1219 313,1249 1957,1161 1933,1044 1818,1038 1745,1073 1711,1050"/>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>way as that in question in the former case as in the latter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r93">
+                <Coords points="1047,347 1047,348 1057,348 1057,349 1066,349 1066,350 1075,350 1075,351 1085,351 1085,352 1094,352 1094,353 1103,353 1103,354 1112,354 1112,355 1122,355 1122,356 1131,356 1131,357 1140,357 1140,358 1150,358 1150,359 1159,359 1159,360 1168,360 1168,361 1173,361 1173,365 1172,365 1172,394 1171,394 1171,423 1170,423 1170,424 1155,424 1155,425 1140,425 1140,426 1125,426 1125,427 1110,427 1110,428 1095,428 1095,429 1080,429 1080,430 1065,430 1065,431 1050,431 1050,432 1035,432 1035,433 1020,433 1020,434 1005,434 1005,435 990,435 990,436 951,408 981,358 981,357 987,357 987,356 994,356 994,355 1001,355 1001,354 1007,354 1007,353 1014,353 1014,352 1021,352 1021,351 1027,351 1027,350 1034,350 1034,349 1041,349 1041,348 1047,348"/>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>Note</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r3">
+            <Coords points="2464,141 2547,135 2526,194 2460,207 2435,169"/>
+            <TextLine id="r91">
+                <Coords points="2446,165 2479,145 2537,139 2525,188 2511,203 2507,204 2453,215 2451,194 2454,176"/>
+                <TextEquiv>
+                    <PlainText/>
+                    <Unicode>38</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

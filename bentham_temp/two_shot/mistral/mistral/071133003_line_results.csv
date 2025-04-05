@@ -1,0 +1,15 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,C,8,1.0,1.0,1.0,071133003,mistral
+2,23.,Of some public Offices in General.,11.0,6.0,6.0,071133003,mistral
+3,Of Semi-public Offences in General.,,1.0,1.0,1.0,071133003,mistral
+4,persons or destroys the property of particular individuals among the,persons or destroys the property of particular individuals among them,0.014705882352941176,0.1,0.1,071133003,mistral
+5,Jews he may be not only punished criminally for the calumny,who being he not only punished occasionally for the culinary,0.3389830508474576,0.5454545454545454,0.45454545454545453,071133003,mistral
+6,"thrown on the Sect, but made civilly responsible for the particular","thrown on the rest, but made civilly responsible for the particular",0.029850746268656716,0.09090909090909091,0.09090909090909091,071133003,mistral
+7,mischief done to the individual Jews whose persons or property,mischief done to the individual whose person or property,0.0967741935483871,0.2,0.2,071133003,mistral
+8,were thus attacked.,was thus attacked.,0.15789473684210525,0.3333333333333333,0.3333333333333333,071133003,mistral
+9,"As to any farther particulars relative to this head, they",,1.0,1.0,1.0,071133003,mistral
+10,of a local nature; and are without the limits of the present under=,"As to carry further punishments relative to this head, they",0.7313432835820896,1.0,1.0,071133003,mistral
+11,:taking work.,must depend upon the particular shape in question: they are therefore,4.846153846153846,5.5,5.5,071133003,mistral
+12,must depend upon the particular class in question. They are therefore,"out of a local nature, and without the limits of the present work.",0.782608695652174,1.1818181818181819,1.0909090909090908,071133003,mistral
+13,stand,,1.0,1.0,1.0,071133003,mistral
+14,of men,can work.,1.3333333333333333,1.0,1.0,071133003,mistral

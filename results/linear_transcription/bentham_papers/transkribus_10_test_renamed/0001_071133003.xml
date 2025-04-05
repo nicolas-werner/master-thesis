@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=22_03_2025_11:22</Creator>
+        <Created>2025-03-21T17:00:32.881+01:00</Created>
+        <LastChange>2025-03-22T11:22:50.641+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0009_071_133_003.jpg" imageWidth="2731" imageHeight="4096">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1743494412798" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="188,296 1916,296 1916,1792 188,1792"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="366,394 467,428 908,403 1168,452 1324,405 1528,450 1678,426 1652,285 1483,268 1345,324 1123,264 998,298 799,253 731,296 583,244 366,283"/>
+                <Baseline points="379,349 423,349 468,346 513,346 558,346 603,346 647,346 692,349 737,349 782,346 826,349 871,349 916,352 961,352 1006,352 1050,352 1095,352 1140,355 1185,358 1229,358 1274,358 1319,355 1364,355 1409,355 1453,352 1498,349 1543,349 1588,352 1633,352 1677,358 1683,355"/>
+                <TextEquiv>
+                    <Unicode>Of Semi-public Offences in General.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="189,587 1868,578 1868,454 1705,523 673,443 518,514 189,495"/>
+                <Baseline points="200,549 214,549 259,549 304,549 349,552 394,555 438,555 483,552 528,552 573,552 617,552 662,552 707,552 752,552 797,552 841,552 886,552 931,552 976,555 1021,552 1065,552 1110,555 1155,555 1200,555 1244,555 1289,555 1334,555 1379,555 1424,555 1468,558 1513,558 1558,558 1603,558 1647,555 1692,552 1737,552 1782,549 1827,543 1871,546"/>
+                <TextEquiv>
+                    <Unicode>persons or destroys the property of particular individuals among the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="176,692 465,743 923,703 1388,756 1585,705 1819,737 1819,613 1193,677 726,613 390,658 255,608 176,668"/>
+                <Baseline points="188,686 232,689 277,689 322,695 367,695 411,695 456,695 501,698 546,698 591,698 635,698 680,698 725,698 770,698 815,698 859,701 904,701 949,701 994,701 1038,701 1083,701 1128,701 1173,701 1218,701 1262,701 1307,701 1352,701 1397,704 1441,701 1486,704 1531,701 1576,704 1621,701 1665,701 1710,701 1755,701 1800,701 1824,701"/>
+                <TextEquiv>
+                    <Unicode>Uws he may be not only punished crimenally for the calumny</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="182,861 317,904 938,855 1108,902 1883,889 1838,778 1682,812 1562,761 1352,808 1185,767 1031,829 844,821 754,758 572,812 182,786"/>
+                <Baseline points="194,850 232,850 277,853 322,853 367,853 411,853 456,853 501,853 546,856 591,853 635,853 680,853 725,853 770,856 815,856 859,853 904,853 949,853 994,850 1038,850 1083,850 1128,853 1173,853 1218,853 1262,853 1307,853 1352,853 1397,850 1441,853 1486,853 1531,853 1576,853 1621,853 1665,850 1710,850 1755,850 1800,847 1844,847 1889,847"/>
+                <TextEquiv>
+                    <Unicode>thrown on the Sect, but made civilly responsible for the particular</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="180,1058 274,1016 1875,1035 1858,906 1513,973 1431,934 1213,975 1067,911 182,938"/>
+                <Baseline points="194,1009 223,1009 268,1009 313,1009 358,1012 403,1012 447,1012 492,1015 537,1015 582,1015 626,1012 671,1015 716,1012 761,1009 806,1009 850,1009 895,1009 940,1009 985,1009 1029,1009 1074,1006 1119,1006 1164,1006 1209,1003 1253,1003 1298,1006 1343,1003 1388,1006 1433,1003 1477,1003 1522,1000 1567,1000 1612,997 1656,997 1701,991 1746,991 1791,991 1836,988 1880,991"/>
+                <TextEquiv>
+                    <Unicode>mischief done to the individual I ews whose persons or property</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="191,1200 276,1172 394,1204 435,1176 525,1174 688,1206 683,1095 574,1131 514,1106 469,1129 390,1099 328,1127 191,1131"/>
+                <Baseline points="203,1158 247,1158 292,1161 337,1164 382,1164 426,1164 471,1164 516,1167 561,1167 606,1167 650,1170 692,1170"/>
+                <TextEquiv>
+                    <Unicode>were thus attached.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="458,1322 711,1365 1892,1345 1890,1208 1776,1196 1635,1275 1444,1294 994,1268 876,1215 746,1262 572,1189 456,1213"/>
+                <Baseline points="471,1310 516,1313 561,1313 606,1319 650,1319 695,1319 740,1316 785,1316 829,1316 874,1319 919,1319 964,1319 1009,1319 1053,1319 1098,1322 1143,1322 1188,1322 1232,1325 1277,1325 1322,1325 1367,1325 1412,1325 1456,1325 1501,1325 1546,1325 1591,1325 1636,1328 1680,1325 1725,1325 1770,1325 1815,1325 1859,1325 1898,1328"/>
+                <TextEquiv>
+                    <Unicode>As to any farther particulars relative to this head, they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1140,1431 1170,1431 1202,1405 1232,1399 1266,1401 1277,1412 1288,1405 1307,1423 1337,1427 1337,1373 1296,1373 1260,1345 1247,1352 1232,1341 1204,1343 1170,1373 1140,1367"/>
+                <Baseline points="1152,1391 1197,1394 1241,1394 1286,1394 1331,1394 1343,1394"/>
+                <TextEquiv>
+                    <Unicode>of men</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="191,1487 401,1532 499,1489 1108,1532 1457,1483 1913,1532 1913,1397 1620,1457 1480,1405 1324,1457 649,1399 191,1435"/>
+                <Baseline points="203,1474 214,1474 259,1477 304,1477 349,1477 394,1480 438,1480 483,1480 528,1483 573,1483 617,1483 662,1486 707,1486 752,1486 797,1483 841,1483 886,1483 931,1483 976,1483 1021,1483 1065,1486 1110,1486 1155,1483 1200,1483 1244,1483 1289,1483 1334,1483 1379,1480 1424,1480 1468,1480 1513,1480 1558,1480 1603,1480 1647,1480 1692,1480 1737,1477 1782,1477 1827,1474 1871,1471 1916,1471"/>
+                <TextEquiv>
+                    <Unicode>must depend upon the particular class in question. They are therefore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="788,1585 803,1585 818,1575 833,1581 874,1581 896,1570 936,1577 936,1517 921,1517 911,1508 893,1519 853,1500 829,1515 816,1510 788,1515"/>
+                <Baseline points="800,1570 806,1567 850,1567 895,1567 940,1567"/>
+                <TextEquiv>
+                    <Unicode>stand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="193,1656 1905,1667 1905,1530 1369,1588 1281,1540 996,1545 921,1611 193,1545"/>
+                <Baseline points="205,1627 250,1630 295,1633 340,1633 385,1633 429,1636 474,1633 519,1633 564,1633 609,1633 653,1636 698,1636 743,1636 788,1638 832,1638 877,1638 922,1636 967,1636 1012,1636 1056,1636 1101,1638 1146,1636 1191,1636 1235,1633 1280,1633 1325,1633 1370,1633 1415,1633 1459,1630 1504,1627 1549,1627 1594,1627 1638,1624 1683,1624 1728,1624 1773,1621 1818,1621 1862,1621 1907,1621"/>
+                <TextEquiv>
+                    <Unicode>of a local nature; and are without the limits of the present under</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="219,1810 253,1808 300,1847 356,1830 399,1858 448,1843 525,1787 544,1804 570,1785 608,1789 613,1705 568,1699 506,1742 461,1720 403,1759 351,1742 321,1710 249,1684 225,1693"/>
+                <Baseline points="232,1776 256,1779 301,1782 346,1782 391,1782 435,1779 480,1773 525,1770 570,1767 614,1770"/>
+                <TextEquiv>
+                    <Unicode>taking work.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

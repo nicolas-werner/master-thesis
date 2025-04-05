@@ -1,0 +1,27 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,11.,11.,0.0,0.0,0.0,071003003,openai
+2,C,Of Justifications.,18.0,2.0,2.0,071003003,openai
+3,Of Justifications.,Children.,0.8333333333333334,1.0,1.0,071003003,openai
+4,3. Those of a Schoolmaster over his Scholar. See Law of School,3. These of a Schoolmaster over his Scholar. See Law of School,0.016129032258064516,0.08333333333333333,0.08333333333333333,071003003,openai
+5,masters and Scholars.,master and Scholars.,0.047619047619047616,0.3333333333333333,0.3333333333333333,071003003,openai
+6,5. Those of a Guardian over his Ward . See Law of Guardi:,4. These of a Domestic Preceptor over his Pupil. See Law of,0.5614035087719298,0.5384615384615384,0.46153846153846156,071003003,openai
+7,6 Those of Adults over Infants in the same Family. See ib.,Preceptors and Pupils.,0.8103448275862069,1.0,1.0,071003003,openai
+8,vants - The Law of Apprentices _ Law of Journeymen _ Law,5. These of a Guardian over his Ward. See Law of Guardi-,0.8571428571428571,1.0,0.75,071003003,openai
+9,Justification 6.th Military Powers & Subservience,ans and Wards.,0.8571428571428571,1.0,1.0,071003003,openai
+10,Thereto . _,6. These of Adults over Infants in the same Family. See ib.,4.545454545454546,4.0,4.0,071003003,openai
+11,Powers which one man may have over the person of,Law of Infants.,0.8333333333333334,1.0,0.9,071003003,openai
+12,these See the Army and the Navy Laws.,7. These of a Master over his Servant. See the Law of Ser-,1.0810810810810811,1.5,1.375,071003003,openai
+13,2. Those of a military officer over persons at large in a time,vants. The Law of Apprentices - Law of Journeymen - Law,0.7580645161290323,1.0,0.9230769230769231,071003003,openai
+14,of,of the Slaves. (a),8.0,3.0,3.0,071003003,openai
+15,Children.,Justification 6.th Military Powers & Subservience,4.777777777777778,6.0,6.0,071003003,openai
+16,4. Those of a Domestic Preceptor over his Pupil . See Law of,Thereto. -,0.85,1.0,1.0,071003003,openai
+17,Preceptors and Pupils.,Powers which one man may have over the person of,1.7727272727272727,3.3333333333333335,3.3333333333333335,071003003,openai
+18,Law of Infants.,another on a military account are,1.8,2.0,2.0,071003003,openai
+19,7. Those of a Master over his Servant - See the Law of Ser,1. These of a military superior over his Subordinates. For,0.6379310344827587,0.7857142857142857,0.7142857142857143,071003003,openai
+20,of the Slaves. (a),Constitutional Code - Laws of,1.2777777777777777,1.25,1.0,071003003,openai
+21,another on a military account are,these See the Army and the Navy Laws.,0.9090909090909091,1.3333333333333333,1.3333333333333333,071003003,openai
+22,1. Those of a military Superior over his Subordinates. For,2. These of a military officer over persons at large in a time,0.5517241379310345,0.9,0.9,071003003,openai
+23,Constitutional Code - Laws ofof,Note.,0.9032258064516129,1.0,1.0,071003003,openai
+24,:ans and Wards.,(a),0.9333333333333333,1.0,1.0,071003003,openai
+25,ib.,There ought to be a separate Title for every species,17.0,10.0,10.0,071003003,openai
+26,ib.,of servant which has any Articles of Law peculiar to it.,18.0,11.0,11.0,071003003,openai

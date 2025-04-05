@@ -1,0 +1,24 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,6.,C.,0.5,1.0,1.0,071106002,openai
+2,Of Polygamy.,of Polygamy.,0.08333333333333333,0.5,0.5,071106002,openai
+3,under the auspices of the Laws. She is to be regarded therefore,,1.0,1.0,1.0,071106002,openai
+4,on the footing of a Widow. In point of reason she ought not to,under the auspices of the Law. She is to be regarded therefore,0.7258064516129032,0.8571428571428571,0.7857142857142857,071106002,openai
+5,be regarded in a light in the least degree less favourable.,on the footing of a Widow. In point of reason she ought not to,0.847457627118644,1.1818181818181819,1.0909090909090908,071106002,openai
+6,But popular prejudice is seldom perfectly equitable to,be regarded in a light in the least degree less favourable.,0.8333333333333334,1.375,1.375,071106002,openai
+7,misfortune.,But popular prejudice is seldom perfectly equitable to,4.2727272727272725,8.0,8.0,071106002,openai
+8,Next with regard to Sharping. It is not always that,misfortune.,0.9019607843137255,1.0,1.0,071106002,openai
+9,a Woman thus imposed upon suffers in her fortune. Perhaps,,1.0,1.0,1.0,071106002,openai
+10,she had none: the only bait that tempted the Offender was her,Next with regard to Sharving. It is not always that,0.7868852459016393,1.0,0.9166666666666666,071106002,openai
+11,"person. It is only in case of her having had a fortune, and",a Woman thus imposed upon suffers in her fortune. Perhaps,0.6949152542372882,0.9230769230769231,0.7692307692307693,071106002,openai
+12,"that fortune's having been dissipated by the Offender, that she",she had none: the only bait that tempted the offender was her,0.6190476190476191,1.1,0.9,071106002,openai
+13,"is a sufferer in this way. In the account of dissipation, so","person. It is only in case of her having had a fortune, and",0.7666666666666667,1.0,0.75,071106002,openai
+14,much as it is supposed she would have expended had she,"that fortune having been dissipated by the offender, that she",0.7777777777777778,0.9090909090909091,0.9090909090909091,071106002,openai
+15,"remained single, must be deducted.","is a sufferer in this way. In the account of dissipation, so",1.3823529411764706,2.4,2.4,071106002,openai
+16,Quest. 1. Why criminal consciousness on the part of the second,much as it is supposed she would have expended had she,0.8064516129032258,1.0,1.0,071106002,openai
+17,Wife is made an Excuse in favour of the Man.,"remained single, must be deducted.",0.7727272727272727,1.0,1.0,071106002,openai
+18,Reasons.,,1.0,1.0,1.0,071106002,openai
+19,"The great mischief lies in the deceit put upon the Woman,",Sect. 1. Why criminal consequences on the part of the second,0.7719298245614035,0.9090909090909091,0.8181818181818182,071106002,openai
+20,and the disappointment which is apt to be the consequence. But,Wife is made an Excuse in favour of the Man.,0.7419354838709677,0.9090909090909091,0.8181818181818182,071106002,openai
+21,in this case there is no deceit nor disappointment. It is a joint,,1.0,1.0,1.0,071106002,openai
+22,contrivance,Reasons.,0.9090909090909091,1.0,1.0,071106002,openai
+23,C,,1.0,1.0,1.0,071106002,openai

@@ -1,0 +1,28 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,founder's Law. 8. The Chymists Law &c. &c.,C.,0.9523809523809523,1.0,1.0,071_002_003,openai
+2,6. From Storms. See the Seafaring-man's Law Sect. Con-,Of Justifications.,0.8518518518518519,1.0,1.0,071_002_003,openai
+3,:cerning Storms.,,1.0,1.0,1.0,071_002_003,openai
+4,7. From the Plague and other infectious diseases. See Laws,founder’s Law. 8. The Chymist’s Law &c. &c.,0.7931034482758621,1.0,1.0,071_002_003,openai
+5,concerning the Plague &c.,,1.0,1.0,1.0,071_002_003,openai
+6,8. From Persons insane: See Laws concerning persons,6. From Storms: See the seafaring man’s Law &c. &c. con-,0.803921568627451,1.25,1.125,071_002_003,openai
+7,Maniac's Law,,1.0,1.0,1.0,071_002_003,openai
+8,insane or 1. The Madman's Law: 2. The Ideot's Law. 2. The,cerning Storms.,0.8771929824561403,1.0,1.0,071_002_003,openai
+9,Instructions to the Legislator.,,1.0,1.0,1.0,071_002_003,openai
+10,It is not clear that in every one of the several titles of,7. From the Plague and other infectious diseases. See Laws,0.7931034482758621,1.0,0.9230769230769231,071_002_003,openai
+11,Law above mentioned there will need a provision or set of,,1.0,1.0,1.0,071_002_003,openai
+12,"provisions, authorising one person to trespass upon the per-",concerning the Plague &c.,0.7833333333333333,1.0,0.8888888888888888,071_002_003,openai
+13,:son of another. To determine that question with respect to,,1.0,1.0,1.0,071_002_003,openai
+14,any of them would be to enter upon a branch of Law fo:,8. From Persons insane: See Laws concerning persons,0.8518518518518519,1.0,1.0,071_002_003,openai
+15,:reign to that in hand. Nor with respect to every one of,,1.0,1.0,1.0,071_002_003,openai
+16,"these titles could such provisions be exhibited in terminis,",insane or &c. 1. The Bedlam maniac’s Law. 2. The Idiot’s Law. 2. The,0.9666666666666667,1.5555555555555556,1.5555555555555556,071_002_003,openai
+17,in any book of universal Law: since they will need to be,,1.0,1.0,1.0,071_002_003,openai
+18,different according to the various local circumstances of dif:,Mariner’s Law,0.8548387096774194,1.0,1.0,071_002_003,openai
+19,:ferent states and provinces. The above references are exhi:,,1.0,1.0,1.0,071_002_003,openai
+20,":bited only in the way of example, to give a general idea)",Instructions to the Legislator,0.7931034482758621,0.9166666666666666,0.8333333333333334,071_002_003,openai
+21,of the mode of reference to be adopted on an occa:,,1.0,1.0,1.0,071_002_003,openai
+22,":sion, like the present.",It is not clear that in every one of the several titles of,1.875,3.0,3.0,071_002_003,openai
+23,of,,1.0,1.0,1.0,071_002_003,openai
+24,"In like manner, neither is it clear that the names",Law abovementioned there will need a provision or set of,0.88,1.0,1.0,071_002_003,openai
+25,Of Justifications.,,1.0,1.0,1.0,071_002_003,openai
+26,C,"provisions, authorizing one person to trespass upon the per-",60.0,9.0,9.0,071_002_003,openai
+27,7.,,1.0,1.0,1.0,071_002_003,openai

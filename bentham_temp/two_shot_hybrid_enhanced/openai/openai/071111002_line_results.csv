@@ -1,0 +1,24 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,2.,C,1.0,1.0,1.0,071111002,openai
+2,Of Family Imposture.,Of Family Imposture.,0.0,0.0,0.0,071111002,openai
+3,pretended mother was or was not privy to the Imposture.,,1.0,1.0,1.0,071111002,openai
+4,4. But if any one bring up a child begotten of a married Woman,pretended mother was or was not privy to the Imposture.,0.8548387096774194,1.0,1.0,071111002,openai
+5,"during the continuance of the marriage by and Adulterer, as if it",,1.0,1.0,1.0,071111002,openai
+6,"were the child of the Husband, this is not Family Imposture.",4. But if any one bring up a child begotten of a married Woman,0.9,1.2727272727272727,1.0909090909090908,071111002,openai
+7,Punishment.,,1.0,1.0,1.0,071111002,openai
+8,For Family Imposture the Punishment of an Impostor,"during the continuance of the marriage by an Adulterer, as if it",1.0,1.25,1.125,071111002,openai
+9,himself shall be as follows.,,1.0,1.0,1.0,071111002,openai
+10,1. He shall be punished ignominiously and afflictively with the,"were the child of the Husband, this is not Family Imposture.",0.7936507936507936,1.1,1.0,071111002,openai
+11,Impostor's Mask. See [Punishments],,1.0,1.0,1.0,071111002,openai
+12,2. He shall be imprisoned or confined to hard Labour for Life.,Punishment.,0.8870967741935484,1.0,1.0,071111002,openai
+13,The Punishment of a Suborner shall be as follows:,,1.0,1.0,1.0,071111002,openai
+14,1. He shall be ignominiously connected with an Impostor or the Effig-,For Family Imposture the Punishment of an Impostor,0.7246376811594203,0.8333333333333334,0.75,071111002,openai
+15,-y of an Impostor.,,1.0,1.0,1.0,071111002,openai
+16,2. He shall be imprisoned or confined to hard Labour for Life.,himself shall be as follows.,0.7580645161290323,0.8333333333333334,0.8333333333333334,071111002,openai
+17,Exposition,,1.0,1.0,1.0,071111002,openai
+18,"[(A) Suborner] There may be a suborner of imposture, where there is no",1. He shall be punished ignominiously and afflictively with the,0.8285714285714286,0.9230769230769231,0.9230769230769231,071111002,openai
+19,impostor: the party falsely pretended to possess the character in question,,1.0,1.0,1.0,071111002,openai
+20,not knowing but he is intitled to it; for instance in the case of a suppo=,Impostor's Mask. See [Punishments],0.8378378378378378,1.0,1.0,071111002,openai
+21,:ssitious Child. Excuses,,1.0,1.0,1.0,071111002,openai
+22,(A),2. He shall be imprisoned or confined to hard Labour for Life.,20.666666666666668,12.0,12.0,071111002,openai
+23,C,,1.0,1.0,1.0,071111002,openai

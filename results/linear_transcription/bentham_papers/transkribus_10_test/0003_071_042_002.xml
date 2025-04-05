@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=22_03_2025_11:22</Creator>
+        <Created>2025-03-21T17:00:30.960+01:00</Created>
+        <LastChange>2025-03-22T11:22:49.907+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0003_071_042_002.jpg" imageWidth="2731" imageHeight="4096">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1743494412737" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="731,305 2495,305 2495,1007 731,1007"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1190,408 1275,429 1380,394 1519,416 1604,390 1926,397 1928,302 1795,241 1569,313 1473,307 1365,245 1194,294"/>
+                <Baseline points="1203,391 1215,388 1259,391 1304,388 1349,388 1394,385 1438,385 1483,385 1528,382 1573,382 1618,382 1662,379 1707,379 1752,379 1797,379 1842,376 1886,376 1931,355"/>
+                <TextEquiv>
+                    <Unicode>Servants Law</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="749,660 894,614 2489,614 2474,537 1131,576 749,511"/>
+                <Baseline points="761,603 794,606 838,606 883,603 928,603 973,603 1018,603 1062,603 1107,603 1152,600 1197,603 1241,600 1286,600 1331,597 1376,597 1421,597 1465,597 1510,597 1555,597 1600,597 1644,597 1689,597 1734,600 1779,597 1824,597 1868,594 1913,594 1958,594 2003,594 2048,594 2092,594 2137,594 2182,594 2227,594 2271,594 2316,594 2361,594 2406,594 2451,594 2495,594"/>
+                <TextEquiv>
+                    <Unicode>gentleman to a servant does not dishonour the servant.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="719,833 927,804 1096,861 1231,798 1707,844 1880,793 2454,855 2478,714 1987,765 1799,703 1591,765 717,703"/>
+                <Baseline points="731,785 776,788 820,788 865,791 910,791 955,791 1000,791 1044,791 1089,788 1134,788 1179,791 1224,791 1268,791 1313,791 1358,791 1403,791 1447,791 1492,788 1537,788 1582,788 1627,791 1671,791 1716,791 1761,791 1806,788 1850,788 1895,788 1940,791 1985,791 2030,791 2074,791 2119,791 2164,791 2209,791 2253,794 2298,791 2343,791 2388,791 2433,794 2477,794 2483,797"/>
+                <TextEquiv>
+                    <Unicode>but a blow from a servant to a gentleman dishonours the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="743,1058 806,1023 822,1032 839,1015 874,1026 940,1006 1015,1036 1032,1023 1087,1036 1087,958 1034,971 1006,953 944,958 914,938 872,962 787,949 743,969"/>
+                <Baseline points="755,991 800,997 844,997 889,994 934,994 979,997 1024,997 1068,997 1092,997"/>
+                <TextEquiv>
+                    <Unicode>gentleman</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

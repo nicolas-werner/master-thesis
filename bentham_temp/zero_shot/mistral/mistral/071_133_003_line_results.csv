@@ -1,0 +1,13 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,C,Of some public Offices in Senegal.,34.0,6.0,6.0,071_133_003,mistral
+2,23.,,1.0,1.0,1.0,071_133_003,mistral
+3,Of Semi-public Offences in General.,persona or destroys the property of particular individuals among them,1.6571428571428573,2.0,2.0,071_133_003,mistral
+4,persons or destroys the property of particular individuals among the,who he may be not only punished criminally for the robbery,0.7941176470588235,1.0,1.0,071_133_003,mistral
+5,Jews he may be not only punished criminally for the calumny,"whereon the act, but made civilly responsible for the particular",0.711864406779661,0.8181818181818182,0.8181818181818182,071_133_003,mistral
+6,"thrown on the Sect, but made civilly responsible for the particular",mischief done to the individual whom whose persona or property,0.7910447761194029,1.0,0.9090909090909091,071_133_003,mistral
+7,mischief done to the individual Jews whose persons or property,was thus attacked.,0.8709677419354839,1.0,1.0,071_133_003,mistral
+8,were thus attacked.,,1.0,1.0,1.0,071_133_003,mistral
+9,"As to any farther particulars relative to this head, they",As to any further punishment relative to their hein's they,0.2807017543859649,0.4,0.4,071_133_003,mistral
+10,of a local nature; and are without the limits of the present under=,must depend upon the particulars of the question: they are the subjects,0.746268656716418,0.9230769230769231,0.6923076923076923,071_133_003,mistral
+11,:taking work.,"of a local nation, and without the limits of the present system",4.3076923076923075,6.0,6.0,071_133_003,mistral
+12,must depend upon the particular class in question. They are therefore,of this work.,0.8695652173913043,1.0,1.0,071_133_003,mistral

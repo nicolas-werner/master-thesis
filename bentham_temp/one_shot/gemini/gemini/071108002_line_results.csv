@@ -1,0 +1,25 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,2.,2.,0.0,0.0,0.0,071108002,gemini
+2,Of Matrimonial Desertion.,C,1.0,1.0,1.0,071108002,gemini
+3,It will be necessary to define what shall be deemed,Of Matrimonial Desertion.,0.8627450980392157,1.0,1.0,071108002,gemini
+4,"Desertion, distinguishing it from the case of lawful Absence;",,1.0,1.0,1.0,071108002,gemini
+5,and what steps shall be taken for giving notice.,It will be necessary to define what shall be deemed,0.8541666666666666,1.1111111111111112,0.7777777777777778,071108002,gemini
+6,Let certain methods be established whereby the Husband,"Desertion, distinguishing it from the case of lawful Absence;",0.9074074074074074,1.125,1.0,071108002,gemini
+7,and the Wife may be enabled and obliged to correspond with,and what steps shall be taken for giving Notice.,0.7241379310344828,0.8181818181818182,0.8181818181818182,071108002,gemini
+8,one another at stated intervals: and let a failure on either part,,1.0,1.0,1.0,071108002,gemini
+9,for a certain time be deemed presumptive evidence of death or,Let certain methods be established whereby the Husband,0.6885245901639344,0.8181818181818182,0.8181818181818182,071108002,gemini
+10,desertion. Within the dominions of the state they  might be manag=,and the Wife may be enabled and obliged to correspond with,0.8333333333333334,1.0,0.8181818181818182,071108002,gemini
+11,=ed in the manner mentioned in the Book of Procedure. Tit.,one another at stated intervals: and let a failure on either part,0.8275862068965517,1.0909090909090908,1.0909090909090908,071108002,gemini
+12,"As to foreigners, upon their coming into the country",,1.0,1.0,1.0,071108002,gemini
+13,let them be obliged to declare upon oath whether they are married,for a certain time be deemed presumptive evidence of death or,0.8,1.0,0.9166666666666666,071108002,gemini
+14,"or single; and if single whether Bachelors or Spinsters, Widowers",desertion. Within the dominions of the state this might be manag-,0.8461538461538461,1.1,1.1,071108002,gemini
+15,"or Widows. Of these declarations let Registers be kept, of which,",ed in the manner mentioned in the Book of Procedure. Tit.,0.7846153846153846,1.0,0.9090909090909091,071108002,gemini
+16,"previous to their being married, copies should be required to be",,1.0,1.0,1.0,071108002,gemini
+17,"produced. If married, certificates of the death of the Wife or","As to Foreigners, upon their coming into the country",0.7903225806451613,0.9090909090909091,0.9090909090909091,071108002,gemini
+18,Husband. At present these important enquiries are left to the,let them be obliged to declare upon oath whether they are married,0.8524590163934426,1.2,1.0,071108002,gemini
+19,uncertain prudence of individuals. The declarations above men=,"or single: and if single whether Batchelors or Spinsters, Widowers",0.8709677419354839,1.25,1.25,071108002,gemini
+20,:tioned should be accompanied with some details respecting their,"or Widows. Of these declarations let Registers be kept, of which,",0.78125,1.2222222222222223,1.1111111111111112,071108002,gemini
+21,in,"previous to their being married, copies should be required to be",31.0,11.0,11.0,071108002,gemini
+22,"birth, parentage and last abode; such as may lead to detection","produced. If married, certificates of the death of the Wife or",0.8548387096774194,1.0,1.0,071108002,gemini
+23,this,Husband. At present these important enquiries are left to the,14.25,10.0,10.0,071108002,gemini
+24,C,uncertain prudence of individuals. The declarations above men-,62.0,8.0,8.0,071108002,gemini

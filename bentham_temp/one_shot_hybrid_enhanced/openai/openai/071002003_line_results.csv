@@ -1,0 +1,28 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,founder's Law. 8. The Chymists Law &c. &c.,C.,0.9523809523809523,1.0,1.0,071002003,openai
+2,6. From Storms. See the Seafaring-man's Law Sect. Con-,Of Justifications.,0.8518518518518519,1.0,1.0,071002003,openai
+3,:cerning Storms.,,1.0,1.0,1.0,071002003,openai
+4,7. From the Plague and other infectious diseases. See Laws,founders Law. 8. The Chymists Law &c. &c.,0.7758620689655172,1.0,1.0,071002003,openai
+5,concerning the Plague &c.,,1.0,1.0,1.0,071002003,openai
+6,8. From Persons insane: See Laws concerning persons,6. From Storms: See the Seafaring-man's Law Sect. con=,0.7647058823529411,1.0,0.875,071002003,openai
+7,Maniac's Law,cerning Storms.,1.0833333333333333,1.0,1.0,071002003,openai
+8,insane or 1. The Madman's Law: 2. The Ideot's Law. 2. The,,1.0,1.0,1.0,071002003,openai
+9,Instructions to the Legislator.,7. From the Plague and other infectious diseases. See Laws,1.4516129032258065,2.25,2.25,071002003,openai
+10,It is not clear that in every one of the several titles of,concerning the Plague &c.,0.7758620689655172,0.9230769230769231,0.9230769230769231,071002003,openai
+11,Law above mentioned there will need a provision or set of,,1.0,1.0,1.0,071002003,openai
+12,"provisions, authorising one person to trespass upon the per-",8. From Persons insane: See Laws concerning persons,0.7666666666666667,1.0,1.0,071002003,openai
+13,:son of another. To determine that question with respect to,insane or 1. The Madman's Law. 2. The Ideot's Law. 2. The,0.8135593220338984,1.2,1.2,071002003,openai
+14,any of them would be to enter upon a branch of Law fo:,Maniac's Law,0.8703703703703703,0.9230769230769231,0.9230769230769231,071002003,openai
+15,:reign to that in hand. Nor with respect to every one of,,1.0,1.0,1.0,071002003,openai
+16,"these titles could such provisions be exhibited in terminis,",Instructions to the Legislator.,0.7666666666666667,1.0,1.0,071002003,openai
+17,in any book of universal Law: since they will need to be,,1.0,1.0,1.0,071002003,openai
+18,different according to the various local circumstances of dif:,It is not clear that in every one of the several titles of,0.7903225806451613,1.3333333333333333,1.2222222222222223,071002003,openai
+19,:ferent states and provinces. The above references are exhi:,Law above mentioned there will need a provision or set of,0.85,1.2222222222222223,1.1111111111111112,071002003,openai
+20,":bited only in the way of example, to give a general idea)","provisions, authorising one person to trespass upon the per=",0.7931034482758621,0.9166666666666666,0.8333333333333334,071002003,openai
+21,of the mode of reference to be adopted on an occa:,son of another. To determine that question with respect to,0.84,1.0,0.8181818181818182,071002003,openai
+22,":sion, like the present.",any of them would be to enter upon a branch of Law fo=,1.8333333333333333,3.25,3.25,071002003,openai
+23,of,reign to that in hand. Nor with respect to every one of,26.5,11.0,11.0,071002003,openai
+24,"In like manner, neither is it clear that the names",these titles could such provisions be exhibited in terminis,0.94,1.0,1.0,071002003,openai
+25,Of Justifications.,in any book of universal Law: since they will need to be,2.6666666666666665,6.0,6.0,071002003,openai
+26,C,different according to the various local circumstances of dif=,62.0,9.0,9.0,071002003,openai
+27,7.,ferent states and provinces. The above references are exhi=,29.0,9.0,9.0,071002003,openai

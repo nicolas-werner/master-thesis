@@ -1,0 +1,34 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,nie geſehen oder beſchryben ſynd wil ich harnach ſagen/,nie gesehen oder beschryben ſynd wil ich harnach ſagen/,0.03636363636363636,0.2222222222222222,0.2222222222222222,7474190,mistral
+2,Darumb am erſten der lütten halb/ So haben wir in dy,Dattumb am ersten der lütte halb/ So haben wir in dy,0.07692307692307693,0.2727272727272727,0.2727272727272727,7474190,mistral
+3,ſen landen vnd region funden ſo vil vn̄ ſo groſſe der voͤl¬,ſen landen vnd region funden ſo vil vn̄ ſo groſſe der völ¬,0.03389830508474576,0.08333333333333333,0.08333333333333333,7474190,mistral
+4,cker/ ſcharen vnd lüt/ das die nyeman erzellen moͤcht als,cker/ ſcharen vnd lut/ das die nyeman erzellen möcht als,0.05263157894736842,0.2,0.2,7474190,mistral
+5,man lißt im Apocalipſi/ Eyn volck ſag ich eyn milt guͤtig,man liſt im Apocalypsi/ Eyn volck ſag ich eyn milt gütig,0.08771929824561403,0.2727272727272727,0.2727272727272727,7474190,mistral
+6,vnd hantwiſyg vnd gand alle nackend beyde weyb vnd,vnd hantwisyg vnd gand alle nackend beyde weyb vnd,0.02,0.1111111111111111,0.1111111111111111,7474190,mistral
+7,man/ vnd gantz on bedeckung ir lyben an allen enden vn̄,man/ vnd gantz on bedeckung ir lyben an allen enden vn̄,0.0,0.0,0.0,7474190,mistral
+8,wie Sy vß muͦter lyb kommen alſo gand ſy biß das ſy ge,wie Sy vß muͤter lyb kommen alſo gand ſy biß das ſy ge,0.018518518518518517,0.07692307692307693,0.07692307692307693,7474190,mistral
+9,ſterben/ Den̄ ſy ſind groß von lyb vierſchretig wol geſchi,ſterben/ Den ſy ſind groß von lyb vierschretig wol geſchickt,0.08620689655172414,0.3,0.3,7474190,mistral
+10,ckt/ guͦter ſchoͤnen lidmaß vnd geferbt etlicher maß gegē,güter ſchönen lidmaß vnd geferbt etlicher maß gege,0.17543859649122806,0.4444444444444444,0.4444444444444444,7474190,mistral
+11,rotem/ Das ich meyn ienen von der vrſach kommen das,rotem/ Das ich meyn ienen von der vrſach kommen das,0.0,0.0,0.0,7474190,mistral
+12,ſy nackend gand vnd von der ſonnen beſcheynen alſo ge¬,ſy nackend gand vnd von der ſonnen beſcheynen alſo ge,0.018518518518518517,0.1,0.1,7474190,mistral
+13,ferbt werden/ Sy haben ouch wyt vnd groß harlock vn̄,ferbt werden/ Sy haben ouch wyt vnd groß harlock vn̄,0.0,0.0,0.0,7474190,mistral
+14,ſchwartz/ Sy ſind mit irem gang vnd mit ſpyl tribē det¬,ſchwartz/ Sy ſind mit item gang vnd mit ſpil triben dettig,0.12727272727272726,0.36363636363636365,0.36363636363636365,7474190,mistral
+15,tig vnd bering vnd guͤttiger ſchonen anlitten/ Die ſy do,vnd bering vnd güttiger ſchönen anlitten/ Die ſy do,0.125,0.3,0.3,7474190,mistral
+16,ch inen ſelbs heßlich machen vnd vngeſtalt/ Den̄ ſy borē,ch inen ſelbs heſſlich machen vnd vngestalt/ Den ſy bore,0.08928571428571429,0.4,0.4,7474190,mistral
+17,inen ſelbs loͤcher in die backen die muntlefftzen vn̄ die na¬,inen ſelbs löcher in die backen die muntlefftzen vn die na,0.06557377049180328,0.2727272727272727,0.2727272727272727,7474190,mistral
+18,ſen vnd die oren/ Du ſolt ouch nit gedencken das ſoliche,ſen vnd die oren/ Du ſolt ouch nit gedencken das ſoliche,0.0,0.0,0.0,7474190,mistral
+19,loͤcher kleyn ſyen oder ſy eins alleyn haben den̄ ich etlich,löcher kleyn ſyn oder ſy eins alleyn haben den ich etlich,0.06666666666666667,0.2727272727272727,0.2727272727272727,7474190,mistral
+20,geſehen hab die in iren anlitten alleyn Syben loͤcher der,geſehen hab die in iren anlitten alleyn Syben löcher der,0.03508771929824561,0.1,0.1,7474190,mistral
+21,yegliches ſo groß was das eyn kriechen wol in eyns gan,yegliches ſo groß was das eyn kriechen wol in eyns gan,0.0,0.0,0.0,7474190,mistral
+22,moͤchte/ Sy verſtoſſen inen ſelbs ſoliche loͤcher mit blawē,möchte/ Sy verſtoſſen inen ſelbs ſoliche löcher mitblawe,0.1016949152542373,0.4444444444444444,0.4444444444444444,7474190,mistral
+23,ſteynen/ Criſtallen/ Marmor vnd alabaſter/ gar hübſch,ſteynen/ Cristallen/ Marmor vnd alabaster/ gar hübſch,0.03773584905660377,0.2857142857142857,0.2857142857142857,7474190,mistral
+24,vnd ſchon vnd mit wiſſem gebein vnd mit andern̄ dingē,vnd ſchon vnd mit wiſſem gebein vnd mit andern dingen,0.05660377358490566,0.2,0.2,7474190,mistral
+25,ſo mit künſten vnd koſtlich mit arbeyt gemacht werden,ſo mit künſten vnd koſtlich mit arbeyt gemacht werden,0.0,0.0,0.0,7474190,mistral
+26,nach ir gewonheyt vnd gebruch/ Und ob du alſo ſeheſt,nach ir gewonheyt vnd gebruch/ Vnd ob du alſo ſeheſt,0.019230769230769232,0.1,0.1,7474190,mistral
+27,eyn ſo frembd vngewon ding groſſem ſeltzemen wunder,eyn ſo frembd vngewohn ding groſſem ſeltzemen wunder,0.0196078431372549,0.125,0.125,7474190,mistral
+28,gliche/ Nemlich eynen menſchē der da hatt in den back,gliche/ Nemlich eynen menſchen der da hatt in den back,0.03773584905660377,0.1,0.1,7474190,mistral
+29,ken alleyn vnnd in den lefftzen Syben ſteyn dera ettlich,ren alleyn vnnd in den lefftzen Syben ſteyn dera ettlich,0.017857142857142856,0.1,0.1,7474190,mistral
+30,in der lenge eyner halben ſpann du wurdeſt nit on groß,in der lenge eyner halben ſpann du wurdeſt nit on groß,0.0,0.0,0.0,7474190,mistral
+31,verwūderūg ſyn/ Dē ich hab dyck wargenomē vn̄ über,verwunderung ſyn/ Den ich hab dyck wargenomen vn̄ vber,0.18,0.4444444444444444,0.4444444444444444,7474190,mistral
+32,ſchetzt/ dz Siben ſolicher ſteinē an gewicht habē .xvi. lot,ſchetzt/ dz Siben ſolicher ſteinem an gewicht habe xvi. lot,0.06779661016949153,0.3,0.3,7474190,mistral
+33,A iiii,Aiiii,0.16666666666666666,1.0,1.0,7474190,mistral

@@ -1,0 +1,5 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Uon der neü gefunden,Von der neū gefunden,0.1,0.5,0.5,7474184,mistral
+2,Region ſo wol ein welt genempt mag werden/,Region ſo wol ein welt genempt mag werden/,0.0,0.0,0.0,7474184,mistral
+3,durch den Criſtēlichen künig/ von Portigal/,durch den Cristelichen künig/ von Portugai/,0.09302325581395349,0.3333333333333333,0.3333333333333333,7474184,mistral
+4,wunderbarlich erfunden/,wunderbarlich erfunden/,0.0,0.0,0.0,7474184,mistral

@@ -4,6 +4,9 @@ import xml.etree.ElementTree as ET
 import unicodedata
 from typing import List, Dict, Optional, Tuple, Any
 import base64
+from PIL import Image
+import numpy as np
+import io
 
 
 NAMESPACES = {
@@ -26,7 +29,7 @@ def normalize_text(text: str) -> str:
 
 def extract_text_from_xml(xml_path: str) -> List[str]:
     """
-    Extract text lines from PAGE XML format.
+    Extract text lines from PAGE XML format, supporting multiple namespace versions.
 
     Args:
         xml_path: Path to the PAGE XML file
@@ -38,12 +41,41 @@ def extract_text_from_xml(xml_path: str) -> List[str]:
         tree = ET.parse(xml_path)
         root = tree.getroot()
 
+        # Support multiple PAGE format namespaces
+        namespaces = {
+            # 2013 namespace (used in Reichenau dataset)
+            'ns2013': 'http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15',
+            # 2010 namespace (used in Bentham dataset)
+            'ns2010': 'http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19'
+        }
+
         text_lines = []
-        for text_line in root.findall('.//ns:TextLine', NAMESPACES):
-            unicode_elem = text_line.find('.//ns:Unicode', NAMESPACES)
-            if unicode_elem is not None and unicode_elem.text is not None:
-                line_text = unicode_elem.text.strip()
-                text_lines.append(normalize_text(line_text))
+
+        # Try each namespace until we find matching elements
+        for prefix, ns in namespaces.items():
+            # Find all TextLine elements with this namespace
+            for text_line in root.findall(f'.//{{{ns}}}TextLine'):
+                # Look for Unicode element within this TextLine
+                unicode_elem = text_line.find(f'.//{{{ns}}}Unicode')
+                if unicode_elem is not None and unicode_elem.text is not None:
+                    line_text = unicode_elem.text.strip()
+                    text_lines.append(normalize_text(line_text))
+
+            # If we found text lines with this namespace, no need to try others
+            if text_lines:
+                break
+
+        # If no text found with namespaces, try without namespace (fallback)
+        if not text_lines:
+            # Some XML files might not use namespaces consistently
+            for text_line in root.findall('.//TextLine'):
+                # Try different paths to Unicode element
+                unicode_elem = (text_line.find('.//Unicode') or
+                               text_line.find('.//TextEquiv/Unicode'))
+
+                if unicode_elem is not None and unicode_elem.text is not None:
+                    line_text = unicode_elem.text.strip()
+                    text_lines.append(normalize_text(line_text))
 
         return text_lines
     except Exception as e:
@@ -305,3 +337,290 @@ def load_prompt_from_file(prompt_path: str) -> str:
     except Exception as e:
         print(f"Error loading prompt from {prompt_path}: {e}")
         raise e
+
+def extract_line_coords_from_xml(xml_path: str) -> List[Dict[str, Any]]:
+    """
+    Extract line coordinates and text from PAGE XML format.
+
+    Args:
+        xml_path: Path to the PAGE XML file
+
+    Returns:
+        List of dictionaries containing line info:
+        {
+            'id': Line ID,
+            'text': Normalized text content,
+            'coords': Bounding box coordinates as (x_min, y_min, x_max, y_max),
+            'index': Index of the line in the document
+        }
+    """
+    try:
+        tree = ET.parse(xml_path)
+        root = tree.getroot()
+
+        # Support multiple PAGE format namespaces
+        namespaces = {
+            # 2013 namespace (used in Reichenau dataset)
+            'ns2013': 'http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15',
+            # 2010 namespace (used in Bentham dataset)
+            'ns2010': 'http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19'
+        }
+
+        lines_with_coords = []
+
+        # Try each namespace until we find matching elements
+        for prefix, ns in namespaces.items():
+            found_lines = False
+
+            # Find all TextLine elements with this namespace
+            for index, text_line in enumerate(root.findall(f'.//{{{ns}}}TextLine')):
+                line_id = text_line.get('id')
+
+                # Extract text content
+                unicode_elem = text_line.find(f'.//{{{ns}}}Unicode')
+                text = ""
+                if unicode_elem is not None and unicode_elem.text is not None:
+                    text = unicode_elem.text.strip()
+                    text = normalize_text(text)
+
+                # Extract coordinates
+                coords_elem = text_line.find(f'.//{{{ns}}}Coords')
+                if coords_elem is not None:
+                    points_str = coords_elem.get('points')
+                    if points_str:
+                        # Parse points string to get bounding box
+                        coords = parse_coords_points(points_str)
+
+                        lines_with_coords.append({
+                            'id': line_id,
+                            'text': text,
+                            'coords': coords,
+                            'index': index
+                        })
+                        found_lines = True
+
+            if found_lines:
+                break
+
+        # If no lines found with namespaces, try without namespace
+        if not lines_with_coords:
+            for index, text_line in enumerate(root.findall('.//TextLine')):
+                line_id = text_line.get('id', f"line_{index}")
+
+                # Try different paths to Unicode element
+                unicode_elem = (text_line.find('.//Unicode') or
+                               text_line.find('.//TextEquiv/Unicode'))
+
+                text = ""
+                if unicode_elem is not None and unicode_elem.text is not None:
+                    text = unicode_elem.text.strip()
+                    text = normalize_text(text)
+
+                # Extract coordinates
+                coords_elem = text_line.find('.//Coords')
+                if coords_elem is not None:
+                    points_str = coords_elem.get('points')
+                    if points_str:
+                        coords = parse_coords_points(points_str)
+
+                        lines_with_coords.append({
+                            'id': line_id,
+                            'text': text,
+                            'coords': coords,
+                            'index': index
+                        })
+
+        return lines_with_coords
+
+    except Exception as e:
+        print(f"Error processing {xml_path}: {e}")
+        return []
+
+
+def parse_coords_points(points_str: str) -> Tuple[int, int, int, int]:
+    """
+    Parse coordinate points string from PAGE XML format.
+
+    Args:
+        points_str: String with coordinates in format 'x1,y1 x2,y2 x3,y3...'
+
+    Returns:
+        Tuple with bounding box (x_min, y_min, x_max, y_max)
+    """
+    try:
+        # Split the points string and convert to integer pairs
+        point_pairs = [p.split(',') for p in points_str.split()]
+        points = [(int(p[0]), int(p[1])) for p in point_pairs]
+
+        # Calculate bounding box
+        x_values = [p[0] for p in points]
+        y_values = [p[1] for p in points]
+
+        # Return bounding box as (x_min, y_min, x_max, y_max)
+        return (min(x_values), min(y_values), max(x_values), max(y_values))
+
+    except Exception as e:
+        print(f"Error parsing coordinates: {e}")
+        # Return a default empty bounding box
+        return (0, 0, 0, 0)
+
+
+def crop_line_images(image_path: str, line_coords: List[Dict[str, Any]], padding: int = 5) -> List[Dict[str, Any]]:
+    """
+    Crop line images from a full page image based on line coordinates.
+
+    Args:
+        image_path: Path to the full page image
+        line_coords: List of dictionaries with line coordinates and metadata
+        padding: Padding to add around each line (in pixels)
+
+    Returns:
+        List of dictionaries with line images and metadata:
+        {
+            'id': Line ID,
+            'text': Line text,
+            'image': PIL Image object of the cropped line,
+            'coords': Original coordinates,
+            'index': Original index
+        }
+    """
+    try:
+        # Open the image
+        with Image.open(image_path) as img:
+            line_images = []
+
+            # Get image dimensions
+            img_width, img_height = img.size
+
+            # Process each line
+            for line in line_coords:
+                if 'coords' not in line or not line['coords']:
+                    continue
+
+                x_min, y_min, x_max, y_max = line['coords']
+
+                # Apply padding, but stay within image bounds
+                x_min = max(0, x_min - padding)
+                y_min = max(0, y_min - padding)
+                x_max = min(img_width, x_max + padding)
+                y_max = min(img_height, y_max + padding)
+
+                # Crop the line image
+                line_img = img.crop((x_min, y_min, x_max, y_max))
+
+                # Create result with the line image and metadata
+                line_result = line.copy()
+                line_result['image'] = line_img
+
+                line_images.append(line_result)
+
+            return line_images
+
+    except Exception as e:
+        print(f"Error cropping line images from {image_path}: {e}")
+        return []
+
+
+def optimize_line_image(line_img, max_width=1000, max_height=200, quality=85) -> Image.Image:
+    """
+    Optimize a line image for API processing.
+
+    Args:
+        line_img: PIL Image object of a text line
+        max_width: Maximum width for resizing
+        max_height: Maximum height for resizing
+        quality: JPEG quality for compression
+
+    Returns:
+        Optimized PIL Image object
+    """
+    try:
+        # Get current size
+        width, height = line_img.size
+
+        # Check if resizing is needed
+        if width > max_width or height > max_height:
+            # Calculate new dimensions while preserving aspect ratio
+            if width > max_width:
+                new_width = max_width
+                new_height = int(height * (max_width / width))
+            else:
+                new_height = max_height
+                new_width = int(width * (max_height / height))
+
+            # Resize the image
+            line_img = line_img.resize((new_width, new_height), Image.LANCZOS)
+
+        # Convert to JPEG in memory with specified quality
+        img_byte_arr = io.BytesIO()
+        line_img.save(img_byte_arr, format='JPEG', quality=quality, optimize=True)
+
+        # Return the optimized image
+        img_byte_arr.seek(0)
+        return Image.open(img_byte_arr)
+
+    except Exception as e:
+        print(f"Error optimizing line image: {e}")
+        return line_img
+
+
+def process_page_by_lines(image_path: str, xml_path: str, optimize: bool = True) -> Dict[str, Any]:
+    """
+    Process a document page by extracting individual line images and text.
+
+    Args:
+        image_path: Path to the page image
+        xml_path: Path to the PAGE XML file
+        optimize: Whether to optimize line images
+
+    Returns:
+        Dictionary with page information:
+        {
+            'doc_id': Document ID,
+            'lines': List of line dictionaries (with images and text),
+            'gt_text': Full ground truth text
+        }
+    """
+    # Extract document ID from filename
+    doc_id = os.path.splitext(os.path.basename(image_path))[0]
+
+    # Extract line coordinates and text
+    line_coords = extract_line_coords_from_xml(xml_path)
+
+    # No lines found
+    if not line_coords:
+        print(f"No lines found in {xml_path}")
+        return {'doc_id': doc_id, 'lines': [], 'gt_text': ''}
+
+    # Crop line images
+    line_images = crop_line_images(image_path, line_coords)
+
+    # Optimize line images if requested
+    if optimize:
+        for line in line_images:
+            line['image'] = optimize_line_image(line['image'])
+
+    # Extract full ground truth text
+    gt_text = '\n'.join([line['text'] for line in line_coords])
+
+    return {
+        'doc_id': doc_id,
+        'lines': line_images,
+        'gt_text': gt_text
+    }
+
+
+def encode_image_object(img: Image.Image) -> str:
+    """
+    Encode a PIL Image object to base64.
+
+    Args:
+        img: PIL Image object
+
+    Returns:
+        Base64-encoded image
+    """
+    img_byte_arr = io.BytesIO()
+    img.save(img_byte_arr, format='JPEG')
+    img_byte_arr.seek(0)
+    return base64.b64encode(img_byte_arr.read()).decode('utf-8')

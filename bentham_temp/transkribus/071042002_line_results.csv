@@ -1,0 +1,5 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,2,Servants Law,12.0,2.0,2.0,071042002,transkribus
+2,Servants Law,gentleman to a servant does not dishonour the servant.,3.75,4.5,4.5,071042002,transkribus
+3,gentleman to a servant does not dishonour the servant.,but a blow from a servant to a gentleman dishonours the,0.6296296296296297,1.0,0.6666666666666666,071042002,transkribus
+4,but a blow from a servant to a gentleman dishonours the,gentleman,0.8363636363636363,0.9090909090909091,0.9090909090909091,071042002,transkribus

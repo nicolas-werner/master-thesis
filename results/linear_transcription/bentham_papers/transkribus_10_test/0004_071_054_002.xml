@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=22_03_2025_11:22</Creator>
+        <Created>2025-03-21T17:00:31.229+01:00</Created>
+        <LastChange>2025-03-22T11:22:50.025+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0004_071_054_002.jpg" imageWidth="2731" imageHeight="4096">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1743494412744" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="56,87 2567,87 2567,1177 56,1177"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="40,205 71,212 92,195 101,202 113,191 144,188 146,66 134,66 120,56 99,78 85,80 59,96 42,96"/>
+                <Baseline points="56,143 59,140 104,137 149,140"/>
+                <TextEquiv>
+                    <Unicode>46.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="673,412 1108,494 1329,405 2564,445 2564,303 2508,339 2225,254 1955,336 1840,247 1324,346 1216,280 673,306"/>
+                <Baseline points="686,400 731,397 776,400 820,403 865,403 910,403 955,403 1000,403 1044,403 1089,403 1134,403 1179,403 1224,403 1268,400 1313,400 1358,397 1403,397 1447,397 1492,397 1537,394 1582,394 1627,394 1671,394 1716,394 1761,394 1806,394 1850,394 1895,394 1940,394 1985,391 2030,394 2074,391 2119,391 2164,391 2209,391 2253,391 2298,394 2343,394 2388,394 2433,397 2477,397 2522,400 2567,403"/>
+                <TextEquiv>
+                    <Unicode>Theft Embezzlement and Fraudulent obtainment</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="687,600 1092,600 1183,656 1357,593 2334,581 2522,656 2522,520 2383,485 2284,534 687,501"/>
+                <Baseline points="701,585 737,588 782,588 826,588 871,588 916,588 961,588 1006,588 1050,591 1095,591 1140,591 1185,594 1229,588 1274,588 1319,585 1364,585 1409,585 1453,585 1498,582 1543,582 1588,582 1633,579 1677,579 1722,576 1767,576 1812,576 1856,573 1901,570 1946,573 1991,570 2036,570 2080,570 2125,573 2170,573 2215,570 2259,573 2304,573 2349,573 2394,573 2439,573 2483,573 2528,576"/>
+                <TextEquiv>
+                    <Unicode>there is no difference in the punishment. It will easily</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="692,885 1089,793 1428,795 1607,863 1720,797 2207,795 2193,682 2077,720 1807,668 1564,729 1261,692 986,746 925,696 692,692"/>
+                <Baseline points="704,779 749,776 794,773 838,779 883,782 928,782 973,785 1018,785 1062,788 1107,785 1152,788 1197,788 1241,788 1286,788 1331,788 1376,788 1421,788 1465,788 1510,788 1555,788 1600,785 1644,785 1689,788 1734,785 1779,785 1824,785 1868,785 1913,785 1958,788 2003,785 2048,788 2092,785 2137,785 2182,782 2212,785"/>
+                <TextEquiv>
+                    <Unicode>therefore be censured that they will be apt to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="673,981 1056,1063 1195,993 2390,990 2334,913 2287,955 2096,870 1811,899 1696,842 1310,927 1150,880 670,889"/>
+                <Baseline points="686,967 731,964 776,967 820,967 865,970 910,970 955,973 1000,973 1044,976 1089,976 1134,979 1179,979 1224,979 1268,982 1313,982 1358,982 1403,982 1447,982 1492,979 1537,979 1582,976 1627,979 1671,982 1716,979 1761,979 1806,979 1850,979 1895,982 1940,979 1985,979 2030,979 2074,979 2119,982 2164,982 2209,985 2253,985 2298,985 2343,985 2388,985 2397,985"/>
+                <TextEquiv>
+                    <Unicode>that difficulty in proportion as the punishment is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="678,1176 748,1179 774,1157 882,1179 953,1162 1009,1193 1066,1174 1122,1176 1117,1099 969,1108 889,1077 868,1085 823,1052 748,1073 670,1059"/>
+                <Baseline points="689,1146 734,1146 779,1146 823,1149 868,1152 913,1155 958,1155 1003,1158 1047,1161 1092,1164 1125,1167"/>
+                <TextEquiv>
+                    <Unicode>more severe</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="1627,3362 1728,3362 1728,3428 1627,3428"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1616,3475 1640,3479 1722,3449 1717,3338 1706,3341 1696,3331 1680,3345 1661,3338 1651,3345 1628,3326 1609,3329"/>
+                <Baseline points="1627,3412 1671,3412 1716,3415 1728,3418"/>
+                <TextEquiv>
+                    <Unicode>n</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

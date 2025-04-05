@@ -1,0 +1,33 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,11.,C,1.0,1.0,1.0,071_003_003,openai
+2,C,of Subjiciations,16.0,2.0,2.0,071_003_003,openai
+3,Of Justifications.,,1.0,1.0,1.0,071_003_003,openai
+4,3. Those of a Schoolmaster over his Scholar. See Law of School,Children.,0.9193548387096774,1.0,1.0,071_003_003,openai
+5,masters and Scholars.,,1.0,1.0,1.0,071_003_003,openai
+6,5. Those of a Guardian over his Ward . See Law of Guardi:,3. Those of a Schoolmaster over his Scholar. See Law of School,0.45614035087719296,0.38461538461538464,0.38461538461538464,071_003_003,openai
+7,6 Those of Adults over Infants in the same Family. See ib.,,1.0,1.0,1.0,071_003_003,openai
+8,vants - The Law of Apprentices _ Law of Journeymen _ Law,master and Scholar.,0.8571428571428571,1.0,1.0,071_003_003,openai
+9,Justification 6.th Military Powers & Subservience,,1.0,1.0,1.0,071_003_003,openai
+10,Thereto . _,4. Those of a Domestic Preceptor over his Pupil. See Laws of,4.545454545454546,4.0,4.0,071_003_003,openai
+11,Powers which one man may have over the person of,,1.0,1.0,1.0,071_003_003,openai
+12,these See the Army and the Navy Laws.,Preceptor and Pupil.,0.7297297297297297,0.875,0.875,071_003_003,openai
+13,2. Those of a military officer over persons at large in a time,,1.0,1.0,1.0,071_003_003,openai
+14,of,5. Those of a Guardian over his Ward. See Law of Guar-,26.0,11.0,11.0,071_003_003,openai
+15,Children.,,1.0,1.0,1.0,071_003_003,openai
+16,4. Those of a Domestic Preceptor over his Pupil . See Law of,dians and Wards.,0.8833333333333333,1.0,1.0,071_003_003,openai
+17,Preceptors and Pupils.,,1.0,1.0,1.0,071_003_003,openai
+18,Law of Infants.,6. Those of Adults over Infants in the same Family. See the,3.1333333333333333,3.6666666666666665,3.6666666666666665,071_003_003,openai
+19,7. Those of a Master over his Servant - See the Law of Ser,,1.0,1.0,1.0,071_003_003,openai
+20,of the Slaves. (a),Law of Infants.,0.8333333333333334,1.0,0.75,071_003_003,openai
+21,another on a military account are,,1.0,1.0,1.0,071_003_003,openai
+22,1. Those of a military Superior over his Subordinates. For,7. Those of a Master over his Servant. See the Law of Ser-,0.6206896551724138,0.9,0.8,071_003_003,openai
+23,Constitutional Code - Laws ofof,,1.0,1.0,1.0,071_003_003,openai
+24,:ans and Wards.,vants. The Law of Apprentices - Law of Journeymen - Law,3.066666666666667,3.6666666666666665,3.6666666666666665,071_003_003,openai
+25,ib.,,1.0,1.0,1.0,071_003_003,openai
+26,ib.,of Slaves. (a),4.333333333333333,3.0,3.0,071_003_003,openai
+27,ib.,,1.0,1.0,1.0,071_003_003,openai
+28,ib.,Subjiciation 6th. Military Powers. Subjiciation,15.0,5.0,5.0,071_003_003,openai
+29,Note.,,1.0,1.0,1.0,071_003_003,openai
+30,(a),Theatre.,2.3333333333333335,1.0,1.0,071_003_003,openai
+31,There ought to be a separate Title for every species,,1.0,1.0,1.0,071_003_003,openai
+32,of servant which has any Article of Law peculiar to it.,Powers which one man may have over the person of,0.6727272727272727,0.9090909090909091,0.8181818181818182,071_003_003,openai

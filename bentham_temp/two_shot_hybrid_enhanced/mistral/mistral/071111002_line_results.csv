@@ -1,0 +1,24 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,2.,Of family Imposture.,9.5,3.0,3.0,071111002,mistral
+2,Of Family Imposture.,,1.0,1.0,1.0,071111002,mistral
+3,pretended mother was or was not privy to the Imposture.,pretended mother was or was not privy to the Imposture.,0.0,0.0,0.0,071111002,mistral
+4,4. But if any one bring up a child begotten of a married Woman,,1.0,1.0,1.0,071111002,mistral
+5,"during the continuance of the marriage by and Adulterer, as if it",4. But if any one bring up a child begotten of a married Woman,0.8307692307692308,1.1666666666666667,1.0,071111002,mistral
+6,"were the child of the Husband, this is not Family Imposture.","during the continuance of the marriage by an Adulterer, as if it",0.8,0.8181818181818182,0.8181818181818182,071111002,mistral
+7,Punishment.,"were the child of the Husband, this is not family Imposture.",4.818181818181818,11.0,11.0,071111002,mistral
+8,For Family Imposture the Punishment of an Impostor,,1.0,1.0,1.0,071111002,mistral
+9,himself shall be as follows.,Punishment.,0.8571428571428571,1.0,1.0,071111002,mistral
+10,1. He shall be punished ignominiously and afflictively with the,,1.0,1.0,1.0,071111002,mistral
+11,Impostor's Mask. See [Punishments],For family Imposture the Punishment of an Impostor,1.0294117647058822,2.0,2.0,071111002,mistral
+12,2. He shall be imprisoned or confined to hard Labour for Life.,himself shall be as follows.,0.7580645161290323,0.8333333333333334,0.8333333333333334,071111002,mistral
+13,The Punishment of a Suborner shall be as follows:,,1.0,1.0,1.0,071111002,mistral
+14,1. He shall be ignominiously connected with an Impostor or the Effig-,1. He shall be punished ignominiously and afflictively with the,0.6086956521739131,0.5833333333333334,0.4166666666666667,071111002,mistral
+15,-y of an Impostor.,Impostor's Mask. See [Punishments],1.6111111111111112,1.0,1.0,071111002,mistral
+16,2. He shall be imprisoned or confined to hard Labour for Life.,,1.0,1.0,1.0,071111002,mistral
+17,Exposition,2. He shall be imprisoned or confined to hard labour for Life.,5.7,12.0,12.0,071111002,mistral
+18,"[(A) Suborner] There may be a suborner of imposture, where there is no",,1.0,1.0,1.0,071111002,mistral
+19,impostor: the party falsely pretended to possess the character in question,The Punishment of a Suborner shall be as follows:,0.8108108108108109,1.0,1.0,071111002,mistral
+20,not knowing but he is intitled to it; for instance in the case of a suppo=,,1.0,1.0,1.0,071111002,mistral
+21,:ssitious Child. Excuses,1. He shall be ignominiously connected with an Impostor or the Effi=,2.375,4.0,4.0,071111002,mistral
+22,(A),gy of an Impostor.,6.0,4.0,4.0,071111002,mistral
+23,C,,1.0,1.0,1.0,071111002,mistral

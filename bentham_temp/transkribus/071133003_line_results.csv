@@ -1,0 +1,13 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,C,Of Semi-public Offences in General.,35.0,5.0,5.0,071133003,transkribus
+2,23.,persons or destroys the property of particular individuals among the,22.666666666666668,10.0,10.0,071133003,transkribus
+3,Of Semi-public Offences in General.,Uws he may be not only punished crimenally for the calumny,1.2857142857142858,2.2,2.2,071133003,transkribus
+4,persons or destroys the property of particular individuals among the,"thrown on the Sect, but made civilly responsible for the particular",0.8382352941176471,1.0,0.8,071133003,transkribus
+5,Jews he may be not only punished criminally for the calumny,mischief done to the individual I ews whose persons or property,0.8813559322033898,1.0,0.9090909090909091,071133003,transkribus
+6,"thrown on the Sect, but made civilly responsible for the particular",were thus attached.,0.8507462686567164,1.0,1.0,071133003,transkribus
+7,mischief done to the individual Jews whose persons or property,"As to any farther particulars relative to this head, they",0.7580645161290323,1.0,0.9,071133003,transkribus
+8,were thus attacked.,of men,0.8947368421052632,1.0,1.0,071133003,transkribus
+9,"As to any farther particulars relative to this head, they",must depend upon the particular class in question. They are therefore,0.7192982456140351,1.1,1.1,071133003,transkribus
+10,of a local nature; and are without the limits of the present under=,stand,0.9402985074626866,1.0,1.0,071133003,transkribus
+11,:taking work.,of a local nature; and are without the limits of the present under,4.615384615384615,6.5,6.5,071133003,transkribus
+12,must depend upon the particular class in question. They are therefore,taking work.,0.9130434782608695,1.0,1.0,071133003,transkribus

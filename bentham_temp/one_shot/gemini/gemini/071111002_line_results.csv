@@ -1,0 +1,24 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,2.,C,1.0,1.0,1.0,071111002,gemini
+2,Of Family Imposture.,of Family Imposture.,0.05,0.3333333333333333,0.3333333333333333,071111002,gemini
+3,pretended mother was or was not privy to the Imposture.,pretended mother was or was not privy to the Imposture).,0.01818181818181818,0.1,0.1,071111002,gemini
+4,4. But if any one bring up a child begotten of a married Woman,4. But if any one bring up a child begotten of a married Woman,0.0,0.0,0.0,071111002,gemini
+5,"during the continuance of the marriage by and Adulterer, as if it","during the continuance of the marriage by an Adulterer, as if it",0.015384615384615385,0.08333333333333333,0.08333333333333333,071111002,gemini
+6,"were the child of the Husband, this is not Family Imposture.","were the child of the Husband, this is not Family Imposture.",0.0,0.0,0.0,071111002,gemini
+7,Punishment.,,1.0,1.0,1.0,071111002,gemini
+8,For Family Imposture the Punishment of an Impostor,Punishment.,0.8,1.0,1.0,071111002,gemini
+9,himself shall be as follows.,For Family Imposture the Punishment of an Impostor,1.3928571428571428,1.6,1.6,071111002,gemini
+10,1. He shall be punished ignominiously and afflictively with the,himself shall be as follows.,0.7619047619047619,0.8,0.8,071111002,gemini
+11,Impostor's Mask. See [Punishments],1. He shall be punished ignominiously and afflictively with the,1.588235294117647,2.5,2.5,071111002,gemini
+12,2. He shall be imprisoned or confined to hard Labour for Life.,Impostor's Mask. See [Punishments].,0.8548387096774194,1.0,1.0,071111002,gemini
+13,The Punishment of a Suborner shall be as follows:,,1.0,1.0,1.0,071111002,gemini
+14,1. He shall be ignominiously connected with an Impostor or the Effig-,2. He shall be imprisoned or confined to hard Labour for Life.,0.5652173913043478,0.75,0.6666666666666666,071111002,gemini
+15,-y of an Impostor.,(A),1.0,1.0,1.0,071111002,gemini
+16,2. He shall be imprisoned or confined to hard Labour for Life.,The Punishment of a Suborner shall be as follows:,0.7580645161290323,1.0,0.8333333333333334,071111002,gemini
+17,Exposition,1. He shall be ignominiously connected with an Impostor or the Effi-,6.3,12.0,12.0,071111002,gemini
+18,"[(A) Suborner] There may be a suborner of imposture, where there is no",gy of an Impostor.,0.8285714285714286,0.9230769230769231,0.9230769230769231,071111002,gemini
+19,impostor: the party falsely pretended to possess the character in question,2. He shall be imprisoned or confined to hard Labour for Life.,0.7432432432432432,1.0909090909090908,1.0,071111002,gemini
+20,not knowing but he is intitled to it; for instance in the case of a suppo=,,1.0,1.0,1.0,071111002,gemini
+21,:ssitious Child. Excuses,Exposition,0.875,1.0,1.0,071111002,gemini
+22,(A),"[A] Suborner.] There may be a suborner of imposture, where there is no",23.0,13.0,13.0,071111002,gemini
+23,C,impostor: the party falsely pretended to possess the character in question,74.0,11.0,11.0,071111002,gemini

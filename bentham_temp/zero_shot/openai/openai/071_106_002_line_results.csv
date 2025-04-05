@@ -1,0 +1,24 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,6.,C.,0.5,1.0,1.0,071_106_002,openai
+2,Of Polygamy.,of Polygamy.,0.08333333333333333,0.5,0.5,071_106_002,openai
+3,under the auspices of the Laws. She is to be regarded therefore,,1.0,1.0,1.0,071_106_002,openai
+4,on the footing of a Widow. In point of reason she ought not to,under the auspices of the Law. She is to be regarded therefore,0.7258064516129032,0.8571428571428571,0.7857142857142857,071_106_002,openai
+5,be regarded in a light in the least degree less favourable.,,1.0,1.0,1.0,071_106_002,openai
+6,But popular prejudice is seldom perfectly equitable to,on the footing of a Widow. In point of reason she ought not to,0.8703703703703703,1.625,1.625,071_106_002,openai
+7,misfortune.,,1.0,1.0,1.0,071_106_002,openai
+8,Next with regard to Sharping. It is not always that,be regarded in a light in the least degree less favourable.,0.9411764705882353,1.1,1.1,071_106_002,openai
+9,a Woman thus imposed upon suffers in her fortune. Perhaps,,1.0,1.0,1.0,071_106_002,openai
+10,she had none: the only bait that tempted the Offender was her,But popular prejudice is seldom perfectly equitable to,0.8360655737704918,1.0,1.0,071_106_002,openai
+11,"person. It is only in case of her having had a fortune, and",,1.0,1.0,1.0,071_106_002,openai
+12,"that fortune's having been dissipated by the Offender, that she",misfortune.,0.8888888888888888,1.0,1.0,071_106_002,openai
+13,"is a sufferer in this way. In the account of dissipation, so",,1.0,1.0,1.0,071_106_002,openai
+14,much as it is supposed she would have expended had she,Next with regard to Sharving. It is not always that,0.8518518518518519,1.0,0.9090909090909091,071_106_002,openai
+15,"remained single, must be deducted.",,1.0,1.0,1.0,071_106_002,openai
+16,Quest. 1. Why criminal consciousness on the part of the second,a Woman thus imposed upon suffers in her fortune. Perhaps,0.7419354838709677,1.0,1.0,071_106_002,openai
+17,Wife is made an Excuse in favour of the Man.,,1.0,1.0,1.0,071_106_002,openai
+18,Reasons.,she had none: the only bait that tempted the offender was her,7.0,12.0,12.0,071_106_002,openai
+19,"The great mischief lies in the deceit put upon the Woman,",,1.0,1.0,1.0,071_106_002,openai
+20,and the disappointment which is apt to be the consequence. But,"person. It is only in case of her having had a fortune, and",0.8064516129032258,1.1818181818181819,1.0,071_106_002,openai
+21,in this case there is no deceit nor disappointment. It is a joint,,1.0,1.0,1.0,071_106_002,openai
+22,contrivance,"that fortune having been dissipated by the offender, that she",5.0,10.0,10.0,071_106_002,openai
+23,C,,1.0,1.0,1.0,071_106_002,openai

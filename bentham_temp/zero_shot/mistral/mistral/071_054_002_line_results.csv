@@ -1,0 +1,8 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,46,C,1.0,1.0,1.0,071_054_002,mistral
+2,Theft Embezzlement and Fraudulent obtainment,,1.0,1.0,1.0,071_054_002,mistral
+3,there is no difference in the punishment. It will easily,Shaft Embarrassment and Fraudulent obtainment,0.7678571428571429,1.0,1.0,071_054_002,mistral
+4,therefore be censured that they will be apt to,,1.0,1.0,1.0,071_054_002,mistral
+5,that difficulty in proportion as the punishment is,There is no difference in the punishment voluntarily,0.72,0.75,0.5,071_054_002,mistral
+6,more severe,,1.0,1.0,1.0,071_054_002,mistral
+7,C,therefore to ensure that they will be apt to,44.0,9.0,9.0,071_054_002,mistral

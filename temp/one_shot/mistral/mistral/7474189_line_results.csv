@@ -1,0 +1,32 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,ſy nie me wüſſen den̄ von den ſtetten vnd landen die ſye,ſy nē me wiſſen den̄ von den ſteren vnd landen die ſyē,0.10714285714285714,0.3333333333333333,0.3333333333333333,7474189,mistral
+2,offt vn̄ dick bygeſchiffet vn̄ erfaren hatten/ Und als vns,off vn̄ dicht/ Eygeſchiffter vn̄ erfaren hātten/ Vn̄ als vn̄,0.1896551724137931,0.6,0.6,7474189,mistral
+3,an dem ende der egemelt wynckel eyn krūme erzoͤigt des,an dem ende der egemelē wyrtzel cyn frūme crzōgr dez,0.2222222222222222,0.6,0.6,7474189,mistral
+4,landſtaden gegen mittag wurden wür eyns ſolichs für¬,landſtaben gegen mittag wurdēn wir cyns ſolichē firs,0.1346153846153846,0.75,0.75,7474189,mistral
+5,faren vnd ze erkunden was in den ſelben groſſen landen,faren vnd ze erfunden waſ in den felſen groſſen landen,0.07407407407407407,0.3,0.3,7474189,mistral
+6,were/ Und ſchifften alſo nach dem ſtaden by Sechſhun,were/ Vn̄ ſchifften alſo nach dem ſtaben by ſechſhun,0.07692307692307693,0.3333333333333333,0.3333333333333333,7474189,mistral
+7,dert mylen wegs vnd zuͦm dickern̄ mal/ kamen wür vnd,dert mylen wegē vnd zūm dickerū mal/ Famen wir vn̄,0.15384615384615385,0.6,0.6,7474189,mistral
+8,giengen zelande beſprachtē vnd beredten wir vn̄ bewon,giengen zelande beſprachē vnd ſereden wir vn̄ ſeynōn,0.1320754716981132,0.375,0.375,7474189,mistral
+9,ten mit den inwonern̄ vnd lantſlüten der ſelben regionē,ten mit den inwonerē vnd lanffuſten der felſen regionē,0.14545454545454545,0.3333333333333333,0.3333333333333333,7474189,mistral
+10,vnd wurden guͤtlich vnd bruͤderlich von inen empfangē,vn̄ wurdēn girlich vn̄ baiſderlich von inen empfangē,0.16981132075471697,0.625,0.625,7474189,mistral
+11,vnd blyben etwan dick fünffzehen oder zweintzig tag by,vn̄ ſlyſſen erwan dich finffzehen oder zweintzig tag by,0.12962962962962962,0.5555555555555556,0.5555555555555556,7474189,mistral
+12,ienen ſtets vn̄ früntlich als liebe geſte mit ynen redende,ienē ſtēs vn̄ frūntlich als liebe geſtē mīnen redendē,0.1896551724137931,0.7,0.7,7474189,mistral
+13,als du harnach vermercken würſt/ ye doch ſo iſt diſer be,als ōn barnach vermerctēn wirft/ ye doch ſo if ūſer ſe,0.21428571428571427,0.6363636363636364,0.6363636363636364,7474189,mistral
+14,wonten lantſchafft teyl in der krummen ſchnuͦr Dorrida,wontēn landſchafft eylīn der frūmmer ſchūn/ Borūda,0.2777777777777778,0.875,0.875,7474189,mistral
+15,zona innerthalb der lynien equinoctialem gegē dē hymel,zona innerthalb der lynien equinoctialem geegē de bymel,0.05555555555555555,0.375,0.375,7474189,mistral
+16,gegent Antarticuſ den ſin anfang hept an im achtē grad,gegenē Anuarcticū den̄ ſin anfang hept an ūm achtē grad,0.12962962962962962,0.4,0.4,7474189,mistral
+17,über die equinoctial/ Nach diſem landſſtaden ſchiffeten,iber ſie equinoctial/ Vn̄ ſach diſem landſtaben ſchifferē,0.21818181818181817,0.8571428571428571,0.8571428571428571,7474189,mistral
+18,wir ſo lang das wir über vnd für fuͦren des Steinbocks,wir ſo lang daſ wir ūber vn̄ in ſīnen dez ſteinbōtz,0.2962962962962963,0.6363636363636364,0.6363636363636364,7474189,mistral
+19,Tropicum vnd funden den gegen ſibengeſtirnigen hy¬,Tropicum vn̄ funden den gegen ſibenſeitūrigen by,0.14,0.42857142857142855,0.42857142857142855,7474189,mistral
+20,mel den wir nemen den herwagen vnd zuͦ latin polus an,nēl den wir nemēn den herwagen vnd zū latin polus an,0.09433962264150944,0.2727272727272727,0.2727272727272727,7474189,mistral
+21,tarticus genampt wirt/ An dem ſelben irem hymels anſe,tarticus genempt wirft/ An dem felſen irem bymela anfe,0.1320754716981132,0.5555555555555556,0.5555555555555556,7474189,mistral
+22,hung im vmbkreiß oriſon genant den ſelben ieren hymel,hung in vmbkreiß an jon genant den felſen leren bymel,0.16981132075471697,0.6666666666666666,0.6666666666666666,7474189,mistral
+23,funden wir wol fünfftzig graden oder ſtaffel hoͤher/ Wir,fundēn wir wol finffzeig gradēn oder faffel hōber/ Wirē,0.19642857142857142,0.6666666666666666,0.6666666666666666,7474189,mistral
+24,waren ouch neher oder daby des Antarticis zirckel by,warēn ōch neher oder bōby dez Anuarcticūs suctēl by,0.2692307692307692,0.6666666666666666,0.6666666666666666,7474189,mistral
+25,Sibentzehen graden ſemis/ Was ich da geſehen vnd er¬,Sibenſehen gradēn ferma/ Waſ ich da geſehen vnd er,0.17307692307692307,0.5555555555555556,0.5555555555555556,7474189,mistral
+26,kent hab von natur vnd weſen der ſelben litten vnd von,fēr hab von natur vnd weſen der felſen lūten vnd von,0.14814814814814814,0.2727272727272727,0.2727272727272727,7474189,mistral
+27,ieren wiſſen vnnd ſytten gelichnikeit vnnd ſchicklikeytt,ieren wīſen vn̄ ſteren geleichnūſſē vn̄ ſchicklichēyt,0.3392857142857143,0.8571428571428571,0.8571428571428571,7474189,mistral
+28,von fruchtbarkeit des ertrichs vō heilſamikeyt des luffts,von fūchēhafftēit dez ertūchē vō heilfamkēyt dez lūftē,0.3333333333333333,0.75,0.75,7474189,mistral
+29,Uon geſtalt vnd ſchickung des hymels vnd der hymeli¬,Ton geſtalt vn̄ fūchtung dez bymela vn̄ der bymelē,0.2692307692307692,0.7777777777777778,0.7777777777777778,7474189,mistral
+30,ſchen liben/ Und allermeyſt von den vnbeweglichen ver,ſchen libēn/ Vn̄ allermēyſt von den vnbeweglichen vēr,0.09433962264150944,0.5,0.5,7474189,mistral
+31,hafften ſternen/ der achten ſpere ſo von vnßern vorfaren,hafften ſteren/ der achtēn ſpatē ſo von vnſerm vōfaren,0.16071428571428573,0.5555555555555556,0.5555555555555556,7474189,mistral

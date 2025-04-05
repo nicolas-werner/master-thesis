@@ -1,0 +1,32 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,ſy nie me wüſſen den̄ von den ſtetten vnd landen die ſye,ſy nit me wüſſen den̄ von den ſtetten vnd landen die ſye,0.017857142857142856,0.08333333333333333,0.08333333333333333,7474189,gemini
+2,offt vn̄ dick bygeſchiffet vn̄ erfaren hatten/ Und als vns,offt vn̄ dick bygeſchiffet vn̄ erfaren hatten/ Und als vns,0.0,0.0,0.0,7474189,gemini
+3,an dem ende der egemelt wynckel eyn krūme erzoͤigt des,an dem ende der egemelt wynckel eyn krūme erzoͤigt des,0.0,0.0,0.0,7474189,gemini
+4,landſtaden gegen mittag wurden wür eyns ſolichs für¬,landſtaden gegen mittag wurden wir eyns ſolichs für=,0.038461538461538464,0.25,0.25,7474189,gemini
+5,faren vnd ze erkunden was in den ſelben groſſen landen,faren vnd ze erkunden was in den ſelben groſſen landen,0.0,0.0,0.0,7474189,gemini
+6,were/ Und ſchifften alſo nach dem ſtaden by Sechſhun,were/ Und ſchifften alſo nach dem ſtaden by Sechſhun,0.0,0.0,0.0,7474189,gemini
+7,dert mylen wegs vnd zuͦm dickern̄ mal/ kamen wür vnd,dert mylen wegs vnd zuͦm dickern̄ mal/ kamen wūr vnd,0.019230769230769232,0.1,0.1,7474189,gemini
+8,giengen zelande beſprachtē vnd beredten wir vn̄ bewon,giengen zelande beſprachtē vnd beredten wir vn̄ bewon,0.0,0.0,0.0,7474189,gemini
+9,ten mit den inwonern̄ vnd lantſlüten der ſelben regionē,ten mit den inwonern̄ vnd lantſlūten der ſelben regionē,0.01818181818181818,0.1111111111111111,0.1111111111111111,7474189,gemini
+10,vnd wurden guͤtlich vnd bruͤderlich von inen empfangē,vnd wurden gütlich vnd brüderlich von inen empfangē,0.07547169811320754,0.25,0.25,7474189,gemini
+11,vnd blyben etwan dick fünffzehen oder zweintzig tag by,vnd blyben etwan dick fünffzehen oder zweintzig tag by,0.0,0.0,0.0,7474189,gemini
+12,ienen ſtets vn̄ früntlich als liebe geſte mit ynen redende,ienen ſtets vn̄ frūntlich als liebe geſte mit ynen redende,0.017241379310344827,0.1,0.1,7474189,gemini
+13,als du harnach vermercken würſt/ ye doch ſo iſt diſer be,als du harnach vermercken würſt/ ye doch ſo iſt diſer be,0.0,0.0,0.0,7474189,gemini
+14,wonten lantſchafft teyl in der krummen ſchnuͦr Dorrida,wonten lantſchafft teyl in der krummen ſchnür Sorrida,0.05555555555555555,0.25,0.25,7474189,gemini
+15,zona innerthalb der lynien equinoctialem gegē dē hymel,zona innerhalb der lynien equinoctialem gege de hymel,0.05555555555555555,0.375,0.375,7474189,gemini
+16,gegent Antarticuſ den ſin anfang hept an im achtē grad,gegent Antarticus den ſin anfang hept an im achte grad,0.037037037037037035,0.2,0.2,7474189,gemini
+17,über die equinoctial/ Nach diſem landſſtaden ſchiffeten,über die equinoctial/ Nach diſem landſſtaden ſchiffeten,0.0,0.0,0.0,7474189,gemini
+18,wir ſo lang das wir über vnd für fuͦren des Steinbocks,wir ſo lang das wir über vnd für fiͦren des Steinbocks,0.018518518518518517,0.09090909090909091,0.09090909090909091,7474189,gemini
+19,Tropicum vnd funden den gegen ſibengeſtirnigen hy¬,Tropicum vnd funden den gegen ſibengeſtirnigen hy=,0.02,0.14285714285714285,0.14285714285714285,7474189,gemini
+20,mel den wir nemen den herwagen vnd zuͦ latin polus an,mel den wir nemen den herwagen vnd zuͦ latin polus an,0.0,0.0,0.0,7474189,gemini
+21,tarticus genampt wirt/ An dem ſelben irem hymels anſe,tarticus genampt wirt/ An dem ſelben item hymels anſe,0.018867924528301886,0.1111111111111111,0.1111111111111111,7474189,gemini
+22,hung im vmbkreiß oriſon genant den ſelben ieren hymel,chung im vmbkreiß oriſon genant den ſelben ieren hymel,0.018867924528301886,0.1111111111111111,0.1111111111111111,7474189,gemini
+23,funden wir wol fünfftzig graden oder ſtaffel hoͤher/ Wir,funden wir wol fünfftzig graden oder ſtaffel hoͤher/ Wir,0.0,0.0,0.0,7474189,gemini
+24,waren ouch neher oder daby des Antarticis zirckel by,waren ouch neher oder daby des Antartiens zirckel by,0.038461538461538464,0.1111111111111111,0.1111111111111111,7474189,gemini
+25,Sibentzehen graden ſemis/ Was ich da geſehen vnd er¬,Sibenzehen graden ſemis/ Was ich da geſehen vnd er=,0.038461538461538464,0.2222222222222222,0.2222222222222222,7474189,gemini
+26,kent hab von natur vnd weſen der ſelben litten vnd von,kent hab von natur vnd weſen der ſelben litten vnd von,0.0,0.0,0.0,7474189,gemini
+27,ieren wiſſen vnnd ſytten gelichnikeit vnnd ſchicklikeytt,ieren wiſen vnnd ſytten gelichnikeit vnnnd ſchicklikeytt,0.03571428571428571,0.2857142857142857,0.2857142857142857,7474189,gemini
+28,von fruchtbarkeit des ertrichs vō heilſamikeyt des luffts,von fruchtbarkeit des ertrichs vō heilſamikeyt des luffts,0.0,0.0,0.0,7474189,gemini
+29,Uon geſtalt vnd ſchickung des hymels vnd der hymeli¬,Von geſtalt vnd ſchickung des hymels vnd der hymeli=,0.038461538461538464,0.2222222222222222,0.2222222222222222,7474189,gemini
+30,ſchen liben/ Und allermeyſt von den vnbeweglichen ver,ſchen liben/ Und allermeyſt von den vnbeweglichen ver,0.0,0.0,0.0,7474189,gemini
+31,hafften ſternen/ der achten ſpere ſo von vnßern vorfaren,hafften ſternen/der achten ſpere ſo von vnſern vorfaren,0.03571428571428571,0.3333333333333333,0.3333333333333333,7474189,gemini

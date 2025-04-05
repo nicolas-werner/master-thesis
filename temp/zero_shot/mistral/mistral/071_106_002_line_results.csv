@@ -1,0 +1,24 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,6.,Of Polygamy.,5.5,2.0,2.0,071_106_002,mistral
+2,Of Polygamy.,,1.0,1.0,1.0,071_106_002,mistral
+3,under the auspices of the Laws. She is to be regarded therefore,under the auspices of the State. She is to be regarded therefore,0.06349206349206349,0.08333333333333333,0.08333333333333333,071_106_002,mistral
+4,on the footing of a Widow. In point of reason she ought not to,"on the footing of a Widow. In point of reason, she ought not to",0.016129032258064516,0.07142857142857142,0.07142857142857142,071_106_002,mistral
+5,be regarded in a light in the least degree less favourable.,be regarded in a light in the least degree less favourable.,0.0,0.0,0.0,071_106_002,mistral
+6,But popular prejudice is seldom perfectly equitable to,But popular prejudice is seldom perfectly equitable to,0.0,0.0,0.0,071_106_002,mistral
+7,misfortune.,misfortune.,0.0,0.0,0.0,071_106_002,mistral
+8,Next with regard to Sharping. It is not always that,,1.0,1.0,1.0,071_106_002,mistral
+9,a Woman thus imposed upon suffers in her fortune. Perhaps,Next with regard to sharping. It is not always that,0.7894736842105263,1.0,1.0,071_106_002,mistral
+10,she had none: the only bait that tempted the Offender was her,a Woman thus confided in suffers in her fortune. Perhaps,0.7704918032786885,1.0,0.9166666666666666,071_106_002,mistral
+11,"person. It is only in case of her having had a fortune, and",she had none: the only loss that befell her was her,0.7796610169491526,0.9230769230769231,0.7692307692307693,071_106_002,mistral
+12,"that fortune's having been dissipated by the Offender, that she","honour. It is only in case of her having had a fortune, and",0.8253968253968254,1.3,1.2,071_106_002,mistral
+13,"is a sufferer in this way. In the account of dissipation, so","that fortune having been dissipated by the Sharper, that she",0.85,0.9166666666666666,0.9166666666666666,071_106_002,mistral
+14,much as it is supposed she would have expended had she,"is a sufferer in this way. In the amount of dissipation, so",0.8518518518518519,1.0909090909090908,1.0,071_106_002,mistral
+15,"remained single, must be deducted.","much, as it is conceived, she would have confided had she",1.2647058823529411,2.2,2.2,071_106_002,mistral
+16,Quest. 1. Why criminal consciousness on the part of the second,"remained single, must be deducted.",0.7903225806451613,1.0,1.0,071_106_002,mistral
+17,Wife is made an Excuse in favour of the Man.,,1.0,1.0,1.0,071_106_002,mistral
+18,Reasons.,Sect. 4. My criminal censure falls in the first of the second,7.0,12.0,12.0,071_106_002,mistral
+19,"The great mischief lies in the deceit put upon the Woman,",life is made an offence in favour of the Man,0.6666666666666666,0.9090909090909091,0.8181818181818182,071_106_002,mistral
+20,and the disappointment which is apt to be the consequence. But,,1.0,1.0,1.0,071_106_002,mistral
+21,in this case there is no deceit nor disappointment. It is a joint,Reserved.,0.9076923076923077,1.0,1.0,071_106_002,mistral
+22,contrivance,,1.0,1.0,1.0,071_106_002,mistral
+23,C,"The great mischief lies on the direct foot upon the Woman,",58.0,11.0,11.0,071_106_002,mistral

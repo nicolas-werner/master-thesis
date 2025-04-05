@@ -1,0 +1,24 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,17 5,Of simple Mercantile Defraudment,7.75,2.0,2.0,071157001,transkribus
+2,Of Simple Merchantile Defraudment,more advantage than it were to be wished it had over indi,1.3636363636363635,3.0,3.0,071157001,transkribus
+3,more advantages than it were to be wished it had over indi:,:gent merit: and an artificial arrangement of this sort would,0.864406779661017,1.0,1.0,071157001,transkribus
+4,:gent merit: and an artificial arrangement of this sort would,add to the natural incitements which verge a man from all,0.8032786885245902,1.1,1.1,071157001,transkribus
+5,add to the natural incitements which urge a man from all,quarters to seek the acquirement of wealth by dishonesly,0.7857142857142857,0.9090909090909091,0.8181818181818182,071157001,transkribus
+6,quarters to seek the acquirement of wealth by dishonesty,and other unworthy means. As to the affections of the peo=­,0.875,1.1111111111111112,0.8888888888888888,071157001,transkribus
+7,and other unworthy means. As to the affections of the peo:,"-:ple, sool K;olings, and oppresive a preference given to the",0.8793103448275862,0.9090909090909091,0.7272727272727273,071157001,transkribus
+8,less numerous class over the more numerous will na:,less numerous class over the more numerous will na:,0.0,0.0,0.0,071157001,transkribus
+9,real: for a man in responsible circumstances may probably,:turally be but ill relished by the latter.,0.7894736842105263,1.0,1.0,071157001,transkribus
+10,in point of fact suffer as much by being deprived of part,"The difference, it is true, is rather apparent than",0.8070175438596491,1.0,1.0,071157001,transkribus
+11,"of his property, considering the share of reputation that",real: for a man iniesponsible circumstances may probably,0.8596491228070176,1.0,1.0,071157001,transkribus
+12,"goes along with it, as a man in irresponsible circumstances",in point of fact suffer as much by being deprived of part,0.847457627118644,1.1,1.0,071157001,transkribus
+13,:nishment: and if both were to undergo the same corporal,"of his property, nousidering the share of reputation that",0.8392857142857143,1.0,0.9,071157001,transkribus
+14,"punishment, the punishment, that is the suffering, though","goes along with it, as a man in irresponsible circumstances",0.8596491228070176,1.25,1.25,071157001,transkribus
+15,":ter.] But this distinction , however real, is too subtle to be gene:",would be by being made to undergo a severe corporal pu:,0.7971014492753623,1.0,0.8461538461538461,071157001,transkribus
+16,"The difference, it is true, is rather apparent than",­:nishment: and if both were to undergo the same corporal,0.8823529411764706,1.1111111111111112,1.1111111111111112,071157001,transkribus
+17,would be by being made to undergo a severe corporal pu:,"punishment, the punishment, that is the suffering, though",0.8909090909090909,1.0,1.0,071157001,transkribus
+18,nominally [the same ] would in reality be much greater to the lat:,very much the reverse.,0.803030303030303,0.8461538461538461,0.8461538461538461,071157001,transkribus
+19,:rally,equal,0.8333333333333334,1.0,1.0,071157001,transkribus
+20,":ple, so striking and oppressive a preference given to the",nominally [the same] would in reality be [much greater to the lat,0.8275862068965517,1.0,1.0,071157001,transkribus
+21,:turally be but ill relished by the latter.,":ter.] But this distinction, however real, is too subtle to be gene:",1.1627906976744187,1.5,1.375,071157001,transkribus
+22,"equal, very much the reverse.",=rally,0.896551724137931,1.0,1.0,071157001,transkribus
+23,C,171,3.0,1.0,1.0,071157001,transkribus
