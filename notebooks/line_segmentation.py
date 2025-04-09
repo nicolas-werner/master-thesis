@@ -81,7 +81,7 @@ def _():
                     x, y = map(int, point.split(','))
                     points.append((x, y))
 
-                # Get line ID and custom information 
+                # Get line ID and custom information
                 line_id = line.get('id', '')
                 custom = line.get('custom', '')
 
@@ -363,8 +363,8 @@ def _(
 
                 # Process the files using the temporary file paths
                 annotated_image, lines, line_images, original_image = visualize_line_segmentation(
-                    temp_img_path, 
-                    temp_xml_path, 
+                    temp_img_path,
+                    temp_xml_path,
                     show_text=show_text.value,
                     show_ids=show_ids.value
                 )
@@ -472,13 +472,13 @@ def _(mo):
 
     # Path input fields
     input_path = mo.ui.text(
-        label="Input folder path", 
+        label="Input folder path",
         placeholder="Path to folder with JPG files and page/ subfolder",
         value="./train_set"
     )
 
     output_path = mo.ui.text(
-        label="Output folder path", 
+        label="Output folder path",
         placeholder="Path to save line images",
         value="./output"
     )
@@ -577,7 +577,7 @@ def _(ET, Image, ImageDraw, glob, mo, os, re):
                     x, y = map(int, point.split(','))
                     points.append((x, y))
 
-                # Get line ID and custom information 
+                # Get line ID and custom information
                 line_id = line.get('id', '')
                 custom = line.get('custom', '')
 

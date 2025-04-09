@@ -1722,7 +1722,7 @@ def _():
     #             # First, load OpenAI two-shot results for this document
     #             openai_transcription = ""
     #             openai_results_path = f"temp/two_shot/openai/{doc_id}_transcription.txt"
-            
+
     #             if os.path.exists(openai_results_path):
     #                 with open(openai_results_path, 'r', encoding='utf-8') as f:
     #                     openai_transcription = f.read()
@@ -1734,7 +1734,7 @@ def _():
     #                     doc_id,
     #                     'results/linear_transcription/reichenau_inkunabeln/transkribus_10_test'
     #                 )
-            
+
 
     #             # Encode target image
     #             image_base64 = encode_image(image_path)
@@ -1796,7 +1796,7 @@ def _():
     #                     ]
     #                 }
     #             ]
-            
+
 
     #         two_shot_hybrid_results = run_evaluation(
     #             provider_models=provider_models,
@@ -1878,8 +1878,8 @@ def _(create_cross_method_comparison, mo, os, pd, transkribus_df):
         "one_shot",
         "two_shot",
         "hybrid_zero_shot",
-        "one_shot_hybrid_enhanced",  
-        "two_shot_hybrid_enhanced"  
+        "one_shot_hybrid_enhanced",
+        "two_shot_hybrid_enhanced"
     ]
 
     # Load results for each evaluation type

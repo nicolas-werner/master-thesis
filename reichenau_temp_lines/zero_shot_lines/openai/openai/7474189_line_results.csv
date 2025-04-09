@@ -7,8 +7,8 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 6,"were, Und schifften also nach dem staden by Sechshun",were/ Und schifften also nach dem staden by Sechßtun,0.057692307692307696,0.2222222222222222,0.2222222222222222,7474189,openai
 7,dert mylen wegs vnd zuͤm dickern mal/ kamen wijr vnd,der mylen wegs vnd zim dickern mal/ kamen wir vnd,0.07692307692307693,0.3,0.3,7474189,openai
 8,giengen zelande besprachten vnd beredten wir vn bewon,giengen zelande besprachᵗe vnd bereden wir vñ bevon,0.09433962264150944,0.5,0.5,7474189,openai
-9,ten mit den inwonern vnd lantsluten der selben regionen,"giengen zelande bespräche vnd bedeckande vnd re-  
-ten mit den inwohnern vnd lantstütten der selben regionē  
+9,ten mit den inwonern vnd lantsluten der selben regionen,"giengen zelande bespräche vnd bedeckande vnd re-
+ten mit den inwohnern vnd lantstütten der selben regionē
 denen sie daselbst vnd besidulich von jnen empfienge",1.981818181818182,2.0,2.0,7474189,openai
 10,vnd wurden guͤtlich vnd bruͤderlich von inen empfangen,vnd wurden gůnlich vnd brůderlich von inen empsange,0.12962962962962962,0.375,0.375,7474189,openai
 11,vnd blyben etwan dick funffzehen oder zweintzig tag by,vnd blyben erwan die fünffzehen oder zwen̄zig tag,0.16666666666666666,0.5555555555555556,0.5555555555555556,7474189,openai
@@ -16,8 +16,8 @@ denen sie daselbst vnd besidulich von jnen empfienge",1.981818181818182,2.0,2.0,
 13,als du harnach vermercken würst/ ye doch so ist diser be,als du harnach vermercten würst/ye doch so ist diser þe,0.05357142857142857,0.36363636363636365,0.36363636363636365,7474189,openai
 14,wonten lantschafft teyl in der krummen schnuͤr Sorrida,wonten lanſſchafft teyl in der trummen ſchnur Dorida,0.12962962962962962,0.5,0.5,7474189,openai
 15,sona innerthalb der lanien equinoctialem gege de hymel,zona innerthalb der lynien equinoctialem gegẽ de hymel,0.05555555555555555,0.375,0.375,7474189,openai
-16,gegent Antarticus den sin anfang hept an im achte grad,"zona innerthalb der syben equinoctialem linÿ. vnd  
-gegent Anarcticus deñ sin anfang hept an im achte grad  
+16,gegent Antarticus den sin anfang hept an im achte grad,"zona innerthalb der syben equinoctialem linÿ. vnd
+gegent Anarcticus deñ sin anfang hept an im achte grad
 abẽ die equinoctial. Nach disen landstaden schiffeten",2.0555555555555554,1.6,1.6,7474189,openai
 17,über die equinoctial / Nach disem landsstaden schiffeten,"gegen America/ oder vmb zwanzig oder dreißig
 über die equinoctial/ Nach diesem landßtaden schiffeten",0.875,1.375,1.25,7474189,openai

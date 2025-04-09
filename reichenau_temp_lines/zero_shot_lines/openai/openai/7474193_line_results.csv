@@ -2,7 +2,7 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 1,geile vn begirig sind/ so legten sy alle zucht vnd scham von,geile vñ begirig sind / so legten sy alle zucht vnd scham vö,0.06666666666666667,0.3333333333333333,0.3333333333333333,7474193,openai
 2,in zuͤ volbungung boͤser dingen/ Sy leben wol hundertt,in zů volbringung böſer dingen/ Sy leben wol hundertt,0.12962962962962962,0.3333333333333333,0.3333333333333333,7474193,openai
 3,vn funffzig iar vnd werden selten kranck/ End ob sy et¬,vn fünffzig iar vnd werden selten tranck/Und ob sy er,0.10909090909090909,0.36363636363636365,0.36363636363636365,7474193,openai
-4,wen in kranckheit fallen so heilen sy sich selbst mit ettlithen,"vn fünffzig vnd dreyßig jahren vnd Ehre vnd fryͤde  
+4,wen in kranckheit fallen so heilen sy sich selbst mit ettlithen,"vn fünffzig vnd dreyßig jahren vnd Ehre vnd fryͤde
 wen in kranckheit fallen so heilen sy sich selbs mit ertliche",0.9047619047619048,1.0,1.0,7474193,openai
 5,"wurtzen der kreüter, Diß sind die fürmercklichsten dinge",wurtzen der kreüter/ Diss sind die fürmercklichſten ding,0.08928571428571429,0.5,0.5,7474193,openai
 6,die ich by innen gesehen vnd erkant hab / der lufft ist an,die ich by innen gesehen vnd erkant hab/ Der lufft ist an,0.034482758620689655,0.23076923076923078,0.23076923076923078,7474193,openai
