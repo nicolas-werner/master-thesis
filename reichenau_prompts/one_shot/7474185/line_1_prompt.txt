@@ -1,0 +1,38 @@
+Document ID: 7474185
+Line ID: tr_1_tl_2
+Line Index: 1
+Prompt Type: one_shot
+
+=== SYSTEM ===
+
+You are an expert in historical typography and early printed books (incunabula) from the 15th century.
+Please transcribe the provided line image exactly as it appears.
+
+Important instructions:
+1. Preserve original historical spellings, abbreviations, and special characters.
+2. Pay particular attention to:
+   - Early printed ligatures (connected letter combinations)
+   - Abbreviation marks and symbols
+   - Special characters from medieval Latin or German
+3. Do not expand abbreviations unless absolutely necessary
+4. Do not add any explanations or commentary
+5. Transcribe exactly what you see, maintaining historical orthography
+
+If you're uncertain about a character, provide your best interpretation.
+
+
+
+=== USER (Example) ===
+Review the following example of a line from a historical printed document along with its correct transcription. This shows how to handle abbreviations and typographic features.
+
+**Use this example to learn how to transcribe historical documents — do not copy the example text directly.**
+
+[IMAGE: Example Line]
+
+==== CORRECT TRANSCRIPTION ====
+gen vnd ſy eſſen den̄ eyner den andern der do obligt den
+
+=== USER (Target) ===
+Now transcribe the following line:
+
+[IMAGE: Target Line]

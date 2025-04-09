@@ -849,7 +849,7 @@ def _(mo):
     transkribus_df = evaluate_transkribus(
         ground_truth_dir='data/bentham_10_test/ground_truth_renamed',
         transkribus_dir='results/linear_transcription/bentham_papers/transkribus_10_test_renamed',
-        output_dir='bentham_temp',
+        output_dir='bentham_temp_lines',
         save_transcriptions=False
     )
 
@@ -926,7 +926,8 @@ def _(mo):
     provider_models = {
         "openai": "gpt-4o",
         "gemini": "gemini-2.0-flash",
-        "mistral": "pixtral-large-latest"
+        # "mistral": "pixtral-large-latest",
+
     }
 
     limit_docs = 10
@@ -949,8 +950,8 @@ def _(mo):
 
 @app.cell
 def _(mo):
-    from src.evaluation import run_evaluation, get_transkribus_text
-    from src.file_utils import encode_image
+    from src.evaluation import run_evaluation, get_transkribus_text, run_line_evaluation, process_page_by_lines
+    from src.file_utils import encode_image, encode_image_object
     import time
 
     zero_shot_run_button = mo.ui.run_button(
@@ -967,8 +968,11 @@ def _(mo):
     ])
     return (
         encode_image,
+        encode_image_object,
         get_transkribus_text,
+        process_page_by_lines,
         run_evaluation,
+        run_line_evaluation,
         time,
         zero_shot_run_button,
     )
@@ -976,54 +980,53 @@ def _(mo):
 
 @app.cell
 def _(
-    encode_image,
+    encode_image_object,
     limit_docs,
     provider_models,
-    run_evaluation,
-    zero_shot_run_button,
+    run_line_evaluation,
+    system_prompt,
 ):
-    from src.evaluation import process_document_by_lines
+    def create_zero_shot_line_messages(doc_id, line_id, line_image, line_idx):
+        # Encode the line image
+        line_image_base64 = encode_image_object(line_image)
 
-    if zero_shot_run_button.value:
+        return [
+            {"role": "system", "content": system_prompt.value},
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image_url",
+                        "image_url": {"url": f"data:image/jpeg;base64,{line_image_base64}"}
+                    }
+                ]
+            }
+        ]
 
-        def create_zero_shot_line_messages(line_image_path):
-            """Create messages for a single line image"""
-            image_base64 = encode_image(line_image_path)
-
-            return [
-                {
-                    "role": "user",
-                    "content": [
-                        {
-                            "type": "image_url",
-                            "image_url": {"url": f"data:image/jpeg;base64,{image_base64}"}
-                        }
-                    ]
-                }
-            ]
-
-        # Run line-based evaluation
-        zero_shot_results = run_evaluation(
-            provider_models=provider_models,
-            gt_dir='data/bentham_10_test/ground_truth_renamed',
-            image_dir='data/bentham_10_test/images_small',
-            base_output_dir='bentham_temp_lines',
-            create_messages=create_zero_shot_line_messages,
-            eval_type='zero_shot_lines',
-            limit=limit_docs,
-            process_document_func=process_document_by_lines
-        )
-    return (
-        create_zero_shot_line_messages,
-        process_document_by_lines,
-        zero_shot_results,
+    # Run the line-based evaluation
+    zero_shot_line_results = run_line_evaluation(
+        provider_models=provider_models,
+        gt_dir='data/bentham_10_test/ground_truth_renamed',
+        image_dir='data/bentham_10_test/images_renamed',
+        transkribus_dir='results/linear_transcription/bentham_papers/transkribus_10_test_renamed',
+        base_output_dir='bentham_temp_lines',
+        create_line_messages=create_zero_shot_line_messages,
+        eval_type='zero_shot_lines',
+        limit=limit_docs
     )
+    return create_zero_shot_line_messages, zero_shot_line_results
 
 
 @app.cell
-def _(display_comparison_stats, mo, pd, transkribus_df, zero_shot_results):
-    zero_shot_stats_display, zero_shot_eval = display_comparison_stats(zero_shot_results, transkribus_df, mo, pd, provider_suffix="_zero-shot")
-    mo.vstack([zero_shot_stats_display, zero_shot_results.get("provider_results")])
+def _(
+    display_comparison_stats,
+    mo,
+    pd,
+    transkribus_df,
+    zero_shot_line_results,
+):
+    zero_shot_stats_display, zero_shot_eval = display_comparison_stats(zero_shot_line_results, transkribus_df, mo, pd, provider_suffix="_zero-shot")
+    mo.vstack([zero_shot_stats_display, zero_shot_line_results.get("provider_results")])
     return zero_shot_eval, zero_shot_stats_display
 
 
@@ -1056,64 +1059,80 @@ def _(mo):
 
 @app.cell
 def _(
-    encode_image,
-    get_transkribus_text,
+    encode_image_object,
     limit_docs,
     provider_models,
-    run_evaluation,
+    run_line_evaluation,
     system_prompt,
     zero_shot_hybrid_run_button,
 ):
-    from src.file_utils import find_file_for_id
+    from src.file_utils import find_file_for_id, extract_line_coords_from_xml
 
     if zero_shot_hybrid_run_button.value:
-        def create_hybrid_messages(doc_id, image_path):
-            # Get the Transkribus text for this document
-            transkribus_text, transkribus_lines = get_transkribus_text(
-                doc_id,
-                'results/linear_transcription/bentham_papers/transkribus_10_test_renamed'
+        def create_hybrid_line_messages(doc_id, line_id, line_image, line_idx):
+            # First, get Transkribus file path for this document
+            transkribus_path = find_file_for_id(
+                doc_id, 
+                'results/linear_transcription/bentham_papers/transkribus_10_test_renamed',
+                ['.xml']
             )
 
-            # Encode image
-            image_base64 = encode_image(image_path)
+            # Get the line text from Transkribus for this specific line
+            transkribus_line_text = ""
+            if transkribus_path:
+                # Extract all lines with their IDs from Transkribus XML
+                transkribus_lines = extract_line_coords_from_xml(transkribus_path)
 
-            # Create messages with Transkribus output as reference
+                # Find the matching line by index (line_idx should match the position)
+                if line_idx < len(transkribus_lines):
+                    transkribus_line_text = transkribus_lines[line_idx].get('text', '')
+
+            # Encode the line image
+            line_image_base64 = encode_image_object(line_image)
+
+            # Create messages with Transkribus line output as reference
             return [
                 {"role": "system", "content": system_prompt.value},
                 {
                     "role": "user",
                     "content": [
-                        {"type": "text", "text": f"The following is the output of a traditional OCR model from Transkribus. It is fine-tuned on historic handwritten texts. It can help you transcribe the following page, but may also contain errors:\n\n{transkribus_text}"},
                         {
                             "type": "image_url",
-                            "image_url": {"url": f"data:image/jpeg;base64,{image_base64}"}
-                        }
+                            "image_url": {"url": f"data:image/jpeg;base64,{line_image_base64}"}
+                        },
+                        {"type": "text", "text": f"The following is the output of a traditional OCR model (Transkribus) for this line. It can help with your transcription, but may contain errors:\n\n\"{transkribus_line_text}\""},
                     ]
                 }
             ]
 
-        hybrid_zero_shot_results = run_evaluation(
+        hybrid_zero_shot_line_results = run_line_evaluation(
             provider_models=provider_models,
             gt_dir='data/bentham_10_test/ground_truth_renamed',
             image_dir='data/bentham_10_test/images_renamed',
-            base_output_dir='bentham_temp',
-            create_messages=create_hybrid_messages,
-            eval_type='hybrid_zero_shot',
+            transkribus_dir='results/linear_transcription/bentham_papers/transkribus_10_test_renamed',
+            base_output_dir='bentham_temp_lines',
+            create_line_messages=create_hybrid_line_messages,
+            eval_type='hybrid_zero_shot_lines',
             limit=limit_docs
         )
-    return create_hybrid_messages, find_file_for_id, hybrid_zero_shot_results
+    return (
+        create_hybrid_line_messages,
+        extract_line_coords_from_xml,
+        find_file_for_id,
+        hybrid_zero_shot_line_results,
+    )
 
 
 @app.cell
 def _(
     display_comparison_stats,
-    hybrid_zero_shot_results,
+    hybrid_zero_shot_line_results,
     mo,
     pd,
     transkribus_df,
 ):
-    hybrid_zero_shot_stats_display, hybrid_zero_shot_eval = display_comparison_stats(hybrid_zero_shot_results, transkribus_df, mo, pd, provider_suffix="_hybrid_zero-shot")
-    mo.vstack([hybrid_zero_shot_stats_display, hybrid_zero_shot_results.get("provider_results")])
+    hybrid_zero_shot_stats_display, hybrid_zero_shot_eval = display_comparison_stats(hybrid_zero_shot_line_results, transkribus_df, mo, pd, provider_suffix="_hybrid_zero-shot")
+    mo.vstack([hybrid_zero_shot_stats_display, hybrid_zero_shot_line_results.get("provider_results")])
     return hybrid_zero_shot_eval, hybrid_zero_shot_stats_display
 
 
@@ -1146,97 +1165,132 @@ def _(mo):
 
 @app.cell
 def _(
-    encode_image,
-    get_example_content,
+    encode_image_object,
+    extract_text_from_xml,
     limit_docs,
     one_shot_run_button,
+    os,
+    process_page_by_lines,
     provider_models,
-    run_evaluation,
+    run_line_evaluation,
     system_prompt,
 ):
     if one_shot_run_button.value:
-        one_shot_example = get_example_content(num_examples=1)
-
-        if one_shot_example["success"]:
-            print("✅ Using example from dedicated example folder for one-shot learning")
-
-            # Get example image and ground truth
-            one_shot_example_image_base64 = encode_image(one_shot_example["image_path"])
-            one_shot_example_text = one_shot_example["text"]
-
-            def create_one_shot_messages(doc_id, image_path):
-                # Encode target image
-                image_base64 = encode_image(image_path)
-
-                # Create messages with example and target document
-                return [
-                    {
-                        "role": "system",
-                        "content": system_prompt.value
-                    },
-                    {
-                        "role": "user",
-                        "content": [
+        # Manually construct the example with the correct paths
+        example_img_path = 'data/bentham_10_test/few-shot-samples/116649001.jpg'
+        example_xml_path = 'data/bentham_10_test/few-shot-samples/transkribus/0102_116649001.xml'
+    
+        # Check if the files exist
+        if os.path.exists(example_img_path) and os.path.exists(example_xml_path):
+            print("✅ Using examples from dedicated example folder for one-shot learning")
+        
+            # Extract text from ground truth
+            gt_lines = extract_text_from_xml(example_xml_path)
+            gt_text = "\n".join(gt_lines) if gt_lines else ""
+        
+            if gt_text:
+                # Extract lines from the example page
+                os1_line_data = process_page_by_lines(example_img_path, example_xml_path)
+            
+                # Use the first line as our example
+                if os1_line_data['lines'] and len(os1_line_data['lines']) > 0:
+                    os1_line = os1_line_data['lines'][0]
+                    os1_line_image = os1_line['image']
+                    os1_line_text = os1_line['text']
+                
+                    # Encode the example line image
+                    os1_line_image_base64 = encode_image_object(os1_line_image)
+                
+                    def create_one_shot_line_messages(doc_id, line_id, line_image, line_idx):
+                        # Encode the target line image
+                        line_image_base64 = encode_image_object(line_image)
+                    
+                        # Create messages with example line and target line
+                        return [
                             {
-                                "type": "text",
-                                "text": "Review the following example of a historical handwritten page along with its correct transcription. This shows how to handle line breaks, abbreviations, and typographic features.\n\n**Use this example to learn how to transcribe historical documents — do not copy the example text directly.**"
+                                "role": "system",
+                                "content": system_prompt.value
                             },
                             {
-                                "type": "image_url",
-                                "image_url": {"url": f"data:image/jpeg;base64,{one_shot_example_image_base64}"}
+                                "role": "user",
+                                "content": [
+                                    {
+                                        "type": "text",
+                                        "text": "Review the following example of a line from a historical handwritten document along with its correct transcription. This shows how to handle abbreviations and typographic features.\n\n**Use this example to learn how to transcribe historical documents — do not copy the example text directly.**"
+                                    },
+                                    {
+                                        "type": "image_url",
+                                        "image_url": {"url": f"data:image/jpeg;base64,{os1_line_image_base64}"}
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": f"==== CORRECT TRANSCRIPTION ====\n{os1_line_text}"
+                                    }
+                                ]
                             },
                             {
-                                "type": "text",
-                                "text": f"==== CORRECT TRANSCRIPTION ====\n{one_shot_example_text}"
+                                "role": "user",
+                                "content": [
+                                    {
+                                        "type": "text",
+                                        "text": "Now transcribe the following line:"
+                                    },
+                                    {
+                                        "type": "image_url",
+                                        "image_url": {"url": f"data:image/jpeg;base64,{line_image_base64}"}
+                                    }
+                                ]
                             }
                         ]
-                    },
-                    {
-                        "role": "user",
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "Now transcribe the following page:"
-                            },
-                            {
-                                "type": "image_url",
-                                "image_url": {"url": f"data:image/jpeg;base64,{image_base64}"}
-                            }
-                        ]
-                    }
-                ]
-
-            one_shot_results = run_evaluation(
-                provider_models=provider_models,
-                gt_dir='data/bentham_10_test/ground_truth_renamed',
-                image_dir='data/bentham_10_test/images_small',
-                base_output_dir='bentham_temp',
-                create_messages=create_one_shot_messages,
-                eval_type='one_shot',
-                limit=limit_docs
-            )
+                
+                    one_shot_line_results = run_line_evaluation(
+                        provider_models=provider_models,
+                        gt_dir='data/bentham_10_test/ground_truth_renamed',
+                        image_dir='data/bentham_10_test/images_renamed',
+                        transkribus_dir='results/linear_transcription/bentham_papers/transkribus_10_test_renamed',
+                        base_output_dir='bentham_temp_lines',
+                        create_line_messages=create_one_shot_line_messages,
+                        eval_type='one_shot_lines',
+                        limit=limit_docs
+                    )
+                else:
+                    print("⚠️ Could not extract lines from the example page")
+                    one_shot_line_results = None
+            else:
+                print("⚠️ Could not extract text from the example XML")
+                one_shot_line_results = None
         else:
-            print("⚠️ Could not load the example for one-shot learning")
-            one_shot_results = None
+            print(f"⚠️ Could not find example files:")
+            if not os.path.exists(example_img_path):
+                print(f" - Missing image: {example_img_path}")
+            if not os.path.exists(example_xml_path):
+                print(f" - Missing XML: {example_xml_path}")
+            one_shot_line_results = None
     return (
-        create_one_shot_messages,
-        one_shot_example,
-        one_shot_example_image_base64,
-        one_shot_example_text,
-        one_shot_results,
+        create_one_shot_line_messages,
+        example_img_path,
+        example_xml_path,
+        gt_lines,
+        gt_text,
+        one_shot_line_results,
+        os1_line,
+        os1_line_data,
+        os1_line_image,
+        os1_line_image_base64,
+        os1_line_text,
     )
 
 
 @app.cell
-def _(display_comparison_stats, mo, one_shot_results, pd, transkribus_df):
+def _(display_comparison_stats, mo, one_shot_line_results, pd, transkribus_df):
     one_shot_stats_display, one_shot_eval = display_comparison_stats(
-                one_shot_results,
+                one_shot_line_results,
                 transkribus_df,
                 mo,
                 pd,
                 provider_suffix="_one_shot"
             )
-    mo.vstack([one_shot_stats_display, one_shot_results.get("provider_results")])
+    mo.vstack([one_shot_stats_display, one_shot_line_results.get("provider_results")])
     return one_shot_eval, one_shot_stats_display
 
 
@@ -1269,48 +1323,70 @@ def _(mo):
 
 @app.cell
 def _(
-    encode_image,
-    get_example_content,
-    get_transkribus_text,
+    encode_image_object,
+    example_img_path,
+    example_xml_path,
+    extract_line_coords_from_xml,
+    find_file_for_id,
     limit_docs,
     one_shot_hybrid_run_button,
     os,
+    process_page_by_lines,
     provider_models,
-    run_evaluation,
+    run_line_evaluation,
     system_prompt,
 ):
     if one_shot_hybrid_run_button.value:
-        example = get_example_content(num_examples=1)
-
-        if example["success"]:
-            print("✅ Using example from dedicated example folder for one-shot learning")
-
-            # Get example image and ground truth
-            example_image_base64 = encode_image(example["image_path"])
-            example_text = example["text"]
-
-            # Get Transkribus transcription for the example
-            example_doc_id = os.path.splitext(os.path.basename(example["image_path"]))[0]
-            example_transkribus_text, _ = get_transkribus_text(
-                example_doc_id,
-                'data/bentham_10_test/few-shot-samples/transkribus'
-            )
-
-            if not example_transkribus_text:
-                example_transkribus_text = "[No Transkribus transcription available for this example]"
-                print(f"⚠️ No Transkribus transcription found for example {example_doc_id}")
-
-            def create_one_shot_hybrid_messages(doc_id, image_path):
-                transkribus_text, _ = get_transkribus_text(
-                    doc_id,
-                    'results/linear_transcription/bentham_papers/transkribus_10_test_renamed'
-                )
-
-                # Encode target image
-                image_base64 = encode_image(image_path)
-
-                # Create messages with example (including Transkribus output) and target document
-                return [
+        # Manually construct the example with the correct paths
+        # example_img_path = 'data/bentham_10_test/few-shot-samples/116649001.jpg'
+        # example_xml_path = 'data/bentham_10_test/few-shot-samples/transkribus/0102_116649001.xml'
+        example_doc_id = '116649001'  # Extract from filename
+    
+        # Check if the files exist
+        if os.path.exists(example_img_path) and os.path.exists(example_xml_path):
+            print("✅ Using examples from dedicated example folder for one-shot hybrid learning")
+        
+            # Process the example page to extract line images
+            osh_line_data = process_page_by_lines(example_img_path, example_xml_path)
+        
+            # Use the first line as our example
+            if osh_line_data['lines'] and len(osh_line_data['lines']) > 0:
+                osh_line = osh_line_data['lines'][0]
+                osh_line_image = osh_line['image']
+                osh_line_text = osh_line['text']
+            
+                # Get Transkribus text for this line
+                osh_transkribus_lines = extract_line_coords_from_xml(example_xml_path)
+                osh_line_transkribus_text = ""
+                if osh_transkribus_lines and len(osh_transkribus_lines) > 0:
+                    osh_line_transkribus_text = osh_transkribus_lines[0].get('text', '')
+            
+                if not osh_line_transkribus_text:
+                    osh_line_transkribus_text = "[No Transkribus transcription available for this example]"
+                    print(f"⚠️ No Transkribus transcription found for example line")
+            
+                # Encode the example line image
+                osh_line_image_base64 = encode_image_object(osh_line_image)
+            
+                def create_one_shot_hybrid_line_messages(doc_id, line_id, line_image, line_idx):
+                    # Find Transkribus text for this specific line
+                    transkribus_path = find_file_for_id(
+                        doc_id,
+                        'results/linear_transcription/bentham_papers/transkribus_10_test_renamed',
+                        ['.xml']
+                    )
+                
+                    transkribus_line_text = ""
+                    if transkribus_path:
+                        transkribus_lines = extract_line_coords_from_xml(transkribus_path)
+                        if line_idx < len(transkribus_lines):
+                            transkribus_line_text = transkribus_lines[line_idx].get('text', '')
+                
+                    # Encode target line image
+                    line_image_base64 = encode_image_object(line_image)
+                
+                    # Create messages with same structure as original code
+                    return [
                         {
                             "role": "system",
                             "content": system_prompt.value
@@ -1320,15 +1396,15 @@ def _(
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Review the following example of a historical handwritten page. It includes both:\n\n(1) A raw OCR transcription from Transkribus\n(2) The correct, line-by-line ground truth transcription\n\nThis shows how to improve upon the OCR output, preserve line breaks, and handle abbreviations or typographic features.\n\n**Use this example to learn how to improve OCR transcriptions — do not copy the example text directly.**"
+                                    "text": "Review the following example of a historical handwritten line. It includes both:\n\n(1) A raw OCR transcription from Transkribus\n(2) The correct ground truth transcription\n\nThis shows how to improve upon the OCR output and handle abbreviations or typographic features.\n\n**Use this example to learn how to improve OCR transcriptions — do not copy the example text directly.**"
                                 },
                                 {
                                     "type": "image_url",
-                                    "image_url": {"url": f"data:image/jpeg;base64,{example_image_base64}"}
+                                    "image_url": {"url": f"data:image/jpeg;base64,{osh_line_image_base64}"}
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{example_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{example_text}"
+                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{osh_line_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{osh_line_text}"
                                 }
                             ]
                         },
@@ -1337,42 +1413,51 @@ def _(
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Now transcribe the following page:"
+                                    "text": "Now transcribe the following line:"
                                 },
                                 {
                                     "type": "image_url",
-                                    "image_url": {"url": f"data:image/jpeg;base64,{image_base64}"}
+                                    "image_url": {"url": f"data:image/jpeg;base64,{line_image_base64}"}
                                 },
                                 {
-                                "type": "text",
-                                    "text": f"The following is the output of a traditional OCR model from Transkribus. It is fine-tuned on historic handwritten texts. It can help you transcribe the following page, but may also contain errors:\n\n{transkribus_text}"}
-
+                                    "type": "text",
+                                    "text": f"The following is the output of a traditional OCR model from Transkribus. It is fine-tuned on historic handwritten texts. It can help you transcribe this line, but may also contain errors:\n\n{transkribus_line_text}"
+                                }
                             ]
                         }
                     ]
-
-
-
-            one_shot_hybrid_results = run_evaluation(
-                provider_models=provider_models,
-                gt_dir='data/bentham_10_test/ground_truth_renamed',
-                image_dir='data/bentham_10_test/images_small',
-                base_output_dir='bentham_temp',
-                create_messages=create_one_shot_hybrid_messages,
-                eval_type='one_shot_hybrid_enhanced',
-                limit=limit_docs
-            )
+            
+                one_shot_hybrid_line_results = run_line_evaluation(
+                    provider_models=provider_models,
+                    gt_dir='data/bentham_10_test/ground_truth_renamed',
+                    image_dir='data/bentham_10_test/images_renamed',
+                    transkribus_dir='results/linear_transcription/bentham_papers/transkribus_10_test_renamed',
+                    base_output_dir='bentham_temp_lines',
+                    create_line_messages=create_one_shot_hybrid_line_messages,
+                    eval_type='one_shot_hybrid_lines',
+                    limit=limit_docs
+                )
+            else:
+                print("⚠️ Could not extract lines from the example page")
+                one_shot_hybrid_line_results = None
         else:
-            print("⚠️ Could not load the example for one-shot learning")
-            one_shot_hybrid_results = None
+            print(f"⚠️ Could not find example files:")
+            if not os.path.exists(example_img_path):
+                print(f" - Missing image: {example_img_path}")
+            if not os.path.exists(example_xml_path):
+                print(f" - Missing XML: {example_xml_path}")
+            one_shot_hybrid_line_results = None
     return (
-        create_one_shot_hybrid_messages,
-        example,
+        create_one_shot_hybrid_line_messages,
         example_doc_id,
-        example_image_base64,
-        example_text,
-        example_transkribus_text,
-        one_shot_hybrid_results,
+        one_shot_hybrid_line_results,
+        osh_line,
+        osh_line_data,
+        osh_line_image,
+        osh_line_image_base64,
+        osh_line_text,
+        osh_line_transkribus_text,
+        osh_transkribus_lines,
     )
 
 
@@ -1380,18 +1465,18 @@ def _(
 def _(
     display_comparison_stats,
     mo,
-    one_shot_hybrid_results,
+    one_shot_hybrid_line_results,
     pd,
     transkribus_df,
 ):
     one_shot_hybrid_stats_display, one_shot_hybrid_eval = display_comparison_stats(
-                one_shot_hybrid_results,
+                one_shot_hybrid_line_results,
                 transkribus_df,
                 mo,
                 pd,
                 provider_suffix="_one_shot_hybrid"
             )
-    mo.vstack([one_shot_hybrid_stats_display, one_shot_hybrid_results.get("provider_results")])
+    mo.vstack([one_shot_hybrid_stats_display, one_shot_hybrid_line_results.get("provider_results")])
     return one_shot_hybrid_eval, one_shot_hybrid_stats_display
 
 
@@ -1418,123 +1503,178 @@ def _(mo):
 
 @app.cell
 def _(
-    encode_image,
-    get_example_content,
+    encode_image_object,
     limit_docs,
+    os,
+    process_page_by_lines,
     provider_models,
-    run_evaluation,
+    run_line_evaluation,
     system_prompt,
     two_shot_run_button,
 ):
     if two_shot_run_button.value:
-        # Get example content for two-shot learning
-        two_shot_examples_data = get_example_content(num_examples=2)
-
-        if two_shot_examples_data["success"]:
-            print("✅ Using examples from dedicated example folder for two-shot learning")
-            two_shot_examples = two_shot_examples_data["examples"]
-
-            # Get first example image and ground truth
-            two_shot_example1_image_base64 = encode_image(two_shot_examples[0]["image_path"])
-            two_shot_example1_text = two_shot_examples[0]["text"]
-
-            # Get second example image and ground truth
-            two_shot_example2_image_base64 = encode_image(two_shot_examples[1]["image_path"])
-            two_shot_example2_text = two_shot_examples[1]["text"]
-
-            def create_two_shot_messages(doc_id, image_path):
-                # Encode target image
-                image_base64 = encode_image(image_path)
-
-                # Create messages with both examples and target document
-                return [
-                    {
-                        "role": "system",
-                        "content": system_prompt.value
-                    },
-                    {
-                        "role": "user",
-                        "content": [
+        # Manually construct the examples with the correct paths
+        ts_example1_img_path = 'data/bentham_10_test/few-shot-samples/116649001.jpg'
+        ts_example1_xml_path = 'data/bentham_10_test/few-shot-samples/transkribus/0102_116649001.xml'
+    
+        ts_example2_img_path = 'data/bentham_10_test/few-shot-samples/116643002.jpg'
+        ts_example2_xml_path = 'data/bentham_10_test/few-shot-samples/transkribus/0101_116643002.xml'
+    
+        # Check if the files exist
+        files_exist = os.path.exists(ts_example1_img_path) and os.path.exists(ts_example1_xml_path) and \
+                     os.path.exists(ts_example2_img_path) and os.path.exists(ts_example2_xml_path)
+    
+        if files_exist:
+            print("✅ Using examples from dedicated example folder for two-shot line learning")
+        
+            # Process both example pages to extract lines
+            ts_example1_line_data = process_page_by_lines(ts_example1_img_path, ts_example1_xml_path)
+            ts_example2_line_data = process_page_by_lines(ts_example2_img_path, ts_example2_xml_path)
+        
+            # Verify we have lines from both examples
+            if (ts_example1_line_data['lines'] and len(ts_example1_line_data['lines']) > 0 and
+                ts_example2_line_data['lines'] and len(ts_example2_line_data['lines']) > 0):
+            
+                # Get first line from first example
+                ts_example1_line = ts_example1_line_data['lines'][0]
+                ts_example1_line_image = ts_example1_line['image']
+                ts_example1_line_text = ts_example1_line['text']
+            
+                # Get first line from second example
+                ts_example2_line = ts_example2_line_data['lines'][0]
+                ts_example2_line_image = ts_example2_line['image']
+                ts_example2_line_text = ts_example2_line['text']
+            
+                # Encode line images
+                ts_example1_line_image_base64 = encode_image_object(ts_example1_line_image)
+                ts_example2_line_image_base64 = encode_image_object(ts_example2_line_image)
+            
+                # Create a closure with the examples captured
+                def create_message_function(example1_image_base64, example1_text, example2_image_base64, example2_text):
+                    def create_two_shot_line_messages(doc_id, line_id, line_image, line_idx):
+                        # Encode target line image
+                        line_image_base64 = encode_image_object(line_image)
+                    
+                        # Create messages with both example lines and target line
+                        return [
                             {
-                                "type": "text",
-                                "text": "Review the following examples of a historical handwritten page along with its correct transcription. This shows how to handle line breaks, abbreviations, and typographic features.\n\n**Use these examples to learn how to transcribe historical documents — do not copy the example text directly.**"
+                                "role": "system",
+                                "content": system_prompt.value
                             },
                             {
-                                "type": "image_url",
-                                "image_url": {"url": f"data:image/jpeg;base64,{two_shot_example1_image_base64}"}
+                                "role": "user",
+                                "content": [
+                                    {
+                                        "type": "text",
+                                        "text": "Review the following examples of historical handwritten lines along with their correct transcriptions. This shows how to handle abbreviations and typographic features.\n\n**Use these examples to learn how to transcribe historical documents — do not copy the example text directly.**"
+                                    },
+                                    {
+                                        "type": "image_url",
+                                        "image_url": {"url": f"data:image/jpeg;base64,{example1_image_base64}"}
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": f"==== CORRECT TRANSCRIPTION ====\n{example1_text}"
+                                    }
+                                ]
                             },
                             {
-                                "type": "text",
-                                "text": f"==== CORRECT TRANSCRIPTION ====\n{two_shot_example1_text}"
+                                "role": "user",
+                                "content": [
+                                    {
+                                        "type": "text",
+                                        "text": "Here's a second example of a historical handwritten line along with its correct transcription:"
+                                    },
+                                    {
+                                        "type": "image_url",
+                                        "image_url": {"url": f"data:image/jpeg;base64,{example2_image_base64}"}
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": f"==== CORRECT TRANSCRIPTION ====\n{example2_text}"
+                                    }
+                                ]
+                            },
+                            {
+                                "role": "user",
+                                "content": [
+                                    {
+                                        "type": "text",
+                                        "text": "Now transcribe the following line:"
+                                    },
+                                    {
+                                        "type": "image_url",
+                                        "image_url": {"url": f"data:image/jpeg;base64,{line_image_base64}"}
+                                    }
+                                ]
                             }
                         ]
-                    },
-                    {
-                        "role": "user",
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "Here's a second example of a historical handwritten page along with its correct transcription:"
-                            },
-                            {
-                                "type": "image_url",
-                                "image_url": {"url": f"data:image/jpeg;base64,{two_shot_example2_image_base64}"}
-                            },
-                            {
-                                "type": "text",
-                                "text": f"==== CORRECT TRANSCRIPTION ====\n{two_shot_example2_text}"
-                            }
-                        ]
-                    },
-                    {
-                        "role": "user",
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "Now transcribe the following page:"
-                            },
-                            {
-                                "type": "image_url",
-                                "image_url": {"url": f"data:image/jpeg;base64,{image_base64}"}
-                            }
-                        ]
-                    }
-                ]
-
-            two_shot_results = run_evaluation(
-                provider_models=provider_models,
-                gt_dir='data/bentham_10_test/ground_truth_renamed',
-                image_dir='data/bentham_10_test/images_small',
-                base_output_dir='bentham_temp',
-                create_messages=create_two_shot_messages,
-                eval_type='two_shot',
-                limit=limit_docs
-            )
+                    return create_two_shot_line_messages
+            
+                # Create the function with captured examples
+                message_creator = create_message_function(
+                    ts_example1_line_image_base64, 
+                    ts_example1_line_text,
+                    ts_example2_line_image_base64, 
+                    ts_example2_line_text
+                )
+            
+                two_shot_line_results = run_line_evaluation(
+                    provider_models=provider_models,
+                    gt_dir='data/bentham_10_test/ground_truth_renamed',
+                    image_dir='data/bentham_10_test/images_renamed',
+                    transkribus_dir='results/linear_transcription/bentham_papers/transkribus_10_test_renamed',
+                    base_output_dir='bentham_temp_lines',
+                    create_line_messages=message_creator,
+                    eval_type='two_shot_lines',
+                    limit=limit_docs
+                )
+            else:
+                print("⚠️ Could not extract lines from one or both example pages")
+                two_shot_line_results = None
         else:
-            print("⚠️ Could not load both examples for two-shot learning")
-            two_shot_results = None
+            print(f"⚠️ Could not find all example files:")
+            if not os.path.exists(ts_example1_img_path):
+                print(f" - Missing image 1: {ts_example1_img_path}")
+            if not os.path.exists(ts_example1_xml_path):
+                print(f" - Missing XML 1: {ts_example1_xml_path}")
+            if not os.path.exists(ts_example2_img_path):
+                print(f" - Missing image 2: {ts_example2_img_path}")
+            if not os.path.exists(ts_example2_xml_path):
+                print(f" - Missing XML 2: {ts_example2_xml_path}")
+            two_shot_line_results = None
     return (
-        create_two_shot_messages,
-        two_shot_example1_image_base64,
-        two_shot_example1_text,
-        two_shot_example2_image_base64,
-        two_shot_example2_text,
-        two_shot_examples,
-        two_shot_examples_data,
-        two_shot_results,
+        create_message_function,
+        files_exist,
+        message_creator,
+        ts_example1_img_path,
+        ts_example1_line,
+        ts_example1_line_data,
+        ts_example1_line_image,
+        ts_example1_line_image_base64,
+        ts_example1_line_text,
+        ts_example1_xml_path,
+        ts_example2_img_path,
+        ts_example2_line,
+        ts_example2_line_data,
+        ts_example2_line_image,
+        ts_example2_line_image_base64,
+        ts_example2_line_text,
+        ts_example2_xml_path,
+        two_shot_line_results,
     )
 
 
 @app.cell
-def _(display_comparison_stats, mo, pd, transkribus_df, two_shot_results):
+def _(display_comparison_stats, mo, pd, transkribus_df, two_shot_line_results):
     two_shot_stats_display, two_shot_eval = display_comparison_stats(
-                two_shot_results,
+                two_shot_line_results,
                 transkribus_df,
                 mo,
                 pd,
                 provider_suffix="_two_shot"
             )
-    mo.vstack([two_shot_stats_display, two_shot_results.get("provider_results")])
+    mo.vstack([two_shot_stats_display, two_shot_line_results.get("provider_results")])
     return two_shot_eval, two_shot_stats_display
 
 
@@ -1567,63 +1707,95 @@ def _(mo):
 
 @app.cell
 def _(
-    encode_image,
-    get_example_content,
-    get_transkribus_text,
+    encode_image_object,
+    extract_line_coords_from_xml,
+    files_exist,
+    find_file_for_id,
     limit_docs,
     os,
+    process_page_by_lines,
     provider_models,
-    run_evaluation,
+    run_line_evaluation,
     system_prompt,
     two_shot_hybrid_run_button,
 ):
     if two_shot_hybrid_run_button.value:
-            examples_data = get_example_content(num_examples=2)
-
-            if examples_data["success"]:
-                print("✅ Using examples from dedicated example folder for two-shot learning")
-                examples = examples_data["examples"]
-
-                # Get first example image and ground truth
-                example1_image_base64 = encode_image(examples[0]["image_path"])
-                example1_text = examples[0]["text"]
-
-                # Get Transkribus transcription for the first example
-                example1_doc_id = os.path.splitext(os.path.basename(examples[0]["image_path"]))[0]
-                example1_transkribus_text, _ = get_transkribus_text(
-                    example1_doc_id,
-                    'data/bentham_10_test/few-shot-samples/transkribus'
-                )
-
-                if not example1_transkribus_text:
-                    example1_transkribus_text = "[No Transkribus transcription available for this example]"
-                    print(f"⚠️ No Transkribus transcription found for example {example1_doc_id}")
-
-                # Get second example image and ground truth
-                example2_image_base64 = encode_image(examples[1]["image_path"])
-                example2_text = examples[1]["text"]
-
-                # Get Transkribus transcription for the second example
-                example2_doc_id = os.path.splitext(os.path.basename(examples[1]["image_path"]))[0]
-                example2_transkribus_text, _ = get_transkribus_text(
-                    example2_doc_id,
-                    'data/bentham_10_test/few-shot-samples/transkribus'
-                )
-
-                if not example2_transkribus_text:
-                    example2_transkribus_text = "[No Transkribus transcription available for this example]"
-                    print(f"⚠️ No Transkribus transcription found for example {example2_doc_id}")
-
-                def create_two_shot_hybrid_messages(doc_id, image_path):
-                    transkribus_text, _ = get_transkribus_text(
+        # Manually construct the examples with the correct paths
+        tsh_example1_img_path = 'data/bentham_10_test/few-shot-samples/116649001.jpg'
+        tsh_example1_xml_path = 'data/bentham_10_test/few-shot-samples/transkribus/0102_116649001.xml'
+        tsh_example1_doc_id = '116649001'
+    
+        tsh_example2_img_path = 'data/bentham_10_test/few-shot-samples/116643002.jpg'
+        tsh_example2_xml_path = 'data/bentham_10_test/few-shot-samples/transkribus/0101_116643002.xml'
+        tsh_example2_doc_id = '116643002'
+    
+        # Check if the files exist
+        # files_exist = os.path.exists(tsh_example1_img_path) and os.path.exists(tsh_example1_xml_path) and \
+        #               os.path.exists(tsh_example2_img_path) and os.path.exists(tsh_example2_xml_path)
+    
+        if files_exist:
+            print("✅ Using examples from dedicated example folder for two-shot hybrid line learning")
+        
+            # Process both example pages to extract lines
+            tsh_example1_line_data = process_page_by_lines(tsh_example1_img_path, tsh_example1_xml_path)
+            tsh_example2_line_data = process_page_by_lines(tsh_example2_img_path, tsh_example2_xml_path)
+        
+            # Verify we have lines from both examples
+            if (tsh_example1_line_data['lines'] and len(tsh_example1_line_data['lines']) > 0 and
+                tsh_example2_line_data['lines'] and len(tsh_example2_line_data['lines']) > 0):
+            
+                # Get first line from first example
+                tsh_example1_line = tsh_example1_line_data['lines'][0]
+                tsh_example1_line_image = tsh_example1_line['image']
+                tsh_example1_line_text = tsh_example1_line['text']
+            
+                # Get first line from second example
+                tsh_example2_line = tsh_example2_line_data['lines'][0]
+                tsh_example2_line_image = tsh_example2_line['image']
+                tsh_example2_line_text = tsh_example2_line['text']
+            
+                # Get Transkribus text for first example line
+                tsh_example1_transkribus_lines = extract_line_coords_from_xml(tsh_example1_xml_path)
+                tsh_example1_line_transkribus_text = ""
+                if tsh_example1_transkribus_lines and len(tsh_example1_transkribus_lines) > 0:
+                    tsh_example1_line_transkribus_text = tsh_example1_transkribus_lines[0].get('text', '')
+            
+                if not tsh_example1_line_transkribus_text:
+                    tsh_example1_line_transkribus_text = "[No Transkribus transcription available for this example]"
+                    print(f"⚠️ No Transkribus transcription found for example 1 line")
+            
+                # Get Transkribus text for second example line
+                tsh_example2_transkribus_lines = extract_line_coords_from_xml(tsh_example2_xml_path)
+                tsh_example2_line_transkribus_text = ""
+                if tsh_example2_transkribus_lines and len(tsh_example2_transkribus_lines) > 0:
+                    tsh_example2_line_transkribus_text = tsh_example2_transkribus_lines[0].get('text', '')
+            
+                if not tsh_example2_line_transkribus_text:
+                    tsh_example2_line_transkribus_text = "[No Transkribus transcription available for this example]"
+                    print(f"⚠️ No Transkribus transcription found for example 2 line")
+            
+                # Encode line images
+                tsh_example1_line_image_base64 = encode_image_object(tsh_example1_line_image)
+                tsh_example2_line_image_base64 = encode_image_object(tsh_example2_line_image)
+            
+                def create_two_shot_hybrid_line_messages(doc_id, line_id, line_image, line_idx):
+                    # Find Transkribus text for this specific line
+                    transkribus_path = find_file_for_id(
                         doc_id,
-                        'results/linear_transcription/bentham_papers/transkribus_10_test_renamed'
+                        'results/linear_transcription/bentham_papers/transkribus_10_test_renamed',
+                        ['.xml']
                     )
-
-                    # Encode target image
-                    image_base64 = encode_image(image_path)
-
-                    # Create messages with both examples and target document
+                
+                    transkribus_line_text = ""
+                    if transkribus_path:
+                        transkribus_lines = extract_line_coords_from_xml(transkribus_path)
+                        if line_idx < len(transkribus_lines):
+                            transkribus_line_text = transkribus_lines[line_idx].get('text', '')
+                
+                    # Encode target line image
+                    line_image_base64 = encode_image_object(line_image)
+                
+                    # Create messages with both example lines and target line
                     return [
                         {
                             "role": "system",
@@ -1634,15 +1806,15 @@ def _(
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Review the following examplea of a historical handwritten page. It includes both:\n\n(1) A raw OCR transcription from Transkribus\n(2) The correct, line-by-line ground truth transcription\n\nThis shows how to improve upon the OCR output, preserve line breaks, and handle abbreviations or typographic features.\n\n**Use these examples to learn how to improve OCR transcriptions — do not copy the example text directly.**"
+                                    "text": "Review the following example of a historical handwritten line. It includes both:\n\n(1) A raw OCR transcription from Transkribus\n(2) The correct ground truth transcription\n\nThis shows how to improve upon the OCR output and handle abbreviations or typographic features.\n\n**Use these examples to learn how to improve OCR transcriptions — do not copy the example text directly.**"
                                 },
                                 {
                                     "type": "image_url",
-                                    "image_url": {"url": f"data:image/jpeg;base64,{example1_image_base64}"}
+                                    "image_url": {"url": f"data:image/jpeg;base64,{tsh_example1_line_image_base64}"}
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{example1_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{example1_text}"
+                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{tsh_example1_line_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{tsh_example1_line_text}"
                                 }
                             ]
                         },
@@ -1651,15 +1823,15 @@ def _(
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Here's a second example of a historical printed page along with its correct transcription:"
+                                    "text": "Here's a second example of a historical handwritten line along with its correct transcription:"
                                 },
                                 {
                                     "type": "image_url",
-                                    "image_url": {"url": f"data:image/jpeg;base64,{example2_image_base64}"}
+                                    "image_url": {"url": f"data:image/jpeg;base64,{tsh_example2_line_image_base64}"}
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{example2_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{example2_text}"
+                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{tsh_example2_line_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{tsh_example2_line_text}"
                                 }
                             ]
                         },
@@ -1668,45 +1840,67 @@ def _(
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Now transcribe the following page:"
+                                    "text": "Now transcribe the following line:"
                                 },
                                 {
                                     "type": "image_url",
-                                    "image_url": {"url": f"data:image/jpeg;base64,{image_base64}"}
+                                    "image_url": {"url": f"data:image/jpeg;base64,{line_image_base64}"}
                                 },
                                 {
-                                "type": "text",
-                                    "text": f"The following is the output of a traditional OCR model from Transkribus. It is fine-tuned on historic handwritten texts. It can help you transcribe the following page, but may also contain errors:\n\n{transkribus_text}"}
-
+                                    "type": "text",
+                                    "text": f"The following is the output of a traditional OCR model from Transkribus. It is fine-tuned on historic handwritten texts. It can help you transcribe this line, but may also contain errors:\n\n{transkribus_line_text}"
+                                }
                             ]
                         }
                     ]
-
-                two_shot_hybrid_results = run_evaluation(
+            
+                two_shot_hybrid_line_results = run_line_evaluation(
                     provider_models=provider_models,
                     gt_dir='data/bentham_10_test/ground_truth_renamed',
-                    image_dir='data/bentham_10_test/images_small',
-                    base_output_dir='bentham_temp',
-                    create_messages=create_two_shot_hybrid_messages,
-                    eval_type='two_shot_hybrid_enhanced',
+                    image_dir='data/bentham_10_test/images_renamed',
+                    transkribus_dir='results/linear_transcription/bentham_papers/transkribus_10_test_renamed',
+                    base_output_dir='bentham_temp_lines',
+                    create_line_messages=create_two_shot_hybrid_line_messages,
+                    eval_type='two_shot_hybrid_lines',
                     limit=limit_docs
                 )
             else:
-                print("⚠️ Could not load both examples for two-shot learning")
-                two_shot_hybrid_results = None
+                print("⚠️ Could not extract lines from one or both example pages")
+                two_shot_hybrid_line_results = None
+        else:
+            print(f"⚠️ Could not find all example files:")
+            if not os.path.exists(tsh_example1_img_path):
+                print(f" - Missing image 1: {tsh_example1_img_path}")
+            if not os.path.exists(tsh_example1_xml_path):
+                print(f" - Missing XML 1: {tsh_example1_xml_path}")
+            if not os.path.exists(tsh_example2_img_path):
+                print(f" - Missing image 2: {tsh_example2_img_path}")
+            if not os.path.exists(tsh_example2_xml_path):
+                print(f" - Missing XML 2: {tsh_example2_xml_path}")
+            two_shot_hybrid_line_results = None
     return (
-        create_two_shot_hybrid_messages,
-        example1_doc_id,
-        example1_image_base64,
-        example1_text,
-        example1_transkribus_text,
-        example2_doc_id,
-        example2_image_base64,
-        example2_text,
-        example2_transkribus_text,
-        examples,
-        examples_data,
-        two_shot_hybrid_results,
+        create_two_shot_hybrid_line_messages,
+        tsh_example1_doc_id,
+        tsh_example1_img_path,
+        tsh_example1_line,
+        tsh_example1_line_data,
+        tsh_example1_line_image,
+        tsh_example1_line_image_base64,
+        tsh_example1_line_text,
+        tsh_example1_line_transkribus_text,
+        tsh_example1_transkribus_lines,
+        tsh_example1_xml_path,
+        tsh_example2_doc_id,
+        tsh_example2_img_path,
+        tsh_example2_line,
+        tsh_example2_line_data,
+        tsh_example2_line_image,
+        tsh_example2_line_image_base64,
+        tsh_example2_line_text,
+        tsh_example2_line_transkribus_text,
+        tsh_example2_transkribus_lines,
+        tsh_example2_xml_path,
+        two_shot_hybrid_line_results,
     )
 
 
@@ -1716,16 +1910,16 @@ def _(
     mo,
     pd,
     transkribus_df,
-    two_shot_hybrid_results,
+    two_shot_hybrid_line_results,
 ):
     two_shot_hybrid_stats_display, two_shot_hybrid_eval = display_comparison_stats(
-                two_shot_hybrid_results,
+                two_shot_hybrid_line_results,
                 transkribus_df,
                 mo,
                 pd,
                 provider_suffix="_two_shot_hybrid"
             )
-    mo.vstack([two_shot_hybrid_stats_display, two_shot_hybrid_results.get("provider_results")])
+    mo.vstack([two_shot_hybrid_stats_display, two_shot_hybrid_line_results.get("provider_results")])
     return two_shot_hybrid_eval, two_shot_hybrid_stats_display
 
 
@@ -1746,7 +1940,7 @@ def _(create_cross_method_comparison, mo, os, pd, transkribus_df):
 
     def load_results_from_temp(eval_type):
         """Load results for a specific evaluation type from temp folder"""
-        comparison_path = f"temp/{eval_type}_comparison.json"
+        comparison_path = f"bentham_temp_lines/{eval_type}_comparison.json"
         if not os.path.exists(comparison_path):
             return None
 
@@ -1760,7 +1954,7 @@ def _(create_cross_method_comparison, mo, os, pd, transkribus_df):
             if provider == "transkribus":
                 continue
 
-            provider_results_path = f"temp/{eval_type}/{provider}/{provider}_all_results.csv"
+            provider_results_path = f"bentham_temp_lines/{eval_type}/{provider}/{provider}_all_results.csv"
             if os.path.exists(provider_results_path):
                 provider_results[provider] = pd.read_csv(provider_results_path)
 
@@ -1771,12 +1965,12 @@ def _(create_cross_method_comparison, mo, os, pd, transkribus_df):
 
     # Define evaluation types to load
     eval_types = [
-        "zero_shot",
-        "one_shot",
-        "two_shot",
+        "zero_shot_lines",
+        "one_shot_lines",
+        "two_shot_lines",
         "hybrid_zero_shot",
-        "one_shot_hybrid_enhanced",  # Note the naming difference from your variable
-        "two_shot_hybrid_enhanced"   # Note the naming difference from your variable
+        "one_shot_hybrid_lines",  
+        "two_shot_hybrid_lines"
     ]
 
     # Load results for each evaluation type
@@ -1785,10 +1979,10 @@ def _(create_cross_method_comparison, mo, os, pd, transkribus_df):
         results = load_results_from_temp(eval_type)
         if results and results["provider_results"]:
             # Map the file naming to the variable naming used in your code
-            if eval_type == "one_shot_hybrid_enhanced":
-                all_methods_results["one_shot_hybrid"] = results
-            elif eval_type == "two_shot_hybrid_enhanced":
-                all_methods_results["two_shot_hybrid"] = results
+            if eval_type == "one_shot_hybrid_lines":
+                all_methods_results["one_shot_hybrid_lines"] = results
+            elif eval_type == "two_shot_hybrid_lines":
+                all_methods_results["two_shot_hybrid_lines"] = results
             else:
                 all_methods_results[eval_type] = results
 

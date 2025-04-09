@@ -1,0 +1,34 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,geile vn begirig sind/ so legten sy alle zucht vnd scham von,geile vñ begirig sind / so legten sy alle zucht vnd scham vö,0.06666666666666667,0.3333333333333333,0.3333333333333333,7474193,openai
+2,in zuͤ volbungung boͤser dingen/ Sy leben wol hundertt,in zů volbringung böſer dingen/ Sy leben wol hundertt,0.12962962962962962,0.3333333333333333,0.3333333333333333,7474193,openai
+3,vn funffzig iar vnd werden selten kranck/ End ob sy et¬,vn fünffzig iar vnd werden selten tranck/Und ob sy er,0.10909090909090909,0.36363636363636365,0.36363636363636365,7474193,openai
+4,wen in kranckheit fallen so heilen sy sich selbst mit ettlithen,"vn fünffzig vnd dreyßig jahren vnd Ehre vnd fryͤde  
+wen in kranckheit fallen so heilen sy sich selbs mit ertliche",0.9047619047619048,1.0,1.0,7474193,openai
+5,"wurtzen der kreüter, Diß sind die fürmercklichsten dinge",wurtzen der kreüter/ Diss sind die fürmercklichſten ding,0.08928571428571429,0.5,0.5,7474193,openai
+6,die ich by innen gesehen vnd erkant hab / der lufft ist an,die ich by innen gesehen vnd erkant hab/ Der lufft ist an,0.034482758620689655,0.23076923076923078,0.23076923076923078,7474193,openai
+7,dem ende gar gesund vnd wol temperieret vn̄ guͤt / End,dem ende gar gesund vnd wol temperieret vñ gütt/ Und,0.1111111111111111,0.36363636363636365,0.36363636363636365,7474193,openai
+8,so vil ich vß yrem sagen verston kond vnd erkennen mocht,so vil ich vß yrem sage verston tond vnd erkennen mocht,0.03571428571428571,0.18181818181818182,0.18181818181818182,7474193,openai
+9,so ist an dem ende nyemer keyn pestlentz oder eyniche sie,so iſt an dem ende nyemer teyn peſtilenz oder eyniche ſte,0.12280701754385964,0.36363636363636365,0.36363636363636365,7474193,openai
+10,chung die von bösem lufft kumpt / And wo sy nit vo fre¬,chung die von bösem lufft kümpt/Und wo sy nit vō fre,0.10909090909090909,0.38461538461538464,0.38461538461538464,7474193,openai
+11,felem getzwungenen tod sterben so leben sy by langen zyten,felẽ gezwungene tod sterben so leben sy by langẽ zyren,0.1206896551724138,0.4,0.4,7474193,openai
+12,Ich mein das an de ende alzeit die mittegigen wynd weyende,Ich mein das an de ende alſein die mittegige wynd weyẽ,0.1206896551724138,0.2727272727272727,0.2727272727272727,7474193,openai
+13,vnd voraß allermeyst den wir nennen etwan der inen al¬,vnd vorab allermeyst den wir nennen erwan der inen als,0.05555555555555555,0.3,0.3,7474193,openai
+14,so ist wie vnß der mittenechtig wind genant. Aquilo / Sve,so ist wie vnß der mittenechtrig wind genant. Aquilo/ Sy,0.07017543859649122,0.36363636363636365,0.36363636363636365,7474193,openai
+15,"sind künstrich mit vischen vnd vischfahen, Vnd dasselb",sind künſtrich mit viſchen vnd viſchſahen/Und daſſelb,0.16666666666666666,0.625,0.625,7474193,openai
+16,mer ist völlig vnd von vil vischen vnnd von allen vnd al,mer iſt völlic vnd von vil wiſchen vnnd von allen vnd al-,0.08928571428571429,0.3333333333333333,0.3333333333333333,7474193,openai
+17,lerley vischen überflüssig / Sa synd nit ieger vn̄ ich mein,lerley vischen überflüssig/Das synd nit leger vn ich mein,0.1016949152542373,0.45454545454545453,0.45454545454545453,7474193,openai
+18,so da synd vil wilder waldthieren geschlecht vnd Besuns,so da synd vil wilder waldthieren geschlecht vnd besund,0.03636363636363636,0.1111111111111111,0.1111111111111111,7474193,openai
+19,lowen vnd beren vnd onzall vil schlangen vnnd anderer,lowen vnd beren vnd onzal vil schlangen vnd anderer,0.03773584905660377,0.2222222222222222,0.2222222222222222,7474193,openai
+20,gruselichen vnd vngestalten dieren / Sar zu vnd als an,grusſelichen vnd vngeſtalten dieren/ Darzu vnd als an,0.09259259259259259,0.6,0.6,7474193,openai
+21,denen enden lang vnd breyt weld vnnd Baum über alle,zenen enden lang vnd breyt weld vnnd baum über alle,0.0392156862745098,0.2,0.2,7474193,openai
+22,maß groß vnd so sy nackend synd gethüren sy sich solich,maſs groſs vnd ſo ſy nactend ſynd gethüren ſy ſich ſolich,0.2,0.8181818181818182,0.8181818181818182,7474193,openai
+23,er dingen nit vnder stan onwaffen / Das ertrich diser,er dingen nit vnder stan on waffen/ Das ertrich diser,0.03773584905660377,0.2,0.2,7474193,openai
+24,landen vnnd region ist fast fruchtbar vnd lustiger an¬,landen vnnd region ist faß furchtbar vn̄ lustiger an,0.1111111111111111,0.4444444444444444,0.4444444444444444,7474193,openai
+25,sehung vnd von vil bergen vnd Buͤhelen vnd onzall vil,sehung vnd von vil bergen vnd Bühelen vnd on zall vil,0.05660377358490566,0.3,0.3,7474193,openai
+26,"Theler vnnd mit fast grossen fliessen wasseren, über",Theler vnnd mit fast grossen fliessenden wasseren/ über,0.07692307692307693,0.25,0.25,7474193,openai
+27,flüssig / End von guͤten heylsame Brunnen gefuchtet vn̄,flüssig / Und von güten heylsame zynnen gesüchet vñ,0.2,0.5555555555555556,0.5555555555555556,7474193,openai
+28,mit grossen breytten welden vnnd dick die kun̄ unnd,mit grossen breytten welden vnnd dick die tum vnnd,0.0784313725490196,0.2222222222222222,0.2222222222222222,7474193,openai
+29,schwarlich moͤgen durchgangen werden vnnd die von,schwarlich mögen durchgangen werden vnnd die vor allen vnd nachmen vndscheid vnd vnd übewertzt,0.9795918367346939,1.2857142857142858,1.2857142857142858,7474193,openai
+30,"allerley wilden thyeren vnderscheid voll vnd übersetzt,",allerley wüden thyerẽ vnderscheid voll vnd übersetzt,0.09090909090909091,0.42857142857142855,0.42857142857142855,7474193,openai
+31,Da wachsen selbs on alle der lüten zuͤthon vnd arbeytt,Da wachſen ſelbſ on alle der lüten züthon vnd arbeyten,0.12962962962962962,0.4,0.4,7474193,openai
+32,die aller groͤsten boum/ And vnder den selben vil die frü,die aller gröſten boum/ Und vnder den ſelben vil die frü,0.08771929824561403,0.2727272727272727,0.2727272727272727,7474193,openai

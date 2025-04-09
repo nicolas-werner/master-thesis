@@ -1,0 +1,35 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,keit gottes vmbscheyn vnß da wir disen landen zū kamen,keit gottes vmbſcheyn vnſ da wir diſen landen zūͦ kamen,0.07407407407407407,0.4,0.4,7474188,openai
+2,den̄ vns was abgangen an holtz an wasser / vnnd hetten,den̄ vns was abgangen an holtz an waſſer / vnnd hetten,0.037037037037037035,0.09090909090909091,0.09090909090909091,7474188,openai
+3,noch wenig tag moͤgen bliben / vnd vff dem mere vnßer,noch wenig tag moͤgen bliben / vnd vff dem mere vnſer,0.018867924528301886,0.09090909090909091,0.09090909090909091,7474188,openai
+4,leben enthalten / Im sie ere vnd gloria vnd danck gesagt /,leben enthalten / Im ſie ere vnd gloria vnd danck geſagt /,0.034482758620689655,0.16666666666666666,0.16666666666666666,7474188,openai
+5,Wir wurden da zerate das wir füren nach dem begriff des,Wir wurden da zerate daz wir fürē nach dem begriff des,0.05454545454545454,0.18181818181818182,0.18181818181818182,7474188,openai
+6,staden vn des lands diser lantschafft gegen der Sonnen,ſtaden vn̄ des lands diſer lantschafft gegen der Sonnen,0.05555555555555555,0.3333333333333333,0.3333333333333333,7474188,openai
+7,"vffgang vn die ansehung solichs lands nyemer ze lassen,","vffgang vn̄ die anſehung ſolichs lands nyemer ze laſſen,",0.09090909090909091,0.4444444444444444,0.4444444444444444,7474188,openai
+8,End zu stundan durch füren wir das / damit wir kamen,End zuͦ ſtundan durch füͦren wir das / damit wir kamen,0.057692307692307696,0.2727272727272727,0.2727272727272727,7474188,openai
+9,zu einem winckel/ da das land eyn inkere machet gegen,zuͦ einem winckel/ da das land eyn inkere machet gegen,0.018867924528301886,0.1,0.1,7474188,openai
+10,mittag vnd von der statt da wir am ersten das land traf,mittag vnd von der ſtatt da wir am erſten das land traf,0.03636363636363636,0.16666666666666666,0.16666666666666666,7474188,openai
+11,fen biß zu disem winckel waren by dryhundert welscher,ſen biß zuͦ diſem winckel waren by dryhundert welſcher,0.07547169811320754,0.4444444444444444,0.4444444444444444,7474188,openai
+12,male / vnd in zyt dißer schiffung sind wir zu dickern malen,male/vnd in zyt diſſer ſchiffung ſind wir zuͦ dickern malen,0.11864406779661017,0.5833333333333334,0.5833333333333334,7474188,openai
+13,zu land gefaren vnd haben fruntlich gesprech vnnd wan,zuͦ land geſaren vnd haben fruͦntlich geſprech vnnd wan,0.07547169811320754,0.4444444444444444,0.4444444444444444,7474188,openai
+14,del mit dem selben volck gehept als du hienach vernemen,del mit dem ſelben volck gehept als du hienach vernemen,0.01818181818181818,0.1,0.1,7474188,openai
+15,"wirdest, Mir was vergessen dir ze schriben das von dem",würdeſt/ Mir was vergeſſen dir ze ſchreiben das von dem,0.12962962962962962,0.3,0.3,7474188,openai
+16,hochgebirg des grüne houpts biß zu anfang diser bewon¬,hochgebirg des grüne houpts biß zuͦ anfang diſer bewon,0.05555555555555555,0.3333333333333333,0.3333333333333333,7474188,openai
+17,den landtschafft sind by Sibenhundert welscher milen,den landtſchafft ſind by Sibenhundert welſcher milen,0.057692307692307696,0.42857142857142855,0.42857142857142855,7474188,openai
+18,Wie wol ich meyn das wir me den Lusent vn achthun¬,Wie wol ich meyn das wir me den̄ Tuſent vn̄ achthunſ,0.1,0.36363636363636365,0.36363636363636365,7474188,openai
+19,dert mile gefaren so von vnwissenheyt stetten vn̄ schiff¬,dert mile gefaren ſo von vnwissenheyt ſtetten vn̄ ſchiffſ,0.07017543859649122,0.3333333333333333,0.3333333333333333,7474188,openai
+20,meisters so von vngewitter vnd von winden verhindert,meiſters ſo von vngewitter vnd von winden verhindert,0.038461538461538464,0.25,0.25,7474188,openai
+21,die vnsern schlechten weg widertriben zu stetten vnd vil,die vnſern ſchlechten weg widertriben zuͦ ſtetten vnd vil,0.07142857142857142,0.4444444444444444,0.4444444444444444,7474188,openai
+22,abwendungen / Senn wen min gesellen ir gemut vnd ver-,abwendungen / Den̄ wen min geſellen ir gemüͦt vnd ver-,0.09433962264150944,0.3,0.3,7474188,openai
+23,"truwen nit zu mir gesetzt hetten, so mir bekantlich was 8",truwen nit zu mir geſetzt hetten/ ſo mir bekantlich was ß,0.07017543859649122,0.36363636363636365,0.36363636363636365,7474188,openai
+24,grossen welt lantsterlugung vnd gelegenheit so weis kein,groſſen welt lantſterlugung vnd gelegenheit ſo weis kein,0.07142857142857142,0.375,0.375,7474188,openai
+25,schiffman oder wegwiser vnßer fart der ioch by funffhun,ſchiffman oder wegrviſer vnſer fart der ioch by fünffhũ,0.14545454545454545,0.4444444444444444,0.4444444444444444,7474188,openai
+26,dert milen wußte wo wir waren. Senn wir vmb¬,dert milen wuſte wo wir waren/ Denn wir waren vnd,0.2727272727272727,0.5555555555555556,0.5555555555555556,7474188,openai
+27,schweiffig vnd irrig / Denn allein der himelschen zeichen,ſchweiffig vnd irrig / Denn allein der himelſchen zeichen,0.03508771929824561,0.2222222222222222,0.2222222222222222,7474188,openai
+28,hohe waren vns zuͤbewisung vnd zōugten vns warheyt,hohe waren vns zuͤbewiſung vnd zōugten vns warheyt,0.02,0.125,0.125,7474188,openai
+29,verlorner dingen vnd die selben waren vns der quadrat,verlorner dingen vnd die ſelben waren vns der quadrat,0.018867924528301886,0.1111111111111111,0.1111111111111111,7474188,openai
+30,"vnd das Astralabium als sy alle erkanten, hie von si alle",vnd das Aſtralabium als ſy alle erkante/ hie von ſi alle,0.08771929824561403,0.36363636363636365,0.36363636363636365,7474188,openai
+31,"mich in grossen eren hielten, Senn ich zoigt inen das on",mich in groſſen eren hielten/ Denn ich zoigt inen das on,0.07142857142857142,0.2727272727272727,0.2727272727272727,7474188,openai
+32,die verschreibnen meres karten kunst der schifflung ich be,die verſchreibnen meres karten kunſt der ſchiffſung ich be,0.06896551724137931,0.3333333333333333,0.3333333333333333,7474188,openai
+33,richter was dan alle Schiffherren der gantzen welt den,richter was dan̄ alle Schifſherren der gantzen welt den̄,0.05555555555555555,0.3333333333333333,0.3333333333333333,7474188,openai
+34,A iii,A iii,0.0,0.0,0.0,7474188,openai

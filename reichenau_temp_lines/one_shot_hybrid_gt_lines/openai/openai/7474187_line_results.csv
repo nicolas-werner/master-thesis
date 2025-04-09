@@ -1,0 +1,34 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,cher verderbung ſchiffbruchē was liplicher vnfuͦrē wyr,cher verderkung ſchiffbruchē was liplicher vnſüre wyr,0.09259259259259259,0.2857142857142857,0.2857142857142857,7474187,openai
+2,gelitten habē/ Und mit was angſtē vnſers gemuͤtes wir,gelitten habẽ / Und mit was angſte vnſers gemuͤtes wir,0.05660377358490566,0.3333333333333333,0.3333333333333333,7474187,openai
+3,gearbeit habē/ mein ich/ gib ich denen ze bedenckē die vß,gearbeit habę/ mein ich/ gib ich denen ze bedencke die vſ,0.05263157894736842,0.2727272727272727,0.2727272727272727,7474187,openai
+4,vil dingen erfarūg wol wiſſen/ waſda ſie vngewiſſe ding,vil dingen erfariŋ wol wiſſen / waſ da ſie vngewisse ding,0.10909090909090909,0.6666666666666666,0.6666666666666666,7474187,openai
+5,ſuͦchen/ vnnd nit wiſſen ob die ſien zuͦ erfaren/ Und das,ſuchen/vnnd nit wiſſen ob die ſien zu erſaren/ Vnd das,0.08771929824561403,0.45454545454545453,0.45454545454545453,7474187,openai
+6,ich mit eynem wort alle ding begriffe/ ſolt du wiſſen das,ich mit eynem wort alle ding begriffe/ ſolt du wiſſendas,0.017543859649122806,0.18181818181818182,0.18181818181818182,7474187,openai
+7,in Sechtzig tagen vnnd ſiben tagen die wir ſchiffeten,in Sechzig tagen vnnd ſiben tagen die wir ſchiffeten,0.018867924528301886,0.1111111111111111,0.1111111111111111,7474187,openai
+8,vier vnd viertzig tag on vnderlaß an einander gehept ha,vier vnd viertzig tag on vnderlaß an einander gehept ha,0.0,0.0,0.0,7474187,openai
+9,ben mit regen tonnern vnd blitzgen ſo gar finſter dz wir,ben mit regen tonnern vnd blitȝgen ſo gar finſter dz wir,0.017857142857142856,0.09090909090909091,0.09090909090909091,7474187,openai
+10,weder Sonnē im tag noch liechtē hymel in der nacht nie,weder Sonnē im tag noch liechtē hymel in der nacht nie,0.0,0.18181818181818182,0.18181818181818182,7474187,openai
+11,geſehen haben/ Da von ſo geſchach dz vns ſolicher groſ¬,geſehen haben/ Da von ſo geſchach dz vns ſolicher groſſ,0.01818181818181818,0.1,0.1,7474187,openai
+12,ſer ſchrecken infiel dz wir gar nach alle hoffnung vnſers,ser ſchrecken infiel dz wir gar nach alle hoffnung vnſers,0.017543859649122806,0.1,0.1,7474187,openai
+13,lebens hinwurffen/ In ſoͤlichen angſten dennoch vn̄ ſo,lebens hinwurffen/ In ſölichen angſten dennoch vn̄ ſo,0.037037037037037035,0.125,0.125,7474187,openai
+14,wüetungen des mers vnnd des hymels gefiel dem hoch,wüetungen des mers vnnd des hymels gefiel dem hoch,0.0,0.0,0.0,7474187,openai
+15,ſten gott vns ze zoigen ingewont ertrich vnnd nüw lant,ſten gott vnſ ze zoigen ingewont ertrich vnnd niw lant,0.037037037037037035,0.2,0.2,7474187,openai
+16,ſchafften vnd ein vnbekante welt/ Das wir nach der ſel¬,ſchafften vnd ein vn̄bekante welt/ Das wir nach der ſel-,0.03636363636363636,0.2,0.2,7474187,openai
+17,ben bſehung mit ſo groſſen freiden durchgoſſen ſynd als,ben bſehung mit ſo groſſen ſreiden durchgoſſen ſynd als,0.01818181818181818,0.1111111111111111,0.1111111111111111,7474187,openai
+18,yemant wol bedencken mag/ wie gewonlich denen geſchi,yemant wol bedencken mag/ wie gewonlich denen geſchi,0.0,0.0,0.0,7474187,openai
+19,cht die vß vil mengerley betrüpnüßen vnd vnfal vnd vß,cht die vß vil mengerley betrüpnuſſen vnd vnſal vnd vſ,0.09433962264150944,0.3,0.3,7474187,openai
+20,widerſpeningen glück verheilet vnd funden/ vn̄ eruolgt,widerſpeningen glück verheilet vnd funden / vn̄ erſolgt,0.037037037037037035,0.42857142857142855,0.42857142857142855,7474187,openai
+21,haben/ Alſo an dē Sibenden tag des monats Ouguſten,haben/ Alſo an de Sibenden tag des monats Ouguſten,0.02,0.1111111111111111,0.1111111111111111,7474187,openai
+22,Thuſent finffhūdert vn̄ ein ior/ In d̓ gemeltē lātſchafftē,Thuſent finffhūdert vn̄ ein ior / In d̄ gemelten lanſchaffte,0.1206896551724138,0.5555555555555556,0.5555555555555556,7474187,openai
+23,ſtaden vnd zuͦlendung wurffen wir die encker in/ got vn,ſchaden vnd zǖlendung wurffen wir die encker in/ got vn,0.07272727272727272,0.2,0.2,7474187,openai
+24,ſerm herren lobſagendt mit hochzierlicher byt vnd gebet,ſerm herren lobſagendt mit hochzierlicher Byt vnd gebet,0.01818181818181818,0.125,0.125,7474187,openai
+25,vnd mit geſang eyner zierlichen meß/ Da erkanten wir,vnd mit geſang eyner zierlichen meſſ/ Da erkanten wir,0.038461538461538464,0.1111111111111111,0.1111111111111111,7474187,openai
+26,das land vnd ertrich nit ein inſel ſin/ ſunder ein ingewōt,das land vnd ertrich nit ein inſel ſin/ ſunder ein ingewoͤnt,0.05172413793103448,0.09090909090909091,0.09090909090909091,7474187,openai
+27,land denn ſich ſoͤlichs ſtrackt mit faſt langen ſtaden nitt,land denn ſich ſoͤlichs ſtrackt mit faſt langen ſtaden nitt,0.0,0.0,0.0,7474187,openai
+28,mit vmbzuͦgonen die da vmbgiengen vnd voll iſt on zall,mit vmbzīgōen die da vmbgiengen vnd voll iſt on zalł,0.09259259259259259,0.2,0.2,7474187,openai
+29,vil inwonender lüten denn wir dar ingefunden habē on,vil inwonender lüten denn̄ wir dar ingefunden habẽ on,0.038461538461538464,0.2222222222222222,0.2222222222222222,7474187,openai
+30,zal vil voͤlcker vnd lüt vnd aller wald thieren geſchlecht,zal vil völcker vnd lüt vnd aller wald thieren geſchlecht,0.034482758620689655,0.1,0.1,7474187,openai
+31,ſo man in/ vnſern landen fyndt/ vnnd vil ander ding ſo,ſo man in/ vnſern landen fyndt/ vnnd vil ander ding ſo,0.0,0.0,0.0,7474187,openai
+32,vor von vnß nie geſehen ſynd von den ſelben allen were,vor von vnſ nie geſehen ſynd von den ſelben allen were,0.018518518518518517,0.09090909090909091,0.09090909090909091,7474187,openai
+33,gar vil vnd lang ze ſagen/ Groſſe genad vnd barmhertzi,gar vil vnd lang ze ſagen/ Groſſe genad vnd Barmhertzi,0.018518518518518517,0.1,0.1,7474187,openai

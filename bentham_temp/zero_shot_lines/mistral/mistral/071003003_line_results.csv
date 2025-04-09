@@ -1,0 +1,78 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,11.,11.,0.0,0.0,0.0,071003003,mistral
+2,Of Justifications.,of Justifications,0.1111111111111111,1.0,1.0,071003003,mistral
+3,children.,Childron.,0.2222222222222222,1.0,1.0,071003003,mistral
+4,.. it,"A
+
+of",1.0,1.0,1.0,071003003,mistral
+5,3. These of a Schoolmaster over his Schooler. See ^ Law of School,3. Those of a Schoolmaster over his Scholar. See Laws of School,0.09230769230769231,0.3076923076923077,0.3076923076923077,071003003,mistral
+6,:master and. Scholars.,onasters and Scholars.,0.18181818181818182,0.6666666666666666,0.6666666666666666,071003003,mistral
+7,4. These of a Domistic Preceptor over his Pupil. See Law of,"A
+
+Shower of a Domestic Preceptor over his Pupil. See Law of",0.13559322033898305,0.25,0.25,071003003,mistral
+8,Preceptors and Pupils.,"Precepts and
+Pupils.
+
+Of",0.3181818181818182,1.0,0.6666666666666666,071003003,mistral
+9,ib.,"of the
+subject
+matter
+of the
+Article.
+
+The
+subject
+matter
+of the
+Article
+is the
+matter
+which
+it
+treats
+of.",34.333333333333336,6.0,20.0,071003003,mistral
+10,5. These of a Guardian over his Ward. See Law of Guardi=,"5. Those of a Guardian over his Ward. See Law of Guardi-
+ans and and Wards.",0.375,0.4166666666666667,0.5,071003003,mistral
+11,:ans and Wards.,: and and Words.,0.2,1.0,1.0,071003003,mistral
+12,6 These of Adufts over Infants in the same family. See ib.,"6 Those of Adults over Infants in the same Family. ibid. 4.
+
+Law of Infants.",0.4482758620689655,0.6666666666666666,0.6666666666666666,071003003,mistral
+13,Law of Infants.,Law of Infants.,0.0,0.0,0.0,071003003,mistral
+14,7. These of a Master over his Servant - See the Law of Ser:,"7. That of a Master over his Servant. See the Law of Ser-
+vitude.",0.23728813559322035,0.2857142857142857,0.2857142857142857,071003003,mistral
+15,vants. The Law of Apprentices -Law of Journeymen -Law,vants—The Law of Apprentices—Law of Journeymen—Law—,0.1320754716981132,0.6666666666666666,0.6666666666666666,071003003,mistral
+16,of the Slaves.,of the Slaves.,0.0,0.0,0.0,071003003,mistral
+17,Justification 6.th Military Kowers & Subservience,"Justification ô th
+Military Powers Subsistence",0.20408163265306123,0.8333333333333334,0.6666666666666666,071003003,mistral
+18,Thereto.-,"Therefore,",0.4444444444444444,1.0,1.0,071003003,mistral
+19,Povers which one man may have over the person of,Powers which one man may have over the person of,0.020833333333333332,0.1,0.1,071003003,mistral
+20,another on a military account are,another on a military account—are,0.030303030303030304,0.3333333333333333,0.3333333333333333,071003003,mistral
+21,1. These of a military superior over his Suborditates. For,"1. Shews of a militarily Superiority over his Subordinates. So
+
+Constitutional Code. Laws of",0.7068965517241379,0.9,0.9,071003003,mistral
+22,Constitutional Code-Laws of,"Constitutional Code. Laws of
+
+the Constitutional Code.
+
+Ch. 	[blank]
+
+Procedure.
+
+Art. 	[blank]
+
+In the Constitutional Code
+
+for the Prevention of Delay
+
+in the Dispatch of Judicial
+
+Business, it is provided as
+
+follows.",7.185185185185185,10.0,10.0,071003003,mistral
+23,these See ^ the Army ^ and ^ the Navy Laws,"consequently too numerous to
+be all see after the Army and the Navy forces",1.0952380952380953,0.9090909090909091,0.8181818181818182,071003003,mistral
+24,2. These of a military officer over persons at large in a time,R. Those of a military officer over persons at large in a time,0.03225806451612903,0.15384615384615385,0.15384615384615385,071003003,mistral
+25,Note.,Note.,0.0,0.0,0.0,071003003,mistral
+26,(a),{a},0.6666666666666666,1.0,1.0,071003003,mistral
+27,There ought to be a separate Title for every species,There ought to be a separate Title for every species,0.0,0.0,0.0,071003003,mistral
+28,of servant which has any article of Law peculiar to it.,of servant which has any Articles of Law peculiar to it.,0.03636363636363636,0.09090909090909091,0.09090909090909091,071003003,mistral

@@ -1,0 +1,35 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,It glucklicher hart Flm vier,It glucklicher fart An̄ vber,0.17857142857142858,0.6,0.6,7474186,openai
+2,zehenden tag des monats Mayen / Lu¬,zehenden tag des monats Mayen/ Tu,0.08571428571428572,0.42857142857142855,0.42857142857142855,7474186,openai
+3,"sent funffhudert eyn Jars, schieden wir",ſent fünffhũdert eyn Jars ſchieden wi,0.15384615384615385,0.8333333333333334,0.8333333333333334,7474186,openai
+4,von Olisippo nach gebott des obgenans,von Oliſippo nach gebort des obgenan,0.08108108108108109,0.5,0.5,7474186,openai
+5,ten künigs mit dryen schiffen zu ersuͤchen,ten tünīgs mit dryen schiffen zu erſiche,0.14285714285714285,0.2857142857142857,0.2857142857142857,7474186,openai
+6,1/2,A,1.0,1.0,1.0,7474186,openai
+7,Unuwe land gegen Auster / vnd tzweintzig,nuwē land gegen Auſſer/vnd zwen̄zig,0.225,0.7142857142857143,0.7142857142857143,7474186,openai
+8,Monet on vnderlaß füren wir gegen mittag der selben,Monet on vnderlaſſ ſüren wir gegen mittag der ſelben,0.0784313725490196,0.3333333333333333,0.3333333333333333,7474186,openai
+9,"schiffung vnd fart ordnung und wise ist also, Sise schif",ſchiffung vnd fart ordnung vnd wiſe iſt alſo/ Diſſe ſchif,0.17857142857142858,0.7,0.7,7474186,openai
+10,fung ist gewesen durch die fortunaten Insalen/ vor ziten,ſung iſt geweſen durch die fortunaten Inſſalen/vor ziten,0.10714285714285714,0.5555555555555556,0.5555555555555556,7474186,openai
+11,also genant/ Aber zu dysen werden sy genant die insulen,alſo genant/ Aber zů dyſen werden ſy genant die inſulen,0.09090909090909091,0.5,0.5,7474186,openai
+12,magne canarie / der grossen Canarie / die da sindt im drit,magne canarie/ der groſſen Canarie/ die da ſind im duc,0.15517241379310345,0.5833333333333334,0.5833333333333334,7474186,openai
+13,ten Clima der sibenfaltige vßteilung der welt vnd am an,ten Clima der ſibenſaltige vſtheilung der welt vnd am an,0.07272727272727272,0.2,0.2,7474186,openai
+14,stoß vnd gegen der wonhafftigen landen der sonne nyder¬,stoſ vnd gege der wonhafftige landen der ſonne nyder,0.09090909090909091,0.5555555555555556,0.5555555555555556,7474186,openai
+15,"gangs, Sannen durch das groß mer Occeanum de gantzen",gangs/ Sannen durch das groſſ mer Occeanu dē gāge,0.19230769230769232,0.5555555555555556,0.5555555555555556,7474186,openai
+16,staden affricum vn eyn teil der Moͤren lands durchrent,staden affricum vñ eyn teil der Mören lands durchreüt,0.07407407407407407,0.3333333333333333,0.3333333333333333,7474186,openai
+17,biß zu den hochbergen der Moren so also von Ptolomeo,Biſſ zu den̄ hochbergen der Noren ſo alſo von Ptolomeo,0.1346153846153846,0.5,0.5,7474186,openai
+18,genenpt wirt / Das zu dißen zeite von den vnsern dz grijn,biſz zu den hochbergen der in den ſo alſo von Ptolomeo geſept wirt/Das zu diſzen zeiten von den vnſern dz grün,1.087719298245614,1.4166666666666667,1.4166666666666667,7474186,openai
+19,haupt genempt wirt / vn von den Horen beseglitte / vnd,houpt genempt wur/ vn von den Moſe beſegütet/ vnd,0.2222222222222222,0.5454545454545454,0.5454545454545454,7474186,openai
+20,die selbe lantschafft Mandinglia vierzehen gradus innert,die ſelbe lanſchafft Mandingia vierzehẽ gradus innerx,0.125,0.7142857142857143,0.7142857142857143,7474186,openai
+21,der krummen schnuͤr genaͤt Torrida zona / von der lymen,der krummen ſchnür genant Touridazona / von der lynen,0.12727272727272726,0.5,0.5,7474186,openai
+22,equinoctiali gegen Mitternacht die von schwartzen lii¬,equinociali gegen ſüternacht die von ſchwarzen lin̄,0.14814814814814814,0.5714285714285714,0.5714285714285714,7474186,openai
+23,ten vnd volckern bewot wirt / da selbst nach rastung vn̄,ten vnd völckern bewdt würt/da selbs nach raſſung vñ,0.17857142857142858,0.7272727272727273,0.7272727272727273,7474186,openai
+24,widerlabung vnser krafft vnnd notturfftiger dingen zu,widerlaſung vnſer krafft vnnd nottürfftiger dingen zů,0.07547169811320754,0.5714285714285714,0.5714285714285714,7474186,openai
+25,vnser schiffung/ huͤben wir die encker vff vn zertanten die,vnſer ſchiffung/hüben vñ die encker vſſ vn zertan̄t die,0.22033898305084745,0.6,0.6,7474186,openai
+26,segel in winde vnd in vnsern weg durch das allerwildest,ſegel in winde vnd in vnſern weg durch das allerwildſteſt,0.09090909090909091,0.3,0.3,7474186,openai
+27,"groß mere Occeanum, vnd füren gegen dem wider siͤbege",groſz mere Oceanum/vnd ſüre gegen dem wider ſibege,0.16981132075471697,0.5555555555555556,0.5555555555555556,7474186,openai
+28,stirn gen Ancarticies/ ein wenig gegen der Sonnen nyder,ſtirn gen Ancaricius/ ein wenig gegẽ der Sonne nyder,0.10909090909090909,0.4444444444444444,0.4444444444444444,7474186,openai
+29,gang wandten wir durch den wynd genant vulturnus,gang wandten wir durch den wynd genant vultur̄us,0.020833333333333332,0.125,0.125,7474186,openai
+30,vnd von dem tag als wir abschieden von de gemelten ho,vnd von dem tag als wir abſchieden von dẽ gemelten ho,0.03773584905660377,0.18181818181818182,0.18181818181818182,7474186,openai
+31,chgebürg zwen Monet vn̄ drig tag schyfften wir ee das,chgebürg zwen Monͤet vn̄ drig tag ſchryffen wir ee das,0.07547169811320754,0.2,0.2,7474186,openai
+32,vnß land oder ertrich ze sehen ward / Was wir aber in so,vnſ land oder ertrich ze ſehen ward/Was wü vber in ſo,0.14285714285714285,0.6153846153846154,0.6153846153846154,7474186,openai
+33,licher wilde des Mers / gelitten haben / und was sorgkli¬,licher wilde des ſtres/gelitten haben/vnd was ſogtlie,0.21052631578947367,0.6363636363636364,0.6363636363636364,7474186,openai
+34,An,2ũ,1.0,1.0,1.0,7474186,openai

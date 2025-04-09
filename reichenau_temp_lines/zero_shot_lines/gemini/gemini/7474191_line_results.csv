@@ -1,0 +1,34 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,über vnd on das in yeglichen oren die mit dryen loͤchern,über vnd on das in yegklichen oxen die mit dryen löchern,0.07142857142857142,0.2727272727272727,0.2727272727272727,7474191,gemini
+2,durch stochen synd sy noch ander steyn tragen die in rin,Durch ſolchen ſynd ſy noch ander ſteyn tragen die in rin,0.125,0.45454545454545453,0.45454545454545453,7474191,gemini
+3,"gen hangen vn diß wise vnd sytten ist allein der mannen,",gen hangen vñ diſß wiſe vñ ſytren iſt allein der manneſ/,0.17857142857142858,0.6363636363636364,0.6363636363636364,7474191,gemini
+4,Sen die frowen zerstechen innen selbs ir antlitz nit also,Den die fromen zeũtſchen innen ſelbſt ir antlitz nic alſo,0.17543859649122806,0.6,0.6,7474191,gemini
+5,mit löcherung den alleyn die oren / Eyn ander syt vnd,mit löcherung den alleyn die oxen/ Eyn ander fyt vnd,0.05660377358490566,0.2727272727272727,0.2727272727272727,7474191,gemini
+6,wyse ist ouch vnder vnd by ienen gnuͤg abwysig vn̄ wi¬,wyſſe iſt auch vnder vnd By ienen gnug abwyſig vñ miſs,0.2222222222222222,0.7272727272727273,0.7272727272727273,7474191,gemini
+7,"der alle menschliche glaubung, Das ir frowen die eben",Der alle menschliche gläubung/Das ist fromen die eben,0.1320754716981132,0.5555555555555556,0.5555555555555556,7474191,gemini
+8,gelustig vnd geilgirig synd / vnd ieren mannen machen,geluftig vnd geilgirig ſynd/vnd ieren mannen machen,0.07547169811320754,0.4444444444444444,0.4444444444444444,7474191,gemini
+9,das ienen ir Büch geschwellen in sollicher über mestung,Das ienen ir Bůch geſchwellẽ in ſollicher über meſſung,0.14545454545454545,0.5555555555555556,0.5555555555555556,7474191,gemini
+10,das sy vngestalt vn smechlich ersthynen vnd ꝺz tuͤnd sy,das ſy/ongeſtalt on ſmechlich erſthynen vnd dʒ tůnd ſy,0.21818181818181817,0.8,0.8,7474191,gemini
+11,mit ettwas funden vn gnagung ettlicher gifftigen thiere /,mit ettwas funde vñ gnagung ertlicher giffigen thierē/,0.10526315789473684,0.6666666666666666,0.6666666666666666,7474191,gemini
+12,Vnd von solicher sach geschicht das ierer vil ir gemecht,vnd von ſolicher ſach geſchicht das ierer vil uß gemecht,0.10714285714285714,0.5,0.5,7474191,gemini
+13,verlieren die ienen von mangels wegen der artznye fulen,verheren ſie ienen von mangels wegen der artznye ſule,0.09090909090909091,0.3333333333333333,0.3333333333333333,7474191,gemini
+14,vnd Bliben on gemech/ Si haben keyn tuͤch noch teckinem,vnd ꝑbliben on gemech/Si haben keyn tůch noch tectine,0.12727272727272726,0.5,0.5,7474191,gemini
+15,"weder lynis noch Baumwollins, Denn sy des nit bedörf",weder lynic noch Baumwollins/Denn sy des nit bedörf,0.057692307692307696,0.3333333333333333,0.3333333333333333,7474191,gemini
+16,fen vnd haben keyn eygen guͤt / Sunder alle ding sind in¬,ſen vnd habē ſeyn eygen güt/Sunder alle ding ſind in,0.17543859649122806,0.6666666666666666,0.6666666666666666,7474191,gemini
+17,nen gemein. Si leben samenhafft on kiinig on gebieter vn̄,nen gemein/ Si leke famenhafft on künig on gebieter vñ,0.14035087719298245,0.5,0.5,7474191,gemini
+18,"ist ir yeglicher im selbst herr, So vil wißer nemen sy so",Iſt eú yeglicher vm ſelbs herr/ So vil wißer nemers ſy ſo,0.21052631578947367,0.6666666666666666,0.6666666666666666,7474191,gemini
+19,vil sy woͤllen/ vnd ô sun mit der muͤter vn̄ der bruͤder mit,vil ſy roollen/ond̃ o fun mit der mñter vñ der brůder mit,0.23333333333333334,0.6153846153846154,0.6153846153846154,7474191,gemini
+20,der schwester vnd der erst mit der ersten vnd degeg¬,Der ſchweſter vnd der erſt mit der erſten vnd der Begeg,0.19230769230769232,0.6,0.5,7474191,gemini
+21,ner mit der begegneten veruneynigen sich/ Als dick als,ner mit der begegnēren veruneyngē fúch/Als dicht als,0.18518518518518517,0.5555555555555556,0.5555555555555556,7474191,gemini
+22,sy woͤllen scheiden sy die vermehletig ee/ vnd halten in so,ſy wöllen ſcheiden ſy die verme̊chtig ec/vnd halten in ſo,0.1864406779661017,0.7272727272727273,0.7272727272727273,7474191,gemini
+23,lichem gantz keyn ordnung / Darumb haben sy keynen te,lichem gang ſeyn ordnung/Darumb habēſy ſeynen tē,0.20754716981132076,0.9,0.9,7474191,gemini
+24,pel vnd halten keyn gesatzt vnd sind nit abgetere / Was,pel vnd halten tryn gefaſze vnd ſind mit abgetere/Was,0.16363636363636364,0.6363636363636364,0.6363636363636364,7474191,gemini
+25,sol ich me sagen Sy leben nach der natur das sy wol epi¬,ſolich me ſage Sy leben nach der natur das ſy wol epi,0.10714285714285714,0.38461538461538464,0.38461538461538464,7474191,gemini
+26,curi/ Buchfuller genant werden moͤgen den̄ senici/ By in —,cur̃/Buchſtüller genat werdẽ mögẽ den ſenici/By iñ,0.3103448275862069,1.0,1.0,7474191,gemini
+27,"sind keyn konfflit noch kouffguͤt, Die scharen des volcks",find ſeyn konſtlic noch touſſtir/Die ſcharē des volcks,0.2982456140350877,0.6666666666666666,0.6666666666666666,7474191,gemini
+28,haben ouch kriege/ vnd on kunst on ordnung/ Ir elteren,haben ouch kriege/vnd on kunſt on ordnūg/ Ir eltern,0.09259259259259259,0.5,0.5,7474191,gemini
+29,mit yren reten vnnd gebotten vnder byegen die iungen,mit yrem reten vnnd geboren vnder ßergen die iungen,0.11538461538461539,0.3333333333333333,0.3333333333333333,7474191,gemini
+30,zuͤ thuͤn was sy wöllen vnd rüsten sie zu strytten in solichen,sů thůn was sy wöllen vnd rüſten ſie zů ſtrytte in ſolche,0.20967741935483872,0.5833333333333334,0.5833333333333334,7474191,gemini
+31,Sy eyng derum gruselich ze tod staen vn welche sye also,Sy eync. Dern gruſelich ze todt ſlaen vñ welche ſye alſo,0.21818181818181817,0.7272727272727273,0.7272727272727273,7474191,gemini
+32,im krieg vnd stritt fahen die füren sy hyn mit das sye die,im̃treg vnd furcht haben die furcht sy hym mit das ſye die,0.25862068965517243,0.5384615384615384,0.5384615384615384,7474191,gemini
+33,by leben sunder inen selbs behalten das sy da von metzi¬,By leben ſunder inen ſelbs Behalten das ſy da von menge,0.16071428571428573,0.5454545454545454,0.5454545454545454,7474191,gemini

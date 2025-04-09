@@ -1,0 +1,16 @@
+{
+  "openai": {
+    "model": "gpt-4o",
+    "avg_cer": 1.0,
+    "avg_wer": 1.0,
+    "avg_bwer": 1.0,
+    "doc_count": 10
+  },
+  "gemini": {
+    "model": "gemini-2.0-flash",
+    "avg_cer": 1.0,
+    "avg_wer": 1.0,
+    "avg_bwer": 1.0,
+    "doc_count": 10
+  }
+}

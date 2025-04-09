@@ -1,0 +1,11 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Lon der neum gefunden,ſonder neuͤ gefunden,0.14285714285714285,0.75,0.75,7474184,gemini
+2,Region so wol ein welt genempt mag werden /,Xegion ſo wol ein welk genempts mag werden/,0.11627906976744186,0.6666666666666666,0.6666666666666666,7474184,gemini
+3,durch den Cristeͤlichen künig / von Portigai /,durch den Criſtlichen künig/von Portigal/,0.15217391304347827,0.75,0.75,7474184,gemini
+4,wunderbarlich erfunden /,wunderbarlich erfinden/,0.08333333333333333,0.6666666666666666,0.6666666666666666,7474184,gemini
+5,-,"I am sorry, but the image you provided is empty. Therefore, I cannot transcribe anything.",89.0,15.0,15.0,7474184,gemini
+6,Käm,(No visible text in the image),9.666666666666666,6.0,6.0,7474184,gemini
+7,„ —.—,(blank line),2.2,1.0,1.0,7474184,gemini
+8,-5-,(Image too unclear to transcribe),11.0,5.0,5.0,7474184,gemini
+9,de,(blank line),5.5,2.0,2.0,7474184,gemini
+10,(1505),• (1505),0.3333333333333333,1.0,1.0,7474184,gemini

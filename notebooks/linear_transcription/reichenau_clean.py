@@ -1,6 +1,6 @@
 import marimo
 
-__generated_with = "0.11.30"
+__generated_with = "0.12.4"
 app = marimo.App(width="medium")
 
 
@@ -16,7 +16,7 @@ def _(__file__):
     return mo, os, project_root, sys
 
 
-@app.cell
+@app.cell(hide_code=True)
 def display_comparison_stats(os):
     from src.visualization import plot_method_comparison, plot_error_type_breakdown, plot_metric_distribution
     from src.file_utils import extract_text_from_xml

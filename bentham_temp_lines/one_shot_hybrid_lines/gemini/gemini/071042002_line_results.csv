@@ -1,0 +1,5 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Servants Law,Servants Law.,0.08333333333333333,0.5,0.5,071042002,gemini
+2,gentleman to a servant does not dishonour the servant.,gentleman to a servant does not dishonour the servant.,0.0,0.0,0.0,071042002,gemini
+3,but a blow from a servant to a gentleman dishonours the,but a blow from a servant to a gentleman dishonours the,0.0,0.0,0.0,071042002,gemini
+4,gentleman,gentleman.,0.1111111111111111,1.0,1.0,071042002,gemini

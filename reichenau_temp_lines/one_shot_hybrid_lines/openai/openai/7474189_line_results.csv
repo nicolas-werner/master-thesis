@@ -1,0 +1,32 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,sy nit me wüssen den von den stetten vnd landen die sye,ſy nie me wüſſen den̄ von den ſtetten vnd landen die ſye,0.12727272727272726,0.5,0.5,7474189,openai
+2,offt vn dick bygeschiffet vn erfaren hatten. Und als vns,offt vn̄ dick bygeſchiffet vn̄ erfaren hatten/ Und als vns,0.07142857142857142,0.4,0.4,7474189,openai
+3,an dem ende der egemelt wynckel eyn krůme erzoͤigt des,an dem ende der egemelt wynckel eyn krūme erzoͤigt des,0.018518518518518517,0.1,0.1,7474189,openai
+4,landstaden gegen mittag wurden wir eyns solichs für¬,landſtaden gegen mittag wurden wür eyns ſolichs für,0.07692307692307693,0.5,0.5,7474189,openai
+5,faren vnd ze erkunden was in den selben grossen landen,faren vnd ze erkunden was in den ſelben groſſen landen,0.05555555555555555,0.2,0.2,7474189,openai
+6,"were, Und schifften also nach dem staden by Sechshun",were/ Und ſchifften alſo nach dem ſtaden by Sechſhun,0.09615384615384616,0.5555555555555556,0.5555555555555556,7474189,openai
+7,dert mylen wegs vnd zuͤm dickern mal/ kamen wijr vnd,dert mylen wegs vnd zuͦm dickern̄ mal/ kamen wir vnd,0.057692307692307696,0.3,0.3,7474189,openai
+8,giengen zelande besprachten vnd beredten wir vn bewon,giengen zelande beſprachtē vnd beredten wir vn̄ bewon,0.07547169811320754,0.25,0.25,7474189,openai
+9,ten mit den inwonern vnd lantsluten der selben regionen,ten mit den inwonern̄ vnd lantſlüten der ſelben regionē,0.10909090909090909,0.4444444444444444,0.4444444444444444,7474189,openai
+10,vnd wurden guͤtlich vnd bruͤderlich von inen empfangen,vnd wurden guͤtlich vnd bruͤderlich von inen empfangē,0.037037037037037035,0.125,0.125,7474189,openai
+11,vnd blyben etwan dick funffzehen oder zweintzig tag by,vnd blyben etwan dick fünffzehen oder zweintzig tag by,0.018518518518518517,0.1111111111111111,0.1111111111111111,7474189,openai
+12,ienen stets vn̄ fruntlich als liebe geste mit ynen redende,ienen ſtets vn̄ früntlich als liebe geſte mit ynen redende,0.05172413793103448,0.3,0.3,7474189,openai
+13,als du harnach vermercken würst/ ye doch so ist diser be,als du harnach vermercken würſt/ye doch ſo iſt diſer be,0.08928571428571429,0.45454545454545453,0.45454545454545453,7474189,openai
+14,wonten lantschafft teyl in der krummen schnuͤr Sorrida,wonten lantſchafft teyl in der krummen ſchnuͦr Dorrida,0.07407407407407407,0.375,0.375,7474189,openai
+15,sona innerthalb der lanien equinoctialem gege de hymel,zona innerthalb der lynien equinoctialem gegē dē hymel,0.07407407407407407,0.5,0.5,7474189,openai
+16,gegent Antarticus den sin anfang hept an im achte grad,gegent Antarticuſ deñ ſin anfang hept an im achtē grad,0.07407407407407407,0.4,0.4,7474189,openai
+17,über die equinoctial / Nach disem landsstaden schiffeten,über die equinoctial/ Nach diſem landſſtaden ſchiffeten,0.08928571428571429,0.625,0.625,7474189,openai
+18,wir so lang das wir über vnd für fiͤren des Steinbocks,wir ſo lang das wir über vnd für fuͦren des Steinbocks,0.05555555555555555,0.18181818181818182,0.18181818181818182,7474189,openai
+19,Tropicum vnd funden den gegen sibengestirnigen hy¬,Tropicum vnd funden den gegen ſibengeſtirnigen hȳ,0.08,0.2857142857142857,0.2857142857142857,7474189,openai
+20,mel den wir nemen den herwagen vnd zu latin polus an,mel den wir nemen den herwagen vnd zuͦ latin polus an,0.019230769230769232,0.09090909090909091,0.09090909090909091,7474189,openai
+21,tarticus genampt wirt / An dem selben item hymels anse,tarticus genampt wirt/ An dem ſelben irem hymels anſe,0.07407407407407407,0.5,0.5,7474189,openai
+22,chung im vmbkreiß orison genant den selben ieren hymel,hung im vmbkreiß oriſon genant den ſelben ieren hymel,0.05555555555555555,0.3333333333333333,0.3333333333333333,7474189,openai
+23,"funden wir wol fünfftzig graden oder staffel höher, Wir",funden wir wol fünfftzig graden oder ſtaffel höͤher/ Wir,0.05454545454545454,0.2222222222222222,0.2222222222222222,7474189,openai
+24,waren ouch neher oder daby ꝺes Antartiens zirckel by,waren ouch neher oder daby des Antarticus zirckel by,0.057692307692307696,0.2222222222222222,0.2222222222222222,7474189,openai
+25,Sibenzehen graden semis / Was ich da gesehen vnd er¬,Sibenſehen graden ſemis/ Was ich da geſehen vnd er,0.09615384615384616,0.5,0.5,7474189,openai
+26,kent hab von natur vnd wesen der selben litten vnd von,kent hab von natur vnd weſen der ſelben lüten vnd von,0.07407407407407407,0.2727272727272727,0.2727272727272727,7474189,openai
+27,ieren wisen vnnd sytten gelichnikkeit vnnnd schicklikeytt,ieren wiſſen vnnd ſytten gelichnikeit vnnd ſchicklikeyt,0.12280701754385964,0.7142857142857143,0.7142857142857143,7474189,openai
+28,von fruchtbarkeit des ertrichs von heilsamikeyt des luffts,von fruchtbarkeit des ertrichs vō heilſamikeit des luffts,0.06896551724137931,0.25,0.25,7474189,openai
+29,Von gestalt vnd schickung des hymels vnd der hymeli¬,Von geſtalt vnd ſchickung des hymels vnd der hymeliſ,0.057692307692307696,0.3333333333333333,0.3333333333333333,7474189,openai
+30,schen liben End allermeyst von den vnbeweglichen ver,ſchen liben/ Vnd allermeyſt von den vnbeweglichen ver,0.07692307692307693,0.5,0.5,7474189,openai
+31,hafften sternen / der achten spere so von vnßern vorfaren,hafften ſternen/ der achten ſpere ſo von vnſern vorfaren,0.08771929824561403,0.5,0.5,7474189,openai

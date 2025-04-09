@@ -1,0 +1,5 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Uon der neü gefunden,Von der neü gefunden,0.05,0.25,0.25,7474184,openai
+2,Region ſo wol ein welt genempt mag werden/,Region ſo wol ein welt genempt mag werden /,0.023809523809523808,0.25,0.25,7474184,openai
+3,durch den Criſtēlichen künig/ von Portigal/,durch den Criſtēlichen künig / von Portigal / wunderbarlich erſinden /,0.627906976744186,1.1666666666666667,1.1666666666666667,7474184,openai
+4,wunderbarlich erfunden/,wunderbarlich erfunden/,0.0,0.0,0.0,7474184,openai

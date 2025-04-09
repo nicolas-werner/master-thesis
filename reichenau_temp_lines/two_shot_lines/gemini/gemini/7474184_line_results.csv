@@ -1,0 +1,11 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Lon der neum gefunden,ſonder neuͦ gefunden,0.14285714285714285,0.75,0.75,7474184,gemini
+2,Region so wol ein welt genempt mag werden /,Xegion ſo wol ein weſte genempts mag werden/,0.13953488372093023,0.6666666666666666,0.6666666666666666,7474184,gemini
+3,durch den Cristeͤlichen künig / von Portigai /,durch den Criſtēlichen Künig/von Portigal/,0.17391304347826086,0.75,0.75,7474184,gemini
+4,wunderbarlich erfunden /,wunderbarlich erfinden/,0.08333333333333333,0.6666666666666666,0.6666666666666666,7474184,gemini
+5,-,,1.0,1.0,1.0,7474184,gemini
+6,Käm,,1.0,1.0,1.0,7474184,gemini
+7,„ —.—,,1.0,1.0,1.0,7474184,gemini
+8,-5-,,1.0,1.0,1.0,7474184,gemini
+9,de,,1.0,1.0,1.0,7474184,gemini
+10,(1505),• (1505),0.3333333333333333,1.0,1.0,7474184,gemini

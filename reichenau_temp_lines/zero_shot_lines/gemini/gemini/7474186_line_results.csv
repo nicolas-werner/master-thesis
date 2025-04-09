@@ -1,0 +1,36 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,It glucklicher hart Flm vier,Jr glucklicherr fart Jhm vier.,0.25,1.0,1.0,7474186,gemini
+2,zehenden tag des monats Mayen / Lu¬,zehenden tag des monats ℺ayer̃/ ℺u,0.14285714285714285,0.42857142857142855,0.42857142857142855,7474186,gemini
+3,"sent funffhudert eyn Jars, schieden wir",ſent fünffhüdert eyn Jars/ſchieden wir,0.15384615384615385,0.6666666666666666,0.6666666666666666,7474186,gemini
+4,von Olisippo nach gebott des obgenans,von Philippo nach gebort des obgenañ,0.16216216216216217,0.5,0.5,7474186,gemini
+5,ten künigs mit dryen schiffen zu ersuͤchen,ten künigs mit dryen ſchiffen zü erſüchē,0.16666666666666666,0.42857142857142855,0.42857142857142855,7474186,gemini
+6,1/2,ꝓ,1.0,1.0,1.0,7474186,gemini
+7,Unuwe land gegen Auster / vnd tzweintzig,Imure land gegen Auſter/vnd zwenzig,0.225,0.7142857142857143,0.7142857142857143,7474186,gemini
+8,Monet on vnderlaß füren wir gegen mittag der selben,Donet on vnderlaß füren wir gegen mittag der selben,0.0196078431372549,0.1111111111111111,0.1111111111111111,7474186,gemini
+9,"schiffung vnd fart ordnung und wise ist also, Sise schif",ſchiffung vnd fact ordnung vnd muͤſſe alſo/ Diſe ſchif,0.2857142857142857,0.8,0.8,7474186,gemini
+10,fung ist gewesen durch die fortunaten Insalen/ vor ziten,ſung iſt geweſen durch die fortunaten Inſalen/voz ziten,0.10714285714285714,0.5555555555555556,0.5555555555555556,7474186,gemini
+11,also genant/ Aber zu dysen werden sy genant die insulen,alſo genant/ Aber zů Syſten werden ſy genant die infuſen,0.14545454545454545,0.5,0.5,7474186,gemini
+12,magne canarie / der grossen Canarie / die da sindt im drit,magne canarie/ Der groſſen Canarie/ die da findt vm Süt,0.1724137931034483,0.75,0.75,7474186,gemini
+13,ten Clima der sibenfaltige vßteilung der welt vnd am an,ten Clima der fibenfaltige vſteilũg der welt vnd am an,0.07272727272727272,0.2,0.2,7474186,gemini
+14,stoß vnd gegen der wonhafftigen landen der sonne nyder¬,ſtoß vnd gege der wonhafftige landen der ſonne nyder,0.09090909090909091,0.5555555555555556,0.5555555555555556,7474186,gemini
+15,"gangs, Sannen durch das groß mer Occeanum de gantzen",gangs/Dannẽ durch das groſs mer Decēni de gāge,0.34615384615384615,0.5555555555555556,0.5555555555555556,7474186,gemini
+16,staden affricum vn eyn teil der Moͤren lands durchrent,ſtaden affricum·vn̄ eyn teil der O̊ſten lands durchſtreiche,0.24074074074074073,0.5555555555555556,0.5555555555555556,7474186,gemini
+17,biß zu den hochbergen der Moren so also von Ptolomeo,Biß zů den hochßbergen der Aoren ſo alſo von Protolomeo,0.15384615384615385,0.7,0.7,7474186,gemini
+18,genenpt wirt / Das zu dißen zeite von den vnsern dz grijn,genept wirt/ Das zu diſen zeite von den vnsern dʒ gerun,0.12280701754385964,0.5,0.5,7474186,gemini
+19,haupt genempt wirt / vn von den Horen beseglitte / vnd,houpt genempt wirt/von den Arotz Beglitte/vnd,0.2962962962962963,0.8181818181818182,0.8181818181818182,7474186,gemini
+20,die selbe lantschafft Mandinglia vierzehen gradus innert,Die ſelbe lantſchafft OAndinglia vierzehē graduꝯ innere,0.16071428571428573,1.0,1.0,7474186,gemini
+21,der krummen schnuͤr genaͤt Torrida zona / von der lymen,"Der krummen schnur genāt ꝛoridazona, von der lynie",0.21818181818181817,0.7,0.7,7474186,gemini
+22,equinoctiali gegen Mitternacht die von schwartzen lii¬,equinocciali gegen Mittermacht die von ſchmerzen liʒ,0.14814814814814814,0.5714285714285714,0.5714285714285714,7474186,gemini
+23,ten vnd volckern bewot wirt / da selbst nach rastung vn̄,vnnd völckſtern Bemöt würt da ſelbs nach raſtung viñ,0.32142857142857145,0.8181818181818182,0.8181818181818182,7474186,gemini
+24,widerlabung vnser krafft vnnd notturfftiger dingen zu,widerlaßung vnſer krafft vnnd nottürfftiger dinger zů,0.09433962264150944,0.7142857142857143,0.7142857142857143,7474186,gemini
+25,vnser schiffung/ huͤben wir die encker vff vn zertanten die,vnſer ſchiffung/hůßen mir die encter off vn zerranté die,0.2033898305084746,0.7,0.7,7474186,gemini
+26,segel in winde vnd in vnsern weg durch das allerwildest,ſegel in winde vnd in vnſern weg durch das allerwüldeſt,0.07272727272727272,0.3,0.3,7474186,gemini
+27,"groß mere Occeanum, vnd füren gegen dem wider siͤbege",groſs mere Sacram̃/vnd ſine gegẽ dem wider ſelige,0.37735849056603776,0.6666666666666666,0.6666666666666666,7474186,gemini
+28,stirn gen Ancarticies/ ein wenig gegen der Sonnen nyder,ſtirngen Ancarricꝯ/eín wenig gege der Sonne ryder,0.2,0.7777777777777778,0.7777777777777778,7474186,gemini
+29,gang wandten wir durch den wynd genant vulturnus,gang mandren wir durch den wynd genant vulturnus,0.041666666666666664,0.125,0.125,7474186,gemini
+30,vnd von dem tag als wir abschieden von de gemelten ho,vnd von dem tag als wir abschieden von de gemelten ho,0.0,0.0,0.0,7474186,gemini
+31,chgebürg zwen Monet vn̄ drig tag schyfften wir ee das,chgebirgt zwen A Donet von drig tag ſchyffren wir ee das,0.16981132075471697,0.5,0.5,7474186,gemini
+32,vnß land oder ertrich ze sehen ward / Was wir aber in so,vnß land oder ertrich ſehen ward/ Das wir aber vn ſo,0.14285714285714285,0.5384615384615384,0.5384615384615384,7474186,gemini
+33,licher wilde des Mers / gelitten haben / und was sorgkli¬,"licher wilde des Aers/gelitten haben/vnd was forgeſtis
+                       Aii",0.6666666666666666,0.7272727272727273,0.6363636363636364,7474186,gemini
+34,An,21. ii.,3.5,2.0,2.0,7474186,gemini

@@ -1,0 +1,39 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Albericus Wespuccius Laurentio,Albericus Vespuͦcius Laurentio,0.06666666666666667,0.3333333333333333,0.3333333333333333,7474185,openai
+2,Petri Francisci de Medicis vil gruͤß.,Petri franciſci de Mediciſ vil griſſ.,0.16216216216216217,0.5,0.5,7474185,openai
+3,N vergangnen tagen hab ich dir eben wit geschri¬,AIn vergangnen tagẽ hab ich dir ebẽ wit geſchri,0.1875,0.4444444444444444,0.4444444444444444,7474185,openai
+4,ben von miner widerfart von den nuwen lant,"vergangner tage habe ich erfarung ge
+ben von miner widerſart von den nürwen lant
+ſchaffen die ich mit Claſſen verſambneter ſchif",2.0952380952380953,1.875,1.875,7474185,openai
+5,schafften die ich mit Classen versambneter schif-,ben von miner widerſart von den harten vnnd ſchafften die ich mit Claſſen verſam̄neter ſchif,1.0408163265306123,1.7142857142857142,1.7142857142857142,7474185,openai
+6,fen mit schwerem kosten von gebot des Durchlichtigo¬,ſen mit ſchweren koſten von gebot des Durchlichtigoſ,0.09615384615384616,0.5,0.5,7474185,openai
+7,sten Rünigs von portigal durchsuͤcht haben vnd funten,"ſen mit ſchweren coſten von gebe des landes. Jn
+ſten Rünigs von portigal durchſicht haben vnd fünftẽ",1.0377358490566038,1.375,1.5,7474185,openai
+8,"Sie man mag die Nuwen welt nennen, So by vnsern","ſten Königs von portigal durchſucht haben vnd funden
+Die man mag die Nuwen welt nennen/ So ſy vnſerñ",1.2340425531914894,1.1,1.2,7474185,openai
+9,vorfarn vettern dauon keyn wissen gewesen / vnd allen,"Die man mag die zünden wol kennen/ ſo ſy ſpitz
+voſſarñ vettern davoñ keyn wiſſen geweſen/vnd allen dē",1.1320754716981132,1.7777777777777777,1.6666666666666667,7474185,openai
+10,"die solichs hoͤren eyn aller ding nuws sy, Sunder ouch",die ſolichs hören eyn aller ding nuͦws ſy/ ſunder ouch,0.12962962962962962,0.5,0.5,7474185,openai
+11,das alle wenung vnßer eltern über trúfft so doch der mer,"die ſolchs horen eyn ander ding haben ſy/ ſunder das
+das alle wenung vnſer eltern übertrüfft ſo doch der mer
+und den ſelben ſpricht/ das ich den die glich mit rechtige hy",2.125,2.3636363636363638,2.272727272727273,7474185,openai
+12,"teyl der selben spricht, das über die glichmitnechtige ly¬","das alle wenig vnſer eiter vber laſſet oder ob man
+teyl der ſelben ſpricht/ das über die glichmitnechtige ly",0.9482758620689655,1.4444444444444444,1.4444444444444444,7474185,openai
+13,nien genant Equinoctialis. vn̄ gegen mittag keyn wonnge,nien genant Equinoctialis. vn̄ gege mittag teyn wonung,0.07272727272727272,0.375,0.375,7474185,openai
+14,s litten suͤnder alleyn ꝺzgros mer inhalten / Das sy nenne,d litten ſünder alleyn dz groſme inhalte/ Daß ſy nenne,0.22413793103448276,0.7272727272727273,0.7272727272727273,7474185,openai
+15,das Attlandisch mer/ Und ob yemand der selbe wonun,das Atlandisch mer / Und ob jemand der ſelbe wonin,0.1,0.6666666666666666,0.6666666666666666,7474185,openai
+16,gen daselbs syn geredt so habem sy doch vß vil sachen das,gen daſſelbſ ſyn geredt ſo habe ſy doch vſ vil ſachē das,0.19298245614035087,0.5833333333333334,0.5833333333333334,7474185,openai
+17,"da wonhafftig land vnd ertrich sy widerredt, Aber dz so",da wonhafftig land vnd ertrich ſy widerredt/Aber dz ſo,0.07272727272727272,0.4,0.4,7474185,openai
+18,lich ir wenen falsch vn der worheit widerig sy in alle weg,"da vndhafftig ſand vnd erlich ſy ſolten eſſen. Aber ſy
+lich ir wenen falſch vñ der woſheit widerig ſy in alle weg",1.0172413793103448,1.1666666666666667,1.1666666666666667,7474185,openai
+19,"hat diß min leste schiffung bewyft, So ich in den selben",hat diß min̄ eſte ſchiſſung beryſt/ So ich in den ſelben,0.17857142857142858,0.45454545454545453,0.45454545454545453,7474185,openai
+20,gegnugen gegen mittag menschliche inwonung funden,gegnügen gegen mittag menſchliche inwonung füͦnden,0.08163265306122448,0.5,0.5,7474185,openai
+21,hab mit vil volcks vnd vil thieren bewert / den vnser euro,hab mit vil volcks vnd vil thieren beweret/ den vnſer ewrer,0.10344827586206896,0.3333333333333333,0.3333333333333333,7474185,openai
+22,"pa oder Asiam oder Affricam, vnnd so vil me gesunden",pa oder Aſſam oder Affricam/ vnnd ſo vil ſne geſünden,0.15384615384615385,0.5,0.5,7474185,openai
+23,temperierten lufft schon vnd luter me vnd lustiger denn,temperierten luſſt ſchon vnd luter me vnd luſtiger denn,0.07272727272727272,0.3333333333333333,0.3333333333333333,7474185,openai
+24,in eynicher andern lantschafft die wir wissen/ Als du har,in eynicher andern lanſchaft die wir wiſſen/Alſ du har,0.12280701754385964,0.3,0.3,7474185,openai
+25,nach sehen vnd verstan würst so ich kurtz die obern̄ ding,nach ſchen vnd verſtan würſt ſo ich kurz die oberſti ding,0.15789473684210525,0.5454545454545454,0.5454545454545454,7474185,openai
+26,beschriben vnd die ding so vermerckens vnd gedechtniß,beſchrieben vnd die ding ſo vermerckens vnd gedechtnuß,0.07547169811320754,0.375,0.375,7474185,openai
+27,aller würdigest vn von mir gesehen oder gehort in dißer,aller würdigſt vn von mir geſehen oder gehoͤrt in diſer,0.09090909090909091,0.4,0.4,7474185,openai
+28,nuwen welt sind/ Als harnach gezeygt würt-,nürven welſ ſind/Alſ harnach geſeygt würt,0.21428571428571427,0.8571428571428571,0.8571428571428571,7474185,openai
+29,Z,Zͦ,1.0,1.0,1.0,7474185,openai

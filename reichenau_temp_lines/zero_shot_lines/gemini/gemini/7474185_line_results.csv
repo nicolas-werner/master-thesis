@@ -1,0 +1,37 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Albericus Wespuccius Laurentio,"Albericus Vefpucius Laurentio
+venerãdißi. Medicis nil arriß.",1.1333333333333333,1.6666666666666667,1.6666666666666667,7474185,gemini
+2,Petri Francisci de Medicis vil gruͤß.,Petri franciſci de Medicis vſq; grũß.,0.1891891891891892,0.5,0.5,7474185,gemini
+3,N vergangnen tagen hab ich dir eben wit geschri¬,"¶ In vergångnen tage hab ich dir ebe mit geſchri,",0.20833333333333334,0.7777777777777778,0.7777777777777778,7474185,gemini
+4,ben von miner widerfart von den nuwen lant,"ben von m̃ner widerfart von den nünven lant
+ſchoffen Sieich vñ laſſen verſambneter ſchiff",1.1904761904761905,1.0,1.0,7474185,gemini
+5,schafften die ich mit Classen versambneter schif-,ſchafften die ich mit Claſſen verſambneter ſchif,0.12244897959183673,0.5714285714285714,0.5714285714285714,7474185,gemini
+6,fen mit schwerem kosten von gebot des Durchlichtigo¬,ſen mit ſchwerem koſten von gebot des Durchlúchtigoz,0.09615384615384616,0.5,0.5,7474185,gemini
+7,sten Rünigs von portigal durchsuͤcht haben vnd funten,ſten Künigs von portigal durchſucht haben vnd fundẽ,0.1320754716981132,0.5,0.5,7474185,gemini
+8,"Sie man mag die Nuwen welt nennen, So by vnsern","ſten Künigs von poligal outſchafft,
+Die man mag die Nüwen welt nennen/So by vnſern
+Kñ Römſchen comiten vnd allenn ꝛc.",1.6170212765957446,1.4,1.5,7474185,gemini
+9,vorfarn vettern dauon keyn wissen gewesen / vnd allen,"Sie man mag die ꝛ. kinden recht nennen/
+vozfarn vettern dauon keyn wiſſen geweſen/vnd allen dē",0.9245283018867925,1.4444444444444444,1.3333333333333333,7474185,gemini
+10,"die solichs hoͤren eyn aller ding nuws sy, Sunder ouch",die ſolichs hören eyn aller ding nuws ſy/Sunder ouch,0.1111111111111111,0.4,0.4,7474185,gemini
+11,das alle wenung vnßer eltern über trúfft so doch der mer,"Das alle wemung vnßer eltern über trüfft ſo doch der mer
+vmb zu ſtelln ein ſuicht/das über die glichmitnechtige ly",1.1071428571428572,1.1818181818181819,1.1818181818181819,7474185,gemini
+12,"teyl der selben spricht, das über die glichmitnechtige ly¬","das alle wening vnser
+teyl der selben ſpricht/das über die glichmitnechtige ly",0.4482758620689655,0.7777777777777778,0.5555555555555556,7474185,gemini
+13,nien genant Equinoctialis. vn̄ gegen mittag keyn wonnge,nien genant Equinoctialis. vñ gege mittag teyn morñg.,0.14545454545454545,0.5,0.5,7474185,gemini
+14,s litten suͤnder alleyn ꝺzgros mer inhalten / Das sy nenne,ſlitten ſunder alleyn dʒſchoff meĩnhalte/ Das ſy nenne,0.29310344827586204,0.7272727272727273,0.7272727272727273,7474185,gemini
+15,das Attlandisch mer/ Und ob yemand der selbe wonun,Das Atlantisch mer/ Vnd ob yemant der selbe wonun,0.1,0.4444444444444444,0.4444444444444444,7474185,gemini
+16,gen daselbs syn geredt so habem sy doch vß vil sachen das,gen daſelbs ſyn geredt ſo habe ſy doch vß vil ſachen das,0.10526315789473684,0.5,0.5,7474185,gemini
+17,"da wonhafftig land vnd ertrich sy widerredt, Aber dz so",Sa wonhafftig land vnd errich ſy widerredt/ Aber dʒ ſo,0.10909090909090909,0.6,0.6,7474185,gemini
+18,lich ir wenen falsch vn der worheit widerig sy in alle weg,lich ir nemen falſch vñ der worheit widerig ſy in alle weg,0.08620689655172414,0.3333333333333333,0.3333333333333333,7474185,gemini
+19,"hat diß min leste schiffung bewyft, So ich in den selben",hat diß min eſtē ſchiffung bewyſt/So ich in den ſelben,0.14285714285714285,0.45454545454545453,0.45454545454545453,7474185,gemini
+20,gegnugen gegen mittag menschliche inwonung funden,gegnügen gegen mittag menschliche inwohnung funden,0.04081632653061224,0.3333333333333333,0.3333333333333333,7474185,gemini
+21,hab mit vil volcks vnd vil thieren bewert / den vnser euro,hab mit vil volcks vnd vil thieren bewert/Den vnſer euro,0.06896551724137931,0.3333333333333333,0.3333333333333333,7474185,gemini
+22,"pa oder Asiam oder Affricam, vnnd so vil me gesunden",pa oder Asiam oder Affricam/vnnd so vil me gesunden,0.038461538461538464,0.2,0.2,7474185,gemini
+23,temperierten lufft schon vnd luter me vnd lustiger denn,temperierten lufft ſchon vnd lincere me vnd lufftiger denn,0.12727272727272726,0.3333333333333333,0.3333333333333333,7474185,gemini
+24,in eynicher andern lantschafft die wir wissen/ Als du har,in eyndber andern landtschafft die wir wiſſen/ Als du hat,0.12280701754385964,0.4,0.4,7474185,gemini
+25,nach sehen vnd verstan würst so ich kurtz die obern̄ ding,nach ſehen vnd verſtan würt ſo ich kurn die obern ding,0.12280701754385964,0.5454545454545454,0.5454545454545454,7474185,gemini
+26,beschriben vnd die ding so vermerckens vnd gedechtniß,Beschriben vnd die ding ſo vermercktens vnd gedechtnuß,0.07547169811320754,0.5,0.5,7474185,gemini
+27,aller würdigest vn von mir gesehen oder gehort in dißer,aller nüͤrdigest vñ von mir gesehen oder gehört in dißer,0.07272727272727272,0.3,0.3,7474185,gemini
+28,nuwen welt sind/ Als harnach gezeygt würt-,nüwen welt sind/ Als harnach gezeugt würt,0.07142857142857142,0.42857142857142855,0.42857142857142855,7474185,gemini
+29,Z,ʒꝯ,2.0,1.0,1.0,7474185,gemini

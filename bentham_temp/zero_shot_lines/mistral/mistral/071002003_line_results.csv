@@ -1,0 +1,33 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Of,Of,0.0,0.0,0.0,071002003,mistral
+2,Justifications.,Justifications.,0.0,0.0,0.0,071002003,mistral
+3,founders Law. 8. The Chymists Law &c. &c,Founders Law. 8. The Chymists Law &c. &c.,0.05,0.25,0.25,071002003,mistral
+4,6. From Storms. See the Seafaring-man's Law Sect. Con=,6. From Harms. See the Seafaring-man's Law sect. 6.,0.14814814814814814,0.3333333333333333,0.3333333333333333,071002003,mistral
+5,:cerning Storms.,:cerning Storms.,0.0,0.0,0.0,071002003,mistral
+6,7. From the Plague and other infectious16eases. See Laws,From the Plague and other infectious diseases. See Laws,0.125,0.3333333333333333,0.2222222222222222,071002003,mistral
+7,concerning the Plague &c.,concerning the Plague &c.,0.0,0.0,0.0,071002003,mistral
+8,8. From Persons insane: See Laws concerning persons,8.  System Lessons instanc'd: See laws concerning persons,0.2549019607843137,0.5,0.5,071002003,mistral
+9,insane or 1. The Madmansalen. 2. The Ideot's Law. 2. The,insensible of the hardships done 2 the People's Law. 2. The,0.4642857142857143,0.7272727272727273,0.7272727272727273,071002003,mistral
+10,Maniac's Law,Marriage's Law,0.3333333333333333,0.5,0.5,071002003,mistral
+11,Instructions to the Legislator.,Instructions to the Legislator.,0.0,0.0,0.0,071002003,mistral
+12,It is not clear that in every one of the several titles of,It is not clear that in every one of the several issues of,0.06896551724137931,0.07692307692307693,0.07692307692307693,071002003,mistral
+13,Law above mentioned there will need a provision or set of,Law above-mentioned there will need a provision or set of,0.017543859649122806,0.18181818181818182,0.18181818181818182,071002003,mistral
+14,"provisions, authorising one person toenness upon the per","Provisions, authorising one person to trespass upon the per-",0.14285714285714285,0.5,0.5,071002003,mistral
+15,son of another. To determine that question with respect to,sson of another. To determine that question with respect to,0.017241379310344827,0.1,0.1,071002003,mistral
+16,any of them would be to enter upon a branch of Law fo:,any of them would be to enter upon a branch of Law fo-,0.018518518518518517,0.07692307692307693,0.07692307692307693,071002003,mistral
+17,:reign to that in hand. Nor with respect to every one of,- assign to that in hand. Nor with respect to every one of,0.08928571428571429,0.16666666666666666,0.16666666666666666,071002003,mistral
+18,these titles could such provisions be exhibited in terminis,These titles could such provisions be exhibited in terminis,0.01694915254237288,0.1111111111111111,0.1111111111111111,071002003,mistral
+19,in any book of universal Law: since they will need to be,in any book of universal Law: since they will need to be,0.0,0.0,0.0,071002003,mistral
+20,different according to the various local circumstances of dif:,different according to the various local circumstances of life.,0.04838709677419355,0.1111111111111111,0.1111111111111111,071002003,mistral
+21,:ferent states and provinces. The above reference are exhi:,ferent States and provinces. The above references are tochi-,0.11864406779661017,0.4444444444444444,0.4444444444444444,071002003,mistral
+22,":bited only in the way of example, to give a general idea","limited only in the way of example, to give a general idea",0.05263157894736842,0.08333333333333333,0.08333333333333333,071002003,mistral
+23,of the mode of reference to be adopted on an,of the mode of reference to be adopted in an,0.022727272727272728,0.1,0.1,071002003,mistral
+24,occa=,Decr.,0.8,1.0,1.0,071002003,mistral
+25,":sion, like the present.","son, like the present.
+
+Of
+or",0.375,0.5,0.75,071002003,mistral
+26,"In like manner, neither is it clear that the names",In like manner neither is it clear that the names,0.02,0.1,0.1,071002003,mistral
+27,7.,"1.
+
+2. 1.",4.0,3.0,3.0,071002003,mistral

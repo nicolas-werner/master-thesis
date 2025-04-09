@@ -1,0 +1,31 @@
+Document ID: 7474184
+Line ID: tr_1_tl_1
+Line Index: 0
+Prompt Type: hybrid_zero_shot
+
+=== SYSTEM ===
+
+You are an expert in historical typography and early printed books (incunabula) from the 15th century.
+Please transcribe the provided line image exactly as it appears.
+
+Important instructions:
+1. Preserve original historical spellings, abbreviations, and special characters.
+2. Pay particular attention to:
+   - Early printed ligatures (connected letter combinations)
+   - Abbreviation marks and symbols
+   - Special characters from medieval Latin or German
+3. Do not expand abbreviations unless absolutely necessary
+4. Do not add any explanations or commentary
+5. Transcribe exactly what you see, maintaining historical orthography
+
+If you're uncertain about a character, provide your best interpretation.
+
+
+
+=== USER ===
+IMAGE: [Image data not shown]
+
+TEXT: The following is the output of a traditional OCR model (Transkribus) for this line. It can help with your transcription, but may contain errors:
+
+"Lon der neum gefunden"
+

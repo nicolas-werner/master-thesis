@@ -1,0 +1,9 @@
+{
+  "mistral": {
+    "model": "pixtral-large-latest",
+    "avg_cer": 0.03893157695421488,
+    "avg_wer": 0.10485127702128957,
+    "avg_bwer": 0.09929275281285302,
+    "doc_count": 10
+  }
+}

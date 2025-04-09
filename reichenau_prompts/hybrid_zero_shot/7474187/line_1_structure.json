@@ -1,0 +1,21 @@
+[
+  {
+    "role": "system",
+    "content": "\nYou are an expert in historical typography and early printed books (incunabula) from the 15th century.\nPlease transcribe the provided line image exactly as it appears.\n\nImportant instructions:\n1. Preserve original historical spellings, abbreviations, and special characters.\n2. Pay particular attention to:\n   - Early printed ligatures (connected letter combinations)\n   - Abbreviation marks and symbols\n   - Special characters from medieval Latin or German\n3. Do not expand abbreviations unless absolutely necessary\n4. Do not add any explanations or commentary\n5. Transcribe exactly what you see, maintaining historical orthography\n\nIf you're uncertain about a character, provide your best interpretation.\n\n"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "[IMAGE DATA]"
+        }
+      },
+      {
+        "type": "text",
+        "text": "The following is the output of a traditional OCR model (Transkribus) for this line. It can help with your transcription, but may contain errors:\n\n\"gelitten haben / End mit was angsten vnsers gemu\u0364tes wir\""
+      }
+    ]
+  }
+]

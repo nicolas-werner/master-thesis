@@ -1,0 +1,38 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,cht bringen am kosten vnnd gesmackt lieplich vnd luͤstli¬,"chrů bringen am koſten vnnd geſinackt lieplich vnd liſtli
+blichen liben muglich vn komlich/Sa",0.7719298245614035,0.8888888888888888,1.0,7474194,gemini
+2,"ich vnd den menschlichen liben nutzlich vn komlich, Sa",ch vnd den menschlichen liben nußlich vn komlich/Sa,0.09259259259259259,0.4444444444444444,0.4444444444444444,7474194,gemini
+3,gegen ouch sind etlich anders wesens vnnd keyn fruchtt,"gegen ouch sind etlich anders wesens vnnd keyn fruchte
+vnd vnter an früchten vnd opk gleich/Sa wachsen ou",0.9444444444444444,1.0,1.1111111111111112,7474194,gemini
+4,synd vnseran früchten vnd opß gleich / Sa wachßen on¬,"synd vnseran früchten vnd opff gleich/Sa wachsen on
+allerley vnd mengerley früter gestalten vnd",0.9245283018867925,0.9,1.0,7474194,gemini
+5,ich über alle zal vil vnd mengerley krüter gestalten vnd,ch über allezal vil vnd mengerley früter geſtalten vnd,0.07142857142857142,0.5,0.5,7474194,gemini
+6,wurtzen vß denen sy brot machen / vnd die allerbesten ge,"wurtzen vß denen ſy brot machen/vnd die aller beſten ge
+Samen Sefam vnserm ſamen mecht",0.6428571428571429,0.9090909090909091,0.8181818181818182,7474194,gemini
+7,muͤse haben sy vnnd vil samen disen vnsern samen gantz,müße haben ſy vnnd vil ſamen dieſen vnſern ſamen gang,0.2037037037037037,0.7,0.7,7474194,gemini
+8,"vnglich, Sa sind onch keynerley metallen vnd geschmid",vngleich/Da ſind auch ſeynerley metallen vnd geſchmid,0.16981132075471697,0.75,0.75,7474194,gemini
+9,den allein gold da von diß region vn land überfliessen wie,den allein gold da vō diß region vn land überflieſſen wie,0.06896551724137931,0.18181818181818182,0.18181818181818182,7474194,gemini
+10,wol wir des nützit mit vnß namen / In dißer ersten vnser,wol wir des nügit mit vnß namen/ Jn diser erſten vnſer,0.125,0.5833333333333334,0.5833333333333334,7474194,gemini
+11,"schiffart, End das sagen vnß die inwonere vnd sprachen",ſchiffart/Ũnd das ſagen vñs die inwonere vñd ſprache,0.18518518518518517,0.6666666666666666,0.6666666666666666,7474194,gemini
+12,das in der mittlisten gegne dises lands große volle sie des,Das in der mittüſſchen gegē diſes lands groſſe volle ſie deſ,0.22033898305084745,0.6363636363636364,0.6363636363636364,7474194,gemini
+13,goldes vnd von ienen verachtet vnnd fur nicht geschetzt,"goldes vnd von ienen verachtet vnnd für nicht geschetzt
+Zu Schlüſſia von edelem geſteyn/Parga",0.7090909090909091,0.6666666666666666,0.6666666666666666,7474194,gemini
+14,"werde, Spe überflüssig von edelem gesteyn, Warga¬",werde/ Sye vberflüſſig von edelem geſtern/Warga,0.20408163265306123,0.7142857142857143,0.7142857142857143,7474194,gemini
+15,"eiten, Als ich dyr vor me geschryben hab, Wenn ich",eiter/ Als ich dyr vor me geſchzyben hab/ Denn ich,0.12,0.4,0.4,7474194,gemini
+16,wolt alle vnnd yegliche ding erzellen dye de synd vnd,wolt alle vnnd yegkliche ding erczellen dye dz ſynd vnnd,0.09433962264150944,0.5,0.5,7474194,gemini
+17,von den on zall mengerley thieren geschlecht vnnd der,von den on ſall mengerley thieren geſchlecht vnnd der,0.03773584905660377,0.2222222222222222,0.2222222222222222,7474194,gemini
+18,selben vile / Das were eyn ding gar zelang vnd on maß,"von oeft on zal in
+ſelben vile/ Das were eyn ding gar zelang vnd on maß",0.39622641509433965,0.5,0.5833333333333334,7474194,gemini
+19,Vnd siechtliche glaub ich das vnßer plimus dem tusent¬,Und rechtliche glaub ich das vnſer plūmus dem tuyſent,0.14814814814814814,0.5555555555555556,0.5555555555555556,7474194,gemini
+20,teyl nit zuͤkomen sye/ Ses volcks der Sitkusten vnd der,teyl nit zukomen sye/Des volcks der Sitkusten vnd der,0.05454545454545454,0.3,0.3,7474194,gemini
+21,andern voͤgelen vnnd der thyeren die in den selben lan¬,andern vögeln vnnd der thyrereu die in den selben lan,0.10909090909090909,0.3,0.3,7474194,gemini
+22,den synd mit so mengerley vnderscheydt der antlitten.,"Den ſynd ůir ſo mengerley vnderſcheydt der antlitten,",0.1320754716981132,0.75,0.75,7474194,gemini
+23,vnd frouwen das der volkomnesten lyt Waler kunst ver,vnd frouwen das der volkom̃eſten lye Dalet künſt ver,0.1346153846153846,0.4444444444444444,0.4444444444444444,7474194,gemini
+24,rumpt Meister Pollicletus die abzemalen erlygen müste,rumpte Wesser Pollicletus die abzemale erlygen müſte,0.11320754716981132,0.5714285714285714,0.5714285714285714,7474194,gemini
+25,Sa synd alle boum gútds vnnd wolgeschmackes vnd,Da ſynd alle Boum gůtds vnnd wolgeſchmacktes vnnd,0.14893617021276595,0.75,0.75,7474194,gemini
+26,bryngen alle ettwas oͤls oder solicher fuchtigkeyt / Wenn,Bringen alle ettwas åls oder solicher füchtigkeyt/ꝶen,0.15789473684210525,0.5555555555555556,0.5555555555555556,7474194,gemini
+27,ir krafft vnnd eygenschafft vnnß bekant were zwifelen,ir krafft vnnd eygenſchafft vnnß beſant were zwiſchen,0.09433962264150944,0.375,0.375,7474194,gemini
+28,ich nit den das sye der menschen lyben zu artzenye gros,ich mit dem das sye der menschen lyben zů argenye groſ,0.10909090909090909,0.45454545454545453,0.45454545454545453,7474194,gemini
+29,"ser heylung syn solten, vnnd onzwyselhalt ich ob der",ſer heylung ſyn ſolten/ Annd on zwyfel halck ich ob der,0.19230769230769232,0.7777777777777778,0.7777777777777778,7474194,gemini
+30,Jrdysch Paradyß vff ertrich das der nitt ferr vonn,Irdyſch Paradyß oſſ ertrich das der nit ferr vonn,0.12,0.3333333333333333,0.3333333333333333,7474194,gemini
+31,"dyßer lantschaffte sye, So ir gelegenheyt als ich vor",dyßer lantſchafft ſye/So ir gelegenheyt als ich vor,0.09433962264150944,0.3333333333333333,0.3333333333333333,7474194,gemini

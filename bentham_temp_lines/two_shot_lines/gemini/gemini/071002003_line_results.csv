@@ -1,0 +1,30 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Of,9,1.0,1.0,1.0,071002003,gemini
+2,Justifications.,Justifications.,0.0,0.0,0.0,071002003,gemini
+3,founders Law. 8. The Chymists Law &c. &c,Founder's Law. 8. The Chymists Law &c. &c.,0.075,0.25,0.25,071002003,gemini
+4,6. From Storms. See the Seafaring-man's Law Sect. Con=,6. From Storms. See the seafaring-man's Law Sect. from.,0.09259259259259259,0.2222222222222222,0.2222222222222222,071002003,gemini
+5,:cerning Storms.,: cerning Storms.,0.0625,1.0,1.0,071002003,gemini
+6,7. From the Plague and other infectious16eases. See Laws,7. From the Plague and other infectious diseases. See Lous,0.10714285714285714,0.3333333333333333,0.3333333333333333,071002003,gemini
+7,concerning the Plague &c.,concerning the Plague &c.,0.0,0.0,0.0,071002003,gemini
+8,8. From Persons insane: See Laws concerning persons,Q. From Persons insane: See Laws concerning Persons,0.0392156862745098,0.25,0.25,071002003,gemini
+9,insane or 1. The Madmansalen. 2. The Ideot's Law. 2. The,"insane orl. Becclesbran’s case. 2. The Idiots Law. 2. The
+ll-iberal.",0.5178571428571429,0.5454545454545454,0.45454545454545453,071002003,gemini
+10,Maniac's Law,Maniacs Law,0.08333333333333333,0.5,0.5,071002003,gemini
+11,Instructions to the Legislator.,Instructions to the Legislator.,0.0,0.0,0.0,071002003,gemini
+12,It is not clear that in every one of the several titles of,It is not clear that in every one of the several titles of,0.0,0.0,0.0,071002003,gemini
+13,Law above mentioned there will need a provision or set of,Law above mentioned there will need a provision or set of,0.0,0.0,0.0,071002003,gemini
+14,"provisions, authorising one person toenness upon the per","provisions, authorising one person to trespass upon the person",0.16071428571428573,0.375,0.375,071002003,gemini
+15,son of another. To determine that question with respect to,+son of another. To determine that question with respect to,0.017241379310344827,0.1,0.1,071002003,gemini
+16,any of them would be to enter upon a branch of Law fo:,any of them would be to enter upon a branch of Law fo=,0.018518518518518517,0.07692307692307693,0.07692307692307693,071002003,gemini
+17,:reign to that in hand. Nor with respect to every one of,= assign to that in hand. Nor with respect to every ones of,0.10714285714285714,0.25,0.25,071002003,gemini
+18,these titles could such provisions be exhibited in terminis,These titles could such provisions be exhibited in terminis.,0.03389830508474576,0.2222222222222222,0.2222222222222222,071002003,gemini
+19,in any book of universal Law: since they will need to be,in any book of universal Law: since they will need to be),0.017857142857142856,0.08333333333333333,0.08333333333333333,071002003,gemini
+20,different according to the various local circumstances of dif:,different according to the various local circumstances of dif,0.016129032258064516,0.1111111111111111,0.1111111111111111,071002003,gemini
+21,:ferent states and provinces. The above reference are exhi:,: ferent states and provinces. The above references are eachi:,0.06779661016949153,0.4444444444444444,0.4444444444444444,071002003,gemini
+22,":bited only in the way of example, to give a general idea",", cited only in the way of example, to give a general idea",0.05263157894736842,0.16666666666666666,0.16666666666666666,071002003,gemini
+23,of the mode of reference to be adopted on an,of the mode of reference to be adopted on an,0.0,0.0,0.0,071002003,gemini
+24,occa=,-oca=,0.4,1.0,1.0,071002003,gemini
+25,":sion, like the present.",":dicon, like the present.
+of side",0.4166666666666667,0.75,0.75,071002003,gemini
+26,"In like manner, neither is it clear that the names",In like manner neither is it clear that the names,0.02,0.1,0.1,071002003,gemini
+27,7.,7.,0.0,0.0,0.0,071002003,gemini

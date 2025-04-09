@@ -1,0 +1,29 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Alberics Ueſpuccius Laurentio,Albericus Vespuccius Laurentio,0.10344827586206896,0.6666666666666666,0.6666666666666666,7474185,openai
+2,Petri Franciſci de Medicis vil gruͦß.,Petri Francisci de Medicis vil grüß.,0.08108108108108109,0.3333333333333333,0.3333333333333333,7474185,openai
+3,N vergangnen tagē hab ich dir ebē wit geſchri¬,N̄ vergangnen tagē hab ich dir eben wit geſchri-,0.08695652173913043,0.4444444444444444,0.4444444444444444,7474185,openai
+4,ben von miner widerfart von den nüwen lant¬,ben̄ von miner widerfart von den nuwen lant,0.06976744186046512,0.375,0.375,7474185,openai
+5,ſchafften die ich mit Claſſen verſambneter ſchif,ſchafften die ich mit Claſſen verſambneter ſchif,0.0,0.0,0.0,7474185,openai
+6,fen mit ſchwerem koſten von gebot des Durchlichtigo¬,ſen mit ſchwerem koſten von̄ gebot des Durchlichtigoſ,0.057692307692307696,0.375,0.375,7474185,openai
+7,ſten Künigs von portigal durchſuͦcht haben vnd fundē,ſten Rünigs von portigal durchſüͤcht haben vnd funden,0.09615384615384616,0.375,0.375,7474185,openai
+8,Die man mag die Nuwen welt nennen/ So by vnſern̄,Die man mag die Nuwen welt nennen/ So by vnſerñ,0.041666666666666664,0.1,0.1,7474185,openai
+9,vorfarn̄ vettern̄ dauon keyn wiſſen geweſen/ vnd allen dē,vorfarn vettern dauon keyn wissen gewesen / vnd allen de,0.12280701754385964,0.6666666666666666,0.6666666666666666,7474185,openai
+10,die ſolichs hoͤren eyn aller ding nuws ſy/ Sunder ouch,die ſolichs höͤren eyn aller ding nuws ſy/ Sunder ouch,0.018518518518518517,0.1,0.1,7474185,openai
+11,das alle wenung vnßer eltern über trüfft ſo doch der mer,das alle wenung vnſer eltern über trúfft ſo doch der mer,0.03571428571428571,0.18181818181818182,0.18181818181818182,7474185,openai
+12,teyl der ſelben ſpricht/ das über die glichmitnechtige ly¬,teyl der ſelben ſpricht/ das über die glichmitnechtige ly-,0.017241379310344827,0.1111111111111111,0.1111111111111111,7474185,openai
+13,nien genant Equinoctialis. vn̄ gegē mittag keyn wonūg,nien genant Equinoctialis. vn̄ gege mittag teyn wonīg,0.05660377358490566,0.375,0.375,7474185,openai
+14,d̓ litten ſunder alleyn dz groſ mer inhaltē/ Das ſy nennē,s litten ſünder alleyn dz gros mer inhaltē / Das ſy nenne,0.10526315789473684,0.5454545454545454,0.5454545454545454,7474185,openai
+15,das Attlandiſch mer/ Und ob yemand der ſelbē wonun,das Attlandisch mer/ Vnd ob yemand der ſelbe wonun,0.06,0.3333333333333333,0.3333333333333333,7474185,openai
+16,gen daſelbs ſyn geredt ſo habē ſy doch vß vil ſachen das,gen daſelbs ſyn geredt ſo habẽ ſy doch vß vil ſachen das,0.017857142857142856,0.08333333333333333,0.08333333333333333,7474185,openai
+17,da wonhafftig land vnd ertrich ſy widerredt/ Aber dz ſo,da wonhafftig land vnd ertrich ſy widerredt/ Aber dz ſo,0.0,0.0,0.0,7474185,openai
+18,lich ir wenen falſch vn̄ der worheit widerig ſy in alle weg,lich ir wenen falſch vn̄ der worheit widerig ſy in alle weg,0.0,0.0,0.0,7474185,openai
+19,hat diß mindeſte ſchiffung bewyßt/ So ich in den ſelben,hat diß min̄ eſte ſchiffung bewyſt/ So ich in den ſelben,0.05454545454545454,0.3,0.3,7474185,openai
+20,gegnūgen gegen mittag menſchliche inwonung funden,gegnügen gegen mittag menſchliche inwōung funden,0.061224489795918366,0.3333333333333333,0.3333333333333333,7474185,openai
+21,hab mit vil volcks vnd vil thieren bewert/ den̄ vnſer euro,hab mit vil volcks vnd vil thieren bewert/ den̄ vnſer euro,0.0,0.0,0.0,7474185,openai
+22,pa oder Aſiam oder Affricam/ vnnd ſo vil me geſunden,pa oder Aſiam oder Affricam/ vnnd ſo vil me geſunden,0.0,0.0,0.0,7474185,openai
+23,temperierten lufft ſchon vnd luter me vnd luſtiger denn,temperierten lufft ſchon vnd luter me vnd luſtiger den̄,0.01818181818181818,0.1111111111111111,0.1111111111111111,7474185,openai
+24,in eynicher andern lantſchafft die wir wiſſen/ Als du har,in eynicher andern lantſchafft die wir wiſſen/ Als du har,0.0,0.0,0.0,7474185,openai
+25,nach ſehen vnd verſtan würſt ſo ich kurtz die obern̄ ding,nach ſehen vnd verſtan würſt ſo ich kurtz die obern̄ ding,0.0,0.0,0.0,7474185,openai
+26,beſchriben vnd die ding ſo vermerckens vnd gedechtniß,beſchrieben vnd die ding ſo vermerckens vnd gedechtniß,0.018867924528301886,0.125,0.125,7474185,openai
+27,aller würdigeſt vn̄ von mir geſehen oder gehoͤrt in dißer,aller würdigest vn̄ von mir gesehen oder gehort in diſer,0.07017543859649122,0.4,0.4,7474185,openai
+28,nüwen welt ſind/ Als harnach gezeygt würt.,nürwen welt ſind/ Als harnach geſeygt würt-,0.07142857142857142,0.42857142857142855,0.42857142857142855,7474185,openai

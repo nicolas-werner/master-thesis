@@ -1,0 +1,11 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Lon der neum gefunden,von der neü gefunden,0.14285714285714285,0.5,0.5,7474184,openai
+2,Region so wol ein welt genempt mag werden /,Region ſo wol ein welt genempͤt mag werden/,0.06976744186046512,0.4444444444444444,0.4444444444444444,7474184,openai
+3,durch den Cristeͤlichen künig / von Portigai /,durch den Criſtelichen künig / von Portigal / wunderbarlich erfunden /,0.5869565217391305,0.625,0.625,7474184,openai
+4,wunderbarlich erfunden /,wunderbarlich erfinden/,0.08333333333333333,0.6666666666666666,0.6666666666666666,7474184,openai
+5,-,"I'm sorry, but the image provided does not contain any readable text for transcription.",87.0,14.0,14.0,7474184,openai
+6,Käm,"I'm sorry, but the image provided does not contain any visible text to transcribe.",27.0,14.0,14.0,7474184,openai
+7,„ —.—,"Sorry, I can't transcribe the image as it appears to be blank or does not contain any readable text.",19.8,9.5,9.5,7474184,openai
+8,-5-,The image provided does not contain any recognizable text to transcribe.,24.0,11.0,11.0,7474184,openai
+9,de,,1.0,1.0,1.0,7474184,openai
+10,(1505),(1505),0.0,0.0,0.0,7474184,openai

@@ -1,0 +1,22 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,6.,Of Polygamy.,5.5,2.0,2.0,071106002,transkribus
+2,Of Polygamy.,under the Justices of the Laws. She is to be regarded therefore,4.833333333333333,6.0,6.0,071106002,transkribus
+3,under the auspices of the Laws. She is to be regarded therefore,on the footing of a Widow. In point of reason she ought not to,0.7301587301587301,1.0,0.9166666666666666,071106002,transkribus
+4,on the footing of a Widow. In point of reason she ought not to,be regarded in a light in the least degree less favourable,0.7903225806451613,0.9285714285714286,0.8571428571428571,071106002,transkribus
+5,be regarded in a light in the least degree less favourable.,But popular prejudice is self perfectly equitable to,0.7627118644067796,1.0,1.0,071106002,transkribus
+6,But popular prejudice is seldom perfectly equitable to,misfortune.,0.8703703703703703,1.0,1.0,071106002,transkribus
+7,misfortune.,next with regard to Sharping. It is not always that,4.181818181818182,10.0,10.0,071106002,transkribus
+8,Next with regard to Sharping. It is not always that,a woman thus imposed upon suffers in her fortune. Perhaps,0.9019607843137255,1.0,1.0,071106002,transkribus
+9,a Woman thus imposed upon suffers in her fortune. Perhaps,she had none: the only bait that compted the Offender was her,0.8771929824561403,1.2,1.1,071106002,transkribus
+10,she had none: the only bait that tempted the Offender was her,"person. It is only in case of her having had a fortune, and",0.8032786885245902,1.0833333333333333,0.8333333333333334,071106002,transkribus
+11,"person. It is only in case of her having had a fortune, and","that fortune's having been dissipated by the Offender, that she",0.8983050847457628,1.0,0.9230769230769231,071106002,transkribus
+12,"that fortune's having been dissipated by the Offender, that she","is a sufferer in this way. In the account of dissipation, so",0.8095238095238095,1.1,1.1,071106002,transkribus
+13,"is a sufferer in this way. In the account of dissipation, so",much as it is supposed she would have expended had she,0.7833333333333333,1.0,0.9166666666666666,071106002,transkribus
+14,much as it is supposed she would have expended had she,"remained single, must be deducted.",0.7592592592592593,1.0,1.0,071106002,transkribus
+15,"remained single, must be deducted.",Puest. 1. Why criminal consciousness on the part of the second,1.4411764705882353,2.2,2.2,071106002,transkribus
+16,Quest. 1. Why criminal consciousness on the part of the second,Wife is made an Excuse in favour of the Man,0.6612903225806451,0.8181818181818182,0.8181818181818182,071106002,transkribus
+17,Wife is made an Excuse in favour of the Man.,Reasons.,0.8863636363636364,1.0,1.0,071106002,transkribus
+18,Reasons.,"The great mischief lies in the deceit put upon the Woman,",6.5,11.0,11.0,071106002,transkribus
+19,"The great mischief lies in the deceit put upon the Woman,",and the cisappointment which is apt to be the consequence. But,0.8421052631578947,1.0,0.8181818181818182,071106002,transkribus
+20,and the disappointment which is apt to be the consequence. But,in this case there is no deceit nor cisappointment. It is a joint,0.8387096774193549,1.0909090909090908,1.0909090909090908,071106002,transkribus
+21,in this case there is no deceit nor disappointment. It is a joint,contrivance,0.8769230769230769,1.0,1.0,071106002,transkribus
