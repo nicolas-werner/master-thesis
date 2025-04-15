@@ -1,0 +1,26 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,nie geſehen oder beſchryben ſynd wil ich harnach ſagen/,nie geſehen oder beſchryben ſynd wil ich harnach ſagen/,0.0,0.0,0.0,7474190,openai
+2,Darumb am erſten der lütten halb/ So haben wir in dy,Darumb an erſten der lütten halb/ So haben wir in dy,0.019230769230769232,0.09090909090909091,0.09090909090909091,7474190,openai
+3,ſen landen vnd region funden ſo vil vn̄ ſo groſſe der voͤl¬,ſen landen vn̄ region funden ſo vil vn̄ ſo groſſe der vol,0.05084745762711865,0.16666666666666666,0.16666666666666666,7474190,openai
+4,cker/ ſcharen vnd lüt/ das die nyeman erzellen moͤcht als,cker/ ſcharen vn̄ lüt/ das die nieman erſzellen moͤcht alſ,0.07017543859649122,0.4,0.4,7474190,openai
+5,man lißt im Apocalipſi/ Eyn volck ſag ich eyn milt guͤtig,man liſt im Apocalipſi/ ſeyn volck ſag ich eyn mile gütig,0.10526315789473684,0.36363636363636365,0.36363636363636365,7474190,openai
+6,vnd hantwiſyg vnd gand alle nackend beyde weyb vnd,vn̄ barmherczig vnd gan͂ alle nachend beyde vnd weyſ,0.4,0.6666666666666666,0.5555555555555556,7474190,openai
+7,man/ vnd gantz on bedeckung ir lyben an allen enden vn̄,man/ vn̄ gan͂ on bedeckung ir lyben an allen enden vn̄,0.05454545454545454,0.18181818181818182,0.18181818181818182,7474190,openai
+8,wie Sy vß muͦter lyb kommen alſo gand ſy biß das ſy ge,ſy haben eyn lyb vormen alſo gan͂ ſo ſhip das ſy ſy,0.42592592592592593,0.6923076923076923,0.6153846153846154,7474190,openai
+9,ſterben/ Den̄ ſy ſind groß von lyb vierſchretig wol geſchi,ſteben/ ſeyn ſy ind groſſ von lyb vnd vierſehtig wol geſchick,0.27586206896551724,0.7,0.7,7474190,openai
+10,ckt/ guͦter ſchoͤnen lidmaß vnd geferbt etlicher maß gegē,rotter/ ſchoͤnen knaben vnd geſtalt erlicher vn̄ geſeg,0.43859649122807015,0.7777777777777778,0.7777777777777778,7474190,openai
+11,rotem/ Das ich meyn ienen von der vrſach kommen das,net/ Das ich meyn ich komen vnd der ſach komen da das,0.35294117647058826,0.7,0.7,7474190,openai
+12,ſy nackend gand vnd von der ſonnen beſcheynen alſo ge¬,ſy nackend gan͂ vn̄ den ſonnen beſcheynen alſo geſ,0.14814814814814814,0.5,0.5,7474190,openai
+13,ferbt werden/ Sy haben ouch wyt vnd groß harlock vn̄,wint/ vnd das ſy vnd von dy ſchoͤn haͤr vnd ir,0.7692307692307693,1.1,1.0,7474190,openai
+14,ſchwartz/ Sy ſind mit irem gang vnd mit ſpyl tribē det¬,ſchwartze/ ſy erſten garte vn̄ gan͂ mit ſpylwütze vnd,0.5454545454545454,0.9090909090909091,0.8181818181818182,7474190,openai
+15,tig vnd bering vnd guͤttiger ſchonen anlitten/ Die ſy do,ſchoͤn vnd ſy erſten garte vn̄ gan͂ mit ſpylwütze vnd,0.7857142857142857,0.9,0.7,7474190,openai
+16,ch inen ſelbs heßlich machen vnd vngeſtalt/ Den̄ ſy borē,ſchoͤn vnd mit wiſſem gebein vnd mit andern dingē,0.75,0.9,0.9,7474190,openai
+17,inen ſelbs loͤcher in die backen die muntlefftzen vn̄ die na¬,vnd mit fünſten vnd ſolich mit ander gemacht worden,0.7540983606557377,1.0,1.0,7474190,openai
+18,ſen vnd die oren/ Du ſolt ouch nit gedencken das ſoliche,nach ir gewonher vnd gebrauch/ Vnd ob du alſo ſcheſt,0.75,1.0,0.9090909090909091,7474190,openai
+19,loͤcher kleyn ſyen oder ſy eins alleyn haben den̄ ich etlich,ſy eyn ſchoͤn vngenon vnd großen ſelſamen vunderen,0.75,1.0,0.9090909090909091,7474190,openai
+20,geſehen hab die in iren anlitten alleyn Syben loͤcher der,geſehen/ Nemlich eyner menſche der da hatt in den bachen,0.7017543859649122,1.0,0.8,7474190,openai
+21,yegliches ſo groß was das eyn kriechen wol in eyns gan,ten alleyn vn̄ in den leſſten ſyben ſteyen dera etlich,0.8148148148148148,1.0,0.9090909090909091,7474190,openai
+22,moͤchte/ Sy verſtoſſen inen ſelbs ſoliche loͤcher mit blawē,in der lenge eynen ballen ſpan vn̄ vnd nit on groſſ,0.7966101694915254,1.2222222222222223,1.2222222222222223,7474190,openai
+23,ſteynen/ Criſtallen/ Marmor vnd alabaſter/ gar hübſch,verwendigeyn ſyn/ ſich hab dyde war genom̄/ vnd in be,0.8301886792452831,1.4285714285714286,1.2857142857142858,7474190,openai
+24,vnd ſchon vnd mit wiſſem gebein vnd mit andern̄ dingē,ſchetz/ dz ſiden ſolicher ſteine an gewich habē. vnd loe,0.8113207547169812,1.0,0.9,7474190,openai
+25,ſo mit künſten vnd koſtlich mit arbeyt gemacht werden,A iiiii,0.9245283018867925,1.0,1.0,7474190,openai

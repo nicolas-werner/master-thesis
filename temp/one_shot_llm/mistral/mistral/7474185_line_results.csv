@@ -1,0 +1,29 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Alberics Ueſpuccius Laurentio,Albericus Vespucius Laurentio,0.13793103448275862,0.6666666666666666,0.6666666666666666,7474185,mistral
+2,Petri Franciſci de Medicis vil gruͦß.,Petri. Francisco de Medicis vil griß.,0.13513513513513514,0.5,0.5,7474185,mistral
+3,N vergangnen tagē hab ich dir ebē wit geſchri¬,,1.0,1.0,1.0,7474185,mistral
+4,ben von miner widerfart von den nüwen lant¬,Ich vergangnen tage hab ich dir ebē wir geſchri,0.813953488372093,1.125,1.125,7474185,mistral
+5,ſchafften die ich mit Claſſen verſambneter ſchif,ben von mincr wunderfart von den ninwen lant,0.8125,1.1428571428571428,1.1428571428571428,7474185,mistral
+6,fen mit ſchwerem koſten von gebot des Durchlichtigo¬,ſchaffen die ich mit Claſſen verſambreer ſchif,0.7307692307692307,1.0,0.875,7474185,mistral
+7,ſten Künigs von portigal durchſuͦcht haben vnd fundē,fen mit ſchwerem koſten von gebot des Durchlichtigē,0.8846153846153846,1.0,0.875,7474185,mistral
+8,Die man mag die Nuwen welt nennen/ So by vnſern̄,ſten Kūnigs von portugal durchſūche haben und fincē,0.875,1.0,1.0,7474185,mistral
+9,vorfarn̄ vettern̄ dauon keyn wiſſen geweſen/ vnd allen dē,Sic man mag die Ynſeln wēl nennen/ So by vnſerū,0.7368421052631579,1.1111111111111112,1.1111111111111112,7474185,mistral
+10,die ſolichs hoͤren eyn aller ding nuws ſy/ Sunder ouch,vorſarin vertern daūn feyn wiſſen geweſen/ vnd allen de,0.8148148148148148,1.0,1.0,7474185,mistral
+11,das alle wenung vnßer eltern über trüfft ſo doch der mer,die folicha böſen eyn aller ding unnū ſy/ Sunder ouch,0.7321428571428571,1.0,1.0,7474185,mistral
+12,teyl der ſelben ſpricht/ das über die glichmitnechtige ly¬,das alle wenning vnſer ehern iber reiſſ so doch der mer,0.7758620689655172,1.2222222222222223,1.0,7474185,mistral
+13,nien genant Equinoctialis. vn̄ gegē mittag keyn wonūg,reycl der ſelben ſpachē/ das iber die glichmūnechtige ly,0.9245283018867925,1.125,1.125,7474185,mistral
+14,d̓ litten ſunder alleyn dz groſ mer inhaltē/ Das ſy nennē,nien genant Equinoctialīs vn̄ gege mūtrag feyn woning,0.7894736842105263,1.0,1.0,7474185,mistral
+15,das Attlandiſch mer/ Und ob yemand der ſelbē wonun,zlitten ūnder alleyn dēgroß me inhalcē/ Das ſy nenne,0.82,1.0,1.0,7474185,mistral
+16,gen daſelbs ſyn geredt ſo habē ſy doch vß vil ſachen das,das Antlantisch mer/ Vnd ob yemand der fulbē wonnū,0.8035714285714286,1.0,0.9166666666666666,7474185,mistral
+17,da wonhafftig land vnd ertrich ſy widerredt/ Aber dz ſo,gen daſelba ſyn geredt/ So habe ſy doch v̄ ſil ſachen das,0.8727272727272727,1.1,1.1,7474185,mistral
+18,lich ir wenen falſch vn̄ der worheit widerig ſy in alle weg,da wonbaftig land vnd ertreich ſy wiberredt/ Aber v̄ ſo,0.7457627118644068,1.0,0.9166666666666666,7474185,mistral
+19,hat diß mindeſte ſchiffung bewyßt/ So ich in den ſelben,lich ir wenēn falſch vn̄ der wahrheit wiberig ſy in alle weg,0.8,1.1,1.1,7474185,mistral
+20,gegnūgen gegen mittag menſchliche inwonung funden,hat diſ min eſtē ſchiffung bewyſt/ So ich in den ſelben,0.8163265306122449,1.8333333333333333,1.8333333333333333,7474185,mistral
+21,hab mit vil volcks vnd vil thieren bewert/ den̄ vnſer euro,gegūngen gegen mūtrag menſchliche inwonung funden,0.8620689655172413,1.0,1.0,7474185,mistral
+22,pa oder Aſiam oder Affricam/ vnnd ſo vil me geſunden,hab mī vil volcē vnd vil ūbriēn bewer/ Den vnſer cūo,0.8269230769230769,1.1,1.0,7474185,mistral
+23,temperierten lufft ſchon vnd luter me vnd luſtiger denn,pa ober Affam ober Africam/ vn̄d jo vīl me geſunden,0.7818181818181819,1.1111111111111112,1.0,7474185,mistral
+24,in eynicher andern lantſchafft die wir wiſſen/ Als du har,temperiertēn luft ſchon vnd luter me vn̄ luſtiger dem,0.7719298245614035,1.0,1.0,7474185,mistral
+25,nach ſehen vnd verſtan würſt ſo ich kurtz die obern̄ ding,in cynicher andern lantſchafft die wir wiſſen/ Als in bar,0.7719298245614035,1.0,0.9090909090909091,7474185,mistral
+26,beſchriben vnd die ding ſo vermerckens vnd gedechtniß,nach ſehen vn̄ verſtant wirff ſich fūrz die oberī ding,0.7924528301886793,1.25,1.0,7474185,mistral
+27,aller würdigeſt vn̄ von mir geſehen oder gehoͤrt in dißer,geſchaffen vnd die ding jo vermer ſeens vnd geſechnūs,0.7894736842105263,1.0,1.0,7474185,mistral
+28,nüwen welt ſind/ Als harnach gezeygt würt.,aller mūrdigkēt vn̄ von mir geſehen oder gebōt in diſer,1.0238095238095237,1.4285714285714286,1.4285714285714286,7474185,mistral

@@ -1,28 +1,25 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,Of simple Mercantile Defraudment,Of Simple Mercantile Defraudment,0.03125,0.25,0.25,071157001,gemini
-2,more advantage than it were to be wished it had over indi,more advantages than it were to be wished it had over indi,0.017543859649122806,0.08333333333333333,0.08333333333333333,071157001,gemini
-3,:gent merit: and an artificial arrangement of this sort would,: gent merit: and an artificial arrangement of this sort would,0.01639344262295082,0.2,0.2,071157001,gemini
-4,add to the natural incitements which verge a man from all,add to the natural incitements which urge a man from all,0.03508771929824561,0.09090909090909091,0.09090909090909091,071157001,gemini
-5,quarters to seek the acquirement of wealth by dishonesly,quarters to seek the acquirement of wealth by dishonesty,0.017857142857142856,0.1111111111111111,0.1111111111111111,071157001,gemini
-6,and other unworthy means. As to the affections of the peo=­,and other unworthy means. As to the affections of the peo,0.03389830508474576,0.09090909090909091,0.09090909090909091,071157001,gemini
-7,"-:ple, sool K;olings, and oppresive a preference given to the",":ple, is striking and oppressive a preference given to the",0.21311475409836064,0.4,0.4,071157001,gemini
+1,17 5,71,0.75,1.0,1.0,071157001,gemini
+2,Of Simple Merchantile Defraudment,Of Simple Mercantile Defraudment,0.030303030303030304,0.25,0.25,071157001,gemini
+3,more advantages than it were to be wished it had over indi:,more advantages than it were to be wished it had over indi,0.01694915254237288,0.08333333333333333,0.08333333333333333,071157001,gemini
+4,:gent merit: and an artificial arrangement of this sort would,: gent merit: and an artificial arrangement of this sort would,0.01639344262295082,0.2,0.2,071157001,gemini
+5,add to the natural incitements which urge a man from all,add to the natural incitements which urge a man from all,0.0,0.0,0.0,071157001,gemini
+6,quarters to seek the acquirement of wealth by dishonesty,quarters to seek the acquirement of wealth by dishonesty,0.0,0.0,0.0,071157001,gemini
+7,and other unworthy means. As to the affections of the peo:,and other unworthy means. As to the affections of the peo,0.017241379310344827,0.09090909090909091,0.09090909090909091,071157001,gemini
 8,less numerous class over the more numerous will na:,less numerous class over the more numerous will na.,0.0196078431372549,0.1111111111111111,0.1111111111111111,071157001,gemini
-9,:turally be but ill relished by the latter.,-turally he but ill relished by the latter.,0.046511627906976744,0.25,0.25,071157001,gemini
-10,"The difference, it is true, is rather apparent than","The difference, it is true, is rather apparent than",0.0,0.0,0.0,071157001,gemini
-11,real: for a man iniesponsible circumstances may probably,real: for a man in responsible circumstances may probably,0.03571428571428571,0.25,0.25,071157001,gemini
-12,in point of fact suffer as much by being deprived of part,in point of fact suffer as much by being deprived of part,0.0,0.0,0.0,071157001,gemini
-13,"of his property, nousidering the share of reputation that","of his property, considering the share of reputation that",0.03508771929824561,0.1111111111111111,0.1111111111111111,071157001,gemini
-14,"goes along with it, as a man in irresponsible circumstances","goes along with it, as a man in irresponsible circumstances.",0.01694915254237288,0.1,0.1,071157001,gemini
-15,would be by being made to undergo a severe corporal pu:,would be by being made to undergo a severe corporal puni=,0.05454545454545454,0.09090909090909091,0.09090909090909091,071157001,gemini
-16,­:nishment: and if both were to undergo the same corporal,=nishment: and if both were to undergo the same corporal,0.03508771929824561,0.1,0.1,071157001,gemini
-17,"punishment, the punishment, that is the suffering, though","punishment, the punishment, that is the suffering, though",0.0,0.0,0.0,071157001,gemini
-18,very much the reverse.,very much the reverse.,0.0,0.0,0.0,071157001,gemini
-19,equal,"equal,",0.2,1.0,1.0,071157001,gemini
-20,nominally [the same] would in reality be [much greater to the lat,"equal,
-nominally [the same] would in reality be much greater to the lat.",0.13846153846153847,0.25,0.25,071157001,gemini
-21,":ter.] But this distinction, however real, is too subtle to be gene:","ster. But this distinction, however real, is too subtle to be gene=",0.04411764705882353,0.16666666666666666,0.16666666666666666,071157001,gemini
-22,=rally,=rally,0.0,0.0,0.0,071157001,gemini
-23,171,171,0.0,0.0,0.0,071157001,gemini
-24,OLL.,OLL.,0.0,0.0,0.0,071157001,gemini
-25,71,71,0.0,0.0,0.0,071157001,gemini
-26,157,157,0.0,0.0,0.0,071157001,gemini
+9,real: for a man in responsible circumstances may probably,real: for a man in responsible circumstances may probably,0.0,0.0,0.0,071157001,gemini
+10,in point of fact suffer as much by being deprived of part,in point of fact suffer as much by being deprived of part,0.0,0.0,0.0,071157001,gemini
+11,"of his property, considering the share of reputation that","of his property, considering the share of reputation that",0.0,0.0,0.0,071157001,gemini
+12,"goes along with it, as a man in irresponsible circumstances","goes along with it, as a man in irresponsible circumstances.",0.01694915254237288,0.1,0.1,071157001,gemini
+13,:nishment: and if both were to undergo the same corporal,=nishment: and if both were to undergo the same corporal,0.017857142857142856,0.1,0.1,071157001,gemini
+14,"punishment, the punishment, that is the suffering, though","punishment, the punishment, that is the suffering, though",0.0,0.0,0.0,071157001,gemini
+15,":ter.] But this distinction , however real, is too subtle to be gene:","ster. But this distinction, however real, is too subtle to be gene=",0.057971014492753624,0.3076923076923077,0.3076923076923077,071157001,gemini
+16,"The difference, it is true, is rather apparent than","The difference, it is true, is rather apparent than",0.0,0.0,0.0,071157001,gemini
+17,would be by being made to undergo a severe corporal pu:,would be by being made to undergo a severe corporal puni,0.03636363636363636,0.09090909090909091,0.09090909090909091,071157001,gemini
+18,nominally [the same ] would in reality be much greater to the lat:,"equal,
+nominally [the same] would in reality be much greater to the lat.",0.13636363636363635,0.3076923076923077,0.23076923076923078,071157001,gemini
+19,:rally,=rally,0.16666666666666666,1.0,1.0,071157001,gemini
+20,":ple, so striking and oppressive a preference given to the",":ple, is striking and oppressive a preference given to the",0.034482758620689655,0.1,0.1,071157001,gemini
+21,:turally be but ill relished by the latter.,-turally he but ill relished by the latter.,0.046511627906976744,0.25,0.25,071157001,gemini
+22,"equal, very much the reverse.","equal,",0.7931034482758621,0.8,0.8,071157001,gemini
+23,C,,1.0,1.0,1.0,071157001,gemini

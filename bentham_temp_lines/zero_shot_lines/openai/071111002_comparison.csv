@@ -1,0 +1,24 @@
+line_number,ground_truth,prediction,cer,wer,bwer
+1,2.,,1.0,1.0,1.0
+2,Of Family Imposture.,of Family Imposture.,0.05,0.3333333333333333,0.3333333333333333
+3,pretended mother was or was not privy to the Imposture.,pretended mother was or was not privy to the Imposture.,0.0,0.0,0.0
+4,4. But if any one bring up a child begotten of a married Woman,4. But if any one bring up a child begotten of a married Woman,0.0,0.0,0.0
+5,during the continuance of the marriage by and Adulterer  as if it,during the continuance of the marriage by an Adulterer  as if it,0.015384615384615385,0.08333333333333333,0.08333333333333333
+6,were the child of the Husband  this is not Family Imposture.,were the child of the Husband  this is not Family Imposture,0.016666666666666666,0.09090909090909091,0.09090909090909091
+7,Punishment.,Punishment.,0.0,0.0,0.0
+8,For Family Imposture the Punishment of an Impostor,For Family Imposture the Punishment of an Impostor,0.0,0.0,0.0
+9,himself shall be as follows.,himself shall be as follows,0.03571428571428571,0.2,0.2
+10,1. He shall be punished ignominiously and afflictively with the,1. He shall be punished ignominiously and affectively with the,0.031746031746031744,0.1,0.1
+11,Impostor's Mask. See [Punishments],Impostor’s Mask. See [Punishments],0.029411764705882353,0.25,0.25
+12,2. He shall be imprisoned or confined to hard Labour for Life.,,1.0,1.0,1.0
+13,The Punishment of a Suborner shall be as follows:,The Punishment of a Suborner shall be as follows.,0.02040816326530612,0.1111111111111111,0.1111111111111111
+14,1. He shall be ignominiously connected with an Impostor or the Effig-,1. He shall be ignominiously connected with an Impostor or the Effe,0.043478260869565216,0.08333333333333333,0.08333333333333333
+15,-y of an Impostor.,- 94 of an Impostor.,0.16666666666666666,0.5,0.5
+16,2. He shall be imprisoned or confined to hard Labour for Life.,2. He shall be imprisoned or confined to hard Labour for Life,0.016129032258064516,0.08333333333333333,0.08333333333333333
+17,Exposition,Exposition,0.0,0.0,0.0
+18,[(A) Suborner] There may be a suborner of imposture  where there is no,(A) Suborner] There may be a suborner of imposture  where there is no,0.014285714285714285,0.07692307692307693,0.07692307692307693
+19,impostor: the party falsely pretended to possess the character in question,impostor: the party falsely pretended to possess the character in question,0.0,0.0,0.0
+20,not knowing but he is intitled to it; for instance in the case of a suppo=,not knowing but he is intitled to it: for instance in the case of a suppo,0.02702702702702703,0.125,0.125
+21,:ssitious Child. Excuses,excuses,0.75,1.0,1.0
+22,(A),,1.0,1.0,1.0
+23,C,,1.0,1.0,1.0

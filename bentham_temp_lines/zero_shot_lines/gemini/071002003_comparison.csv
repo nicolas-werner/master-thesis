@@ -1,0 +1,28 @@
+line_number,ground_truth,prediction,cer,wer,bwer
+1,founder's Law. 8. The Chymists Law &c. &c.,Founder's Law. 8. The Chymists Law. &c. &c.,0.047619047619047616,0.25,0.25
+2,6. From Storms. See the Seafaring-man's Law Sect. Con-,6. From Storms. See the seafaring-man's Law Sect. Con.,0.037037037037037035,0.2222222222222222,0.2222222222222222
+3,:cerning Storms.,: cerning Storms.,0.0625,1.0,1.0
+4,7. From the Plague and other infectious diseases. See Laws,7. From the Plague and other infectious diseases. See Laws,0.0,0.0,0.0
+5,concerning the Plague &c.,concerning the Plague &c.,0.0,0.0,0.0
+6,8. From Persons insane: See Laws concerning persons,V. From Persons insane: see Laws concerning persons,0.0392156862745098,0.25,0.25
+7,Maniac's Law,Maniac's Law,0.0,0.0,0.0
+8,insane or 1. The Madman's Law: 2. The Ideot's Law. 2. The,insane orl. Backsdonari's case. 2. The School's case. 2. The,0.42105263157894735,0.5833333333333334,0.5833333333333334
+9,Instructions to the Legislator.,Instructions to the Legislator.,0.0,0.0,0.0
+10,It is not clear that in every one of the several titles of,It is not clear that in every one of the several titles of,0.0,0.0,0.0
+11,Law above mentioned there will need a provision or set of,Law above mentioned there will need a provision or set of,0.0,0.0,0.0
+12,provisions  authorising one person to trespass upon the per-,provisions  authorising one person. to trespass upon the person,0.06666666666666667,0.2222222222222222,0.1111111111111111
+13,:son of another. To determine that question with respect to,son of another. To determine that question with respect to,0.01694915254237288,0.1,0.1
+14,any of them would be to enter upon a branch of Law fo:,any of them would be to enter upon a branch of Law fo=,0.018518518518518517,0.07692307692307693,0.07692307692307693
+15,:reign to that in hand. Nor with respect to every one of,: assign to that in hand. Nor with respect to every one of,0.07142857142857142,0.16666666666666666,0.16666666666666666
+16,these titles could such provisions be exhibited in terminis ,These titles could such provisions be exhibited in terminis,0.03333333333333333,0.2222222222222222,0.2222222222222222
+17,in any book of universal Law: since they will need to be,in any book of universal Law: since they will need to be,0.0,0.0,0.0
+18,different according to the various local circumstances of dif:,different according to the various local circumstances of dife,0.016129032258064516,0.1111111111111111,0.1111111111111111
+19,:ferent states and provinces. The above references are exhi:,: ferent states and provinces. The above references are echi:,0.03333333333333333,0.3333333333333333,0.3333333333333333
+20,:bited only in the way of example  to give a general idea),icited only in the way of example  to give a general idea.,0.05172413793103448,0.16666666666666666,0.16666666666666666
+21,of the mode of reference to be adopted on an occa:,of the mode of reference to be adopted or an,0.14,0.18181818181818182,0.18181818181818182
+22,:sion  like the present.,:dicon  like the present.,0.08333333333333333,0.25,0.25
+23,of,,1.0,1.0,1.0
+24,In like manner  neither is it clear that the names,In like manner neither is it clear that the names,0.02,0.1,0.1
+25,Of Justifications.,Justifications.,0.16666666666666666,0.5,0.5
+26,C,,1.0,1.0,1.0
+27,7.,7.,0.0,0.0,0.0

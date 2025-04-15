@@ -39,84 +39,30 @@ def calculate_cer(reference: str, hypothesis: str) -> float:
 
 def calculate_wer(reference: str, hypothesis: str) -> float:
     """
-    Calculate Word Error Rate (WER) between reference and hypothesis.
-
+    Calculate Word Error Rate.
+    
     Args:
         reference: Reference text (ground truth)
         hypothesis: Hypothesis text (transcription)
-
+        
     Returns:
         Word Error Rate (0.0 to 1.0)
     """
-    # Handle empty strings
-    if not reference or not hypothesis:
-        return 1.0
-
     try:
-        # Define transformation pipeline
-        transform = Compose([
-            RemovePunctuation(),
-            RemoveMultipleSpaces(),
-            ToLowerCase()
-        ])
-
-        # Calculate word error rate
-        return wer(reference, hypothesis,
-                  truth_transform=transform,
-                  hypothesis_transform=transform)
-    except ValueError:
-        # Fallback: calculate without transforms if there are issues
-        try:
-            return wer(reference, hypothesis)
-        except Exception as e:
-            print(f"Error calculating WER: {e}")
+        if not reference and not hypothesis:
+            return 0.0
+        if not reference or not hypothesis:
             return 1.0
-
-
-
-def calculate_bwer(reference, hypothesis):
-    """
-    Calculate Bag of Words Error Rate which is independent of reading order.
-
-    Formula from the paper: bWER(X,Y) = (1/2N)(|N-|Y|| + ∑|fX(v)-fY(v)|) Vidal et al. 2023
-
-    Args:
-        reference: Reference text (ground truth)
-        hypothesis: Hypothesis text (transcription)
-
-    Returns:
-        Bag of Words Error Rate (0.0 to 1.0)
-    """
-    # Handle empty strings
-    if not reference or not hypothesis:
+            
+        return wer(reference, hypothesis)
+    except Exception as e:
+        print(f"Error calculating WER: {e}")
         return 1.0
 
-    # Count word frequencies
-    ref_words = reference.split()
-    hyp_words = hypothesis.split()
-    N = len(ref_words)
-
-    if N == 0:
-        return 1.0
-
-    ref_counter = Counter(ref_words)
-    hyp_counter = Counter(hyp_words)
-
-    # Calculate differences in word frequencies
-    all_words = set(ref_counter.keys()).union(hyp_counter.keys())
-    word_diff_sum = sum(abs(ref_counter[w] - hyp_counter[w]) for w in all_words)
-
-    # Calculate unavoidable operations (difference in length)
-    unavoidable = abs(len(ref_words) - len(hyp_words))
-
-    # Calculate bWER according to the paper's formula
-    bwer = (unavoidable + (word_diff_sum - unavoidable)/2) / N
-
-    return bwer
 
 def calculate_wer_difference(reference, hypothesis):
     """
-    Calculate the difference between WER and bWER, which correlates with
+    Calculate the difference between WER and BOW Error Rate, which correlates with
     reading order errors.
 
     Args:
@@ -124,11 +70,30 @@ def calculate_wer_difference(reference, hypothesis):
         hypothesis: Hypothesis text (transcription)
 
     Returns:
-        WER-bWER difference (measure of reading order errors)
+        WER-BOW difference (measure of reading order errors)
     """
+    from collections import Counter
+    
+    # Count word frequencies for BOW calculation
+    ref_words = reference.split()
+    hyp_words = hypothesis.split()
+    
+    if not ref_words:
+        return 0.0
+        
+    ref_counter = Counter(ref_words)
+    hyp_counter = Counter(hyp_words)
+    
+    # Calculate BOW Error Rate
+    all_words = set(ref_counter.keys()).union(hyp_counter.keys())
+    bow_intersection = sum(min(ref_counter[w], hyp_counter[w]) for w in all_words)
+    bow_union = sum(max(ref_counter[w], hyp_counter[w]) for w in all_words)
+    bow_error_rate = 1.0 - (bow_intersection / bow_union if bow_union > 0 else 0.0)
+    
+    # Calculate WER
     wer_value = calculate_wer(reference, hypothesis)
-    bwer_value = calculate_bwer(reference, hypothesis)
-    return wer_value - bwer_value
+    
+    return wer_value - bow_error_rate
 
 
 def evaluate_transcription(
@@ -152,7 +117,7 @@ def evaluate_transcription(
             'document_metrics': {
                 'cer': 1.0,
                 'wer': 1.0,
-                'bwer': 1.0,
+                'bow_error_rate': 1.0,
                 'line_count_match': False,
                 'gt_line_count': len(gt_lines),
                 'transcription_line_count': len(transcription_lines)
@@ -170,15 +135,13 @@ def evaluate_transcription(
         # Calculate metrics for this line
         line_cer = calculate_cer(gt_line, transcription_line)
         line_wer = calculate_wer(gt_line, transcription_line)
-        line_bwer = calculate_bwer(gt_line, transcription_line)
 
         line_metrics.append({
             'line_number': i+1,
             'ground_truth': gt_line,
             'transcription': transcription_line,
             'cer': line_cer,
-            'wer': line_wer,
-            'bwer': line_bwer
+            'wer': line_wer
         })
 
     # Calculate document-level metrics
@@ -187,12 +150,27 @@ def evaluate_transcription(
 
     doc_cer = calculate_cer(gt_full, transcription_full)
     doc_wer = calculate_wer(gt_full, transcription_full)
-    doc_bwer = calculate_bwer(gt_full, transcription_full)
+    
+    # Calculate Bag of Words metrics
+    from collections import Counter
+    
+    # Tokenize texts (simple whitespace tokenization)
+    gt_tokens = gt_full.split()
+    pred_tokens = transcription_full.split()
+    
+    # Calculate Bag of Words distributions
+    gt_bow = Counter(gt_tokens)
+    pred_bow = Counter(pred_tokens)
+    
+    # Calculate Bag of Words Error Rate (Jaccard distance)
+    bow_intersection = sum((gt_bow & pred_bow).values())
+    bow_union = sum((gt_bow | pred_bow).values())
+    bow_error_rate = 1.0 - (bow_intersection / bow_union if bow_union > 0 else 0.0)
 
     document_metrics = {
         'cer': doc_cer,
         'wer': doc_wer,
-        'bwer': doc_bwer,
+        'bow_error_rate': bow_error_rate,
         'line_count_match': len(gt_lines) == len(transcription_lines),
         'gt_line_count': len(gt_lines),
         'transcription_line_count': len(transcription_lines)
@@ -285,12 +263,17 @@ def calculate_aggregate_metrics(results_dir: str, method: str) -> Dict[str, Any]
         'mean_wer': doc_df['wer'].mean(),
         'median_wer': doc_df['wer'].median(),
         'std_wer': doc_df['wer'].std(),
-        'mean_bwer': doc_df['bwer'].mean(),
-        'median_bwer': doc_df['bwer'].median(),
-        'std_bwer': doc_df['bwer'].std(),
         'line_match_rate': doc_df['line_count_match'].mean(),
         'num_documents': len(doc_df)
     }
+    
+    # Add BOW metrics if available
+    if 'bow_error_rate' in doc_df.columns:
+        aggregates.update({
+            'mean_bow': doc_df['bow_error_rate'].mean(),
+            'median_bow': doc_df['bow_error_rate'].median(),
+            'std_bow': doc_df['bow_error_rate'].std()
+        })
 
     # Save aggregate results
     pd.DataFrame([aggregates]).to_csv(

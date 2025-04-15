@@ -1,0 +1,8 @@
+line_number,ground_truth,prediction,cer,wer,bwer
+1,46,4.6,0.5,1.0,1.0
+2,Theft Embezzlement and Fraudulent obtainment,Theft Embezzlement and Fraudulent obtainment,0.0,0.0,0.0
+3,there is no difference in the punishment. It will easily,There is no difference in the punishment. It will easily,0.017857142857142856,0.1,0.1
+4,therefore be censured that they will be apt to,Wherefore be censured What they will be apt to,0.043478260869565216,0.2222222222222222,0.2222222222222222
+5,that difficulty in proportion as the punishment is,that difficulty in proportion as the punishment is,0.0,0.0,0.0
+6,more severe,more severe,0.0,0.0,0.0
+7,C,,1.0,1.0,1.0

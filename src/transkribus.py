@@ -12,7 +12,6 @@ from .file_utils import (
 from .metrics import (
     calculate_wer,
     calculate_cer,
-    calculate_bwer,
     calculate_wer_difference,
     evaluate_transcription,
     save_results,

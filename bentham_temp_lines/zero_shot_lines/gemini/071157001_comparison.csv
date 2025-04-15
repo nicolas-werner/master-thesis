@@ -1,0 +1,25 @@
+line_number,ground_truth,prediction,cer,wer,bwer
+1,17 5,71,0.75,1.0,1.0
+2,Of Simple Merchantile Defraudment,Of Simple Mercantile Defraudment,0.030303030303030304,0.25,0.25
+3,more advantages than it were to be wished it had over indi:,more advantages than it were to be wished it had over indi,0.01694915254237288,0.08333333333333333,0.08333333333333333
+4,:gent merit: and an artificial arrangement of this sort would,: gent merit: and an artificial arrangement of this sort would,0.01639344262295082,0.2,0.2
+5,add to the natural incitements which urge a man from all,add to the natural incitements which urge a man from all,0.0,0.0,0.0
+6,quarters to seek the acquirement of wealth by dishonesty,quarters to seek the acquirement of wealth by dishonesty,0.0,0.0,0.0
+7,and other unworthy means. As to the affections of the peo:,and other unworthy means. As to the affections of the peo,0.017241379310344827,0.09090909090909091,0.09090909090909091
+8,less numerous class over the more numerous will na:,less numerous class over the more numerous will na.,0.0196078431372549,0.1111111111111111,0.1111111111111111
+9,real: for a man in responsible circumstances may probably,real: for a man in responsible circumstances may probably,0.0,0.0,0.0
+10,in point of fact suffer as much by being deprived of part,in point of fact suffer as much by being deprived of part,0.0,0.0,0.0
+11,of his property  considering the share of reputation that,of his property  considering the share of reputation that,0.0,0.0,0.0
+12,goes along with it  as a man in irresponsible circumstances,goes along with it  as a man in irresponsible circumstances.,0.01694915254237288,0.1,0.1
+13,:nishment: and if both were to undergo the same corporal,=nishment: and if both were to undergo the same corporal,0.017857142857142856,0.1,0.1
+14,punishment  the punishment  that is the suffering  though,punishment  the punishment  that is the suffering  though,0.0,0.0,0.0
+15,:ter.] But this distinction   however real  is too subtle to be gene:,ster. But this distinction  however real  is too subtle to be gene=,0.057971014492753624,0.3076923076923077,0.3076923076923077
+16,The difference  it is true  is rather apparent than,The difference  it is true  is rather apparent than,0.0,0.0,0.0
+17,would be by being made to undergo a severe corporal pu:,would be by being made to undergo a severe corporal puni,0.03636363636363636,0.09090909090909091,0.09090909090909091
+18,nominally [the same ] would in reality be much greater to the lat:,equal 
+nominally [the same] would in reality be much greater to the lat.,0.13636363636363635,0.3076923076923077,0.23076923076923078
+19,:rally,=rally,0.16666666666666666,1.0,1.0
+20,:ple  so striking and oppressive a preference given to the,:ple  is striking and oppressive a preference given to the,0.034482758620689655,0.1,0.1
+21,:turally be but ill relished by the latter.,-turally he but ill relished by the latter.,0.046511627906976744,0.25,0.25
+22,equal  very much the reverse.,equal ,0.7931034482758621,0.8,0.8
+23,C,,1.0,1.0,1.0

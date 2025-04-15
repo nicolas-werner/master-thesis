@@ -1,34 +1,34 @@
-line_number,ground_truth,prediction,transkribus,cer,wer,bwer
-1,nie geſehen oder beſchryben ſynd wil ich harnach ſagen/,nie gesehen oder beschryben synd wil ich harnach sagen,nie gesehen oder beschryben synd wil ich harnach sagen ,0.09090909090909091,0.4444444444444444,0.4444444444444444
-2,Darumb am erſten der lütten halb/ So haben wir in dy,Darumb amersten der lütten halb/ So haben wir in dy,Dat umb am ersten der lütten halb/ So haben wir in dy,0.038461538461538464,0.18181818181818182,0.18181818181818182
-3,ſen landen vnd region funden ſo vil vn̄ ſo groſſe der voͤl¬,sen landen vnd region funden so vil vn̄ so grosse der völ̄,sen landen vnd region funden so vil vn̄ so grosse der vol¬,0.13559322033898305,0.4166666666666667,0.4166666666666667
-4,cker/ ſcharen vnd lüt/ das die nyeman erzellen moͤcht als,ecker/scharen vnd lüt/das die nyeman erzellen möcht als,cker/ scharen vnd lut/ das die nyeman erzellen mocht als,0.10526315789473684,0.5,0.5
-5,man lißt im Apocalipſi/ Eyn volck ſag ich eyn milt guͤtig,man list im ¬Apocalipsi/ Eyn volc sag ich eyn milt giͤftig,man lißt im Aprilipsi / Eyn volck sag ich eyn milt guͤtig,0.12280701754385964,0.45454545454545453,0.45454545454545453
-6,vnd hantwiſyg vnd gand alle nackend beyde weyb vnd,vnd hantwisyg vnd gand alle nactend beyde weyb vnd,vnd hantwisyg vnd gand alle nackend beyde weyb vnd,0.04,0.2222222222222222,0.2222222222222222
-7,man/ vnd gantz on bedeckung ir lyben an allen enden vn̄,man/vnd gantz on bedectung iͤ lyben an allen enden vn,man/ vnd gantz on bedeckung ir lyben an allen enden vn̄,0.07272727272727272,0.45454545454545453,0.45454545454545453
-8,wie Sy vß muͦter lyb kommen alſo gand ſy biß das ſy ge,wie ¶y v̄k mīster lyb komen also qand ¶y biß das ¶y ge,wie Sy vß muͤter lyb kommen also gand sy biß das sy ge,0.18518518518518517,0.6153846153846154,0.6153846153846154
-9,ſterben/ Den̄ ſy ſind groß von lyb vierſchretig wol geſchi,sterben/ Den sy sind gros von lyb vierschietig wol gesch,sterben / Senn sy sind groß von lyb vierschretig wol geschi,0.15517241379310345,0.7,0.7
-10,ckt/ guͦter ſchoͤnen lidmaß vnd geferbt etlicher maß gegē,ctt/guͤter schoͤnen lidmáß vnd geserbt etlicher máß gege,ckt/ güter schönen lidmaß vnd geferbt etlicher maß gegen,0.14035087719298245,0.7777777777777778,0.7777777777777778
-11,rotem/ Das ich meyn ienen von der vrſach kommen das,rotem/Das ich meyn ichen von der vrsach kommen das,rotem / Das ich meyn ienen von der vrsach kommen das,0.0784313725490196,0.4,0.4
-12,ſy nackend gand vnd von der ſonnen beſcheynen alſo ge¬,sy nactend gand vnd von der sonnen Bescheynen also ge,sy nackend gand vnd von der sonnen bescheynen also ge¬,0.12962962962962962,0.6,0.6
-13,ferbt werden/ Sy haben ouch wyt vnd groß harlock vn̄,ferst werden / Sy haben ouch wyt vnd groͤs harloct v̄,ferbt werden. Sy haben ouch wyt vnd groß harlock vn̄,0.11538461538461539,0.6,0.6
-14,ſchwartz/ Sy ſind mit irem gang vnd mit ſpyl tribē det¬,schwartz/Sy sind mit irem gang vnd mit spyl tribe det,schwartz/ Sy sind mit item gang vnd mit spyl triben det¬,0.10909090909090909,0.5454545454545454,0.5454545454545454
-15,tig vnd bering vnd guͤttiger ſchonen anlitten/ Die ſy do,tig vnd bering vnd guttiger schonen anlitten. Die fy do,tig vnd bering vnd guttiger schonen anlitten/ Sie sy do,0.07142857142857142,0.4,0.4
-16,ch inen ſelbs heßlich machen vnd vngeſtalt/ Den̄ ſy borē,ich inen selbs heßlich machen vnd vngestalt,ch inen selbst heßlich machen vnd vngestalt/ Denen sy borem,0.30357142857142855,0.6,0.6
-17,inen ſelbs loͤcher in die backen die muntlefftzen vn̄ die na¬,inen selb̄e loͤcher in die backen die muntleffzen vn die nas,inen selbs löcher in die backen die muntlefftzen vn die na¬,0.09836065573770492,0.36363636363636365,0.36363636363636365
-18,ſen vnd die oren/ Du ſolt ouch nit gedencken das ſoliche,set vnd die oren/ Du solt ouch nit gedencken das soliche,sen vnd die oren / Du solt ouch nit gedencken das soliche,0.07142857142857142,0.2727272727272727,0.2727272727272727
-19,loͤcher kleyn ſyen oder ſy eins alleyn haben den̄ ich etlich,lſcher kleyn ſyuen oder ſy eins alleyn haben den ich etlich,loͤcher kleyn syn oder sy eins alleyn haben den ich etlich,0.06666666666666667,0.2727272727272727,0.2727272727272727
-20,geſehen hab die in iren anlitten alleyn Syben loͤcher der,geschen hab die in iren anlitten alleyn Syben löcher der,gesehen hab die in iren anlitten alleyn Syben loͤcher der,0.07017543859649122,0.2,0.2
-21,yegliches ſo groß was das eyn kriechen wol in eyns gan,yegliches so gross was das eyn triechen wol in eyns gan,yegliches so groß was das eyn kriechen wol in eyns gan,0.07407407407407407,0.2727272727272727,0.2727272727272727
-22,moͤchte/ Sy verſtoſſen inen ſelbs ſoliche loͤcher mit blawē,möchte/ſy verſtossen inen ſelbs ſoliche löcher mitblauſ,mochte. Sy verstossen inen selbst soliche löcher mitblawe,0.1864406779661017,0.6666666666666666,0.6666666666666666
-23,ſteynen/ Criſtallen/ Marmor vnd alabaſter/ gar hübſch,steynen/Criſfallen/ſarmor vnd alabaster/gar hüͤbſch,steynen / Cristallen / Marmor vnd alabaster / gar hübsch,0.1509433962264151,0.8571428571428571,0.8571428571428571
-24,vnd ſchon vnd mit wiſſem gebein vnd mit andern̄ dingē,vnd schon vnd mit wissem gebein vnd mit andern dinge,vnd schon vnd nit wissem gebein vnd mit andern̄ dingen,0.09433962264150944,0.4,0.4
-25,ſo mit künſten vnd koſtlich mit arbeyt gemacht werden,so mit künsten vnd kostlich mit arbeyt gemacht werden,so mit künsten vnd kostlich mit arbeyt gemacht werden,0.05660377358490566,0.3333333333333333,0.3333333333333333
-26,nach ir gewonheyt vnd gebruch/ Und ob du alſo ſeheſt,nach ir gewonheyt vnd gebruch / Vnd ob du also sehest,nach ir gewonheyt vnd gebruch / und ob du also sehest,0.09615384615384616,0.5,0.5
-27,eyn ſo frembd vngewon ding groſſem ſeltzemen wunder,eyn so frembd vngemwon ding grossem seltz̄emen wunder,eyn so frembd vngewon ding grossem seltzemen wunder,0.11764705882352941,0.5,0.5
-28,gliche/ Nemlich eynen menſchē der da hatt in den back,gliche /Nemlich eynen mensche der da hatt in den Bact,gliche Nemlich eynen mensche der da hatt in den Back,0.11320754716981132,0.4,0.4
-29,ken alleyn vnnd in den lefftzen Syben ſteyn dera ettlich,fen alleyn vnd in den leffſen Syben ſteyn deren ettlich,ren alleyn vnnd in den lefftzen Syben steyn dera ettlich,0.10714285714285714,0.4,0.4
-30,in der lenge eyner halben ſpann du wurdeſt nit on groß,in der lenge eȳer halben spann du wurdest nit on groͤs,in der lenge eyner halben spann du wurdest nit on groß,0.1111111111111111,0.36363636363636365,0.36363636363636365
-31,verwūderūg ſyn/ Dē ich hab dyck wargenomē vn̄ über,verwiſderůg ſyn. ſe ich hab dyct wargenomſt von ŭber,verwſederug syn / Den ich hab dyck wargenomen vn̄ uber,0.24,0.7777777777777778,0.7777777777777778
-32,ſchetzt/ dz Siben ſolicher ſteinē an gewicht habē .xvi. lot,schetz/doz Siben solicher steine an gewicht habe .xvi. lot,schetzt / dr Siben solicher steinem an gewicht habe.xvi. lot,0.13559322033898305,0.5,0.5
-33,A iiii,,Aiiii,1.0,1.0,1.0
+line_number,ground_truth,prediction,cer,wer
+1,nie geſehen oder beſchryben ſynd wil ich harnach ſagen/,nie gesehen oder BESCHRYBEN synd wil ich harnach sagen,0.2545454545454545,0.4444444444444444
+2,Darumb am erſten der lütten halb/ So haben wir in dy,Darumb amersten der lütten halb/ So haben wir in dy,0.038461538461538464,0.18181818181818182
+3,ſen landen vnd region funden ſo vil vn̄ ſo groſſe der voͤl¬,sen landen vnd region funden so vil vn̄ so grosse der völ¬,0.11864406779661017,0.4166666666666667
+4,cker/ ſcharen vnd lüt/ das die nyeman erzellen moͤcht als,ecker/scharen vnd lüt/das die nyeman erzellen möcht als,0.10526315789473684,0.5
+5,man lißt im Apocalipſi/ Eyn volck ſag ich eyn milt guͤtig,man list im ¬Apocalipsi/ Eyn volck sag ich eyn milt guͤtig,0.07017543859649122,0.2727272727272727
+6,vnd hantwiſyg vnd gand alle nackend beyde weyb vnd,vnd hantwisyg vnd gand alle nackend beyde weyb vnd,0.02,0.1111111111111111
+7,man/ vnd gantz on bedeckung ir lyben an allen enden vn̄,man/vnd gantz on bedectung ī lyben an allen enden vn̄,0.07272727272727272,0.36363636363636365
+8,wie Sy vß muͦter lyb kommen alſo gand ſy biß das ſy ge,wie ¶y vß můter lyb komen also qand ¶y biß das ¶y ge,0.14814814814814814,0.5384615384615384
+9,ſterben/ Den̄ ſy ſind groß von lyb vierſchretig wol geſchi,sterben / Den sy sind gros von lyb vierschietig wol geschriben,0.22413793103448276,0.8
+10,ckt/ guͦter ſchoͤnen lidmaß vnd geferbt etlicher maß gegē,ctt/guͤter schoͤnen lidmaͤß vnd geferbt etlicher maͤß gege,0.12280701754385964,0.6666666666666666
+11,rotem/ Das ich meyn ienen von der vrſach kommen das,rotem / Das ich meyn ichen von der vrsach komen das,0.09803921568627451,0.5
+12,ſy nackend gand vnd von der ſonnen beſcheynen alſo ge¬,sy nackend gand vnd von der sonnen Bescheynen also ge¬,0.09259259259259259,0.4
+13,ferbt werden/ Sy haben ouch wyt vnd groß harlock vn̄,ferst werden / Sy haben ouch wyt vnd groß harloct vn̄,0.057692307692307696,0.4
+14,ſchwartz/ Sy ſind mit irem gang vnd mit ſpyl tribē det¬,schwartz/ Sy sind mit irem gang vnd mit spyl tribē det,0.07272727272727272,0.45454545454545453
+15,tig vnd bering vnd guͤttiger ſchonen anlitten/ Die ſy do,tig vnd bering vnd guttiger schonen anlitten/ Die sy do,0.05357142857142857,0.3
+16,ch inen ſelbs heßlich machen vnd vngeſtalt/ Den̄ ſy borē,ch inen selbs heßlich machen vnd vngestalt/ Den sy bore,0.08928571428571429,0.5
+17,inen ſelbs loͤcher in die backen die muntlefftzen vn̄ die na¬,inen selb̄ löcher in die backen die muntleffſen vn die nas̄,0.14754098360655737,0.45454545454545453
+18,ſen vnd die oren/ Du ſolt ouch nit gedencken das ſoliche,set vnd die oren / Du solt ouch nit gedencken das soliche,0.08928571428571429,0.45454545454545453
+19,loͤcher kleyn ſyen oder ſy eins alleyn haben den̄ ich etlich,löͤcher kleyn syen oder sy eins alleyn haben den ich etlich,0.06666666666666667,0.36363636363636365
+20,geſehen hab die in iren anlitten alleyn Syben loͤcher der,gesēhen hab die in iren anlitten alleyn Syben löcher der,0.07017543859649122,0.2
+21,yegliches ſo groß was das eyn kriechen wol in eyns gan,yegliches so gros was das eyn triechen wol in eyns gan,0.05555555555555555,0.2727272727272727
+22,moͤchte/ Sy verſtoſſen inen ſelbs ſoliche loͤcher mit blawē,möchte. Sy verstossen inen selbs solche löcher mitblawe,0.22033898305084745,0.7777777777777778
+23,ſteynen/ Criſtallen/ Marmor vnd alabaſter/ gar hübſch,steynen/Criſſallen/ſſarmor vnd alabaster/gar hüͤbſch,0.1509433962264151,0.8571428571428571
+24,vnd ſchon vnd mit wiſſem gebein vnd mit andern̄ dingē,vnd schon vnd mit wissem gebein vnd mit andern dingen,0.11320754716981132,0.4
+25,ſo mit künſten vnd koſtlich mit arbeyt gemacht werden,so mit künsten vnd kostlich mit arbeyt gemacht werden,0.05660377358490566,0.3333333333333333
+26,nach ir gewonheyt vnd gebruch/ Und ob du alſo ſeheſt,nach ir gewonheyt vnd gebruch / Vnd ob du also sehest,0.09615384615384616,0.5
+27,eyn ſo frembd vngewon ding groſſem ſeltzemen wunder,eyn so frembd vngewon ding grossem seltzemen wunder,0.0784313725490196,0.375
+28,gliche/ Nemlich eynen menſchē der da hatt in den back,gliche / Nemlich eynen mensche der da hatt in den Back,0.07547169811320754,0.4
+29,ken alleyn vnnd in den lefftzen Syben ſteyn dera ettlich,fen alleyn vnnd in den leffſen Syben ſteyn dern ettlich,0.07142857142857142,0.3
+30,in der lenge eyner halben ſpann du wurdeſt nit on groß,in der lenge eȳner halben spann du wurdest nit on groẜ,0.07407407407407407,0.36363636363636365
+31,verwūderūg ſyn/ Dē ich hab dyck wargenomē vn̄ über,verwiſſederůg ſyn / ſe ich hab dyck wargenomen von ŭber,0.26,0.7777777777777778
+32,ſchetzt/ dz Siben ſolicher ſteinē an gewicht habē .xvi. lot,schetzt/ſſ Siben ſolicher ſteine an gewicht habe .xvi. lot,0.1016949152542373,0.4
+33,A iiii,Āūit̄,0.8333333333333334,1.0

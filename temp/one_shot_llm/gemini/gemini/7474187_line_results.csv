@@ -1,0 +1,28 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,cher verderbung ſchiffbruchē was liplicher vnfuͦrē wyr,cher verderbung ſchiffbruche was liplicher vnſure wyr\n,0.1111111111111111,0.42857142857142855,0.42857142857142855,7474187,gemini
+2,gelitten habē/ Und mit was angſtē vnſers gemuͤtes wir,gelitten habe/ Und mit was angſte vnſers gemuͤtes wir\n,0.07547169811320754,0.3333333333333333,0.3333333333333333,7474187,gemini
+3,gearbeit habē/ mein ich/ gib ich denen ze bedenckē die vß,gearbeit habe/mein ich/gib ich denen ze bedencke die vß\n,0.10526315789473684,0.5454545454545454,0.5454545454545454,7474187,gemini
+4,vil dingen erfarūg wol wiſſen/ waſda ſie vngewiſſe ding,vil dingen erfarung wol wiſſen/was da ſie vngewiſſe ding\n,0.12727272727272726,0.4444444444444444,0.4444444444444444,7474187,gemini
+5,ſuͦchen/ vnnd nit wiſſen ob die ſien zuͦ erfaren/ Und das,ſuchen/vnnd nit wiſſen ob die ſie zü erfaren/ Und das\nich mit eynem wort alle ding begriffe/ ſolt du wiſſendas\n,1.1403508771929824,1.2727272727272727,1.1818181818181819,7474187,gemini
+6,ich mit eynem wort alle ding begriffe/ ſolt du wiſſen das,in Sechzig tagen vnnd ſiben tagen die wir ſchiffeten\n,0.7894736842105263,1.0,1.0,7474187,gemini
+7,in Sechtzig tagen vnnd ſiben tagen die wir ſchiffeten,vier vnnd viertzig tag on vnderlaß an einander gehept ha\n,0.7169811320754716,1.1111111111111112,1.0,7474187,gemini
+8,vier vnd viertzig tag on vnderlaß an einander gehept ha,ben mit regen tonnern vnnd blizzgen ſo gar finſter dz wir\n,0.8181818181818182,1.1,1.1,7474187,gemini
+9,ben mit regen tonnern vnd blitzgen ſo gar finſter dz wir,weder Sonne im tag noch liechte hymel in der nacht nie\ngeſehen haben/ Davon ſo geſchach dz vns ſolicher gros\n,1.4642857142857142,1.6363636363636365,1.5454545454545454,7474187,gemini
+10,weder Sonnē im tag noch liechtē hymel in der nacht nie,ſer ſchrecken infiel dz wir gar nach alle hoffnung vnſers\n,0.8703703703703703,1.0,1.0,7474187,gemini
+11,geſehen haben/ Da von ſo geſchach dz vns ſolicher groſ¬,lebens hinwurffen/ In ſolichen angſten dennoch vn ſo\n,0.7636363636363637,1.0,1.0,7474187,gemini
+12,ſer ſchrecken infiel dz wir gar nach alle hoffnung vnſers,wüetungen des mers vnnd des hymels geſiel dem hoch\n,0.8771929824561403,1.0,1.0,7474187,gemini
+13,lebens hinwurffen/ In ſoͤlichen angſten dennoch vn̄ ſo,ſten gott vns ze zoigen ingewont ertrich vnnd nüw lant\n,0.7962962962962963,1.25,1.25,7474187,gemini
+14,wüetungen des mers vnnd des hymels gefiel dem hoch,ſchafften vnnd ein vnbekante welt/ Das wir nach der ſel\n,0.84,1.1111111111111112,1.0,7474187,gemini
+15,ſten gott vns ze zoigen ingewont ertrich vnnd nüw lant,ben bſehung mit ſo groſſen freiden durchgoſſen ſynd als\nyemant wol bedencken mag/ wie gewonlich denen geſchi\n,1.5925925925925926,1.6,1.6,7474187,gemini
+16,ſchafften vnd ein vnbekante welt/ Das wir nach der ſel¬,cht die vß vil mengerley Betrüpnuſſen vnnd vnfal vnnd vß\nwiderſpeningen glück verheilet vnd funden/vn erolgte\nhaben/ Alſo an dē Sibenden tag des monats Auguſten\n,2.4,2.2,2.2,7474187,gemini
+17,ben bſehung mit ſo groſſen freiden durchgoſſen ſynd als,Thuſent finffhüdert vn ein ior/ In dē gemeltē latſchaffe\n,0.8909090909090909,1.0,1.0,7474187,gemini
+18,yemant wol bedencken mag/ wie gewonlich denen geſchi,ſtaden vnnd zülendung wurffen wir die encker in/got vn\n,0.8461538461538461,1.125,1.125,7474187,gemini
+19,cht die vß vil mengerley betrüpnüßen vnd vnfal vnd vß,ſerm herren lobſagendt mit hochzierlicher Byt vnnd gebet\n,0.9056603773584906,1.0,1.0,7474187,gemini
+20,widerſpeningen glück verheilet vnd funden/ vn̄ eruolgt,vnnd mit geſang eyner zierlichen meß/ Da erkanten wir\n,0.8518518518518519,1.2857142857142858,1.2857142857142858,7474187,gemini
+21,haben/ Alſo an dē Sibenden tag des monats Ouguſten,das land vnnd ertrich nit ein inſel ſin/ſunder ein ingewot\n,0.9,1.1111111111111112,1.1111111111111112,7474187,gemini
+22,Thuſent finffhūdert vn̄ ein ior/ In d̓ gemeltē lātſchafftē,land denn ſich ſolichs ſtrackt mit faſt langen ſtaden mit\n,0.8793103448275862,1.1111111111111112,1.1111111111111112,7474187,gemini
+23,ſtaden vnd zuͦlendung wurffen wir die encker in/ got vn,vil vmbzügonen die da vmbgiengen vnnd voll iſt on zall\n,0.8545454545454545,1.0,0.9,7474187,gemini
+24,ſerm herren lobſagendt mit hochzierlicher byt vnd gebet,vil inwonender lüten denn wir dar ingefunden habe on\n,0.8545454545454545,1.125,1.125,7474187,gemini
+25,vnd mit geſang eyner zierlichen meß/ Da erkanten wir,zal vil volcker vnnd lüt vnnd aller wald thieren geſchlecht\n,0.9423076923076923,1.1111111111111112,1.1111111111111112,7474187,gemini
+26,das land vnd ertrich nit ein inſel ſin/ ſunder ein ingewōt,ſo man in vnſern landen fyndt/vnnd vil ander ding ſo\n,0.7068965517241379,1.0,1.0,7474187,gemini
+27,land denn ſich ſoͤlichs ſtrackt mit faſt langen ſtaden nitt,vor von vnß nie geſehen ſynd von den ſelben allen were\ngar vil vnnd lang ze ſagen/Groſſe genad vnnd barmhertzi,1.423728813559322,1.9,1.9,7474187,gemini

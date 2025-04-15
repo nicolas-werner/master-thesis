@@ -1,5 +1,5 @@
-line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,Uon der neü gefunden,Lon der neum gefunden,0.15,0.5,0.5,7474184,transkribus
-2,Region ſo wol ein welt genempt mag werden/,Region so wol ein welt genempt mag werden /,0.047619047619047616,0.375,0.375,7474184,transkribus
-3,durch den Criſtēlichen künig/ von Portigal/,durch den Cristeͤlichen künig / von Portigai /,0.13953488372093023,0.8333333333333334,0.8333333333333334,7474184,transkribus
-4,wunderbarlich erfunden/,wunderbarlich erfunden /,0.043478260869565216,1.0,1.0,7474184,transkribus
+line_number,ground_truth,transcription,cer,wer,document_id,method
+1,Uon der neü gefunden,Lon der neum gefunden,0.15,0.5,7474184,transkribus
+2,Region ſo wol ein welt genempt mag werden/,Region so wol ein welt genempt mag werden /,0.047619047619047616,0.375,7474184,transkribus
+3,durch den Criſtēlichen künig/ von Portigal/,durch den Cristeͤlichen künig / von Portigai /,0.13953488372093023,0.8333333333333334,7474184,transkribus
+4,wunderbarlich erfunden/,wunderbarlich erfunden /,0.043478260869565216,1.0,7474184,transkribus

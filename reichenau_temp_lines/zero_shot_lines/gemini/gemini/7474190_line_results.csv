@@ -1,34 +1,34 @@
-line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,nie geſehen oder beſchryben ſynd wil ich harnach ſagen/,nie geſehen oder Beſchzyben ſynd willich darnach ſagen/,0.07272727272727272,0.4444444444444444,0.4444444444444444,7474190,gemini
-2,Darumb am erſten der lütten halb/ So haben wir in dy,Satumb ameſſten der lüttē halb/So haben wir in dy,0.1346153846153846,0.5454545454545454,0.5454545454545454,7474190,gemini
-3,ſen landen vnd region funden ſo vil vn̄ ſo groſſe der voͤl¬,fern landen vnd region funden ſo vil ſo groſſe der völ,0.15254237288135594,0.25,0.25,7474190,gemini
-4,cker/ ſcharen vnd lüt/ das die nyeman erzellen moͤcht als,der/ſcharen vnd lüt/ Das die nyeman erzelen möchte als,0.14035087719298245,0.5,0.5,7474190,gemini
-5,man lißt im Apocalipſi/ Eyn volck ſag ich eyn milt guͤtig,man liſt im Apocalipſi/ Eyn voldt ſag ich eyn milt gütig,0.08771929824561403,0.2727272727272727,0.2727272727272727,7474190,gemini
-6,vnd hantwiſyg vnd gand alle nackend beyde weyb vnd,vnd barmhertzig vnd gand alle nactend beyde meyb vnd,0.22,0.3333333333333333,0.3333333333333333,7474190,gemini
-7,man/ vnd gantz on bedeckung ir lyben an allen enden vn̄,man/vnd gang on bedeckung vͤlyben an allen enden vñ,0.14545454545454545,0.5454545454545454,0.5454545454545454,7474190,gemini
-8,wie Sy vß muͦter lyb kommen alſo gand ſy biß das ſy ge,wie Eyn oß miner lyb komen alſo gandt ſy Biß das ſy ge,0.16666666666666666,0.46153846153846156,0.46153846153846156,7474190,gemini
-9,ſterben/ Den̄ ſy ſind groß von lyb vierſchretig wol geſchi,ſterben/Oen ſy ſind groſs von lylß vierſchertig volgſchi,0.20689655172413793,0.7,0.7,7474190,gemini
-10,ckt/ guͦter ſchoͤnen lidmaß vnd geferbt etlicher maß gegē,dꝯ/guͤter ſchöner löbmaſs vnd geſcherter erlicher maſs gege,0.38596491228070173,0.8888888888888888,0.8888888888888888,7474190,gemini
-11,rotem/ Das ich meyn ienen von der vrſach kommen das,rorem/Das ich meyn iener von der urſach kommen das,0.0784313725490196,0.4,0.4,7474190,gemini
-12,ſy nackend gand vnd von der ſonnen beſcheynen alſo ge¬,ſy nactend gand vnd von der ſonnen Beſcheynen alſo ges,0.05555555555555555,0.3,0.3,7474190,gemini
-13,ferbt werden/ Sy haben ouch wyt vnd groß harlock vn̄,ferſt werden/ Sy habern auch myrr vnd groſs harlot vñ,0.23076923076923078,0.7,0.7,7474190,gemini
-14,ſchwartz/ Sy ſind mit irem gang vnd mit ſpyl tribē det¬,ſchwacʒ/ Sy ſind mit irem gang vnd mit ſpyltube der,0.16363636363636364,0.36363636363636365,0.36363636363636365,7474190,gemini
-15,tig vnd bering vnd guͤttiger ſchonen anlitten/ Die ſy do,tig vnd Bering vnd gütiger ſchonen anlitter/ Die ſy do,0.08928571428571429,0.3,0.3,7474190,gemini
-16,ch inen ſelbs heßlich machen vnd vngeſtalt/ Den̄ ſy borē,ch inen ſelbſ heßlich machen vnd vngeſtalt/ Den ſy Borte,0.08928571428571429,0.3,0.3,7474190,gemini
-17,inen ſelbs loͤcher in die backen die muntlefftzen vn̄ die na¬,inen ſelbꝟt löcher in die Båden die murtleſſen vn die nae,0.2459016393442623,0.5454545454545454,0.5454545454545454,7474190,gemini
-18,ſen vnd die oren/ Du ſolt ouch nit gedencken das ſoliche,fert vnd die oxen/ Dů folt auch nit gedencken das ſoliche,0.125,0.45454545454545453,0.45454545454545453,7474190,gemini
-19,loͤcher kleyn ſyen oder ſy eins alleyn haben den̄ ich etlich,löcher Eleyn fyen oder ſy eins alleyn haben Den ich ertlich,0.11666666666666667,0.45454545454545453,0.45454545454545453,7474190,gemini
-20,geſehen hab die in iren anlitten alleyn Syben loͤcher der,geſchehen hab̃ ſie in irem anlitten alleyn Syben löcher der,0.12280701754385964,0.5,0.5,7474190,gemini
-21,yegliches ſo groß was das eyn kriechen wol in eyns gan,yegliches ſo groſs was das eyn kriechē wol in eyns gan,0.07407407407407407,0.18181818181818182,0.18181818181818182,7474190,gemini
-22,moͤchte/ Sy verſtoſſen inen ſelbs ſoliche loͤcher mit blawē,mochte/ Eÿ verſtoſſen inen ſelbs ſolliche beſcher mit Blanē,0.15254237288135594,0.5555555555555556,0.5555555555555556,7474190,gemini
-23,ſteynen/ Criſtallen/ Marmor vnd alabaſter/ gar hübſch,ſteynen/Criſtallen/Marmor vnd alabaster/gar hübſch,0.07547169811320754,0.7142857142857143,0.7142857142857143,7474190,gemini
-24,vnd ſchon vnd mit wiſſem gebein vnd mit andern̄ dingē,vnd ſchon vnd mit wiſſem gebeir vnd mit andern dinge,0.05660377358490566,0.3,0.3,7474190,gemini
-25,ſo mit künſten vnd koſtlich mit arbeyt gemacht werden,ſo mit tünſchen vnd köſtlich mit arbeyt gemacht werden,0.07547169811320754,0.2222222222222222,0.2222222222222222,7474190,gemini
-26,nach ir gewonheyt vnd gebruch/ Und ob du alſo ſeheſt,nach ir gewonheyt vnd gebrauch/ Vnd ob du alſo ſcheſt,0.057692307692307696,0.3,0.3,7474190,gemini
-27,eyn ſo frembd vngewon ding groſſem ſeltzemen wunder,eyn ſo frembd vngehor̄ ding groſſen ſelzamen wunder,0.11764705882352941,0.375,0.375,7474190,gemini
-28,gliche/ Nemlich eynen menſchē der da hatt in den back,gliche/¬ Zemlich eynem menſche der da hartt in den Back,0.11320754716981132,0.6,0.6,7474190,gemini
-29,ken alleyn vnnd in den lefftzen Syben ſteyn dera ettlich,Een allerr vnnd in̄ der leſten Syben ſtern dera artlich,0.19642857142857142,0.7,0.7,7474190,gemini
-30,in der lenge eyner halben ſpann du wurdeſt nit on groß,in der lenge eyner halben ſpann du wurdefſt nit on groſ,0.037037037037037035,0.18181818181818182,0.18181818181818182,7474190,gemini
-31,verwūderūg ſyn/ Dē ich hab dyck wargenomē vn̄ über,verruͤderuͤg frū/ Sétich hab ſyet martyriom von uͤber,0.48,0.8888888888888888,0.8888888888888888,7474190,gemini
-32,ſchetzt/ dz Siben ſolicher ſteinē an gewicht habē .xvi. lot,ſchertzſt/dʒ. Siben ſolicher ſteine an gewicht habe· vñ. lot,0.1864406779661017,0.5,0.5,7474190,gemini
-33,A iiii,A uiii,0.16666666666666666,0.5,0.5,7474190,gemini
+line_number,ground_truth,transcription,cer,wer,document_id,method
+1,nie geſehen oder beſchryben ſynd wil ich harnach ſagen/,nie geſehen oder Beſchzyben ſynd wilich harnach ſagen/,0.05454545454545454,0.3333333333333333,7474190,gemini
+2,Darumb am erſten der lütten halb/ So haben wir in dy,Dat umb am erſten der lütten halb/ So haben wir in dy,0.038461538461538464,0.18181818181818182,7474190,gemini
+3,ſen landen vnd region funden ſo vil vn̄ ſo groſſe der voͤl¬,ſen landen vnd region funden ſo vil vn̄ ſo groſſe der vol¬,0.01694915254237288,0.08333333333333333,7474190,gemini
+4,cker/ ſcharen vnd lüt/ das die nyeman erzellen moͤcht als,cker/ ſcharen vnd lüt/ das die nyeman erzellen möcht als,0.03508771929824561,0.1,7474190,gemini
+5,man lißt im Apocalipſi/ Eyn volck ſag ich eyn milt guͤtig,man liſt im Apocalipſi/ Eyn volck ſag ich eyn milt guͤtig,0.017543859649122806,0.09090909090909091,7474190,gemini
+6,vnd hantwiſyg vnd gand alle nackend beyde weyb vnd,vnd hantwiſyg vnd gand alle nackend beyde weyb vnd,0.0,0.0,7474190,gemini
+7,man/ vnd gantz on bedeckung ir lyben an allen enden vn̄,man/ vnd gantz on bedeckung ir lyben an allen enden vn̄,0.0,0.0,7474190,gemini
+8,wie Sy vß muͦter lyb kommen alſo gand ſy biß das ſy ge,wie Sy vß muͤter lyb kommen also gand ſy biß das ſy ge,0.037037037037037035,0.15384615384615385,7474190,gemini
+9,ſterben/ Den̄ ſy ſind groß von lyb vierſchretig wol geſchi,ſterben/ SEnn ſy ſind groß von lyb vierſchretig wol geſchi,0.05172413793103448,0.1,7474190,gemini
+10,ckt/ guͦter ſchoͤnen lidmaß vnd geferbt etlicher maß gegē,ckt/ güter ſchönen lidmaß vnd geſerbt etlicher maß gegen,0.12280701754385964,0.4444444444444444,7474190,gemini
+11,rotem/ Das ich meyn ienen von der vrſach kommen das,rotem/ Das ich meyn ienen von der vrsach kommen das,0.0196078431372549,0.1,7474190,gemini
+12,ſy nackend gand vnd von der ſonnen beſcheynen alſo ge¬,ſy nackend gand vnd von der ſonnen beſcheynen alſo ge¬,0.0,0.0,7474190,gemini
+13,ferbt werden/ Sy haben ouch wyt vnd groß harlock vn̄,ferßt werden/ Sy haben ouch wyt vnd groß harlock vn̄,0.019230769230769232,0.1,7474190,gemini
+14,ſchwartz/ Sy ſind mit irem gang vnd mit ſpyl tribē det¬,ſchwartz/ Sy ſind mit irem gang vnd mit ſpyltriebe der¬,0.07272727272727272,0.2727272727272727,7474190,gemini
+15,tig vnd bering vnd guͤttiger ſchonen anlitten/ Die ſy do,tig vnd Bering vnd gůttiger ſchonen anlitter/ Die ſy do,0.07142857142857142,0.3,7474190,gemini
+16,ch inen ſelbs heßlich machen vnd vngeſtalt/ Den̄ ſy borē,ch inen ſelbſts heßlich machen vnd vngeſtalt/ Denen ſy borē,0.07142857142857142,0.3,7474190,gemini
+17,inen ſelbs loͤcher in die backen die muntlefftzen vn̄ die na¬,inen selbs löcher in die backen die muntlefftzen vn die na¬,0.06557377049180328,0.2727272727272727,7474190,gemini
+18,ſen vnd die oren/ Du ſolt ouch nit gedencken das ſoliche,ſen vnd die oren/ Du ſolt ouch nit gedencken das ſoliche,0.0,0.0,7474190,gemini
+19,loͤcher kleyn ſyen oder ſy eins alleyn haben den̄ ich etlich,loͤcher kleyn ſyn oder ſy eins alleyn haben den ich etlich,0.03333333333333333,0.18181818181818182,7474190,gemini
+20,geſehen hab die in iren anlitten alleyn Syben loͤcher der,gesehen hab die in iren anlitten alleyn Syben loͤcher der,0.017543859649122806,0.1,7474190,gemini
+21,yegliches ſo groß was das eyn kriechen wol in eyns gan,yegliches ſo groß was das eyn kriechen wol in eyns gan,0.0,0.0,7474190,gemini
+22,moͤchte/ Sy verſtoſſen inen ſelbs ſoliche loͤcher mit blawē,mochte/ Sy verſtoſſen inen ſelbs ſoliche löcher mitblawē,0.06779661016949153,0.4444444444444444,7474190,gemini
+23,ſteynen/ Criſtallen/ Marmor vnd alabaſter/ gar hübſch,ſteynen/Criſtallen/Marmor vnd alabaster/gar hübſch,0.07547169811320754,0.7142857142857143,7474190,gemini
+24,vnd ſchon vnd mit wiſſem gebein vnd mit andern̄ dingē,vnd ſchon vnd mit wiſſem gebein vnd mit andern̄ dingē,0.0,0.1,7474190,gemini
+25,ſo mit künſten vnd koſtlich mit arbeyt gemacht werden,ſo mit künſten vnd koſtlich mit arbeyt gemacht werden,0.0,0.0,7474190,gemini
+26,nach ir gewonheyt vnd gebruch/ Und ob du alſo ſeheſt,nach ir gewonheyt vnd gebruch/ vnd ob du alſo ſeheſt,0.019230769230769232,0.1,7474190,gemini
+27,eyn ſo frembd vngewon ding groſſem ſeltzemen wunder,eyn ſo frembd vngewon ding groſſem ſeltzemen wunder,0.0,0.0,7474190,gemini
+28,gliche/ Nemlich eynen menſchē der da hatt in den back,gliche/¬ Nemlich eynen menſche der da hatt in den Back,0.05660377358490566,0.3,7474190,gemini
+29,ken alleyn vnnd in den lefftzen Syben ſteyn dera ettlich,Een alleyn vnnd in den lefftzen Syben steyn dera ettlich,0.03571428571428571,0.2,7474190,gemini
+30,in der lenge eyner halben ſpann du wurdeſt nit on groß,in der lenge eyner halben spann du wurdest nit on groſs,0.07407407407407407,0.2727272727272727,7474190,gemini
+31,verwūderūg ſyn/ Dē ich hab dyck wargenomē vn̄ über,verwſederug ſyn/ Den ich hab dyck wargenomen vn̄ uber,0.16,0.4444444444444444,7474190,gemini
+32,ſchetzt/ dz Siben ſolicher ſteinē an gewicht habē .xvi. lot,ſchetzt/dz Siben ſolicher ſteine an gewicht habe.xvi. lot,0.06779661016949153,0.5,7474190,gemini
+33,A iiii,Aiiii,0.16666666666666666,1.0,7474190,gemini

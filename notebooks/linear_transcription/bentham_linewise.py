@@ -886,7 +886,7 @@ def _(mo):
 
 @app.cell
 def _(mo):
-    from src.evaluation import run_evaluation, get_transkribus_text, run_line_evaluation, process_page_by_lines
+    from src.evaluation import run_evaluation, get_transkribus_text, run_model_evaluation, process_page_by_lines
     from src.file_utils import encode_image, encode_image_object
     import time
 
@@ -908,7 +908,7 @@ def _(mo):
         get_transkribus_text,
         process_page_by_lines,
         run_evaluation,
-        run_line_evaluation,
+        run_model_evaluation,
         time,
         zero_shot_run_button,
     )
@@ -919,7 +919,7 @@ def _(
     encode_image_object,
     limit_docs,
     provider_models,
-    run_line_evaluation,
+    run_model_evaluation,
     system_prompt,
     zero_shot_run_button,
 ):
@@ -941,14 +941,15 @@ def _(
                 }
             ]
 
-        # Run the line-based evaluation
-        zero_shot_line_results = run_line_evaluation(
+        # Run the line-based evaluation with the new syntax
+        zero_shot_line_results = run_model_evaluation(
+            strategy="line",  # Specify line strategy explicitly
             provider_models=provider_models,
             gt_dir='data/bentham_10_test/ground_truth_renamed',
             image_dir='data/bentham_10_test/images_renamed',
             transkribus_dir='results/linear_transcription/bentham_papers/transkribus_10_test_renamed',
             base_output_dir='bentham_temp_lines',
-            create_line_messages=create_zero_shot_line_messages,
+            create_messages=create_zero_shot_line_messages,  # Note: parameter renamed from create_line_messages
             eval_type='zero_shot_lines',
             limit=limit_docs,
             parallel=True,

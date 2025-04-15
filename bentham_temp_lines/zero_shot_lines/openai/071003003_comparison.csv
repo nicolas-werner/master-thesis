@@ -1,0 +1,36 @@
+line_number,ground_truth,prediction,cer,wer,bwer
+1,11.,11.,0.0,0.0,0.0
+2,C,,1.0,1.0,1.0
+3,Of Justifications.,of Justifications,0.1111111111111111,1.0,1.0
+4,3. Those of a Schoolmaster over his Scholar. See Law of School,3. Those of a Schoolmaster over his Scholar. See Law of School,0.0,0.0,0.0
+5,masters and Scholars.,masters and Scholars.,0.0,0.0,0.0
+6,5. Those of a Guardian over his Ward . See Law of Guardi:,5. Those of a Guardian over his Ward. See Law of Guardi-
+anship.,0.17543859649122806,0.23076923076923078,0.23076923076923078
+7,6 Those of Adults over Infants in the same Family. See ib.,6. Those of Adults over Infants in the same Family. See 
+Law of Infants.,0.27586206896551724,0.3333333333333333,0.3333333333333333
+8,vants - The Law of Apprentices _ Law of Journeymen _ Law,wants. The Law of Apprentices - Law of Journeymen - Law,0.08928571428571429,0.3333333333333333,0.25
+9,Justification 6.th Military Powers & Subservience,Justification 6th Military Powers Subjoined,0.20408163265306123,0.5,0.5
+10,Thereto . _,et,0.8181818181818182,1.0,1.0
+11,Powers which one man may have over the person of,Powers which one man may have over the person of,0.0,0.0,0.0
+12,these See the Army and the Navy Laws.,these see the Army and the Navy Laws,0.05405405405405406,0.25,0.25
+13,2. Those of a military officer over persons at large in a time,2. Those of a military officer over persons at large in a time,0.0,0.0,0.0
+14,of,,1.0,1.0,1.0
+15,Children.,Children.,0.0,0.0,0.0
+16,4. Those of a Domestic Preceptor over his Pupil . See Law of,4. Those of a Domestic Preceptor over his Pupil. See Law of,0.016666666666666666,0.15384615384615385,0.15384615384615385
+17,Preceptors and Pupils.,Preceptors and Pupils.,0.0,0.0,0.0
+18,Law of Infants.,Law of Infants.,0.0,0.0,0.0
+19,7. Those of a Master over his Servant - See the Law of Ser,7. Those of a Master over his Servant. See the Law of Ser,0.034482758620689655,0.14285714285714285,0.14285714285714285
+20,of the Slaves. (a),of the Slaves ,0.2777777777777778,0.5,0.5
+21,another on a military account are,another on a military account are),0.030303030303030304,0.16666666666666666,0.16666666666666666
+22,1. Those of a military Superior over his Subordinates. For,1. Those of a military Superior over his Subordinates. To 
+ constitutional Code. Laws of,0.5517241379310345,0.5,0.5
+23,Constitutional Code - Laws ofof,Constitutional Code . Laws of,0.0967741935483871,0.4,0.4
+24,:ans and Wards.,:ans and Wards,0.06666666666666667,0.3333333333333333,0.3333333333333333
+25,ib.,,1.0,1.0,1.0
+26,ib.,,1.0,1.0,1.0
+27,ib.,,1.0,1.0,1.0
+28,ib.,,1.0,1.0,1.0
+29,Note.,Note.,0.0,0.0,0.0
+30,(a),(a),0.0,0.0,0.0
+31,There ought to be a separate Title for every species,There ought to be a separate Title for every species,0.0,0.0,0.0
+32,of servant which has any Article of Law peculiar to it.,of servant which has any Articles of Law peculiar to it.,0.01818181818181818,0.09090909090909091,0.09090909090909091

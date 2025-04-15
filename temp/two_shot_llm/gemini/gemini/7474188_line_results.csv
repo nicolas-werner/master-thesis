@@ -1,0 +1,35 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,keit gottes vmbſcheyn vnß da wir diſen landen zuͦ kamē,keit gottes vmbſcheyn vnß da wir dißen landen zuͦ kamē,0.018518518518518517,0.1,0.1,7474188,gemini
+2,den̄ vns was abgangen an holtz an waſſer/ vnnd hetten,den̄ vns was abgangen an holtz an waſſer/vnnd hetten,0.018867924528301886,0.2,0.2,7474188,gemini
+3,noch wenig tag moͤgen bliben/ vnd vff dem mere vnßer,noch wenig tag moͤgen bliben/vnnd vff dem mere vnſer,0.057692307692307696,0.3,0.3,7474188,gemini
+4,leben enthalten/ Im ſie ere vnd glorig vnd danck geſagt/,leben enthalten/ Im ſie ere vnnd gloria vnnd danck geſagt/,0.05357142857142857,0.3,0.3,7474188,gemini
+5,Wir wurden da zerate dz wir fuͦrē nach dem begriff des,Wir wurden da zerate dz wir fürē nach dem begriff des,0.037037037037037035,0.09090909090909091,0.09090909090909091,7474188,gemini
+6,ſtaden vn̄ des lands diſer lantſchafft gegē der Sonnen,ſtaden vn̄ des lands dißer lantſchafft gege der Sonnen,0.037037037037037035,0.2222222222222222,0.2222222222222222,7474188,gemini
+7,vffgang vn̄ die anſehung ſolichs lands nyemer ze laſſen/,vffgang vn̄ die anſehung ſolichs lands nyemer ze laſſen/,0.0,0.0,0.0,7474188,gemini
+8,Und zuͦ ſtundan durch fuͦren wir das/ damit wir kamē,Und zuͦ ſtundan durch füren wir das/damit wir kamē,0.057692307692307696,0.3,0.3,7474188,gemini
+9,zuͦ einem winckel/ da das land eyn inkere machet gegen,zuͦ einem winckel/da das land eyn inkere machet gegen,0.018518518518518517,0.2,0.2,7474188,gemini
+10,mittag vnd von der ſtatt da wir am erſten das land traf,mittag vnnd von der ſtatt da wir am erſten das land traf,0.01818181818181818,0.08333333333333333,0.08333333333333333,7474188,gemini
+11,fen biß zuͦ diſem winckel waren by dryhundert welſcher,ſen biß zuͦ dißem winckel waren by dryhundert welſcher,0.037037037037037035,0.2222222222222222,0.2222222222222222,7474188,gemini
+12,mile/ vnd in zyt dißer ſchiffung ſind wir zuͦ dickern̄ malē,mile/vnnd in zyt dißer ſchiffung ſind wir zuͦ dickern male,0.06779661016949153,0.36363636363636365,0.36363636363636365,7474188,gemini
+13,zuͦ land gefaren vnd haben früntlich geſprech vnnd wan,zuͦ land gefaren vnnd haben ſtüntlich geſprech vnnd wan,0.05555555555555555,0.2222222222222222,0.2222222222222222,7474188,gemini
+14,del mit dem ſelben volck gehept als du hienach vernemen,del mit dem ſelben volck gehept als du hienach vernemen,0.0,0.0,0.0,7474188,gemini
+15,wirdeſt/ Mir was vergeſſen dir ze ſchriben das von dem,wirdeſt/ Wir was vergeſſen dir ze ſchriben das von dem,0.018518518518518517,0.1,0.1,7474188,gemini
+16,hochgebirg des grünē houpts biß zuͦ anfang diſer bewo¬,hochgebirg des grüne houpts biß zuͦ anfang dißer bewoͤ¬,0.05555555555555555,0.3333333333333333,0.3333333333333333,7474188,gemini
+17,den landtſchafft ſind by Sibenhundert welſcher milen,ten lantſchafft ſind by Sibenhundert welſcher milen,0.038461538461538464,0.2857142857142857,0.2857142857142857,7474188,gemini
+18,Wie wol ich meyn das wir me den̄ Tuſent vn̄ achthun¬,Wie wol ich meyn das wir meden Zuſent vn̄ achthun¬,0.057692307692307696,0.2727272727272727,0.2727272727272727,7474188,gemini
+19,dert mile gefaren ſo von vnwiſſenheyt d̓ ſtetten vn̄ ſchiff¬,dert mile gefaren ſo von vnwiffenheyt d̓ ſteten vn̄ ſchiffs,0.06666666666666667,0.3,0.3,7474188,gemini
+20,meiſters ſo von vngewitter vnd von winden verhindert,meiſters ſo von vngewitter vnnd von winden verhindert,0.019230769230769232,0.125,0.125,7474188,gemini
+21,die vnßern ſchlechten weg widertriben zuͦ ſtetten vnd vil,die vnkern ſchlechten weg widertriben zuͦ ſteten vnnd vil,0.05263157894736842,0.3333333333333333,0.3333333333333333,7474188,gemini
+22,abwendungen/ Den̄ wen min geſellen ir gemüt vnd ver.,abwendungen/ Den̄ wen min geſellen ir gemuͤt vnnd ver¬,0.07692307692307693,0.3333333333333333,0.3333333333333333,7474188,gemini
+23,truwen nit zuͦ mir geſetzt hetten/ ſo mir bekantlich was d̓,truwen nit zuͦ mir geſetzt hetten/ſo mir bekantlich was d,0.03389830508474576,0.2727272727272727,0.2727272727272727,7474188,gemini
+24,groſſen welt lantſterlugūg vnd gelegenheit ſo weis kein,groſſen welt lantſterlugug vnnd gelegenheit ſo weis kein,0.03636363636363636,0.25,0.25,7474188,gemini
+25,ſchiffman oder wegwiſer vnßer fart der ioch by fünffhū,ſchiffman oder wegwiſer vnſer fart der ioch by fünffhū,0.018518518518518517,0.1111111111111111,0.1111111111111111,7474188,gemini
+26,dert milen wußte wō wir waren/ Denn wir waren vmb¬,dert milen wuſte wo wir waren/Denn wir waren vmb,0.08,0.5,0.5,7474188,gemini
+27,ſchweiffig vnd irrig/ Den̄ allein der himelſchen zeichen,ſchweiffig vnnd irrig/ Den̄ allein der himelſchen zeichen,0.017857142857142856,0.125,0.125,7474188,gemini
+28,hohe waren vns zuͦbewiſung vnd zoͤugten vns warheyt,hohe waren vns zuͦwiſſung vnnd zougten vns warheyt,0.09803921568627451,0.375,0.375,7474188,gemini
+29,verlorner dingen vnd die ſelben waren vns der quadrāt,verlorner dingen vnnd die ſelben waren vns der quadrat,0.03773584905660377,0.2222222222222222,0.2222222222222222,7474188,gemini
+30,vnd das Aſtralabium als ſy alle erkantē/ Hie von ſi alle,vnnd das Aſtralabium als ſy alle erkantē/ Die von ſi alle,0.03571428571428571,0.18181818181818182,0.18181818181818182,7474188,gemini
+31,mich in groſſen eren hielten/ Denn ich zoigt inen das on,mich in groſſen eren hielten/Denn ich zoigt inen das on,0.017857142857142856,0.18181818181818182,0.18181818181818182,7474188,gemini
+32,die verſchreibnen meres karten kunſt der ſchiffung ich be,die verſchreibnen meres karten kunſt der ſchiffuͦg ich be,0.017543859649122806,0.1111111111111111,0.1111111111111111,7474188,gemini
+33,richter was dan̄ alle Schiffherren der gantzen welt den̄,richter was dan alle ſchiffherren der gantzen welt den̄,0.03571428571428571,0.2222222222222222,0.2222222222222222,7474188,gemini
+34,A iii,A iiii,0.2,0.5,0.5,7474188,gemini

@@ -1,0 +1,33 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,geile vn̄ begirig ſind/ ſo legten ſy alle zucht vnd ſcham vō,geile vn̄ begirig ſind/ſo legten ſy alle ſuche vn̄ ſcham voͤ,0.1,0.4166666666666667,0.4166666666666667,7474193,mistral
+2,in zuͦ volbringung boͤſer dingen/ Sy leben wol hundertt,in ſu volbringung boͤſer dingen/Sy leben wol vn̄beruͤrt,0.18181818181818182,0.4444444444444444,0.4444444444444444,7474193,mistral
+3,vn̄ fünffzig iar vnd werden ſelten kranck/ Und ob ſy et¬,vn̄ finſtig zar vn̄ werben eilen frant. Vn̄ ob ſy et,0.30357142857142855,0.7272727272727273,0.7272727272727273,7474193,mistral
+4,wen in kranckheit fallen ſo heilen ſy ſich ſelbs mit ettlithē,wen in frantſchafft fallen ſo beilen ſy ſich ſelbs mit erluͤbē,0.21311475409836064,0.2727272727272727,0.2727272727272727,7474193,mistral
+5,wurtzen der kreüter/ Diß ſind die fürmercklichſten ding,wurgen der freiſter/ Sy ſind die farnerſtlichſten Ding,0.23636363636363636,0.625,0.625,7474193,mistral
+6,die ich by innen geſehen vnd erkant hab/ Der lufft iſt an,Driechſy vnnen geſehen vn̄ erlauſt hab/ Der luſſt iſt an,0.22807017543859648,0.5833333333333334,0.5833333333333334,7474193,mistral
+7,dem ende gar geſund vnd wol temperieret vn̄ guͦt/ Und,Dem ende gar geſuͤnd vn̄ wol temperieret vn̄ guͤt/ Vn̄,0.11320754716981132,0.5,0.5,7474193,mistral
+8,ſo vil ich vß yrem ſagē verſton kond vnd erkennen mocht,ſo vilich vn̄ yrem ſagē verſton fon̄d vn̄ etemen mochē,0.2,0.6363636363636364,0.6363636363636364,7474193,mistral
+9,ſo iſt an dem ende nyemer keyn peſtlentz oder eyniche ſie,ſo iſt an dem ende ſyrenner Eeyn peſſlens oder eyniche ſie,0.14035087719298245,0.2727272727272727,0.2727272727272727,7474193,mistral
+10,chung die von boͤſem lufft kumpt/ Und wo ſy nit vō fre¬,ding die von boͤſem luſt empir/ Vn̄ wo ſy nit vo fre,0.23636363636363636,0.5,0.5,7474193,mistral
+11,felem getzwungenē tod ſterben ſo leben ſy by langē zyten,felēn geſwungēn rod ſterben ſo leben ſy by lange zyten,0.14285714285714285,0.4,0.4,7474193,mistral
+12,Ich mein das an dē ende alzeit die mittegigē wynd weyē,Ich mein das an de ende alleit die mittegige wynd weyē,0.05555555555555555,0.2727272727272727,0.2727272727272727,7474193,mistral
+13,vnd vorab allermeyſt den wir nennen etwan der inen al¬,vn̄ vozaß allermerſt den wir nemen erwan ber inen ale,0.16666666666666666,0.7,0.7,7474193,mistral
+14,ſo iſt wie vnß der mittenechtig wind genāt. Aquilo / Sy,ſo iſt wie vn̄ der nutenechtig wint genā. Aquilo/ Sy,0.12727272727272726,0.5454545454545454,0.5454545454545454,7474193,mistral
+15,ſind künſtrich mit viſchen vnd viſchfahen/ Und daſſelb,ſind tumſtrich mit witchen vn̄ witcheſabēn/ Vn̄ daſſelb,0.25925925925925924,0.625,0.625,7474193,mistral
+16,mer iſt voͤllig vnd von vil viſchen vnnd von allen vnd al¬,mer iſt volgk vn̄ von vil witchen vn̄ von allen vn̄ al,0.1896551724137931,0.5,0.5,7474193,mistral
+17,lerley viſchen überflüſſig/ Da ſynd nit ieger vn̄ ich mein,lerley witchen uͤberfluſſig/ Da ſynd nit ieger wich mein,0.15517241379310345,0.4,0.4,7474193,mistral
+18,ſo da ſynd vil wilder waldthieren geſchlecht vnd beſund̓,ſo da ſynd vil wilder waldechieren geſchlecht vn̄ beſimō,0.125,0.3333333333333333,0.3333333333333333,7474193,mistral
+19,lowen vnd beren vnd on zall vil ſchlangen vnd anderer,lowen vn̄ beren vn̄ on zall vil ſchlangen vn̄ anndere,0.09433962264150944,0.4,0.4,7474193,mistral
+20,gruſelichen vnd vngeſtalten dieren/ Dar zu vnd als an,gwuͤrlichen vn̄ vngelſtalten tierē/ Dar zu vn̄ als an,0.16981132075471697,0.5555555555555556,0.5555555555555556,7474193,mistral
+21,denen enden lang vnd breyt weld vnnd baum über alle,hemen enden lang vn̄ breyt weld vn̄ baum uͤber alle,0.13725490196078433,0.4,0.4,7474193,mistral
+22,maß groß vnd ſo ſy nackend ſynd gethuͤren ſy ſich ſolich,maſ groſ vn̄ ſo ſy nahend ſynd geſchiren ſy ſich ſolich,0.16071428571428573,0.45454545454545453,0.45454545454545453,7474193,mistral
+23,er dingen nit vnder ſtan on waffen/ Das ertrich diſer,er dingen mit vn̄er ſtan or waffen/ Daſſeltrich diefer,0.1509433962264151,0.6,0.6,7474193,mistral
+24,landen vnnd region iſt faſt fruchtbar vnd luſtiger an¬,landen vn̄ region iſt faſt fruchtbar vn̄ luſtiger an,0.07407407407407407,0.3333333333333333,0.3333333333333333,7474193,mistral
+25,ſehung vnd von vil bergen vnd Buͦhelen vnd on zall vil,ſehen vn̄ von vil bergen vn̄ 2uͤbden vn̄ on zall vil,0.18518518518518517,0.45454545454545453,0.45454545454545453,7474193,mistral
+26,Theler vnnd mit faſt groſſen flieſſenden waſſeren/ über,Theler vn̄ mit faſt groſſen flueſſenben waſſeren/ uͤber,0.10909090909090909,0.375,0.375,7474193,mistral
+27,flüſſig/ Und von guͦten heylſamē brunnen gefuchtet vn̄,fluſſig/ Vn̄ von guͤten beyſame ſunnen geſuchet vn̄,0.2037037037037037,0.75,0.75,7474193,mistral
+28,mit groſſen breytten welden vnnd dick die kum̄ vnnd,mit groſſen breytten welden vn̄ die ſym vn̄,0.23529411764705882,0.4444444444444444,0.4444444444444444,7474193,mistral
+29,ſchwarlich moͤgen durchgangen werden vnnd die von,ſchwartlich mogē durchgangen werden vn̄ die von,0.12244897959183673,0.42857142857142855,0.42857142857142855,7474193,mistral
+30,allerley willden thyeren vnderſcheid voll vnd überſetzt/,allerley wuͤtben thyren vnderſcheid voll vn̄ uͤberſeſt/,0.17857142857142858,0.5714285714285714,0.5714285714285714,7474193,mistral
+31,Da wachßen ſelbs on alle der lüten zuͦthon vnd arbeytt,Da wachſen felſe on alle ber luͤten zuͤban vn̄ arbeyte,0.24074074074074073,0.7,0.7,7474193,mistral
+32,die aller groͤſten boum/ Und vnder den ſelben vil die frü,Die aller geſſten boͤm/ Vn̄ vn̄er den felſen vil die feiſt,0.24561403508771928,0.6363636363636364,0.6363636363636364,7474193,mistral

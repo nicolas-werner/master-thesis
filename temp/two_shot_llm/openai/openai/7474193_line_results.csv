@@ -1,0 +1,32 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,geile vn̄ begirig ſind/ ſo legten ſy alle zucht vnd ſcham vō,geile vnͤ begirig ſind/ ſo legten ſy alle zucht vn̄ ſcham vō,0.03333333333333333,0.16666666666666666,0.08333333333333333,7474193,openai
+2,in zuͦ volbringung boͤſer dingen/ Sy leben wol hundertt,in ſi vollbringung böſer dingen/ Sy leben wol hundert vn̄,0.18181818181818182,0.5555555555555556,0.5555555555555556,7474193,openai
+3,vn̄ fünffzig iar vnd werden ſelten kranck/ Und ob ſy et¬,win̄ fünffzig iar vnd werden eſſen tranc̄t/ Vnd ob ſy et,0.17857142857142858,0.45454545454545453,0.45454545454545453,7474193,openai
+4,wen in kranckheit fallen ſo heilen ſy ſich ſelbs mit ettlithē,wen in tranc̄heit fallen ſo helffen ſy ſich ſelbs mit etlichē,0.11475409836065574,0.2727272727272727,0.2727272727272727,7474193,openai
+5,wurtzen der kreüter/ Diß ſind die fürmercklichſten ding,wurzen der kreutter/ Daſ ſind die fuͤmmerlichſten ding,0.18181818181818182,0.5,0.5,7474193,openai
+6,die ich by innen geſehen vnd erkant hab/ Der lufft iſt an,die ich by inen geſehen vnd erkant hab/ Der luft ſi in,0.08771929824561403,0.3333333333333333,0.3333333333333333,7474193,openai
+7,dem ende gar geſund vnd wol temperieret vn̄ guͦt/ Und,dem ende gar geſund vnd vol empteirere vñ gut/ Vnd,0.18867924528301888,0.5,0.5,7474193,openai
+8,ſo vil ich vß yrem ſagē verſton kond vnd erkennen mocht,ſo vil ich vff yrem ſage verſtond kon̄ vnd erlernen mochte,0.14545454545454545,0.5454545454545454,0.5454545454545454,7474193,openai
+9,ſo iſt an dem ende nyemer keyn peſtlentz oder eyniche ſie,ſo iſt an dem ende nyemer leyp geſtorn vnd erleiden ver,0.3333333333333333,0.45454545454545453,0.45454545454545453,7474193,openai
+10,chung die von boͤſem lufft kumpt/ Und wo ſy nit vō fre¬,chung die von böſem luͤfft kumpt/ Vnd wo ſy nit ſo frey,0.12727272727272726,0.4166666666666667,0.4166666666666667,7474193,openai
+11,felem getzwungenē tod ſterben ſo leben ſy by langē zyten,ſelem geſewigenge ſo leben ſy vol vn̄ langes leyden,0.5,0.8,0.7,7474193,openai
+12,Ich mein das an dē ende alzeit die mittegigē wynd weyē,Ich mein das an de ende alſeit die mitterſtig vn̄ naͤye,0.24074074074074073,0.45454545454545453,0.45454545454545453,7474193,openai
+13,vnd vorab allermeyſt den wir nennen etwan der inen al¬,ſo iſt vnd waſt allermeſt den vnder vnd vber vnd vnd,0.6296296296296297,1.0,0.9,7474193,openai
+14,ſo iſt wie vnß der mittenechtig wind genāt. Aquilo / Sy,ſo iſt wol vſ der mitternacht vñ eren Aquilo/ Sy,0.32727272727272727,0.6363636363636364,0.6363636363636364,7474193,openai
+15,ſind künſtrich mit viſchen vnd viſchfahen/ Und daſſelb,ſind fuͤrſtig vnd wol in wiſchſchaften/ Vnd daſelbſt,0.5370370370370371,0.875,0.75,7474193,openai
+16,mer iſt voͤllig vnd von vil viſchen vnnd von allen vnd al¬,leſer vſchen uͤberfuͤlſig/ Da ſynd nit iergen vñ mein,0.7586206896551724,1.0,1.0,7474193,openai
+17,lerley viſchen überflüſſig/ Da ſynd nit ieger vn̄ ich mein,do daſ ſind vil voller waͤlbarkeit geſlechter vñ beſinn̄,0.8103448275862069,1.0,1.0,7474193,openai
+18,ſo da ſynd vil wilder waldthieren geſchlecht vnd beſund̓,ſonnen vnd beren vnd ſalt vil ſchlechten vn̄ andern,0.6428571428571429,1.0,0.7777777777777778,7474193,openai
+19,lowen vnd beren vnd on zall vil ſchlangen vnd anderer,gruͤſlichen vnd vngeltan dieter/ Dar zuͦ vn̄ als al,0.7547169811320755,0.9,0.9,7474193,openai
+20,gruſelichen vnd vngeſtalten dieren/ Dar zu vnd als an,denen enden lang vnd berye vnd woln baum vber alſ,0.7358490566037735,1.1111111111111112,0.8888888888888888,7474193,openai
+21,denen enden lang vnd breyt weld vnnd baum über alle,maſs groſ vnd ſo ſy nachten vnd geſthiren ſy ſiſch solich,0.9411764705882353,1.1,1.0,7474193,openai
+22,maß groß vnd ſo ſy nackend ſynd gethuͤren ſy ſich ſolich,er dingen nit vnder ſtan vn̄ erſten/ Daſ griech diſer,0.7857142857142857,1.0,1.0,7474193,openai
+23,er dingen nit vnder ſtan on waffen/ Das ertrich diſer,landen vn̄ region iſt faſt ſurchbar vnd luſtiger an,0.8113207547169812,1.0,1.0,7474193,openai
+24,landen vnnd region iſt faſt fruchtbar vnd luſtiger an¬,ſehrung vnd vol vil bergenn vñ buͤheln vnd on ſall vñ,0.7777777777777778,1.1111111111111112,1.1111111111111112,7474193,openai
+25,ſehung vnd von vil bergen vnd Buͦhelen vnd on zall vil,ſeheler vnd mit faſt groſen fleiſchenden waſſern vñ vil,0.6296296296296297,0.8181818181818182,0.8181818181818182,7474193,openai
+26,Theler vnnd mit faſt groſſen flieſſenden waſſeren/ über,fuͤſtig/ Vnd von guten beylſame ſummen ſurcher vnd,0.7818181818181819,1.0,1.0,7474193,openai
+27,flüſſig/ Und von guͦten heylſamē brunnen gefuchtet vn̄,mit groſſen breyten welden vn̄ die ſiſch vnd,0.7037037037037037,1.0,0.875,7474193,openai
+28,mit groſſen breytten welden vnnd dick die kum̄ vnnd,ſchwarlich moͤgten durchgangen werden vnd die vnde,0.7058823529411765,0.8888888888888888,0.8888888888888888,7474193,openai
+29,ſchwarlich moͤgen durchgangen werden vnnd die von,allerley wilden thyerern vnderſcheid vnd vnd die beſter/,0.7755102040816326,1.0,1.0,7474193,openai
+30,allerley willden thyeren vnderſcheid voll vnd überſetzt/,Da wach vñ ſelbſ on alle der luͤten ſuͦch vn̄ abreybt,0.75,1.5714285714285714,1.5714285714285714,7474193,openai
+31,Da wachßen ſelbs on alle der lüten zuͦthon vnd arbeytt,die aller groſſten boum/ Vnd vnder den ſelben vil die ſiſ,0.7962962962962963,1.1,1.1,7474193,openai

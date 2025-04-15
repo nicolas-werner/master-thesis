@@ -1,0 +1,34 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,It glucklicher fart Am vier,It glucklicher fart flut vſer,0.18518518518518517,0.4,0.4,7474186,mistral
+2,zehenden tag des monats Mayen/ Tu¬,zebenden tag des monges Mayen/ Zu,0.14705882352941177,0.5,0.5,7474186,mistral
+3,ſent fünffhūdert eyn Iars/ ſchieden wir,ſent funffhūdert vn̄ Jara/ ſchieden wir,0.15384615384615385,0.5,0.5,7474186,mistral
+4,von Oliſpppo nach gebott des obgenan¬,von Diſtippo nach gebott des obgenan=,0.13513513513513514,0.3333333333333333,0.3333333333333333,7474186,mistral
+5,ten künigs mit dryen ſchiffen zuͦ erſuͦchē,ten kunigs mit dryen ſchiffen zu erliche,0.14285714285714285,0.42857142857142855,0.42857142857142855,7474186,mistral
+6,nuwe land gegen Auſter/ vnd tzweintzig,nūwe land gegen Auſter/ vnd zweenig,0.13157894736842105,0.3333333333333333,0.3333333333333333,7474186,mistral
+7,Monet on vnderlaß fuͦren wir gegen mittag der ſelben,monet on vnderlaſ ſūren wir gegen mitrag der ſelben,0.11538461538461539,0.4444444444444444,0.4444444444444444,7474186,mistral
+8,ſchiffung. vnd fart ordnung vnd wiſe iſt alſo/ Diſe ſchif,ſchiffung/ vnd fart ordnung vnd wiſe iſt alſo/ Diſe ſchif,0.017543859649122806,0.1,0.1,7474186,mistral
+9,fung iſt geweſen durch die fortunaten Inſalen/ vor ziten,fung iſt geweſen durch die fortunaten Jnſulen/ voz ziten,0.05357142857142857,0.2222222222222222,0.2222222222222222,7474186,mistral
+10,alſo genant/ Aber zuͦ dyſen werden ſy genant die inſulen,alſo genant/ Aber zū dyſen werden ſy genant die inſulen,0.03571428571428571,0.1,0.1,7474186,mistral
+11,magne canarie/ der groſſen Canarie/ die da ſindt im drit,magne canarie/ der groſſen Canarie/ Die da ſindt im ſūt,0.07142857142857142,0.2,0.2,7474186,mistral
+12,ten Clima der ſibenfaltigē vßteilung der welt vnd am an,ten Clima der ſibenſaltige vſtellung der welt vnd am ant,0.09090909090909091,0.3,0.3,7474186,mistral
+13,ſtoß vnd gegē der wonhafftigē landen der ſonnē nyder¬,ſtoß vnd gege der wonbaſtigſten landen der jonſt hyder=,0.24528301886792453,0.4444444444444444,0.4444444444444444,7474186,mistral
+14,gangs/ Dannen durch das groß mer Occeanū dē gātzē,gangē/ Dannen durch das groſſe mer Oceani de gare,0.22448979591836735,0.5555555555555556,0.5555555555555556,7474186,mistral
+15,ſtaden affricum vn̄ eyn teil der Moͤren lands durchren̄t,ſtaden affricum/ vn̄ erntail der groſſen landē durchreit,0.19642857142857142,0.6666666666666666,0.6666666666666666,7474186,mistral
+16,biß zuͦ den hochbergen der Moren ſo alſo von Ptolomeo,biß zū den hoch bergen der Moren/ zo alſo von Ptolomeo,0.09433962264150944,0.5,0.5,7474186,mistral
+17,genēpt wirt/ Das zuͦ dißen zeitē von den vnſern dz grün̄,genempt wirt/ Daß zū dyſen zeite von den vnſern dez grūn,0.19642857142857142,0.6363636363636364,0.6363636363636364,7474186,mistral
+18,houpt genempt wirt/ vn̄ von den Morē beſeglitte/ vnd,punct genempt wirt/ vn̄ von den Moren Beſegelte/ vnd,0.19230769230769232,0.3333333333333333,0.3333333333333333,7474186,mistral
+19,die ſelbe lantſchafft Mandinglia vierzehē gradus innert,die ſelbe lanſchafft/ Mandinglia vn̄ ſehe gradus innere,0.14545454545454545,0.5714285714285714,0.5714285714285714,7474186,mistral
+20,der krummen ſchnuͦr genāt Torrida zona/ von der lyniē,der frummen ſchinin genāt Zouridazona/ von der lyniē,0.1509433962264151,0.4444444444444444,0.4444444444444444,7474186,mistral
+21,equinoctiali gegen Mitternacht die von ſchwartzen lü¬,equinoctiali gegen Mitternacht die von fūnwarigen tā,0.1509433962264151,0.2857142857142857,0.2857142857142857,7474186,mistral
+22,ten vnd voͤlckern bewōt wirt/ da ſelbs nach raſtung vn̄,ten vnd poſtern beweſe wirt/ da ſelbē nach raffung vn̄,0.2,0.4,0.4,7474186,mistral
+23,widerlabung vnſer krafft vnnd nottürfftiger dingen zuͦ,widerlauffig vnſer ſchiff vnſer krafft vn̄ nordtrifftiger dingen zū,0.46296296296296297,0.8571428571428571,0.8571428571428571,7474186,mistral
+24,vnſer ſchiffung/ huͦben wir die encker vff vn̄ zertan̄tē die,vnſer ſchiffung/ hūben wir die encrē vn̄ vnſerantē die,0.2,0.4,0.4,7474186,mistral
+25,ſegel in winde vnd in vnſern weg durch das allerwildeſt,ſegel in winde vn̄ in vnſern weg durch das allerwildēſt,0.03636363636363636,0.2,0.2,7474186,mistral
+26,groß mere Occeanum/ vnd fuͦrē gegen dem wider sibēge,groſſe merē Oceani/ vnd fūre gegen dem wūder füſſe,0.3076923076923077,0.6666666666666666,0.6666666666666666,7474186,mistral
+27,ſtirn gen Ancarticies/ ein wenig gegē der Sonnē nyder,ſtūn gen Zucaritēa/ ein wenig gege der Sonne nūder,0.22641509433962265,0.5555555555555556,0.5555555555555556,7474186,mistral
+28,gang wandten wir durch den wynd genant vulturnus,gang wanden wir durch den rūnd genant vulturnus,0.0625,0.25,0.25,7474186,mistral
+29,vnd von dem tag als wir abſchieden von dē gemelten ho,vn̄ von dem tag alſo wir abſchiedē von de gemelten ho,0.11320754716981132,0.36363636363636365,0.36363636363636365,7474186,mistral
+30,chgebürg zwen Monet vn̄ drig tag ſchyfften wir ee das,chgebirg zween Monet on drey tag ichſchiffen wir ez daß,0.24528301886792453,0.7,0.7,7474186,mistral
+31,vnß land oder ertrich ze ſehen ward/ Was wir aber in ſo,vnſland oder errich ze ſehen ward/ Was wūber in ſo,0.12727272727272726,0.4166666666666667,0.4166666666666667,7474186,mistral
+32,licher willde des Mers/ gelitten haben/ vnd was ſorgkli¬,licher wilde des ſzēs/ gelitten haben/ vn̄ waß ſogelū,0.17857142857142858,0.5555555555555556,0.5555555555555556,7474186,mistral
+33,A ii,24 ii,0.5,0.5,0.5,7474186,mistral

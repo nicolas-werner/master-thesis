@@ -1,34 +1,34 @@
-line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,nie geſehen oder beſchryben ſynd wil ich harnach ſagen/,nie geſehen oder beſchryben ſynd wil ich harnach ſagen,0.01818181818181818,0.1111111111111111,0.1111111111111111,7474190,openai
-2,Darumb am erſten der lütten halb/ So haben wir in dy,Darumb am ersten der lütten halb/ So haben wir in dy,0.019230769230769232,0.09090909090909091,0.09090909090909091,7474190,openai
-3,ſen landen vnd region funden ſo vil vn̄ ſo groſſe der voͤl¬,sen landen vnd region funden so vil vn̄ so grosse der völk,0.13559322033898305,0.4166666666666667,0.4166666666666667,7474190,openai
-4,cker/ ſcharen vnd lüt/ das die nyeman erzellen moͤcht als,cſter / ſcharen vnd lüt / das die nyeman erzellen möcht als,0.10526315789473684,0.5,0.5,7474190,openai
-5,man lißt im Apocalipſi/ Eyn volck ſag ich eyn milt guͤtig,man liſt im Apocalipſt/ Eyn volck ſag ich eyn mile ginig,0.10526315789473684,0.36363636363636365,0.36363636363636365,7474190,openai
-6,vnd hantwiſyg vnd gand alle nackend beyde weyb vnd,vnd hanewisſig vnd gand alle nacktend beyde weyb vnd,0.08,0.2222222222222222,0.2222222222222222,7474190,openai
-7,man/ vnd gantz on bedeckung ir lyben an allen enden vn̄,man/ vnd gantz on bedeckung uͤ lyben an allen enden vñ,0.07272727272727272,0.18181818181818182,0.18181818181818182,7474190,openai
-8,wie Sy vß muͦter lyb kommen alſo gand ſy biß das ſy ge,wie ſy vß miter lyb kommen alſo gand ſy biß das ſy ſte,0.09259259259259259,0.23076923076923078,0.23076923076923078,7474190,openai
-9,ſterben/ Den̄ ſy ſind groß von lyb vierſchretig wol geſchi,ſterben/Den ſy ſind groſs von lyß vierschretig wol geſchi,0.10344827586206896,0.5,0.5,7474190,openai
-10,ckt/ guͦter ſchoͤnen lidmaß vnd geferbt etlicher maß gegē,ett/güter schönen lidmaß vnd geſeͤrt ertlicher maß gegē,0.21052631578947367,0.6666666666666666,0.6666666666666666,7474190,openai
-11,rotem/ Das ich meyn ienen von der vrſach kommen das,rotem/Das ich meyn ienen von der vrſach kommen das,0.0196078431372549,0.2,0.2,7474190,openai
-12,ſy nackend gand vnd von der ſonnen beſcheynen alſo ge¬,sy nackend gand vnd von der sonnen bescheynen also ge,0.09259259259259259,0.5,0.5,7474190,openai
-13,ferbt werden/ Sy haben ouch wyt vnd groß harlock vn̄,ferſte werden/Sy haben ouch wyt vnd groſz harloſk vn̄,0.11538461538461539,0.5,0.5,7474190,openai
-14,ſchwartz/ Sy ſind mit irem gang vnd mit ſpyl tribē det¬,ſchwartz/Sy ſind mit irem gang vnd mit ſpyl tribẽ deſ,0.07272727272727272,0.36363636363636365,0.36363636363636365,7474190,openai
-15,tig vnd bering vnd guͤttiger ſchonen anlitten/ Die ſy do,tig vnd ꝛering vnd güttiger ſchonen anlitters/ Die ſy do,0.08928571428571429,0.3,0.3,7474190,openai
-16,ch inen ſelbs heßlich machen vnd vngeſtalt/ Den̄ ſy borē,hinen selbs heßlich machen vnd vngeſtalt/ Deñ ſy ſoet,0.14285714285714285,0.5,0.5,7474190,openai
-17,inen ſelbs loͤcher in die backen die muntlefftzen vn̄ die na¬,inen selbs löcher in die backen die muntleſſzen vñ die nas,0.14754098360655737,0.45454545454545453,0.45454545454545453,7474190,openai
-18,ſen vnd die oren/ Du ſolt ouch nit gedencken das ſoliche,ſen vnd die oren/Du ſolt ouch nit gedencken das ſoliche,0.017857142857142856,0.18181818181818182,0.18181818181818182,7474190,openai
-19,loͤcher kleyn ſyen oder ſy eins alleyn haben den̄ ich etlich,iſcher Eleyn ſyen oder ſy einas alleyn haben deñ ich etlich,0.11666666666666667,0.36363636363636365,0.36363636363636365,7474190,openai
-20,geſehen hab die in iren anlitten alleyn Syben loͤcher der,gesehen hab die in iren anlitten alleyn Syben löcher der,0.05263157894736842,0.2,0.2,7474190,openai
-21,yegliches ſo groß was das eyn kriechen wol in eyns gan,yeglichẽs ſo groſſ was das eyn triechen wol in eyns gan,0.07407407407407407,0.2727272727272727,0.2727272727272727,7474190,openai
-22,moͤchte/ Sy verſtoſſen inen ſelbs ſoliche loͤcher mit blawē,mochte/Sy verstoſſen inen ſelbs ſoliche löcher mit ſlawe,0.11864406779661017,0.5555555555555556,0.5555555555555556,7474190,openai
-23,ſteynen/ Criſtallen/ Marmor vnd alabaſter/ gar hübſch,ſteynen/ Criſtallen/ Marmoꝛ vnd alabaster/ gar hübſch,0.03773584905660377,0.2857142857142857,0.2857142857142857,7474190,openai
-24,vnd ſchon vnd mit wiſſem gebein vnd mit andern̄ dingē,vnd schon vnd mit wissen gebein vnd mit andern dingẽ,0.11320754716981132,0.4,0.4,7474190,openai
-25,ſo mit künſten vnd koſtlich mit arbeyt gemacht werden,so mit künſten vnd koſtlich mit arbeit gemacht werden,0.03773584905660377,0.2222222222222222,0.2222222222222222,7474190,openai
-26,nach ir gewonheyt vnd gebruch/ Und ob du alſo ſeheſt,nach ir gewonheyt vnd gebruch/ Vnd ob du also sehest,0.07692307692307693,0.3,0.3,7474190,openai
-27,eyn ſo frembd vngewon ding groſſem ſeltzemen wunder,eyn ſo frembd vngewohn ding groſſem ſelzamen wunder,0.058823529411764705,0.25,0.25,7474190,openai
-28,gliche/ Nemlich eynen menſchē der da hatt in den back,gliche / Nemlich eynen menſche der da hatt in den Back,0.05660377358490566,0.4,0.4,7474190,openai
-29,ken alleyn vnnd in den lefftzen Syben ſteyn dera ettlich,fen alleyn vnnd in den leffſen Syben ſteyn der aͤttlich,0.10714285714285714,0.4,0.4,7474190,openai
-30,in der lenge eyner halben ſpann du wurdeſt nit on groß,in der lenge eyner halben ſpann du wurdest nit on groſſ,0.05555555555555555,0.18181818181818182,0.18181818181818182,7474190,openai
-31,verwūderūg ſyn/ Dē ich hab dyck wargenomē vn̄ über,verwideruͤg ſyn/ Se ich hab dycꝛ wargenon̄ yn uͤber,0.24,0.6666666666666666,0.6666666666666666,7474190,openai
-32,ſchetzt/ dz Siben ſolicher ſteinē an gewicht habē .xvi. lot,schetz/dz Siben ſolicher ſteinē an gewicht habē .xvi. lot,0.05084745762711865,0.2,0.2,7474190,openai
-33,A iiii,A iiii,0.0,0.0,0.0,7474190,openai
+line_number,ground_truth,transcription,cer,wer,document_id,method
+1,nie geſehen oder beſchryben ſynd wil ich harnach ſagen/,nie gesehen oder beschryben synd wil ich harnach sagen/,0.07272727272727272,0.4444444444444444,7474190,openai
+2,Darumb am erſten der lütten halb/ So haben wir in dy,Darumb am ersten der lütten halb/ So haben wir in dy,0.019230769230769232,0.09090909090909091,7474190,openai
+3,ſen landen vnd region funden ſo vil vn̄ ſo groſſe der voͤl¬,sen landen vnd region funden so vil vn̄ so grosse der vol¬,0.1016949152542373,0.4166666666666667,7474190,openai
+4,cker/ ſcharen vnd lüt/ das die nyeman erzellen moͤcht als,cker/ scharen vnd lüt/ das die nyeman erzellen möcht als,0.05263157894736842,0.2,7474190,openai
+5,man lißt im Apocalipſi/ Eyn volck ſag ich eyn milt guͤtig,man lißt im Apocalipſt / Eyn volck ſag ich eyn milt guͤnig,0.05263157894736842,0.2727272727272727,7474190,openai
+6,vnd hantwiſyg vnd gand alle nackend beyde weyb vnd,vnd hantwisyg vnd gand alle nackend beyde weyb vnd,0.02,0.1111111111111111,7474190,openai
+7,man/ vnd gantz on bedeckung ir lyben an allen enden vn̄,man/ vnd gantz on bedeckung ir lyben an allen enden vn̄,0.0,0.0,7474190,openai
+8,wie Sy vß muͦter lyb kommen alſo gand ſy biß das ſy ge,wie Sy vß muͤter lyb kommen alſo gand ſy biß das ſy ge,0.018518518518518517,0.07692307692307693,7474190,openai
+9,ſterben/ Den̄ ſy ſind groß von lyb vierſchretig wol geſchi,sterben/Deñ ſy ſind groſ von lyb vierschretig wol geſchi,0.10344827586206896,0.4,7474190,openai
+10,ckt/ guͦter ſchoͤnen lidmaß vnd geferbt etlicher maß gegē,ckt/ güter schönen lidmaß vnd geferbt etlicher maß gegen,0.12280701754385964,0.3333333333333333,7474190,openai
+11,rotem/ Das ich meyn ienen von der vrſach kommen das,rotem/Das ich meyn ienen von der vrsach kommen das,0.0392156862745098,0.3,7474190,openai
+12,ſy nackend gand vnd von der ſonnen beſcheynen alſo ge¬,sy nackend gand vnd von der sonnen bescheynen also ge¬,0.07407407407407407,0.4,7474190,openai
+13,ferbt werden/ Sy haben ouch wyt vnd groß harlock vn̄,ferbt werden/Sy haben ouch wyt vnd groß harlock vn̄,0.019230769230769232,0.2,7474190,openai
+14,ſchwartz/ Sy ſind mit irem gang vnd mit ſpyl tribē det¬,schwartz/ Sy sind mit irem gang vnd mit spyl tribē det¬,0.05454545454545454,0.2727272727272727,7474190,openai
+15,tig vnd bering vnd guͤttiger ſchonen anlitten/ Die ſy do,tig vnd ꝛering vnd güttiger ſchonen anlitten/ Die ſy do,0.05357142857142857,0.2,7474190,openai
+16,ch inen ſelbs heßlich machen vnd vngeſtalt/ Den̄ ſy borē,ch inen selbs heßlich machen vnd vngestalt/ Den sy borem,0.10714285714285714,0.5,7474190,openai
+17,inen ſelbs loͤcher in die backen die muntlefftzen vn̄ die na¬,inen selbs löcher in die backen die muntlefftzen vn die na¬,0.06557377049180328,0.2727272727272727,7474190,openai
+18,ſen vnd die oren/ Du ſolt ouch nit gedencken das ſoliche,sen vnd die oren / Du ſolt ouch nit gedencken das ſoliche,0.03571428571428571,0.2727272727272727,7474190,openai
+19,loͤcher kleyn ſyen oder ſy eins alleyn haben den̄ ich etlich,loͤcher kleyn ſyen oder ſy eins alleyn haben deñ ich etlich,0.03333333333333333,0.09090909090909091,7474190,openai
+20,geſehen hab die in iren anlitten alleyn Syben loͤcher der,gesehen hab die in iren anlitten alleyn Syben löcher der,0.05263157894736842,0.2,7474190,openai
+21,yegliches ſo groß was das eyn kriechen wol in eyns gan,yegliches ſo groſz was das eyn kriechen wol in eyns gan,0.037037037037037035,0.09090909090909091,7474190,openai
+22,moͤchte/ Sy verſtoſſen inen ſelbs ſoliche loͤcher mit blawē,mochte/Sy verſtoſſen inen ſelbs ſoliche löcher mitſlawe,0.11864406779661017,0.5555555555555556,7474190,openai
+23,ſteynen/ Criſtallen/ Marmor vnd alabaſter/ gar hübſch,ſteynen/ Criſtallen/ Marmor vnd alabaster/ gar hübſch,0.018867924528301886,0.14285714285714285,7474190,openai
+24,vnd ſchon vnd mit wiſſem gebein vnd mit andern̄ dingē,vnd schon vnd nit wissem gebein vnd mit andern̄ dingen,0.11320754716981132,0.4,7474190,openai
+25,ſo mit künſten vnd koſtlich mit arbeyt gemacht werden,so mit künſten vnd koſtlich mit arbeyt gemacht werden,0.018867924528301886,0.1111111111111111,7474190,openai
+26,nach ir gewonheyt vnd gebruch/ Und ob du alſo ſeheſt,nach ir gewonheyt vnd gebruch/ Und ob du also sehest,0.057692307692307696,0.2,7474190,openai
+27,eyn ſo frembd vngewon ding groſſem ſeltzemen wunder,eyn ſo frembd vngewon ding groſſem ſeltzemen wunder,0.0,0.0,7474190,openai
+28,gliche/ Nemlich eynen menſchē der da hatt in den back,gliche / Nemlich eynen mensche der da hatt in den Back,0.07547169811320754,0.4,7474190,openai
+29,ken alleyn vnnd in den lefftzen Syben ſteyn dera ettlich,ren alleyn vnnd in den lefftzen Syben steyn dera ettlich,0.03571428571428571,0.2,7474190,openai
+30,in der lenge eyner halben ſpann du wurdeſt nit on groß,in der lenge eyner halben ſpann du wurdeſt nit on groſ,0.018518518518518517,0.09090909090909091,7474190,openai
+31,verwūderūg ſyn/ Dē ich hab dyck wargenomē vn̄ über,verwiderung ſyn / Se ich hab dyck wargenomen vn̄ über,0.16,0.5555555555555556,7474190,openai
+32,ſchetzt/ dz Siben ſolicher ſteinē an gewicht habē .xvi. lot,schetzt / dz Siben solicher steine an gewicht habe .xvi. lot,0.1016949152542373,0.5,7474190,openai
+33,A iiii,A iiii,0.0,0.0,7474190,openai

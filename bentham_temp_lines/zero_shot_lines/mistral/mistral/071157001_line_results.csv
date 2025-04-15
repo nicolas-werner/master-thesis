@@ -1,27 +1,24 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,Of simple Mercantile Defraudment,Of Simple Mercantile Defraudment,0.03125,0.25,0.25,071157001,mistral
-2,more advantage than it were to be wished it had over indi,more advantages than it were to be wished it had over indi,0.017543859649122806,0.08333333333333333,0.08333333333333333,071157001,mistral
-3,:gent merit: and an artificial arrangement of this sort would,'gent merit: and an artificial arrangement of this sort would,0.01639344262295082,0.1,0.1,071157001,mistral
-4,add to the natural incitements which verge a man from all,add to the natural incitements which urge a man from all,0.03508771929824561,0.09090909090909091,0.09090909090909091,071157001,mistral
-5,quarters to seek the acquirement of wealth by dishonesly,quarters to seek the acquirement of wealth by dishonesty,0.017857142857142856,0.1111111111111111,0.1111111111111111,071157001,mistral
-6,and other unworthy means. As to the affections of the peo=­,and other unworthy means. As to the affections of the peo,0.03389830508474576,0.09090909090909091,0.09090909090909091,071157001,mistral
-7,"-:ple, sool K;olings, and oppresive a preference given to the","ple, so striking and oppressive a preference given to the",0.19672131147540983,0.4,0.4,071157001,mistral
+1,17 5,1741,0.5,1.0,1.0,071157001,mistral
+2,Of Simple Merchantile Defraudment,Of Simple Mercantile Defraudment,0.030303030303030304,0.25,0.25,071157001,mistral
+3,more advantages than it were to be wished it had over indi:,more advantages than it were to be wished it had over indi,0.01694915254237288,0.08333333333333333,0.08333333333333333,071157001,mistral
+4,:gent merit: and an artificial arrangement of this sort would,'gent merit: and an artificial arrangement of this sort would,0.01639344262295082,0.1,0.1,071157001,mistral
+5,add to the natural incitements which urge a man from all,add to the natural incitements which urge a man from all,0.0,0.0,0.0,071157001,mistral
+6,quarters to seek the acquirement of wealth by dishonesty,quarters to seek the acquirement of wealth by dishonesty,0.0,0.0,0.0,071157001,mistral
+7,and other unworthy means. As to the affections of the peo:,and other unworthy means. As to the affections of the peo,0.017241379310344827,0.09090909090909091,0.09090909090909091,071157001,mistral
 8,less numerous class over the more numerous will na:,less numerous claſs over the more numerous will na,0.0392156862745098,0.2222222222222222,0.2222222222222222,071157001,mistral
-9,:turally be but ill relished by the latter.,Naturally he but ill relished by the latter.,0.06976744186046512,0.25,0.25,071157001,mistral
-10,"The difference, it is true, is rather apparent than","The difference, it is true, is rather apparent than",0.0,0.0,0.0,071157001,mistral
-11,real: for a man iniesponsible circumstances may probably,real: for a man in responsible circumstances may probably,0.03571428571428571,0.25,0.25,071157001,mistral
-12,in point of fact suffer as much by being deprived of part,in point of fact suffer as much by being deprived of part,0.0,0.0,0.0,071157001,mistral
-13,"of his property, nousidering the share of reputation that","of his property, considering the share of reputation that",0.03508771929824561,0.1111111111111111,0.1111111111111111,071157001,mistral
-14,"goes along with it, as a man in irresponsible circumstances","goes along with it, as a man in irresponsible circumstances",0.0,0.0,0.0,071157001,mistral
-15,would be by being made to undergo a severe corporal pu:,would he by being made to undergo a severe corporal pun,0.03636363636363636,0.18181818181818182,0.18181818181818182,071157001,mistral
-16,­:nishment: and if both were to undergo the same corporal,punishment: and if both were to undergo the same corporal,0.03508771929824561,0.1,0.1,071157001,mistral
-17,"punishment, the punishment, that is the suffering, though","punishment, the punishment, that is the suffering, though",0.0,0.0,0.0,071157001,mistral
-18,very much the reverse.,very much the reverse,0.045454545454545456,0.25,0.25,071157001,mistral
-19,equal,"equal,",0.2,1.0,1.0,071157001,mistral
-20,nominally [the same] would in reality be [much greater to the lat,nominally [the same] would in reality be [much greater to the lat,0.0,0.0,0.0,071157001,mistral
-21,":ter.] But this distinction, however real, is too subtle to be gene:","But this distinction, however real, is too subtle to be general.",0.16176470588235295,0.16666666666666666,0.16666666666666666,071157001,mistral
-22,=rally,=rally,0.0,0.0,0.0,071157001,mistral
-23,171,174,0.3333333333333333,1.0,1.0,071157001,mistral
-24,OLL.,"ROLL,",0.5,1.0,1.0,071157001,mistral
-25,71,2,1.0,1.0,1.0,071157001,mistral
-26,157,157,0.0,0.0,0.0,071157001,mistral
+9,real: for a man in responsible circumstances may probably,real: for a man in responsible circumstances may probably,0.0,0.0,0.0,071157001,mistral
+10,in point of fact suffer as much by being deprived of part,in point of fact suffer as much by being deprived of part,0.0,0.0,0.0,071157001,mistral
+11,"of his property, considering the share of reputation that","of his property, considering the share of reputation that",0.0,0.0,0.0,071157001,mistral
+12,"goes along with it, as a man in irresponsible circumstances","goes along with it, as a man in irresponsible circumstances",0.0,0.0,0.0,071157001,mistral
+13,:nishment: and if both were to undergo the same corporal,punishment: and if both were to undergo the same corporal,0.03571428571428571,0.1,0.1,071157001,mistral
+14,"punishment, the punishment, that is the suffering, though","punishment, the punishment, that is the suffering, though",0.0,0.0,0.0,071157001,mistral
+15,":ter.] But this distinction , however real, is too subtle to be gene:","But this distinction, however real, is too subtle to be general.",0.17391304347826086,0.3076923076923077,0.3076923076923077,071157001,mistral
+16,"The difference, it is true, is rather apparent than","The difference, it is true, is rather apparent than",0.0,0.0,0.0,071157001,mistral
+17,would be by being made to undergo a severe corporal pu:,would he by being made to undergo a severe corporal pu,0.03636363636363636,0.18181818181818182,0.18181818181818182,071157001,mistral
+18,nominally [the same ] would in reality be much greater to the lat:,nominally [the same] would in reality be [much greater to the lat,0.045454545454545456,0.3076923076923077,0.3076923076923077,071157001,mistral
+19,:rally,equal,0.8333333333333334,1.0,1.0,071157001,mistral
+20,":ple, so striking and oppressive a preference given to the","ple, so striking and oppressive a preference given to the",0.017241379310344827,0.1,0.1,071157001,mistral
+21,:turally be but ill relished by the latter.,Naturally he but ill relished by the latter.,0.06976744186046512,0.25,0.25,071157001,mistral
+22,"equal, very much the reverse.",very much the reverse,0.27586206896551724,0.4,0.4,071157001,mistral
+23,C,,1.0,1.0,1.0,071157001,mistral

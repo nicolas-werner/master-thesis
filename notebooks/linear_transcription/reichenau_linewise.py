@@ -16,7 +16,7 @@ def _(__file__):
     return mo, os, project_root, sys
 
 
-@app.cell(hide_code=True)
+@app.cell
 def display_comparison_stats(os):
     from src.visualization import plot_method_comparison, plot_error_type_breakdown, plot_metric_distribution
     from src.file_utils import extract_text_from_xml
@@ -129,7 +129,6 @@ def display_comparison_stats(os):
 
     ##########
 
-
     def display_comparison_stats(results, transkribus_df, mo, pd, provider_suffix=""):
         """
         Display comparison stats between models and Transkribus with visualizations
@@ -148,7 +147,7 @@ def display_comparison_stats(os):
         transkribus_metrics = {
             "avg_cer": transkribus_df['cer'].mean() if not transkribus_df.empty else None,
             "avg_wer": transkribus_df['wer'].mean() if not transkribus_df.empty else None,
-            "avg_bwer": transkribus_df['bwer'].mean() if not transkribus_df.empty else None
+            "avg_bow_error_rate": transkribus_df['bow_error_rate'].mean() if not transkribus_df.empty else None
         }
 
         # Create stat components for comparison
@@ -161,7 +160,7 @@ def display_comparison_stats(os):
                 mo.hstack([
                     mo.stat(f"{transkribus_metrics['avg_cer']:.4f}", label="Average CER", bordered=True),
                     mo.stat(f"{transkribus_metrics['avg_wer']:.4f}", label="Average WER", bordered=True),
-                    mo.stat(f"{transkribus_metrics['avg_bwer']:.4f}", label="Average BWER", bordered=True),
+                    mo.stat(f"{transkribus_metrics['avg_bow_error_rate']:.4f}", label="Average bow_error_rate", bordered=True),
                     mo.stat(len(transkribus_df), label="Documents", bordered=True)
                 ])
             ]
@@ -178,23 +177,23 @@ def display_comparison_stats(os):
                 # Calculate absolute differences
                 cer_diff = transkribus_metrics["avg_cer"] - metrics["avg_cer"]
                 wer_diff = transkribus_metrics["avg_wer"] - metrics["avg_wer"]
-                bwer_diff = transkribus_metrics["avg_bwer"] - metrics["avg_bwer"]
+                bow_error_rate_diff = transkribus_metrics["avg_bow_error_rate"] - metrics["avg_bow"]
 
                 # Calculate percentage changes (relative to Transkribus baseline)
                 cer_pct = (cer_diff / transkribus_metrics["avg_cer"]) * 100 if transkribus_metrics["avg_cer"] > 0 else 0
                 wer_pct = (wer_diff / transkribus_metrics["avg_wer"]) * 100 if transkribus_metrics["avg_wer"] > 0 else 0
-                bwer_pct = (bwer_diff / transkribus_metrics["avg_bwer"]) * 100 if transkribus_metrics["avg_bwer"] > 0 else 0
+                bow_error_rate_pct = (bow_error_rate_diff / transkribus_metrics["avg_bow_error_rate"]) * 100 if transkribus_metrics["avg_bow_error_rate"] > 0 else 0
 
-                # For error metrics like CER/WER/BWER, lower is better
+                # For error metrics like CER/WER/bow_error_rate, lower is better
                 # So if our model has lower error (cer_diff > 0), that's an improvement
                 cer_direction = "increase" if cer_diff > 0 else "decrease"
                 wer_direction = "increase" if wer_diff > 0 else "decrease"
-                bwer_direction = "increase" if bwer_diff > 0 else "decrease"
+                bow_error_rate_direction = "increase" if bow_error_rate_diff > 0 else "decrease"
 
                 # Format percentage with sign (positive means improvement)
                 cer_caption = f"{cer_pct:+.1f}% vs Transkribus"
                 wer_caption = f"{wer_pct:+.1f}% vs Transkribus"
-                bwer_caption = f"{bwer_pct:+.1f}% vs Transkribus"
+                bow_error_rate_caption = f"{bow_error_rate_pct:+.1f}% vs Transkribus"
 
                 # Create stat components row for this provider
                 final_provider_stats.append(mo.md(f"### {display_name} with {_model_name}"))
@@ -215,10 +214,10 @@ def display_comparison_stats(os):
                             bordered=True
                         ),
                         mo.stat(
-                            f"{metrics['avg_bwer']:.4f}",
-                            label="Average BWER",
-                            caption=bwer_caption,
-                            direction=bwer_direction,
+                            f"{metrics['avg_bow']:.4f}",
+                            label="Average bow_error_rate",
+                            caption=bow_error_rate_caption,
+                            direction=bow_error_rate_direction,
                             bordered=True
                         ),
                         mo.stat(metrics["doc_count"], label="Documents", bordered=True)
@@ -231,7 +230,7 @@ def display_comparison_stats(os):
                     mo.hstack([
                         mo.stat(f"{metrics['avg_cer']:.4f}", label="Average CER", bordered=True),
                         mo.stat(f"{metrics['avg_wer']:.4f}", label="Average WER", bordered=True),
-                        mo.stat(f"{metrics['avg_bwer']:.4f}", label="Average BWER", bordered=True),
+                        mo.stat(f"{metrics['avg_bow']:.4f}", label="Average bow_error_rate", bordered=True),
                         mo.stat(metrics["doc_count"], label="Documents", bordered=True)
                     ])
                 )
@@ -255,7 +254,7 @@ def display_comparison_stats(os):
                     'method': display_name,
                     'cer': doc_metrics['cer'],
                     'wer': doc_metrics['wer'],
-                    'bwer': doc_metrics['bwer']
+                    'bow_error_rate': doc_metrics['bow_error_rate']
                 }
                 all_results.append(result_row)
 
@@ -267,7 +266,7 @@ def display_comparison_stats(os):
                     'method': 'Transkribus',
                     'cer': row['cer'],
                     'wer': row['wer'],
-                    'bwer': row['bwer']
+                    'bow_error_rate': row['bow_error_rate']
                 }
                 all_results.append(result_row)
 
@@ -289,7 +288,7 @@ def display_comparison_stats(os):
                 viz_components.append(mo.md("## Visualizations"))
 
                 # Implement a simplified version of plot_method_comparison that works with a DataFrame
-                metrics = ['cer', 'wer', 'bwer']
+                metrics = ['cer', 'wer', 'bow_error_rate']
                 plt.figure(figsize=(14, 8))
 
                 # Calculate aggregate metrics for each method
@@ -332,8 +331,8 @@ def display_comparison_stats(os):
 
                 # Calculate the two error components
                 error_df = results_df.copy()
-                error_df['content_errors'] = error_df['bwer']
-                error_df['order_errors'] = error_df['wer'] - error_df['bwer']
+                error_df['content_errors'] = error_df['bow_error_rate']
+                error_df['order_errors'] = error_df['wer'] - error_df['bow_error_rate']
 
                 # Reshape for stacked bar chart
                 plot_df = pd.melt(error_df,
@@ -369,7 +368,7 @@ def display_comparison_stats(os):
                 dist_html = []
 
                 # Simplified version of plot_metric_distribution
-                metrics_to_plot = ['cer', 'wer', 'bwer']
+                metrics_to_plot = ['cer', 'wer', 'bow_error_rate']
                 for metric in metrics_to_plot:
                     plt.figure(figsize=(10, 6))
                     sns.set(style="whitegrid")
@@ -410,7 +409,7 @@ def display_comparison_stats(os):
                 "model": "Text Titan 1",
                 "avg_cer": transkribus_metrics["avg_cer"],
                 "avg_wer": transkribus_metrics["avg_wer"],
-                "avg_bwer": transkribus_metrics["avg_bwer"],
+                "avg_bow": transkribus_metrics["avg_bow_error_rate"],  # Changed to match the key format in metrics
                 "doc_count": len(transkribus_df)
             }
 
@@ -427,7 +426,6 @@ def display_comparison_stats(os):
             table_ui or mo.md(""),
             *viz_components
         ]), comparison_df
-
 
 
 
@@ -486,7 +484,7 @@ def display_comparison_stats(os):
                     'model': 'Text Titan 1',
                     'cer': row['cer'],
                     'wer': row['wer'],
-                    'bwer': row['bwer']
+                    'bow_error_rate': row['bow_error_rate']
                 }
                 all_method_results.append(result_row)
 
@@ -523,7 +521,7 @@ def display_comparison_stats(os):
                         'model': model_name,
                         'cer': doc_metrics['cer'],
                         'wer': doc_metrics['wer'],
-                        'bwer': doc_metrics['bwer']
+                        'bow_error_rate': doc_metrics['bow_error_rate']
                     }
                     all_method_results.append(result_row)
 
@@ -563,11 +561,11 @@ def display_comparison_stats(os):
         plt.figure(figsize=(width, 10))
 
         # For each metric, create a row of method groups
-        metrics = ['wer', 'cer', 'bwer']
+        metrics = ['wer', 'cer', 'bow_error_rate']
         metric_titles = {
             'cer': 'Character Error Rate (CER)',
             'wer': 'Word Error Rate (WER)',
-            'bwer': 'Bag-of-Words Error Rate (BWER)'
+            'bow_error_rate': 'Bag-of-Words Error Rate (bow_error_rate)'
         }
 
         # Store baseline values for each metric to use in later charts
@@ -692,8 +690,8 @@ def display_comparison_stats(os):
         # Create a figure for all metric combinations
         plt.figure(figsize=(15, 15))
 
-        # Create a 3x1 grid of bar plots for CER, WER, BWER by method and provider
-        for i, metric in enumerate(['cer', 'wer', 'bwer']):
+        # Create a 3x1 grid of bar plots for CER, WER, bow_error_rate by method and provider
+        for i, metric in enumerate(['cer', 'wer', 'bow_error_rate']):
             plt.subplot(3, 1, i+1)
 
             # Calculate aggregate metrics with confidence intervals
@@ -749,10 +747,10 @@ def display_comparison_stats(os):
         ranking_chart = []
 
         # Calculate means for each provider-method combination
-        avg_metrics = unified_df.groupby('provider_method')[['cer', 'wer', 'bwer']].mean().reset_index()
+        avg_metrics = unified_df.groupby('provider_method')[['cer', 'wer', 'bow_error_rate']].mean().reset_index()
 
         plt.figure(figsize=(15, 10))
-        for i, metric in enumerate(['cer', 'wer', 'bwer']):
+        for i, metric in enumerate(['cer', 'wer', 'bow_error_rate']):
             plt.subplot(3, 1, i+1)
 
             # Sort by metric value (ascending, since lower is better)
@@ -808,7 +806,7 @@ def display_comparison_stats(os):
         table_data = unified_df.groupby(['provider', 'method', 'model'], observed=True).agg({
             'cer': ['mean', 'std', 'min', 'max', 'count'],
             'wer': ['mean', 'std', 'min', 'max'],
-            'bwer': ['mean', 'std', 'min', 'max'],
+            'bow_error_rate': ['mean', 'std', 'min', 'max'],
         }).reset_index()
 
         # Flatten multi-level columns
@@ -820,10 +818,10 @@ def display_comparison_stats(os):
         # Add confidence intervals
         table_data['cer_ci'] = table_data['cer_std'] / np.sqrt(table_data['cer_count']) * 1.96
         table_data['wer_ci'] = table_data['wer_std'] / np.sqrt(table_data['cer_count']) * 1.96
-        table_data['bwer_ci'] = table_data['bwer_std'] / np.sqrt(table_data['cer_count']) * 1.96
+        table_data['bow_error_rate_ci'] = table_data['bow_error_rate_std'] / np.sqrt(table_data['cer_count']) * 1.96
 
         # Format for display
-        for metric in ['cer', 'wer', 'bwer']:
+        for metric in ['cer', 'wer', 'bow_error_rate']:
             table_data[f'{metric}_display'] = table_data.apply(
                 lambda x: f"{x[f'{metric}_mean']:.4f} ± {x[f'{metric}_ci']:.4f}", axis=1
             )
@@ -831,12 +829,12 @@ def display_comparison_stats(os):
         # Select and rename columns for display
         display_table = table_data[[
             'provider', 'method', 'model', 'cer_count',
-            'cer_display', 'wer_display', 'bwer_display'
+            'cer_display', 'wer_display', 'bow_error_rate_display'
         ]].rename(columns={
             'cer_count': 'Samples',
             'cer_display': 'CER (mean ± 95% CI)',
             'wer_display': 'WER (mean ± 95% CI)',
-            'bwer_display': 'BWER (mean ± 95% CI)'
+            'bow_error_rate_display': 'bow_error_rate (mean ± 95% CI)'
         })
 
         # Sort by WER (typically the primary metric)
@@ -974,7 +972,7 @@ def _(mo):
     if not transkribus_df.empty:
         transkribus_avg_cer = transkribus_df['cer'].mean()
         transkribus_avg_wer = transkribus_df['wer'].mean()
-        transkribus_avg_bwer = transkribus_df['bwer'].mean()
+        transkribus_avg_bow_error_rate = transkribus_df['avg_bow_error_rate'].mean()
         transkribus_doc_count = len(transkribus_df)
 
         mo.output.append(mo.md("### Transkribus Text Titan 1 Results"))
@@ -982,7 +980,7 @@ def _(mo):
             mo.hstack([
                 mo.stat(f"{transkribus_avg_cer:.4f}", label="Average CER", bordered=True),
                 mo.stat(f"{transkribus_avg_wer:.4f}", label="Average WER", bordered=True),
-                mo.stat(f"{transkribus_avg_bwer:.4f}", label="Average BWER", bordered=True),
+                mo.stat(f"{transkribus_avg_bow_error_rate:.4f}", label="Average bow_error_rate", bordered=True),
                 mo.stat(transkribus_doc_count, label="Documents", bordered=True)
             ])
         ]))
@@ -994,7 +992,7 @@ def _(mo):
     return (
         evaluate_transkribus,
         pd,
-        transkribus_avg_bwer,
+        transkribus_avg_bow_error_rate,
         transkribus_avg_cer,
         transkribus_avg_wer,
         transkribus_df,
@@ -1097,52 +1095,88 @@ def _(mo):
 
 
 @app.cell
-def _(
-    encode_image_object,
-    limit_docs,
-    provider_models,
-    run_line_evaluation,
-    system_prompt,
-    zero_shot_run_button,
-):
-    if zero_shot_run_button.value:
+def _(encode_image_object, limit_docs, provider_models, system_prompt):
+    from src.evaluation import run_model_evaluation
+
+    # Create line messages function (same as before)
+    def create_zero_shot_line_messages(doc_id, line_id, line_image, line_idx):
+        line_image_base64 = encode_image_object(line_image)
+        messages = [
+            {"role": "system", "content": system_prompt.value},
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image_url",
+                        "image_url": {"url": f"data:image/jpeg;base64,{line_image_base64}"}
+                    }
+                ]
+            }
+        ]
+        return messages
+
+    # Run evaluation with the new unified approach
+    zero_shot_line_results = run_model_evaluation(
+        strategy="line", 
+        provider_models=provider_models,
+        gt_dir='data/reichenau_10_test/ground_truth',
+        image_dir='data/reichenau_10_test/images',
+        transkribus_dir='results/linear_transcription/reichenau_inkunabeln/transkribus_10_test',
+        base_output_dir='reichenau_temp_lines',
+        create_messages=create_zero_shot_line_messages,
+        eval_type='zero_shot_lines',
+        limit=limit_docs,
+        parallel=True, 
+        max_workers=None, 
+        use_structured_output=True
+    )
+    return (
+        create_zero_shot_line_messages,
+        run_model_evaluation,
+        zero_shot_line_results,
+    )
 
 
-        def create_zero_shot_line_messages(doc_id, line_id, line_image, line_idx):
+@app.cell
+def _(encode_image_object, limit_docs, provider_models, system_prompt):
+    from src.evaluation import run_model_evaluation
 
-            line_image_base64 = encode_image_object(line_image)
+    # Create line messages function (same as before)
+    def create_zero_shot_line_messages(doc_id, line_id, line_image, line_idx):
+        line_image_base64 = encode_image_object(line_image)
+        messages = [
+            {"role": "system", "content": system_prompt.value},
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image_url",
+                        "image_url": {"url": f"data:image/jpeg;base64,{line_image_base64}"}
+                    }
+                ]
+            }
+        ]
+        return messages
 
-            messages = [
-                {"role": "system", "content": system_prompt.value},
-                {
-                    "role": "user",
-                    "content": [
-                        {
-                            "type": "image_url",
-                            "image_url": {"url": f"data:image/jpeg;base64,{line_image_base64}"}
-                        }
-                    ]
-                }
-            ]
-
-            return messages
-
-
-
-        zero_shot_line_results = run_line_evaluation(
-            provider_models=provider_models,
-            gt_dir='data/reichenau_10_test/ground_truth',
-            image_dir='data/reichenau_10_test/images',
-            transkribus_dir='results/linear_transcription/reichenau_inkunabeln/transkribus_10_test',
-            base_output_dir='reichenau_temp_lines',
-            create_line_messages=create_zero_shot_line_messages,
-            eval_type='zero_shot_lines',
-            limit=limit_docs,
-            parallel=True, 
-            max_workers=None, 
-            use_structured_output=True  
-        )
-    return create_zero_shot_line_messages, zero_shot_line_results
+    zero_shot_line_results = run_model_evaluation(
+        strategy="line", 
+        provider_models=provider_models,
+        gt_dir='data/reichenau_10_test/ground_truth',
+        image_dir='data/reichenau_10_test/images',
+        transkribus_dir='results/linear_transcription/reichenau_inkunabeln/transkribus_10_test',
+        base_output_dir='reichenau_temp_lines',
+        create_messages=create_zero_shot_line_messages,
+        eval_type='zero_shot_lines',
+        limit=limit_docs,
+        parallel=True, 
+        max_workers=None, 
+        use_structured_output=True
+    )
+    return (
+        create_zero_shot_line_messages,
+        run_model_evaluation,
+        zero_shot_line_results,
+    )
 
 
 @app.cell
@@ -1190,7 +1224,7 @@ def _(
     encode_image_object,
     limit_docs,
     provider_models,
-    run_line_evaluation,
+    run_model_evaluation,
     system_prompt,
     zero_shot_hybrid_run_button,
 ):
@@ -1233,19 +1267,20 @@ def _(
 
             return messages
 
-        hybrid_zero_shot_line_results = run_line_evaluation(
-            provider_models=provider_models,
-            gt_dir='data/reichenau_10_test/ground_truth',
-            image_dir='data/reichenau_10_test/images',
-            transkribus_dir='results/linear_transcription/reichenau_inkunabeln/transkribus_10_test',
-            base_output_dir='reichenau_temp_lines',
-            create_line_messages=create_hybrid_line_messages,
-            eval_type='hybrid_zero_shot_lines',
-            limit=limit_docs,
-            parallel=True,
-            max_workers=None,
-            use_structured_output=True
-        )
+        hybrid_zero_shot_line_results = run_model_evaluation(
+                strategy="line", 
+                provider_models=provider_models,
+                gt_dir='data/reichenau_10_test/ground_truth',
+                image_dir='data/reichenau_10_test/images',
+                transkribus_dir='results/linear_transcription/reichenau_inkunabeln/transkribus_10_test',
+                base_output_dir='reichenau_temp_lines',
+                create_messages=create_hybrid_line_messages,
+                eval_type='zero_shot_lines',
+                limit=limit_docs,
+                parallel=True, 
+                max_workers=None, 
+                use_structured_output=True
+            )
     return (
         create_hybrid_line_messages,
         extract_line_coords_from_xml,
@@ -1916,7 +1951,7 @@ def _():
     #                             doc_metrics = results['document_metrics']
     #                             doc_metrics['document_id'] = doc_id
 
-    #                             print(f"✅ {doc_id}: CER: {doc_metrics['cer']:.4f}, WER: {doc_metrics['wer']:.4f}, BWER: {doc_metrics['bwer']:.4f}")
+    #                             print(f"✅ {doc_id}: CER: {doc_metrics['cer']:.4f}, WER: {doc_metrics['wer']:.4f}, bow_error_rate: {doc_metrics['avg_bow_error_rate']:.4f}")
     #                             all_results.append(doc_metrics)
 
     #                         except Exception as e:
@@ -1939,7 +1974,7 @@ def _():
     #                             "model": model_name,
     #                             "avg_cer": all_results_df['cer'].mean(),
     #                             "avg_wer": all_results_df['wer'].mean(),
-    #                             "avg_bwer": all_results_df['bwer'].mean(),
+    #                             "avg_bow_error_rate": all_results_df['avg_bow_error_rate'].mean(),
     #                             "doc_count": len(all_results_df)
     #                         }
 

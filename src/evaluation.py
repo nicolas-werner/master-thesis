@@ -13,12 +13,279 @@ from .file_utils import encode_image, extract_text_from_xml, find_file_for_id, p
 from .metrics import evaluate_transcription, save_results, calculate_aggregate_metrics
 
 
-# Define Pydantic model for structured output
 class Transcription(BaseModel):
     correct_transcription: str = Field(
         "", 
         description="The exact transcription of the text as it appears, preserving historical spellings, abbreviations, and special characters. Return an empty string if the image contains no text or shows non-textual elements."
     )
+
+
+# Define transcription acquisition functions
+
+def get_page_transcription(
+    provider: str,
+    model_name: str,
+    doc_id: str,
+    image_path: str,
+    messages: List[Dict],
+    use_structured_output: bool = False
+) -> Tuple[List[str], Dict[str, Any]]:
+    """
+    Get transcription for an entire page image.
+    
+    Args:
+        provider: Model provider name
+        model_name: Model name
+        doc_id: Document ID
+        image_path: Path to the image file
+        messages: List of message dictionaries for the API call
+        use_structured_output: Whether to use structured output
+        
+    Returns:
+        Tuple of (transcription_lines, response_info)
+    """
+    try:
+        # Initialize model
+        model = OpenAICompatibleModel(provider, model_name)
+
+        # Verify files exist
+        if not os.path.exists(image_path):
+            return [], {"error": f"Image not found: {image_path}"}
+
+        # Call the model with either structured or regular output
+        max_retries = 5
+        base_wait_time = 1  # Start with 1 second
+        
+        for retry_count in range(max_retries):
+            try:
+                if use_structured_output:
+                    # Use structured output with Pydantic
+                    response = model.client.beta.chat.completions.parse(
+                        model=model.model_name,
+                        messages=messages,
+                        response_format=Transcription,
+                        temperature=0
+                    )
+                    
+                    # Extract the transcription text from the structured response
+                    transcription_text = response.choices[0].message.parsed.correct_transcription.strip()
+                else:
+                    # Use regular output (original approach)
+                    response = model.client.chat.completions.create(
+                        model=model.model_name,
+                        messages=messages,
+                        temperature=0,
+                        seed=42
+                    )
+                    
+                    # Extract the transcription text from the regular response
+                    transcription_text = response.choices[0].message.content.strip()
+                
+                # If we got here, the call succeeded
+                break
+                
+            except Exception as api_error:
+                error_str = str(api_error)
+                
+                # Check if it's a rate limit error
+                if "rate limit" in error_str.lower() or "too many requests" in error_str.lower():
+                    if retry_count < max_retries - 1:  # Don't sleep on the last retry
+                        # Calculate wait time with exponential backoff
+                        wait_time = base_wait_time * (2 ** retry_count)
+                        # Add some randomness to avoid all workers retrying at the same time
+                        wait_time = wait_time * (0.75 + 0.5 * random.random())
+                        print(f"Rate limit exceeded. Retrying in {wait_time:.2f} seconds (attempt {retry_count+1}/{max_retries})...")
+                        time.sleep(wait_time)
+                    else:
+                        # If we've exhausted all retries, re-raise the exception
+                        raise
+                else:
+                    # If it's not a rate limit error, re-raise immediately
+                    raise
+        
+        # Process response into lines
+        transcription_lines = transcription_text.split('\n')
+        
+        return transcription_lines, {"response": response}
+        
+    except Exception as e:
+        return [], {"error": str(e)}
+
+
+def get_line_transcriptions(
+    provider: str,
+    model_name: str,
+    doc_id: str,
+    image_path: str,
+    transkribus_path: str,
+    create_line_messages: callable,
+    use_structured_output: bool = False,
+    batch_size: int = 1
+) -> Tuple[List[str], Dict[str, Any]]:
+    """
+    Get transcriptions for individual lines within a page.
+    
+    Args:
+        provider: Provider name
+        model_name: Model name
+        doc_id: Document ID
+        image_path: Path to document image
+        transkribus_path: Path to Transkribus XML file (for line segmentation)
+        create_line_messages: Function to create messages for each line
+        use_structured_output: Whether to use structured output
+        batch_size: Number of lines to process in each batch
+        
+    Returns:
+        Tuple of (transcription_lines, page_data)
+    """
+    try:
+        # Initialize model
+        model = OpenAICompatibleModel(provider, model_name)
+        
+        # Use Transkribus XML for LINE SEGMENTATION ONLY
+        page_data = process_page_by_lines(image_path, transkribus_path)
+        
+        if not page_data['lines']:
+            return [], {"error": f"No lines extracted from {image_path}"}
+        
+        # Process lines individually
+        all_pred_lines = []
+        
+        # Create batches of lines (for future batch processing support)
+        line_batches = [page_data['lines'][i:i + batch_size] for i in range(0, len(page_data['lines']), batch_size)]
+        
+        for batch_idx, line_batch in enumerate(line_batches):
+            # Process each line in the batch
+            for line_idx_in_batch, line_data in enumerate(line_batch):
+                global_line_idx = batch_idx * batch_size + line_idx_in_batch
+                
+                try:
+                    # Create messages for this line
+                    line_messages = create_line_messages(
+                        doc_id=doc_id,
+                        line_id=line_data['id'],
+                        line_image=line_data['image'],
+                        line_idx=global_line_idx
+                    )
+                    
+                    # Add retry logic with exponential backoff
+                    max_retries = 5
+                    base_wait_time = 1  # Start with 1 second
+                    
+                    for retry_count in range(max_retries):
+                        try:
+                            # Use structured output if requested
+                            if use_structured_output:
+                                response = model.client.beta.chat.completions.parse(
+                                    model=model.model_name,
+                                    messages=line_messages,
+                                    response_format=Transcription,
+                                    temperature=0
+                                )
+                                line_text = response.choices[0].message.parsed.correct_transcription.strip()
+                            else:
+                                # Call the model normally
+                                response = model.client.chat.completions.create(
+                                    model=model.model_name,
+                                    messages=line_messages,
+                                    temperature=0
+                                )
+                                line_text = response.choices[0].message.content.strip()
+                            
+                            # If we got here, the call succeeded
+                            break
+                            
+                        except Exception as api_error:
+                            error_str = str(api_error)
+                            
+                            # Check if it's a rate limit error
+                            if "rate limit" in error_str.lower() or "too many requests" in error_str.lower():
+                                if retry_count < max_retries - 1:  # Don't sleep on the last retry
+                                    # Calculate wait time with exponential backoff
+                                    wait_time = base_wait_time * (2 ** retry_count)
+                                    # Add some randomness to avoid all workers retrying at the same time
+                                    wait_time = wait_time * (0.75 + 0.5 * random.random())
+                                    print(f"Rate limit exceeded. Retrying in {wait_time:.2f} seconds (attempt {retry_count+1}/{max_retries})...")
+                                    time.sleep(wait_time)
+                                else:
+                                    # If we've exhausted all retries, re-raise the exception
+                                    raise
+                            else:
+                                # If it's not a rate limit error, re-raise immediately
+                                raise
+                    
+                    # Store results
+                    all_pred_lines.append(line_text)
+                    
+                except Exception as e:
+                    print(f"Error processing line {global_line_idx}: {str(e)}")
+                    # If a line fails, use empty text
+                    all_pred_lines.append("")
+        
+        # Return the results
+        return all_pred_lines, page_data
+        
+    except Exception as e:
+        return [], {"error": str(e)}
+
+
+def get_transcription(
+    strategy: str,
+    provider: str,
+    model_name: str,
+    doc_id: str,
+    image_path: str,
+    create_messages: callable,
+    transkribus_path: Optional[str] = None,
+    use_structured_output: bool = False,
+    **kwargs
+) -> Tuple[List[str], Dict[str, Any]]:
+    """
+    Get transcription using either page-wise or line-wise strategy.
+    
+    Args:
+        strategy: "page" or "line"
+        provider: Provider name
+        model_name: Model name
+        doc_id: Document ID
+        image_path: Path to image file
+        create_messages: Function to create messages for API call
+        transkribus_path: Path to Transkribus XML file (for line strategy)
+        use_structured_output: Whether to use structured output
+        **kwargs: Additional arguments for specific strategies
+        
+    Returns:
+        Tuple of (transcription_lines, response_info)
+    """
+    if strategy == "page":
+        # For page strategy, create_messages is a function that takes doc_id and image_path
+        messages = create_messages(doc_id, image_path)
+        return get_page_transcription(
+            provider=provider,
+            model_name=model_name,
+            doc_id=doc_id,
+            image_path=image_path,
+            messages=messages,
+            use_structured_output=use_structured_output
+        )
+    
+    elif strategy == "line":
+        if not transkribus_path:
+            return [], {"error": "Transkribus XML path required for line-wise strategy"}
+        
+        return get_line_transcriptions(
+            provider=provider,
+            model_name=model_name,
+            doc_id=doc_id,
+            image_path=image_path,
+            transkribus_path=transkribus_path,
+            create_line_messages=create_messages,
+            use_structured_output=use_structured_output,
+            batch_size=kwargs.get('batch_size', 1)
+        )
+    
+    else:
+        return [], {"error": f"Unknown transcription strategy: {strategy}"}
 
 
 def align_lines(gt_lines, pred_lines):
@@ -80,14 +347,138 @@ def align_lines(gt_lines, pred_lines):
         if len(used_pred_lines) == len(pred_lines):
             break
     
-    # For debugging purposes
-    # for i, (gt, pred) in enumerate(zip(gt_lines, aligned_pred_lines)):
-    #     print(f"Line {i+1}:")
-    #     print(f"GT: {gt}")
-    #     print(f"PRED: {pred}")
-    #     print()
-        
     return aligned_pred_lines
+
+
+def evaluate_transcription_results(
+    gt_lines: List[str],
+    pred_lines: List[str], 
+    doc_id: str,
+    output_dir: str,
+    provider: str,
+    save_comparisons: bool = True
+) -> Dict[str, Any]:
+    """
+    Evaluate transcription results using standard metrics.
+    
+    Args:
+        gt_lines: Ground truth content (list of lines)
+        pred_lines: Predicted content (list of lines)
+        doc_id: Document ID
+        output_dir: Output directory
+        provider: Provider name
+        save_comparisons: Whether to save comparison files
+        
+    Returns:
+        Dictionary with metrics and status
+    """
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Calculate segmentation metrics
+    segmentation_metrics = {
+        'line_count_match': len(gt_lines) == len(pred_lines),
+        'gt_line_count': len(gt_lines),
+        'pred_line_count': len(pred_lines),
+        'segmentation_accuracy': min(len(pred_lines), len(gt_lines)) / max(len(pred_lines), len(gt_lines)) if max(len(pred_lines), len(gt_lines)) > 0 else 1.0
+    }
+    
+    # Save raw transcription
+    if save_comparisons:
+        with open(os.path.join(output_dir, f"{doc_id}_model_transcription.txt"), 'w', encoding='utf-8') as f:
+            f.write('\n'.join(pred_lines))
+        
+        # Save ground truth for reference
+        with open(os.path.join(output_dir, f"{doc_id}_ground_truth.txt"), 'w', encoding='utf-8') as f:
+            f.write('\n'.join(gt_lines))
+    
+    # Align lines for better comparison
+    aligned_pred_lines = align_lines(gt_lines, pred_lines)
+    
+    # Create detailed comparison CSV
+    if save_comparisons:
+        with open(os.path.join(output_dir, f"{doc_id}_comparison.csv"), 'w', encoding='utf-8') as f:
+            f.write("line_number,ground_truth,prediction,cer,wer\n")
+            
+            # Process all lines, handling mismatches properly
+            max_lines = max(len(gt_lines), len(aligned_pred_lines))
+            
+            for i in range(max_lines):
+                # Get text for each source, using empty string if index is out of bounds
+                gt_text = gt_lines[i] if i < len(gt_lines) else ""
+                pred_text = aligned_pred_lines[i] if i < len(aligned_pred_lines) else ""
+                
+                # Clean commas for CSV
+                gt_clean = gt_text.replace(",", " ") if gt_text else ""
+                pred_clean = pred_text.replace(",", " ") if pred_text else ""
+                
+                # Ensure "None" string values are converted to empty strings
+                if pred_clean == "None":
+                    pred_clean = ""
+                
+                # Calculate metrics based on text content
+                if not gt_text and not pred_text:
+                    # Both are empty - this is a perfect match
+                    cer = 0.0
+                    wer = 0.0
+                elif gt_text and pred_text:
+                    # Both have content - calculate actual metrics
+                    line_result = evaluate_transcription([gt_text], [pred_text])
+                    line_metrics = line_result['line_metrics'][0]
+                    cer = line_metrics['cer']
+                    wer = line_metrics['wer']
+                else:
+                    # One is empty and one has content - worst case
+                    cer = 1.0
+                    wer = 1.0
+                
+                # Add line to CSV
+                line_status = ""
+                if i >= len(gt_lines) and pred_clean:  # Only mark as extra if prediction has content
+                    line_status = "[extra]"
+                elif i >= len(aligned_pred_lines):
+                    line_status = "[missed]"
+                
+                f.write(f"{i+1},{gt_clean},{pred_clean}{line_status},{cer},{wer}\n")
+    
+    # Calculate metrics on the overlapping lines with alignment
+    min_lines = min(len(gt_lines), len(aligned_pred_lines))
+    results = evaluate_transcription(gt_lines[:min_lines], aligned_pred_lines[:min_lines])
+    
+    # Add segmentation metrics to results
+    results['document_metrics'].update(segmentation_metrics)
+    
+    # Calculate Bag of Words metrics as specified in OCR-D
+    from collections import Counter
+    
+    # Tokenize texts (simple whitespace tokenization)
+    gt_tokens = ' '.join(gt_lines).split()
+    pred_tokens = ' '.join(aligned_pred_lines).split()
+    
+    # Calculate Bag of Words distributions
+    gt_bow = Counter(gt_tokens)
+    pred_bow = Counter(pred_tokens)
+    
+    # Calculate Bag of Words Error Rate (Jaccard distance)
+    bow_intersection = sum((gt_bow & pred_bow).values())
+    bow_union = sum((gt_bow | pred_bow).values())
+    bow_error_rate = 1.0 - (bow_intersection / bow_union if bow_union > 0 else 0.0)
+    
+    # Add Bag of Words metrics
+    results['document_metrics']['bow_error_rate'] = bow_error_rate
+    
+    # Save results
+    if save_comparisons:
+        save_results(results, output_dir, doc_id, method=provider)
+    
+    # Get document metrics
+    doc_metrics = results['document_metrics']
+    doc_metrics['document_id'] = doc_id
+    
+    return {
+        "status": "success",
+        "metrics": doc_metrics,
+        "message": f"CER: {doc_metrics['cer']:.4f}, WER: {doc_metrics['wer']:.4f}, BOW: {bow_error_rate:.4f}, Seg: {segmentation_metrics['segmentation_accuracy']:.2f}"
+    }
 
 
 def process_document(
@@ -212,7 +603,7 @@ def process_document(
 
         # Create detailed comparison CSV
         with open(os.path.join(output_dir, f"{doc_id}_comparison.csv"), 'w', encoding='utf-8') as f:
-            f.write("line_number,ground_truth,prediction,cer,wer,bwer\n")
+            f.write("line_number,ground_truth,prediction,cer,wer\n")
             
             # Process all lines, handling mismatches properly
             max_lines = max(len(gt_lines), len(transcription_lines))
@@ -235,19 +626,16 @@ def process_document(
                     # Both are empty - this is a perfect match
                     cer = 0.0
                     wer = 0.0
-                    bwer = 0.0
                 elif gt_text and pred_text:
                     # Both have content - calculate actual metrics
                     line_result = evaluate_transcription([gt_text], [pred_text])
                     line_metrics = line_result['line_metrics'][0]
                     cer = line_metrics['cer']
                     wer = line_metrics['wer']
-                    bwer = line_metrics['bwer']
                 else:
                     # One is empty and one has content - worst case
                     cer = 1.0
                     wer = 1.0
-                    bwer = 1.0
                 
                 # Add line to CSV
                 line_status = ""
@@ -256,7 +644,7 @@ def process_document(
                 elif i >= len(transcription_lines):
                     line_status = "[missed]"
                 
-                f.write(f"{i+1},{gt_clean},{pred_clean}{line_status},{cer},{wer},{bwer}\n")
+                f.write(f"{i+1},{gt_clean},{pred_clean}{line_status},{cer},{wer}\n")
 
         # Evaluate with alignment-based approach
         # Calculate metrics on the overlapping lines
@@ -294,7 +682,7 @@ def process_document(
 
         result["status"] = "success"
         result["metrics"] = doc_metrics
-        result["message"] = f"CER: {doc_metrics['cer']:.4f}, WER: {doc_metrics['wer']:.4f}, BWER: {doc_metrics['bwer']:.4f}, BOW: {bow_error_rate:.4f}, Seg: {segmentation_metrics['segmentation_accuracy']:.2f}"
+        result["message"] = f"CER: {doc_metrics['cer']:.4f}, WER: {doc_metrics['wer']:.4f}, BOW: {bow_error_rate:.4f}, Seg: {segmentation_metrics['segmentation_accuracy']:.2f}"
 
     except Exception as e:
         result["message"] = str(e)
@@ -329,141 +717,48 @@ def get_transkribus_text(doc_id: str, transkribus_dir: str) -> tuple[str, list]:
     return transkribus_text, transkribus_lines
 
 
-def _process_provider_evaluation(
-    provider: str,
-    model_name: str,
-    gt_files: Dict[str, str],
-    image_dir: str,
-    base_output_dir: str,
-    create_messages: callable,
-    eval_type: str,
-    limit: Optional[int] = None,
-    print_callback: callable = print,
-    use_structured_output: bool = False
-):
-    """
-    Process evaluation for a single provider (used for parallel processing)
-
-    Args:
-        provider: Provider name
-        model_name: Model name
-        gt_files: Dictionary mapping doc_ids to ground truth file paths
-        image_dir: Directory containing image files
-        base_output_dir: Base output directory
-        create_messages: Function to create messages for each document
-        eval_type: Evaluation type
-        limit: Maximum number of documents to process
-        print_callback: Function to use for printing (useful for UI updates)
-        use_structured_output: Whether to use structured output with Pydantic models
-
-    Returns:
-        Tuple of (all_results_df, comparison_data)
-    """
-    # Create output directory
-    output_dir = f'{base_output_dir}/{eval_type}/{provider}'
-    os.makedirs(output_dir, exist_ok=True)
-
-    # Process all documents for this provider
-    all_results = []
-
-    # Create document list and apply limit if specified
-    documents = list(gt_files.items())
-    if limit is not None:
-        documents = documents[:limit]
-
-    # Process each document
-    for doc_idx, (doc_id, gt_path) in enumerate(documents):
-        # Status update
-        print_callback(f"Processing {provider} document {doc_idx+1}/{len(documents)}: {doc_id}")
-
-        # Get image path
-        image_path = os.path.join(image_dir, f"{doc_id}.jpg")
-
-        try:
-            # Get messages for this document
-            messages = create_messages(doc_id, image_path)
-
-            # Process the document
-            result = process_document(
-                provider=provider,
-                model_name=model_name,
-                doc_id=doc_id,
-                gt_path=gt_path,
-                image_path=image_path,
-                output_dir=output_dir,
-                messages=messages,
-                use_structured_output=use_structured_output
-            )
-
-            # Display result
-            if result['status'] == 'success':
-                print_callback(f"✅ {result['doc_id']}: {result['message']}")
-                all_results.append(result['metrics'])
-            else:
-                print_callback(f"⚠️ {result['doc_id']}: {result['message']}")
-        except Exception as e:
-            print_callback(f"⚠️ Error processing {doc_id}: {str(e)}")
-            continue
-
-
-        time.sleep(1)
-
-    # Compile all results for this provider
-    if all_results:
-        all_results_df = pd.DataFrame(all_results)
-        all_results_df.to_csv(os.path.join(output_dir, f"{provider}_all_results.csv"), index=False)
-
-        # Calculate aggregate metrics
-        calculate_aggregate_metrics(output_dir, provider)
-
-        # Create comparison data
-        comparison_data = {
-            "model": model_name,
-            "avg_cer": all_results_df['cer'].mean(),
-            "avg_wer": all_results_df['wer'].mean(),
-            "avg_bwer": all_results_df['bwer'].mean(),
-            "doc_count": len(all_results_df)
-        }
-
-        return all_results_df, comparison_data
-
-    return None, None
-
-
-def run_evaluation(
+def run_model_evaluation(
+    strategy: str,
     provider_models: Dict[str, str],
     gt_dir: str,
     image_dir: str,
     base_output_dir: str,
     create_messages: callable,
     eval_type: str,
+    transkribus_dir: Optional[str] = None,
     limit: Optional[int] = None,
     parallel: bool = True,
     max_workers: Optional[int] = None,
-    use_structured_output: bool = False
+    use_structured_output: bool = False,
+    rate_limit_delay: float = 0.0,
+    **strategy_options
 ):
     """
-    Run evaluation for multiple providers and models, optionally in parallel
-
+    Run evaluation for multiple providers using the specified strategy.
+    
     Args:
+        strategy: "page" or "line"
         provider_models: Dictionary mapping provider names to model names
         gt_dir: Directory containing ground truth files
         image_dir: Directory containing image files
         base_output_dir: Base output directory
-        create_messages: Function that creates messages for each document (will be called for each doc)
-        eval_type: Evaluation type (zero_shot, one_shot, etc.)
-        limit: Maximum number of documents to process (None for all)
+        create_messages: Function to create messages for each document or line
+        eval_type: Evaluation type for output directory naming
+        transkribus_dir: Directory containing Transkribus XML files (for line strategy)
+        limit: Maximum number of documents to process
         parallel: Whether to run providers in parallel
-        max_workers: Maximum number of parallel workers (None for auto-detection)
-        use_structured_output: Whether to use structured output with Pydantic models
-
+        max_workers: Maximum number of parallel workers
+        use_structured_output: Whether to use structured output
+        rate_limit_delay: Delay between API calls to avoid rate limits
+        **strategy_options: Additional options for specific strategies
+        
     Returns:
-        Dictionary containing results for all providers
+        Dictionary with evaluation results
     """
-    # Find available images first
+    # Find available images
     available_images = []
     for f in os.listdir(image_dir):
-        if f.endswith('.jpg'):
+        if f.endswith(('.jpg', '.jpeg', '.png')):
             image_id = os.path.splitext(f)[0]
             available_images.append(image_id)
 
@@ -478,29 +773,125 @@ def run_evaluation(
 
     print(f"Found {len(gt_files)} matching ground truth files")
 
+    # Create document list and apply limit if specified
+    documents = list(gt_files.items())
+    if limit is not None:
+        documents = documents[:limit]
+
     # Store results
     all_provider_results = {}
     comparison_data = {}
 
+    def _process_provider(provider, model_name):
+        """Process evaluation for a single provider"""
+        # Create output directory
+        output_dir = f'{base_output_dir}/{eval_type}/{provider}'
+        os.makedirs(output_dir, exist_ok=True)
+
+        print(f"Starting evaluation for {provider.upper()} with {model_name}")
+
+        # Process all documents for this provider
+        all_results = []
+
+        # Process each document
+        for doc_idx, (doc_id, gt_path) in enumerate(documents):
+            # Status update
+            print(f"Processing {provider} document {doc_idx+1}/{len(documents)}: {doc_id}")
+
+            # Get image path
+            image_path = os.path.join(image_dir, f"{doc_id}.jpg")
+            
+            # For line strategy, get Transkribus file
+            transkribus_path = None
+            if strategy == "line":
+                if not transkribus_dir:
+                    print(f"⚠️ Transkribus directory not provided for line strategy")
+                    continue
+                    
+                transkribus_path = find_file_for_id(doc_id, transkribus_dir, ['.xml'])
+                if not transkribus_path:
+                    print(f"⚠️ No Transkribus file found for {doc_id}")
+                    continue
+
+            try:
+                # Get transcription using the specified strategy
+                transcription_lines, response_info = get_transcription(
+                    strategy=strategy,
+                    provider=provider,
+                    model_name=model_name,
+                    doc_id=doc_id,
+                    image_path=image_path,
+                    create_messages=create_messages,
+                    transkribus_path=transkribus_path,
+                    use_structured_output=use_structured_output,
+                    **strategy_options
+                )
+                
+                if "error" in response_info:
+                    print(f"⚠️ Error getting transcription for {doc_id}: {response_info['error']}")
+                    continue
+
+                # Extract ground truth from the XML file
+                gt_lines = extract_text_from_xml(gt_path)
+                if not gt_lines:
+                    print(f"⚠️ No ground truth text found in {gt_path}")
+                    continue
+                
+                # Evaluate transcription results
+                result = evaluate_transcription_results(
+                    gt_lines=gt_lines,
+                    pred_lines=transcription_lines,
+                    doc_id=doc_id,
+                    output_dir=output_dir,
+                    provider=provider
+                )
+
+                # Display result
+                if result['status'] == 'success':
+                    print(f"✅ {doc_id}: {result['message']}")
+                    all_results.append(result['metrics'])
+                else:
+                    print(f"⚠️ {doc_id}: {result['message']}")
+                    
+            except Exception as e:
+                print(f"⚠️ Error processing {doc_id}: {str(e)}")
+                continue
+
+            # Add delay to avoid rate limits
+            time.sleep(rate_limit_delay)
+
+        # Compile all results for this provider
+        if all_results:
+            all_results_df = pd.DataFrame(all_results)
+            all_results_df.to_csv(os.path.join(output_dir, f"{provider}_all_results.csv"), index=False)
+
+            # Calculate aggregate metrics
+            calculate_aggregate_metrics(output_dir, provider)
+
+            # Create comparison data
+            provider_comparison = {
+                "model": model_name,
+                "avg_cer": all_results_df['cer'].mean(),
+                "avg_wer": all_results_df['wer'].mean(),
+                "avg_bow": all_results_df['bow_error_rate'].mean(),
+                "doc_count": len(all_results_df)
+            }
+
+            return provider, all_results_df, provider_comparison
+
+        return provider, None, None
+
+    # Process providers in parallel or sequentially
     if parallel and len(provider_models) > 1:
-        # Process providers in parallel
         print(f"Starting parallel evaluation with {len(provider_models)} providers")
 
         with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
             # Submit tasks for each provider
             future_to_provider = {
                 executor.submit(
-                    _process_provider_evaluation,
+                    _process_provider,
                     provider=provider,
-                    model_name=model_name,
-                    gt_files=gt_files,
-                    image_dir=image_dir,
-                    base_output_dir=base_output_dir,
-                    create_messages=create_messages,
-                    eval_type=eval_type,
-                    limit=limit,
-                    print_callback=print,
-                    use_structured_output=use_structured_output
+                    model_name=model_name
                 ): provider
                 for provider, model_name in provider_models.items()
             }
@@ -509,33 +900,24 @@ def run_evaluation(
             for future in concurrent.futures.as_completed(future_to_provider):
                 provider = future_to_provider[future]
                 try:
-                    provider_df, provider_comparison = future.result()
+                    provider_name, provider_df, provider_comparison = future.result()
                     if provider_df is not None:
-                        all_provider_results[provider] = provider_df
-                        comparison_data[provider] = provider_comparison
-                        print(f"✅ Completed evaluation for {provider}")
+                        all_provider_results[provider_name] = provider_df
+                        comparison_data[provider_name] = provider_comparison
+                        print(f"✅ Completed evaluation for {provider_name}")
                 except Exception as e:
                     print(f"⚠️ Error processing {provider}: {str(e)}")
     else:
-        # Process sequentially (original behavior)
+        # Process sequentially
         for provider, model_name in provider_models.items():
-            print(f"Evaluating {provider.upper()} with {model_name}")
-
-            provider_df, provider_comparison = _process_provider_evaluation(
+            provider_name, provider_df, provider_comparison = _process_provider(
                 provider=provider,
-                model_name=model_name,
-                gt_files=gt_files,
-                image_dir=image_dir,
-                base_output_dir=base_output_dir,
-                create_messages=create_messages,
-                eval_type=eval_type,
-                limit=limit,
-                use_structured_output=use_structured_output
+                model_name=model_name
             )
-
+            
             if provider_df is not None:
-                all_provider_results[provider] = provider_df
-                comparison_data[provider] = provider_comparison
+                all_provider_results[provider_name] = provider_df
+                comparison_data[provider_name] = provider_comparison
 
     # Save comparison data
     with open(os.path.join(base_output_dir, f"{eval_type}_comparison.json"), 'w') as f:
@@ -546,6 +928,14 @@ def run_evaluation(
         "comparison_data": comparison_data
     }
 
+# Keep these functions for backward compatibility
+def run_evaluation(*args, **kwargs):
+    """Legacy wrapper for page-wise evaluation, for backward compatibility"""
+    return run_model_evaluation(strategy="page", *args, **kwargs)
+
+def run_line_evaluation(*args, **kwargs):
+    """Legacy wrapper for line-wise evaluation, for backward compatibility"""
+    return run_model_evaluation(strategy="line", *args, **kwargs)
 
 def process_document_by_lines(
     provider: str,
@@ -700,7 +1090,7 @@ def process_document_by_lines(
         
         # STEP 7: Create detailed comparison CSV
         with open(os.path.join(output_dir, f"{doc_id}_comparison.csv"), 'w', encoding='utf-8') as f:
-            f.write("line_number,ground_truth,prediction,transkribus,cer,wer,bwer\n")
+            f.write("line_number,ground_truth,prediction,transkribus,cer,wer\n")
             
             # Process all lines, handling mismatches properly
             max_lines = max(len(gt_lines), len(all_pred_lines_aligned), len(transkribus_lines))
@@ -725,19 +1115,16 @@ def process_document_by_lines(
                     # Both are empty - this is a perfect match
                     cer = 0.0
                     wer = 0.0
-                    bwer = 0.0
                 elif gt_text and pred_text:
                     # Both have content - calculate actual metrics
                     line_result = evaluate_transcription([gt_text], [pred_text])
                     line_metrics = line_result['line_metrics'][0]
                     cer = line_metrics['cer']
                     wer = line_metrics['wer']
-                    bwer = line_metrics['bwer']
                 else:
                     # One is empty and one has content - worst case
                     cer = 1.0
                     wer = 1.0
-                    bwer = 1.0
                 
                 # Add line to CSV
                 line_status = ""
@@ -746,7 +1133,7 @@ def process_document_by_lines(
                 elif i >= len(all_pred_lines_aligned):
                     line_status = "[missed]"
                 
-                f.write(f"{i+1},{gt_clean},{pred_clean}{line_status},{trans_clean},{cer},{wer},{bwer}\n")
+                f.write(f"{i+1},{gt_clean},{pred_clean}{line_status},{trans_clean},{cer},{wer}\n")
         
         # STEP 8: Save full transcriptions
         with open(os.path.join(output_dir, f"{doc_id}_model_transcription.txt"), 'w', encoding='utf-8') as f:
@@ -790,7 +1177,7 @@ def process_document_by_lines(
         return {
             'status': 'success',
             'doc_id': doc_id,
-            'message': f"CER: {results['document_metrics']['cer']:.4f}, WER: {results['document_metrics']['wer']:.4f}, BWER: {results['document_metrics']['bwer']:.4f}, BOW: {bow_error_rate:.4f}, Seg: {segmentation_metrics['segmentation_accuracy']:.2f}",
+            'message': f"CER: {results['document_metrics']['cer']:.4f}, WER: {results['document_metrics']['wer']:.4f}, BOW: {bow_error_rate:.4f}, Seg: {segmentation_metrics['segmentation_accuracy']:.2f}",
             'metrics': results['document_metrics']
         }
         
@@ -804,245 +1191,6 @@ def process_document_by_lines(
             'message': str(e),
             'metrics': {}
         }
-
-
-def _process_provider_line_evaluation(
-    provider: str,
-    model_name: str,
-    documents: List[Tuple[str, str]],
-    image_dir: str,
-    transkribus_dir: str,
-    base_output_dir: str,
-    create_line_messages: callable,
-    eval_type: str,
-    batch_size: int = 1,
-    print_callback: callable = print,
-    use_structured_output: bool = False,
-    rate_limit_delay: float = 0.0
-):
-    """
-    Process line-based evaluation for a single provider (used for parallel processing)
-
-    Args:
-        provider: Provider name
-        model_name: Model name
-        documents: List of (doc_id, gt_path) tuples
-        image_dir: Directory containing image files
-        transkribus_dir: Directory containing Transkribus XML files
-        base_output_dir: Base output directory
-        create_line_messages: Function to create messages for each line
-        eval_type: Evaluation type
-        batch_size: Number of lines to process in a single API call
-        print_callback: Function to use for printing (useful for UI updates)
-        use_structured_output: Whether to use structured output with Pydantic models
-        rate_limit_delay: Time to wait between API calls (in seconds) to avoid rate limits
-
-    Returns:
-        Tuple of (provider_results_df, provider_comparison_data)
-    """
-    # Create output directory
-    output_dir = f'{base_output_dir}/{eval_type}/{provider}'
-    os.makedirs(output_dir, exist_ok=True)
-
-    print_callback(f"Starting evaluation for {provider.upper()} with {model_name}")
-
-    # Process all documents for this provider
-    all_results = []
-
-    # Process each document
-    for doc_idx, (doc_id, gt_path) in enumerate(documents):
-        # Status update
-        print_callback(f"Processing {provider} document {doc_idx+1}/{len(documents)}: {doc_id}")
-
-        # Find corresponding transkribus file
-        transkribus_path = find_file_for_id(doc_id, transkribus_dir, ['.xml'])
-
-        if not transkribus_path:
-            print_callback(f"⚠️ No Transkribus file found for {doc_id}")
-            continue
-
-        # Get image path
-        image_path = os.path.join(image_dir, f"{doc_id}.jpg")
-
-        try:
-            # Process the document line by line using Transkribus XML for segmentation
-            result = process_document_by_lines(
-                provider=provider,
-                model_name=model_name,
-                doc_id=doc_id,
-                gt_path=gt_path,
-                image_path=image_path,
-                transkribus_path=transkribus_path,
-                output_dir=output_dir,
-                messages_creator=create_line_messages,
-                batch_size=batch_size,
-                use_structured_output=use_structured_output
-            )
-
-            # Display result
-            if result['status'] == 'success':
-                print_callback(f"✅ {result['doc_id']}: {result['message']}")
-                all_results.append(result['metrics'])
-            else:
-                print_callback(f"⚠️ {result['doc_id']}: {result['message']}")
-        except Exception as e:
-            print_callback(f"⚠️ Error processing {doc_id}: {str(e)}")
-            continue
-
-
-        time.sleep(rate_limit_delay)
-
-
-    # Compile all results for this provider
-    if all_results:
-        all_results_df = pd.DataFrame(all_results)
-        all_results_df.to_csv(os.path.join(output_dir, f"{provider}_all_results.csv"), index=False)
-
-        # Calculate aggregate metrics
-        calculate_aggregate_metrics(output_dir, provider)
-
-        # Create comparison data
-        comparison_data = {
-            "model": model_name,
-            "avg_cer": all_results_df['cer'].mean(),
-            "avg_wer": all_results_df['wer'].mean(),
-            "avg_bwer": all_results_df['bwer'].mean(),
-            "doc_count": len(all_results_df)
-        }
-
-        return provider, all_results_df, comparison_data
-
-    return provider, None, None
-
-
-def run_line_evaluation(
-    provider_models: Dict[str, str],
-    gt_dir: str,
-    image_dir: str,
-    transkribus_dir: str,
-    base_output_dir: str,
-    create_line_messages: callable,
-    eval_type: str,
-    limit: Optional[int] = None,
-    batch_size: int = 1,
-    parallel: bool = True,
-    max_workers: Optional[int] = None,
-    use_structured_output: bool = False,
-    rate_limit_delay: float = 0.0
-):
-    """
-    Run line-based evaluation for multiple providers and models, optionally in parallel
-
-    Args:
-        provider_models: Dictionary mapping provider names to model names
-        gt_dir: Directory containing ground truth files
-        image_dir: Directory containing image files
-        transkribus_dir: Directory containing Transkribus XML files
-        base_output_dir: Base output directory
-        create_line_messages: Function to create messages for each line
-        eval_type: Evaluation type (zero_shot_lines, one_shot_lines, etc.)
-        limit: Maximum number of documents to process (None for all)
-        batch_size: Number of lines to process in a single API call
-        parallel: Whether to run providers in parallel
-        max_workers: Maximum number of parallel workers (None for auto-detection)
-        use_structured_output: Whether to use structured output with Pydantic models
-        rate_limit_delay: Time to wait between API calls (in seconds) to avoid rate limits
-
-    Returns:
-        Dictionary containing results for all providers
-    """
-    # Find available images
-    available_images = []
-    for f in os.listdir(image_dir):
-        if f.endswith(('.jpg', '.jpeg', '.png')):
-            image_id = os.path.splitext(f)[0]
-            available_images.append(image_id)
-
-    print(f"Found {len(available_images)} images to process")
-
-    # Get matching ground truth files
-    gt_files = {}
-    for image_id in available_images:
-        gt_path = os.path.join(gt_dir, f"{image_id}.xml")
-        if os.path.exists(gt_path):
-            gt_files[image_id] = gt_path
-
-    print(f"Found {len(gt_files)} matching ground truth files")
-
-    # Apply limit if specified
-    documents = list(gt_files.items())
-    if limit is not None:
-        documents = documents[:limit]
-
-    # Store results
-    all_provider_results = {}
-    comparison_data = {}
-
-    if parallel and len(provider_models) > 1:
-        # Process providers in parallel
-        print(f"Starting parallel line-based evaluation with {len(provider_models)} providers")
-
-        with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
-            # Submit tasks for each provider
-            future_to_provider = {
-                executor.submit(
-                    _process_provider_line_evaluation,
-                    provider=provider,
-                    model_name=model_name,
-                    documents=documents,
-                    image_dir=image_dir,
-                    transkribus_dir=transkribus_dir,
-                    base_output_dir=base_output_dir,
-                    create_line_messages=create_line_messages,
-                    eval_type=eval_type,
-                    batch_size=batch_size,
-                    print_callback=print,
-                    use_structured_output=use_structured_output,
-                    rate_limit_delay=rate_limit_delay
-                ): provider
-                for provider, model_name in provider_models.items()
-            }
-
-            # Process results as they complete
-            for future in concurrent.futures.as_completed(future_to_provider):
-                provider = future_to_provider[future]
-                try:
-                    provider_name, provider_df, provider_comparison = future.result()
-                    if provider_df is not None:
-                        all_provider_results[provider_name] = provider_df
-                        comparison_data[provider_name] = provider_comparison
-                        print(f"✅ Completed evaluation for {provider_name}")
-                except Exception as e:
-                    print(f"⚠️ Error processing {provider}: {str(e)}")
-    else:
-        # Process sequentially (original behavior)
-        for provider, model_name in provider_models.items():
-            provider_name, provider_df, provider_comparison = _process_provider_line_evaluation(
-                provider=provider,
-                model_name=model_name,
-                documents=documents,
-                image_dir=image_dir,
-                transkribus_dir=transkribus_dir,
-                base_output_dir=base_output_dir,
-                create_line_messages=create_line_messages,
-                eval_type=eval_type,
-                batch_size=batch_size,
-                use_structured_output=use_structured_output,
-                rate_limit_delay=rate_limit_delay
-            )
-            
-            if provider_df is not None:
-                all_provider_results[provider_name] = provider_df
-                comparison_data[provider_name] = provider_comparison
-
-    # Save comparison data
-    with open(os.path.join(base_output_dir, f"{eval_type}_comparison.json"), 'w') as f:
-        json.dump(comparison_data, f, indent=2)
-
-    return {
-        "provider_results": all_provider_results,
-        "comparison_data": comparison_data
-    }
 
 
 def parse_coords_points(points_str: str) -> Tuple[int, int, int, int]:
@@ -1086,10 +1234,12 @@ def run_single_file_evaluation(
     image_dir: str,
     transkribus_dir: str,
     base_output_dir: str,
-    create_line_messages: callable,
+    create_messages: callable,
+    strategy: str = "line",
     eval_type: str = 'single_file',
     use_structured_output: bool = False,
-    rate_limit_delay: float = 0.0
+    rate_limit_delay: float = 0.0,
+    **strategy_options
 ):
     """
     Run evaluation for a single document ID with multiple providers.
@@ -1101,10 +1251,12 @@ def run_single_file_evaluation(
         image_dir: Directory containing image files
         transkribus_dir: Directory containing Transkribus XML files
         base_output_dir: Base output directory for results
-        create_line_messages: Function to create messages for each line
+        create_messages: Function to create messages for each document or line
+        strategy: "page" or "line"
         eval_type: Evaluation type (default: 'single_file')
-        use_structured_output: Whether to use structured output with Pydantic
-        rate_limit_delay: Time to wait between API calls (in seconds) to avoid rate limits
+        use_structured_output: Whether to use structured output
+        rate_limit_delay: Time to wait between API calls to avoid rate limits
+        **strategy_options: Additional options for specific strategies
         
     Returns:
         Dictionary with evaluation results
@@ -1126,10 +1278,13 @@ def run_single_file_evaluation(
             print(f"⚠️ Image file not found for document ID: {doc_id}")
             return None
     
-    transkribus_path = find_file_for_id(doc_id, transkribus_dir, ['.xml'])
-    if not transkribus_path:
-        print(f"⚠️ Transkribus file not found for document ID: {doc_id}")
-        return None
+    # For line strategy, check for Transkribus file
+    transkribus_path = None
+    if strategy == "line":
+        transkribus_path = find_file_for_id(doc_id, transkribus_dir, ['.xml'])
+        if not transkribus_path:
+            print(f"⚠️ Transkribus file not found for document ID: {doc_id}")
+            return None
     
     # Store results for each provider
     all_provider_results = {}
@@ -1143,39 +1298,62 @@ def run_single_file_evaluation(
         output_dir = f'{base_output_dir}/{eval_type}/{provider}'
         os.makedirs(output_dir, exist_ok=True)
         
-        # Process the document line by line
-        result = process_document_by_lines(
-            provider=provider,
-            model_name=model_name,
-            doc_id=doc_id,
-            gt_path=gt_path,
-            image_path=image_path,
-            transkribus_path=transkribus_path,
-            output_dir=output_dir,
-            messages_creator=create_line_messages,
-            use_structured_output=use_structured_output
-        )
-        
-        # Display result
-        if result['status'] == 'success':
-            print(f"✅ {doc_id}: {result['message']}")
+        try:
+            # Get transcription using the specified strategy
+            transcription_lines, response_info = get_transcription(
+                strategy=strategy,
+                provider=provider,
+                model_name=model_name,
+                doc_id=doc_id,
+                image_path=image_path,
+                create_messages=create_messages,
+                transkribus_path=transkribus_path,
+                use_structured_output=use_structured_output,
+                **strategy_options
+            )
             
-            # Create a single-row DataFrame for this result
-            provider_df = pd.DataFrame([result['metrics']])
-            all_provider_results[provider] = provider_df
+            if "error" in response_info:
+                print(f"⚠️ Error getting transcription for {doc_id}: {response_info['error']}")
+                continue
+
+            # Extract ground truth from the XML file
+            gt_lines = extract_text_from_xml(gt_path)
+            if not gt_lines:
+                print(f"⚠️ No ground truth text found in {gt_path}")
+                continue
             
-            # Add to comparison data
-            comparison_data[provider] = {
-                "model": model_name,
-                "cer": result['metrics']['cer'],
-                "wer": result['metrics']['wer'],
-                "bwer": result['metrics']['bwer'],
-                "bow_error_rate": result['metrics'].get('bow_error_rate', 0.0),
-                "segmentation_accuracy": result['metrics']['segmentation_accuracy'],
-                "doc_count": 1
-            }
-        else:
-            print(f"⚠️ {doc_id}: {result['message']}")
+            # Evaluate transcription results
+            result = evaluate_transcription_results(
+                gt_lines=gt_lines,
+                pred_lines=transcription_lines,
+                doc_id=doc_id,
+                output_dir=output_dir,
+                provider=provider
+            )
+            
+            # Display result
+            if result['status'] == 'success':
+                print(f"✅ {doc_id}: {result['message']}")
+                
+                # Create a single-row DataFrame for this result
+                provider_df = pd.DataFrame([result['metrics']])
+                all_provider_results[provider] = provider_df
+                
+                # Add to comparison data
+                comparison_data[provider] = {
+                    "model": model_name,
+                    "cer": result['metrics']['cer'],
+                    "wer": result['metrics']['wer'],
+                    "bow_error_rate": result['metrics'].get('bow_error_rate', 0.0),
+                    "segmentation_accuracy": result['metrics']['segmentation_accuracy'],
+                    "doc_count": 1
+                }
+            else:
+                print(f"⚠️ {doc_id}: {result['message']}")
+                
+        except Exception as e:
+            print(f"⚠️ Error processing {provider} for {doc_id}: {str(e)}")
+            continue
             
         # Add delay to avoid rate limits between providers
         if rate_limit_delay > 0:
@@ -1225,79 +1403,53 @@ def calculate_metrics_for_text(
     else:
         pred_lines = pred_text
     
-    # Calculate segmentation metrics
-    segmentation_metrics = {
-        'line_count_match': len(gt_lines) == len(pred_lines),
-        'gt_line_count': len(gt_lines),
-        'pred_line_count': len(pred_lines),
-        'segmentation_accuracy': min(len(pred_lines), len(gt_lines)) / max(len(pred_lines), len(gt_lines)) if max(len(pred_lines), len(gt_lines)) > 0 else 1.0
-    }
-    
-    # Calculate text metrics on overlapping lines
-    min_lines = min(len(gt_lines), len(pred_lines))
-    results = evaluate_transcription(gt_lines[:min_lines], pred_lines[:min_lines])
-    
-    # Add segmentation metrics to results
-    results['document_metrics'].update(segmentation_metrics)
-    
-    # Calculate Bag of Words metrics
-    from collections import Counter
-    
-    # Tokenize texts (simple whitespace tokenization)
-    gt_tokens = ' '.join(gt_lines).split()
-    pred_tokens = ' '.join(pred_lines).split()
-    
-    # Calculate Bag of Words distributions
-    gt_bow = Counter(gt_tokens)
-    pred_bow = Counter(pred_tokens)
-    
-    # Calculate Bag of Words Error Rate (Jaccard distance)
-    bow_intersection = sum((gt_bow & pred_bow).values())
-    bow_union = sum((gt_bow | pred_bow).values())
-    bow_error_rate = 1.0 - (bow_intersection / bow_union if bow_union > 0 else 0.0)
-    
-    # Add Bag of Words metrics
-    results['document_metrics']['bow_error_rate'] = bow_error_rate
+    # Use the shared evaluation function but don't save files
+    result = evaluate_transcription_results(
+        gt_lines=gt_lines,
+        pred_lines=pred_lines,
+        doc_id=doc_id,
+        output_dir="",  # Empty directory since we're not saving
+        provider="manual",
+        save_comparisons=False
+    )
     
     # Create line-by-line comparison
     line_comparison = []
     max_lines = max(len(gt_lines), len(pred_lines))
     
+    # Get aligned predictions for better comparison
+    aligned_pred_lines = align_lines(gt_lines, pred_lines)
+    
+    # Calculate line metrics
+    min_lines = min(len(gt_lines), len(aligned_pred_lines))
+    detailed_results = evaluate_transcription(gt_lines[:min_lines], aligned_pred_lines[:min_lines])
+    
     for i in range(max_lines):
         line_data = {
             'line_number': i + 1,
             'ground_truth': gt_lines[i] if i < len(gt_lines) else "",
-            'prediction': pred_lines[i] if i < len(pred_lines) else ""
+            'prediction': aligned_pred_lines[i] if i < len(aligned_pred_lines) else ""
         }
         
         # Calculate line metrics if both texts exist
         if i < min_lines:
-            line_metrics = results['line_metrics'][i]
+            line_metrics = detailed_results['line_metrics'][i]
             line_data.update({
                 'cer': line_metrics['cer'],
-                'wer': line_metrics['wer'],
-                'bwer': line_metrics['bwer']
+                'wer': line_metrics['wer']
             })
         else:
             line_data.update({
                 'cer': 1.0,
                 'wer': 1.0,
-                'bwer': 1.0,
-                'status': 'missed' if i >= len(pred_lines) else 'extra'
+                'status': 'missed' if i >= len(aligned_pred_lines) else 'extra'
             })
         
         line_comparison.append(line_data)
     
-    # Add document ID to metrics
-    results['document_metrics']['document_id'] = doc_id
-    
-    # Add summary string
-    doc_metrics = results['document_metrics']
-    summary = f"CER: {doc_metrics['cer']:.4f}, WER: {doc_metrics['wer']:.4f}, BWER: {doc_metrics['bwer']:.4f}, BOW: {bow_error_rate:.4f}, Seg: {segmentation_metrics['segmentation_accuracy']:.2f}"
-    
     return {
-        'metrics': results['document_metrics'],
-        'line_metrics': results['line_metrics'],
+        'metrics': result['metrics'],
+        'line_metrics': detailed_results['line_metrics'] if min_lines > 0 else [],
         'line_comparison': line_comparison,
-        'summary': summary
+        'summary': result['message']
     }

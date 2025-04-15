@@ -1,32 +1,32 @@
-line_number,ground_truth,prediction,transkribus,cer,wer,bwer
-1,ſy nie me wüſſen den̄ von den ſtetten vnd landen die ſye,Sy niͤ me wuͤssen dent von den stetten vnd landen die sye,sy nit me wüssen den von den stetten vnd landen die sye,0.16071428571428573,0.5,0.5
-2,offt vn̄ dick bygeſchiffet vn̄ erfaren hatten/ Und als vns,oft vn dick bygeschifftet vn erfaren hatten / Vnd als vns,offt vn dick bygeschiffet vn erfaren hatten. Und als vns,0.1206896551724138,0.7,0.7
-3,an dem ende der egemelt wynckel eyn krūme erzoͤigt des,an dem ende der egenelt wynckel eyn Ert̄me erzoͤgt des,an dem ende der egemelt wynckel eyn krůme erzoͤigt des,0.09259259259259259,0.3,0.3
-4,landſtaden gegen mittag wurden wür eyns ſolichs für¬,landtstadẽ gegen mittag wurden wũr eyns solichs fũr,landstaden gegen mittag wurden wir eyns solichs für¬,0.15384615384615385,0.5,0.5
-5,faren vnd ze erkunden was in den ſelben groſſen landen,faren vnd ze erkunden was in den selben grossen landen,faren vnd ze erkunden was in den selben grossen landen,0.05555555555555555,0.2,0.2
-6,were/ Und ſchifften alſo nach dem ſtaden by Sechſhun,were/ vnd schifften also nach dem staden by Sechſſun,were  Und schifften also nach dem staden by Sechshun,0.09615384615384616,0.5555555555555556,0.5555555555555556
-7,dert mylen wegs vnd zuͦm dickern̄ mal/ kamen wür vnd,dert mylen wegs vnd zům dickern mal / kamen wīr vnd,dert mylen wegs vnd zuͤm dickern mal/ kamen wijr vnd,0.09615384615384616,0.5,0.5
-8,giengen zelande beſprachtē vnd beredten wir vn̄ bewon,giengen zelande Besprache vnd Beredten wir v̄ Bewon,giengen zelande besprachten vnd beredten wir vn bewon,0.1320754716981132,0.5,0.5
-9,ten mit den inwonern̄ vnd lantſlüten der ſelben regionē,ren mit den inwonern vnd lantͦsliͤuten der selben regione,ten mit den inwonern vnd lantsluten der selben regionen,0.16363636363636364,0.5555555555555556,0.5555555555555556
-10,vnd wurden guͤtlich vnd bruͤderlich von inen empfangē,vnd wurden giͤstlich vnd bruderlich von inen empfaͤnge,vnd wurden guͤtlich vnd bruͤderlich von inen empfangen,0.09433962264150944,0.375,0.375
-11,vnd blyben etwan dick fünffzehen oder zweintzig tag by,ond Blyben erwan dick fůnffzehen oder zweinzig tag,vnd blyben etwan dick funffzehen oder zweintzig tag by,0.14814814814814814,0.6666666666666666,0.6666666666666666
-12,ienen ſtets vn̄ früntlich als liebe geſte mit ynen redende,ienen stets von früntlich als liebe geste mit ynen redende,ienen stets vn̄ fruntlich als liebe geste mit ynen redende,0.06896551724137931,0.3,0.3
-13,als du harnach vermercken würſt/ ye doch ſo iſt diſer be,als du harnach vermercten wüͤrst/ye doch so ist diser Be,als du harnach vermercken würst/ ye doch so ist diser be,0.14285714285714285,0.6363636363636364,0.6363636363636364
-14,wonten lantſchafft teyl in der krummen ſchnuͦr Dorrida,wonten lantschafft reyl in der frummen schnur Dorrida,wonten lantschafft teyl in der krummen schnuͤr Sorrida,0.09259259259259259,0.5,0.5
-15,zona innerthalb der lynien equinoctialem gegē dē hymel,zona innerthalb der lynien equinoctialem gege de hymel,sona innerthalb der lanien equinoctialem gege de hymel,0.037037037037037035,0.25,0.25
-16,gegent Antarticuſ den ſin anfang hept an im achtē grad,gegen Antarticus den sin anfang hept an im achte grad,gegent Antarticus den sin anfang hept an im achte grad,0.07407407407407407,0.4,0.4
-17,über die equinoctial/ Nach diſem landſſtaden ſchiffeten,vber die equinoctial / Nach disem landtstaden schifferens,über die equinoctial / Nach disem landsstaden schiffeten,0.14545454545454545,0.8571428571428571,0.8571428571428571
-18,wir ſo lang das wir über vnd für fuͦren des Steinbocks,wir so lang das wir über vnd für fünen des Steinbocks,wir so lang das wir über vnd für fiͤren des Steinbocks,0.07407407407407407,0.18181818181818182,0.18181818181818182
-19,Tropicum vnd funden den gegen ſibengeſtirnigen hy¬,Tropicum vnd funden den gegen sibengestirnigen hy,Tropicum vnd funden den gegen sibengestirnigen hy¬,0.06,0.2857142857142857,0.2857142857142857
-20,mel den wir nemen den herwagen vnd zuͦ latin polus an,mel den wir nemen den herwagen vnd zů latin polus an,mel den wir nemen den herwagen vnd zu latin polus an,0.03773584905660377,0.09090909090909091,0.09090909090909091
-21,tarticus genampt wirt/ An dem ſelben irem hymels anſe,articulus genv̄pt wirt / An dem selb̄en irem hymels anse,tarticus genampt wirt / An dem selben item hymels anse,0.16981132075471697,0.6666666666666666,0.6666666666666666
-22,hung im vmbkreiß oriſon genant den ſelben ieren hymel,hung im vmbkreiss orison genant den selben ieren hymel,chung im vmbkreiß orison genant den selben ieren hymel,0.07547169811320754,0.3333333333333333,0.3333333333333333
-23,funden wir wol fünfftzig graden oder ſtaffel hoͤher/ Wir,fundēn wir wol fũftzig graden oder stafſel hõher.,funden wir wol fünfftzig graden oder staffel höher  Wir,0.23214285714285715,0.5555555555555556,0.5555555555555556
-24,waren ouch neher oder daby des Antarticis zirckel by,waren oūch neher oder daby des Antarticis zircel By,waren ouch neher oder daby ꝺes Antartiens zirckel by,0.057692307692307696,0.3333333333333333,0.3333333333333333
-25,Sibentzehen graden ſemis/ Was ich da geſehen vnd er¬,Eibengehen graden semis. / Was ich da gesehen vnd er,Sibenzehen graden semis / Was ich da gesehen vnd er¬,0.15384615384615385,0.5555555555555556,0.5555555555555556
-26,kent hab von natur vnd weſen der ſelben litten vnd von,Ebengehen graben fenne  Was iz engefangen vn̄ Eent hab von natur vnd weſen der ſelben litten vnd von,kent hab von natur vnd wesen der selben litten vnd von,0.8703703703703703,0.7272727272727273,0.7272727272727273
-27,ieren wiſſen vnnd ſytten gelichnikeit vnnd ſchicklikeytt,ieren wisen vnd sytt̄en gelichn̄eit vnd schicklikeyt,ieren wisen vnnd sytten gelichnikkeit vnnnd schicklikeytt,0.17857142857142858,0.8571428571428571,0.8571428571428571
-28,von fruchtbarkeit des ertrichs vō heilſamikeyt des luffts,von fruchtbarkeit des ertrichs v̄o heilsamkeit des lusͦtͦs,von fruchtbarkeit des ertrichs von heilsamikeyt des luffts,0.14035087719298245,0.375,0.375
-29,Uon geſtalt vnd ſchickung des hymels vnd der hymeli¬,Von gestalt vnd schickung des hymels vnd der hymelta,Von gestalt vnd schickung des hymels vnd der hymeli¬,0.09615384615384616,0.4444444444444444,0.4444444444444444
-30,ſchen liben/ Und allermeyſt von den vnbeweglichen ver,ēchen liben /Vnd allermeyst von den vnbeweglichen ver,schen liben End allermeyst von den vnbeweglichen ver,0.09433962264150944,0.5,0.5
-31,hafften ſternen/ der achten ſpere ſo von vnßern vorfaren,baßten ſternen/der achten ſpere ſo von vnſern vorfaren,hafften sternen / der achten spere so von vnßern vorfaren,0.08928571428571429,0.4444444444444444,0.4444444444444444
+line_number,ground_truth,prediction,cer,wer
+1,ſy nie me wüſſen den̄ von den ſtetten vnd landen die ſye,Sy nit me wüͤssen den von den stetten vnd landen die sye,0.14285714285714285,0.5
+2,offt vn̄ dick bygeſchiffet vn̄ erfaren hatten/ Und als vns,offt vn dick bygeschiffet vn erfaren hatten. /Vnd als vns,0.10344827586206896,0.5
+3,an dem ende der egemelt wynckel eyn krūme erzoͤigt des,an dem ende der egemelt wynckel eyn Erůme erzoͤigt des,0.037037037037037035,0.1
+4,landſtaden gegen mittag wurden wür eyns ſolichs für¬,landstadẽ gegen mittag wurden wir eyns solichs fürs,0.11538461538461539,0.5
+5,faren vnd ze erkunden was in den ſelben groſſen landen,faren vnd ze erkunden was in den selben grossen landen,0.05555555555555555,0.2
+6,were/ Und ſchifften alſo nach dem ſtaden by Sechſhun,were/ Vnd schifften also nach dem staden By Sechshvn,0.1346153846153846,0.6666666666666666
+7,dert mylen wegs vnd zuͦm dickern̄ mal/ kamen wür vnd,dert mylen wegs vnd zům dickern mal kamen wīr vnd,0.09615384615384616,0.4
+8,giengen zelande beſprachtē vnd beredten wir vn̄ bewon,giengen zelande Besprache vnd Beredten wir vn Bewon,0.1320754716981132,0.5
+9,ten mit den inwonern̄ vnd lantſlüten der ſelben regionē,ten mit den inwoͤnern vnd lantͤsluten der selben regione,0.12727272727272726,0.4444444444444444
+10,vnd wurden guͤtlich vnd bruͤderlich von inen empfangē,vnd wurden guͤtlich vnd bruͤderlich von inen empfānge,0.03773584905660377,0.125
+11,vnd blyben etwan dick fünffzehen oder zweintzig tag by,vnd Blyben erwan dick fünffzehen oder zweinzig tag by,0.05555555555555555,0.3333333333333333
+12,ienen ſtets vn̄ früntlich als liebe geſte mit ynen redende,ienen stets von früntlich als liebe geste mit ynen redende,0.06896551724137931,0.3
+13,als du harnach vermercken würſt/ ye doch ſo iſt diſer be,als du harnach vermercten würst/ ye doch so ist diser Be,0.10714285714285714,0.5454545454545454
+14,wonten lantſchafft teyl in der krummen ſchnuͦr Dorrida,wonten lantschafft reyl in der frummen schnuͤr Dorrida,0.09259259259259259,0.5
+15,zona innerthalb der lynien equinoctialem gegē dē hymel,zona innerthalb der lſynen equinoctialem gege de hymel,0.07407407407407407,0.375
+16,gegent Antarticuſ den ſin anfang hept an im achtē grad,gegen Antarticus den sin anfang hept an im achte grad,0.07407407407407407,0.4
+17,über die equinoctial/ Nach diſem landſſtaden ſchiffeten,gegen einwettung eyn fur mupfing vber die equinoctial / Nach disem landstaden schifferens,0.7454545454545455,1.5714285714285714
+18,wir ſo lang das wir über vnd für fuͦren des Steinbocks,wir so lang das wir über vnd für fiͤren des Steinbocks,0.05555555555555555,0.18181818181818182
+19,Tropicum vnd funden den gegen ſibengeſtirnigen hy¬,Tropicum vnd funden den gegen sibengestirnigen hy¬,0.04,0.14285714285714285
+20,mel den wir nemen den herwagen vnd zuͦ latin polus an,mel den wir nemen den herwagen vnd zů latin polus an,0.03773584905660377,0.09090909090909091
+21,tarticus genampt wirt/ An dem ſelben irem hymels anſe,particus genv̄pt wirt / An dem selb̄en ı̄tem hymels anse,0.18867924528301888,0.7777777777777778
+22,hung im vmbkreiß oriſon genant den ſelben ieren hymel,tatticus genempt was in dem felde in vngarung im vmbkreiß orison genant den selben ieren hymel,0.8301886792452831,1.1111111111111112
+23,funden wir wol fünfftzig graden oder ſtaffel hoͤher/ Wir,funden wir wol fünfftzig graden oder staffel höer.,0.16071428571428573,0.3333333333333333
+24,waren ouch neher oder daby des Antarticis zirckel by,waren ouch neher oder daby des Antarticis zircel by,0.019230769230769232,0.1111111111111111
+25,Sibentzehen graden ſemis/ Was ich da geſehen vnd er¬,Eibenzehen graden semis / Was ich da gesehen vnd er,0.11538461538461539,0.5555555555555556
+26,kent hab von natur vnd weſen der ſelben litten vnd von,Ebengēhen graben fēnſt. Was iz ſeſſen ſol. Ēt hab von natur vnd weſen der ſelben litten vnd von,0.7777777777777778,0.7272727272727273
+27,ieren wiſſen vnnd ſytten gelichnikeit vnnd ſchicklikeytt,ieren wisen vn̄d̄ sytten gelichnyt v̄nd̄ schicklikeyt,0.23214285714285715,0.8571428571428571
+28,von fruchtbarkeit des ertrichs vō heilſamikeyt des luffts,von fruchtbarkeit des ertrichs vo heilsamikeyt des luffts,0.03508771929824561,0.25
+29,Uon geſtalt vnd ſchickung des hymels vnd der hymeli¬,Von gestalt vnd schickung des hymels vnd der hymelta,0.09615384615384616,0.4444444444444444
+30,ſchen liben/ Und allermeyſt von den vnbeweglichen ver,Echen liben / Und allermeyst von den vnbeweglichen ver,0.05660377358490566,0.5
+31,hafften ſternen/ der achten ſpere ſo von vnßern vorfaren,baßten sternen / der achten spere so von vnßern vorfaren,0.125,0.5555555555555556
