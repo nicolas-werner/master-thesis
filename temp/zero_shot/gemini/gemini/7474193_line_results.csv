@@ -1,5 +1,5 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,geile vn̄ begirig ſind/ ſo legten ſy alle zucht vnd ſcham vō,geile vin begirig sind/so legten sy alle zucht vnd scham võ,0.13333333333333333,0.5,0.5,7474193,gemini
+1,geile vn̄ begirig ſind/ ſo legten ſy alle zucht vnd ſcham vō,geile viñ begirig sind/so legten sy alle zucht vnd scham võ,0.13333333333333333,0.5,0.5,7474193,gemini
 2,in zuͦ volbringung boͤſer dingen/ Sy leben wol hundertt,in zu volbungung båser dingen/Sy leben wol hundertt,0.12727272727272726,0.5555555555555556,0.5555555555555556,7474193,gemini
 3,vn̄ fünffzig iar vnd werden ſelten kranck/ Und ob ſy et¬,vn fünffsig iar vnd werden selten Franck/And ob sy et/,0.14285714285714285,0.6363636363636364,0.6363636363636364,7474193,gemini
 4,wen in kranckheit fallen ſo heilen ſy ſich ſelbs mit ettlithē,wen in Franckheit fallen so heilen sy sich selbs mit etrlithe,0.11475409836065574,0.5454545454545454,0.5454545454545454,7474193,gemini
@@ -23,7 +23,7 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 22,maß groß vnd ſo ſy nackend ſynd gethuͤren ſy ſich ſolich,maß groß vnd so sy nackend synd gethiiren ſy ſich ſolich,0.08928571428571429,0.36363636363636365,0.36363636363636365,7474193,gemini
 23,er dingen nit vnder ſtan on waffen/ Das ertrich diſer,er dingen nit vnder stan on waffen/ Dasertrich diser,0.05660377358490566,0.4,0.4,7474193,gemini
 24,landen vnnd region iſt faſt fruchtbar vnd luſtiger an¬,landen vnnd region ist fast fruchtbar vnd lustiger an,0.07407407407407407,0.4444444444444444,0.4444444444444444,7474193,gemini
-25,ſehung vnd von vil bergen vnd Buͦhelen vnd on zall vil,sehung vnd von vil bergenvnd Bihelen vnd on zall vil,0.07407407407407407,0.36363636363636365,0.36363636363636365,7474193,gemini
+25,ſehung vnd von vil bergen vnd Buͦhelen vnd on zall vil,ſehung vnd von vil bergenvnd Bihelen vnd on zall vil,0.05555555555555555,0.2727272727272727,0.2727272727272727,7474193,gemini
 26,Theler vnnd mit faſt groſſen flieſſenden waſſeren/ über,Theler vnnd mit fast grossen fliessenden wasseren/über,0.14545454545454545,0.625,0.625,7474193,gemini
 27,flüſſig/ Und von guͦten heylſamē brunnen gefuchtet vn̄,flüssig/And von guten beylſame Byunnen gefuchtet vi,0.2037037037037037,0.75,0.75,7474193,gemini
 28,mit groſſen breytten welden vnnd dick die kum̄ vnnd,mit grossen Breytten welden vnnd dick die kum vnnd,0.0784313725490196,0.3333333333333333,0.3333333333333333,7474193,gemini

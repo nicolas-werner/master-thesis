@@ -1,13 +1,15 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,C,Of Semi-public Offences in General.,35.0,5.0,5.0,071133003,mistral
+1,C,C.,1.0,1.0,1.0,071133003,mistral
 2,23.,,1.0,1.0,1.0,071133003,mistral
-3,Of Semi-public Offences in General.,persons or destroys the property of particular individuals among the,1.6285714285714286,2.0,2.0,071133003,mistral
-4,persons or destroys the property of particular individuals among the,Sect he may be not only punished criminally for the calumny,0.7941176470588235,1.0,1.0,071133003,mistral
-5,Jews he may be not only punished criminally for the calumny,"thrown on the Sect, but made civilly responsible for the particular",0.7457627118644068,0.8181818181818182,0.8181818181818182,071133003,mistral
-6,"thrown on the Sect, but made civilly responsible for the particular",mischief done to the individual whose persons or property,0.7611940298507462,1.0,0.9090909090909091,071133003,mistral
-7,mischief done to the individual Jews whose persons or property,were thus attacked.,0.8548387096774194,1.0,1.0,071133003,mistral
-8,were thus attacked.,,1.0,1.0,1.0,071133003,mistral
-9,"As to any farther particulars relative to this head, they","As to any farther particulars relative to this head, they",0.0,0.0,0.0,071133003,mistral
-10,of a local nature; and are without the limits of the present under=,must depend upon the particular class in question: they are therefore,0.8059701492537313,1.0,0.8461538461538461,071133003,mistral
-11,:taking work.,"of a local nature, and without the limits of the present undertaking",4.6923076923076925,6.0,6.0,071133003,mistral
-12,must depend upon the particular class in question. They are therefore,work.,0.9565217391304348,1.0,1.0,071133003,mistral
+3,Of Semi-public Offences in General.,Of Semi-public Offences in General.,0.0,0.0,0.0,071133003,mistral
+4,persons or destroys the property of particular individuals among the,,1.0,1.0,1.0,071133003,mistral
+5,Jews he may be not only punished criminally for the calumny,persons or destroys the property of particular individuals among the,0.8983050847457628,0.9090909090909091,0.9090909090909091,071133003,mistral
+6,"thrown on the Sect, but made civilly responsible for the particular",Jews he may be not only punished criminally for the calumny,0.6567164179104478,0.8181818181818182,0.8181818181818182,071133003,mistral
+7,mischief done to the individual Jews whose persons or property,"thrown on the Sect, but made civilly responsible for the particular",0.8387096774193549,1.1,1.0,071133003,mistral
+8,were thus attacked.,mischief done to the individual Jews whose persons or property,2.789473684210526,3.3333333333333335,3.3333333333333335,071133003,mistral
+9,"As to any farther particulars relative to this head, they",were thus attacked.,0.7894736842105263,1.0,1.0,071133003,mistral
+10,of a local nature; and are without the limits of the present under=,,1.0,1.0,1.0,071133003,mistral
+11,:taking work.,"As to any farther particulars relative to this head, they",4.0,5.0,5.0,071133003,mistral
+12,must depend upon the particular class in question. They are therefore,must depend upon the particular class in question. They are therefore,0.0,0.0,0.0,071133003,mistral
+13,stand,stand,0.0,0.0,0.0,071133003,mistral
+14,of men,of a local nature; and are without the limits of the present work,9.833333333333334,6.0,6.0,071133003,mistral

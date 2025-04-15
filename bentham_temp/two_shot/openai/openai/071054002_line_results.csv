@@ -2,7 +2,7 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 1,46,46,0.0,0.0,0.0,071054002,openai
 2,Theft Embezzlement and Fraudulent obtainment,C,1.0,1.0,1.0,071054002,openai
 3,there is no difference in the punishment. It will easily,Theft Embezzlement and Fraudulent obtainment,0.7321428571428571,1.0,1.0,071054002,openai
-4,therefore be censured that they will be apt to,there is no difference in the punishment. It will easily,0.8260869565217391,1.1111111111111112,1.0,071054002,openai
+4,therefore be censured that they will be apt to,There is no difference in the punishment. It will easily,0.8478260869565217,1.1111111111111112,1.0,071054002,openai
 5,that difficulty in proportion as the punishment is,therefore be conceived that they will be apt to,0.78,1.125,1.0,071054002,openai
 6,more severe,that difficulty in proportion as the punishment is,4.0,4.0,4.0,071054002,openai
 7,C,more severe,11.0,2.0,2.0,071054002,openai

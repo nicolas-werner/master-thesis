@@ -1,5 +1,5 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,Of Polygamy.,Of Polygamy.,0.0,0.0,0.0,071106002,openai
+1,Of Polygamy.,of Polygamy.,0.08333333333333333,0.5,0.5,071106002,openai
 2,under the Justices of the Laws. She is to be regarded therefore,under the auspices of the Laws. She is to be regarded therefore,0.031746031746031744,0.08333333333333333,0.08333333333333333,071106002,openai
 3,on the footing of a Widow. In point of reason she ought not to,on the footing of a Widow. In point of reason she ought not to,0.0,0.0,0.0,071106002,openai
 4,be regarded in a light in the least degree less favourable,be regarded in a light in the least degree less favourable,0.0,0.0,0.0,071106002,openai

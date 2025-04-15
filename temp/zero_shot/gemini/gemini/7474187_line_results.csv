@@ -1,31 +1,31 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,cher verderbung ſchiffbruchē was liplicher vnfuͦrē wyr,cher verderbung schiffbuche was liplicher vnfüre wyr,0.1111111111111111,0.2857142857142857,0.2857142857142857,7474187,gemini
-2,gelitten habē/ Und mit was angſtē vnſers gemuͤtes wir,gelitten habe/Und mit was angste vnsers gemiites wir,0.1320754716981132,0.5555555555555556,0.5555555555555556,7474187,gemini
+1,cher verderbung ſchiffbruchē was liplicher vnfuͦrē wyr,cher verderbung schiffbuche was liplicher vnſüre wyr,0.12962962962962962,0.2857142857142857,0.2857142857142857,7474187,gemini
+2,gelitten habē/ Und mit was angſtē vnſers gemuͤtes wir,gelitten habe/Und mit was angſte vnsers gemiites wir,0.11320754716981132,0.5555555555555556,0.5555555555555556,7474187,gemini
 3,gearbeit habē/ mein ich/ gib ich denen ze bedenckē die vß,gearbeit habe/mein ich/gib ich denen ze bedencke die vß,0.07017543859649122,0.45454545454545453,0.45454545454545453,7474187,gemini
-4,vil dingen erfarūg wol wiſſen/ waſda ſie vngewiſſe ding,vil dingen erfaring wol wissen/wasda sie ongewisse ding,0.18181818181818182,0.5555555555555556,0.5555555555555556,7474187,gemini
-5,ſuͦchen/ vnnd nit wiſſen ob die ſien zuͦ erfaren/ Und das,suchen/vnnd nit wissen ob die sien zu erfaren/Und das,0.14035087719298245,0.6363636363636364,0.6363636363636364,7474187,gemini
-6,ich mit eynem wort alle ding begriffe/ ſolt du wiſſen das,ich mit eynem wort alle ding begriffe/solt du wissendas,0.08771929824561403,0.36363636363636365,0.36363636363636365,7474187,gemini
-7,in Sechtzig tagen vnnd ſiben tagen die wir ſchiffeten,in Sechtzig tagen vnnd siben tagen die wir schiffeten,0.03773584905660377,0.2222222222222222,0.2222222222222222,7474187,gemini
+4,vil dingen erfarūg wol wiſſen/ waſda ſie vngewiſſe ding,vil dingen erfaring wol wiſſen/wasda ſie vngewiſſe ding,0.07272727272727272,0.3333333333333333,0.3333333333333333,7474187,gemini
+5,ſuͦchen/ vnnd nit wiſſen ob die ſien zuͦ erfaren/ Und das,ſuchen/vnnd nit wiſſen ob die ſien zu erfaren/Und das,0.07017543859649122,0.45454545454545453,0.45454545454545453,7474187,gemini
+6,ich mit eynem wort alle ding begriffe/ ſolt du wiſſen das,ich mit eynem wort alle ding begriffe/ſolt du wiſſendas,0.03508771929824561,0.36363636363636365,0.36363636363636365,7474187,gemini
+7,in Sechtzig tagen vnnd ſiben tagen die wir ſchiffeten,in Sechtzig tagen vnnd ſiben tagen die wir ſchiffeten,0.0,0.0,0.0,7474187,gemini
 8,vier vnd viertzig tag on vnderlaß an einander gehept ha,vier vnd vierzig tag on vnderlaß an einander gehept ha,0.01818181818181818,0.1,0.1,7474187,gemini
-9,ben mit regen tonnern vnd blitzgen ſo gar finſter dz wir,ben mit regen tonnern vnd Blitzgen so gar finster dz wir,0.05357142857142857,0.2727272727272727,0.2727272727272727,7474187,gemini
+9,ben mit regen tonnern vnd blitzgen ſo gar finſter dz wir,ben mit regen tonnern vnd Blitzgen ſo gar finster dz wir,0.03571428571428571,0.18181818181818182,0.18181818181818182,7474187,gemini
 10,weder Sonnē im tag noch liechtē hymel in der nacht nie,weder Sonne im tag noch liechte bymel in der nacht nie,0.05555555555555555,0.2727272727272727,0.2727272727272727,7474187,gemini
-11,geſehen haben/ Da von ſo geſchach dz vns ſolicher groſ¬,gesehen haben/Davon so geschach dz vns ſolicher gros,0.12727272727272726,0.7,0.7,7474187,gemini
-12,ſer ſchrecken infiel dz wir gar nach alle hoffnung vnſers,fer schrecken infiel dz wir gar nach alle hoffnung vnsers,0.05263157894736842,0.3,0.3,7474187,gemini
-13,lebens hinwurffen/ In ſoͤlichen angſten dennoch vn̄ ſo,lebenshinwurffen/ In solichen angsten dennoch vin so,0.12962962962962962,0.75,0.75,7474187,gemini
-14,wüetungen des mers vnnd des hymels gefiel dem hoch,wüetungen des mers vind des hymels gefiel dem hoch,0.02,0.1111111111111111,0.1111111111111111,7474187,gemini
+11,geſehen haben/ Da von ſo geſchach dz vns ſolicher groſ¬,geſehen haben/Davon ſo geſchach dz vns ſolicher gros,0.07272727272727272,0.4,0.4,7474187,gemini
+12,ſer ſchrecken infiel dz wir gar nach alle hoffnung vnſers,ſer ſchrecken infiel dz wir gar nach alle hoffnung vnsers,0.017543859649122806,0.1,0.1,7474187,gemini
+13,lebens hinwurffen/ In ſoͤlichen angſten dennoch vn̄ ſo,lebenshinwurffen/ In ſolichen angsten dennoch vin ſo,0.09259259259259259,0.625,0.625,7474187,gemini
+14,wüetungen des mers vnnd des hymels gefiel dem hoch,wüetungen des mers vnnd des hymels gefiel dem hoch,0.0,0.0,0.0,7474187,gemini
 15,ſten gott vns ze zoigen ingewont ertrich vnnd nüw lant,"ſten gott vne, ze zoigen ingewont ertrich vnnd niw lant",0.05555555555555555,0.2,0.2,7474187,gemini
-16,ſchafften vnd ein vnbekante welt/ Das wir nach der ſel¬,schafften und ein vnbekante welt/Das wir nach der sel,0.09090909090909091,0.5,0.5,7474187,gemini
-17,ben bſehung mit ſo groſſen freiden durchgoſſen ſynd als,ben Bsehung mit so groſſen freiden durchgossen synd als,0.10909090909090909,0.4444444444444444,0.4444444444444444,7474187,gemini
+16,ſchafften vnd ein vnbekante welt/ Das wir nach der ſel¬,ſchafften und ein vnbekante welt/Das wir nach der ſel,0.05454545454545454,0.4,0.4,7474187,gemini
+17,ben bſehung mit ſo groſſen freiden durchgoſſen ſynd als,ben Bsehung mit ſo groſſen freiden durchgoſſen ſynd als,0.03636363636363636,0.1111111111111111,0.1111111111111111,7474187,gemini
 18,yemant wol bedencken mag/ wie gewonlich denen geſchi,yemant wol Bedencken mag/wie gewonlich denen geschi,0.057692307692307696,0.5,0.5,7474187,gemini
 19,cht die vß vil mengerley betrüpnüßen vnd vnfal vnd vß,cht die of vil mengerley Betrüpnüßen vnd vnfal vnd vß,0.05660377358490566,0.2,0.2,7474187,gemini
 20,widerſpeningen glück verheilet vnd funden/ vn̄ eruolgt,widerspeningen glück verheilet vnd funden/vñ eruolge,0.09259259259259259,0.5714285714285714,0.5714285714285714,7474187,gemini
 21,haben/ Alſo an dē Sibenden tag des monats Ouguſten,haben/Also an de Sibenden tag des monats Dugusten,0.1,0.4444444444444444,0.4444444444444444,7474187,gemini
 22,Thuſent finffhūdert vn̄ ein ior/ In d̓ gemeltē lātſchafftē,Thusent finffhudert vn ein ior/In & gemelte lätschaffte,0.1724137931034483,0.8888888888888888,0.8888888888888888,7474187,gemini
-23,ſtaden vnd zuͦlendung wurffen wir die encker in/ got vn,staden vnd zulendung wirffen wir die encker in/got vn,0.07272727272727272,0.5,0.5,7474187,gemini
+23,ſtaden vnd zuͦlendung wurffen wir die encker in/ got vn,ſtaden vnd zulendung wirffen wir die encker in/got vn,0.05454545454545454,0.4,0.4,7474187,gemini
 24,ſerm herren lobſagendt mit hochzierlicher byt vnd gebet,ferm herren lobſagendt mit hochzierlicher Byt vnd gebet,0.03636363636363636,0.25,0.25,7474187,gemini
 25,vnd mit geſang eyner zierlichen meß/ Da erkanten wir,vnd mit gesang eyner zierlichen meß/Da erkanten wir,0.038461538461538464,0.3333333333333333,0.3333333333333333,7474187,gemini
-26,das land vnd ertrich nit ein inſel ſin/ ſunder ein ingewōt,das land vnd ertrich nit ein insel sin/funder ein ingewõt,0.08620689655172414,0.36363636363636365,0.36363636363636365,7474187,gemini
-27,land denn ſich ſoͤlichs ſtrackt mit faſt langen ſtaden nitt,land denn ſich ſolichs ſtrackt mit fastlangen staden nitt,0.06779661016949153,0.4,0.4,7474187,gemini
+26,das land vnd ertrich nit ein inſel ſin/ ſunder ein ingewōt,das land vnd ertrich nit ein insel ſin/ſunder ein ingewõt,0.05172413793103448,0.36363636363636365,0.36363636363636365,7474187,gemini
+27,land denn ſich ſoͤlichs ſtrackt mit faſt langen ſtaden nitt,land denn ſich ſolichs ſtrackt mit faſtlangen staden nitt,0.05084745762711865,0.4,0.4,7474187,gemini
 28,mit vmbzuͦgonen die da vmbgiengen vnd voll iſt on zall,mit vmbzügonen die da vmbgiengen vnd voll ist on sall,0.07407407407407407,0.3,0.3,7474187,gemini
 29,vil inwonender lüten denn wir dar ingefunden habē on,vil inwonender lüten denn wir dar ingefunden habe on,0.019230769230769232,0.1111111111111111,0.1111111111111111,7474187,gemini
 30,zal vil voͤlcker vnd lüt vnd aller wald thieren geſchlecht,zal vil volcker vnd lüt vnd aller wald thieren geschlecht,0.034482758620689655,0.2,0.2,7474187,gemini

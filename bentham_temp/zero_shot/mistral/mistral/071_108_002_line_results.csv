@@ -1,22 +1,10 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,2.,It will be necessary to define what shall be deemed,25.5,10.0,10.0,071_108_002,mistral
-2,Of Matrimonial Desertion.,"Desertion, distinguishing it from the cases of lawful absence,",2.08,3.0,3.0,071_108_002,mistral
-3,It will be necessary to define what shall be deemed,and what steps shall be taken for giving Notice.,0.803921568627451,1.0,0.7,071_108_002,mistral
+1,2.,C,1.0,1.0,1.0,071_108_002,mistral
+2,Of Matrimonial Desertion.,,1.0,1.0,1.0,071_108_002,mistral
+3,It will be necessary to define what shall be deemed,Of Matrimonial Desertion.,0.8627450980392157,1.0,1.0,071_108_002,mistral
 4,"Desertion, distinguishing it from the case of lawful Absence;",,1.0,1.0,1.0,071_108_002,mistral
-5,and what steps shall be taken for giving notice.,Let certain methods be established whereby the Husband,0.875,0.8888888888888888,0.8888888888888888,071_108_002,mistral
-6,Let certain methods be established whereby the Husband,and the Wife may be enabled and obliged to correspond with,0.8148148148148148,1.25,1.125,071_108_002,mistral
-7,and the Wife may be enabled and obliged to correspond with,one another at stated intervals and let a failure on either part,0.7931034482758621,1.0909090909090908,1.0,071_108_002,mistral
-8,one another at stated intervals: and let a failure on either part,for a certain time be deemed presumptive evidence of death or,0.7384615384615385,1.0,0.9166666666666666,071_108_002,mistral
-9,for a certain time be deemed presumptive evidence of death or,desertion. Within the dominions of the state this might be managed,0.8524590163934426,1.0,0.8181818181818182,071_108_002,mistral
-10,desertion. Within the dominions of the state they  might be manag=,in the manner mentioned in the Book of Pauper Tid.,0.7424242424242424,0.9090909090909091,0.7272727272727273,071_108_002,mistral
-11,=ed in the manner mentioned in the Book of Procedure. Tit.,,1.0,1.0,1.0,071_108_002,mistral
-12,"As to foreigners, upon their coming into the country","As to Foreigners, upon their coming into the country,",0.038461538461538464,0.2222222222222222,0.2222222222222222,071_108_002,mistral
-13,let them be obliged to declare upon oath whether they are married,let them be obliged to declare upon oath whether they are married,0.0,0.0,0.0,071_108_002,mistral
-14,"or single; and if single whether Bachelors or Spinsters, Widowers","or single, and if single whether Bachelors or Spinsters, Widowers",0.015384615384615385,0.1,0.1,071_108_002,mistral
-15,"or Widows. Of these declarations let Registers be kept, of which,",or Widows. Of these declarations let Registers be kept of which,0.03076923076923077,0.18181818181818182,0.18181818181818182,071_108_002,mistral
-16,"previous to their being married, copies should be required to be",previous to their being married enquiry should be required to be,0.109375,0.18181818181818182,0.18181818181818182,071_108_002,mistral
-17,"produced. If married, certificates of the death of the Wife or","produced. If married, certificates of the death of the Wife or",0.0,0.0,0.0,071_108_002,mistral
-18,Husband. At present these important enquiries are left to the,"Husband, if present these important enquiries are left to the",0.04918032786885246,0.2,0.2,071_108_002,mistral
-19,uncertain prudence of individuals. The declarations above men=,uncertain evidence of individuals. The declarations above men-,0.06451612903225806,0.25,0.25,071_108_002,mistral
-20,:tioned should be accompanied with some details respecting their,tioned should be accompanied with some details respecting their,0.015625,0.1111111111111111,0.1111111111111111,071_108_002,mistral
-21,in,"birth, parentage and last abode, such as may lead to detection.",30.5,11.0,11.0,071_108_002,mistral
+5,and what steps shall be taken for giving notice.,"It will be necessary to define what shall be deemed Desertion, distinguishing it from the case of lawful absence; and what steps shall be taken for giving notice.",2.375,2.111111111111111,2.111111111111111,071_108_002,mistral
+6,Let certain methods be established whereby the Husband,,1.0,1.0,1.0,071_108_002,mistral
+7,and the Wife may be enabled and obliged to correspond with,Let certain methods be established whereby the Husband and the Wife may be enabled and obliged to correspond with one another at stated intervals: and let a failure on either part for a certain time be deemed presumptive evidence of death or this desertion. Within the dominions of the state this might be managed in the manner mentioned in the Book of Procedure. (sic),5.362068965517241,4.818181818181818,4.818181818181818,071_108_002,mistral
+8,one another at stated intervals: and let a failure on either part,,1.0,1.0,1.0,071_108_002,mistral
+9,for a certain time be deemed presumptive evidence of death or,"As to foreigners, upon their coming into the country, let them be obliged to declare upon oath whether they are married or single: and if single whether Bachelors or Spinsters, Widowers or Widows. Of these declarations let Registers be kept, of which previous to their being married, copies should be required to be produced. If married, certificates of the death of the Wife or Husband. At present these important enquiries are left to the uncertain prudence of individuals. The declarations above mentioned should be accompanied with some details respecting their birth, parentage and last abode, such as may lead to detection in",9.39344262295082,8.909090909090908,8.909090909090908,071_108_002,mistral

@@ -1,6 +1,6 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 1,11.,11.,0.0,0.0,0.0,071003003,openai
-2,Of Justifications.,of Justifications.,0.05555555555555555,0.5,0.5,071003003,openai
+2,Of Justifications.,of Justifications,0.1111111111111111,1.0,1.0,071003003,openai
 3,children.,Children.,0.1111111111111111,1.0,1.0,071003003,openai
 4,.. it,.. it,0.0,0.0,0.0,071003003,openai
 5,3. These of a Schoolmaster over his Schooler. See ^ Law of School,3. Those of a Schoolmaster over his Scholar. See Law of School,0.07692307692307693,0.23076923076923078,0.23076923076923078,071003003,openai
@@ -9,8 +9,8 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 8,Preceptors and Pupils.,Preceptors and Pupils.,0.0,0.0,0.0,071003003,openai
 9,ib.,ib.,0.0,0.0,0.0,071003003,openai
 10,5. These of a Guardian over his Ward. See Law of Guardi=,5. Those of a Guardian over his Ward. See Law of Guardi-,0.03571428571428571,0.16666666666666666,0.16666666666666666,071003003,openai
-11,:ans and Wards.,:ans and Wards.,0.0,0.0,0.0,071003003,openai
-12,6 These of Adufts over Infants in the same family. See ib.,6ᵗʰ Those of Adults over Infants in the same Family. See ib.,0.08620689655172414,0.3333333333333333,0.3333333333333333,071003003,openai
+11,:ans and Wards.,:ans and Wards,0.06666666666666667,0.3333333333333333,0.3333333333333333,071003003,openai
+12,6 These of Adufts over Infants in the same family. See ib.,6. Those of Adults over Infants in the same Family. See ib.,0.06896551724137931,0.3333333333333333,0.3333333333333333,071003003,openai
 13,Law of Infants.,Law of Infants.,0.0,0.0,0.0,071003003,openai
 14,7. These of a Master over his Servant - See the Law of Ser:,7. Those of a Master over his Servant. See the Law of Ser:,0.05084745762711865,0.21428571428571427,0.21428571428571427,071003003,openai
 15,vants. The Law of Apprentices -Law of Journeymen -Law,vants. The Law of Apprentices - Law of Journeymen - Law,0.03773584905660377,0.4444444444444444,0.4444444444444444,071003003,openai

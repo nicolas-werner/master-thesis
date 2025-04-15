@@ -1,1 +1,23 @@
-{}
+{
+  "gemini": {
+    "model": "gemini-2.0-flash",
+    "avg_cer": 0.041509594524651805,
+    "avg_wer": 0.13377324400229954,
+    "avg_bwer": 0.12673688728154772,
+    "doc_count": 10
+  },
+  "mistral": {
+    "model": "mistral-small-latest",
+    "avg_cer": 0.05406394575489536,
+    "avg_wer": 0.1653773107794641,
+    "avg_bwer": 0.15490235060207067,
+    "doc_count": 10
+  },
+  "openai": {
+    "model": "gpt-4o",
+    "avg_cer": 0.04061679159577218,
+    "avg_wer": 0.13771327226149194,
+    "avg_bwer": 0.13213591566134167,
+    "doc_count": 10
+  }
+}

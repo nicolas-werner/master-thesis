@@ -2,30 +2,30 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 1,11.,11.,0.0,0.0,0.0,071003003,openai
 2,Of Justifications.,of Justifications,0.1111111111111111,1.0,1.0,071003003,openai
 3,children.,Children.,0.1111111111111111,1.0,1.0,071003003,openai
-4,.. it,&,1.0,1.0,1.0,071003003,openai
-5,3. These of a Schoolmaster over his Schooler. See ^ Law of School,3. Those of a Schoolmaster over his Scholar. See Laws of School,0.09230769230769231,0.3076923076923077,0.3076923076923077,071003003,openai
+4,.. it,et,0.8,1.0,1.0,071003003,openai
+5,3. These of a Schoolmaster over his Schooler. See ^ Law of School,3. Those of a Schoolmaster over his Scholar. See Law of School,0.07692307692307693,0.23076923076923078,0.23076923076923078,071003003,openai
 6,:master and. Scholars.,masters and Scholars.,0.13636363636363635,0.6666666666666666,0.6666666666666666,071003003,openai
 7,4. These of a Domistic Preceptor over his Pupil. See Law of,4. Those of a Domestic Preceptor over his Pupil. See Law of,0.03389830508474576,0.16666666666666666,0.16666666666666666,071003003,openai
 8,Preceptors and Pupils.,Preceptors and Pupils.,0.0,0.0,0.0,071003003,openai
 9,ib.,&,1.0,1.0,1.0,071003003,openai
-10,5. These of a Guardian over his Ward. See Law of Guardi=,5. Those of a Guardian over his Ward. See Law of Guarde,0.05357142857142857,0.16666666666666666,0.16666666666666666,071003003,openai
-11,:ans and Wards.,:ans and Wards.,0.0,0.0,0.0,071003003,openai
-12,6 These of Adufts over Infants in the same family. See ib.,"6ᵗʰ Those of Adults over Infants in the same Family. See ᵗʰ
+10,5. These of a Guardian over his Ward. See Law of Guardi=,5. Those of a Guardian over his Ward. See Law of Guarde^n^,0.08928571428571429,0.16666666666666666,0.16666666666666666,071003003,openai
+11,:ans and Wards.,:ans and Wards,0.06666666666666667,0.3333333333333333,0.3333333333333333,071003003,openai
+12,6 These of Adufts over Infants in the same family. See ib.,"6. Those of Adults over Infants in the same Family. See the
 Law of Infants.",0.3793103448275862,0.5833333333333334,0.6666666666666666,071003003,openai
 13,Law of Infants.,Law of Infants.,0.0,0.0,0.0,071003003,openai
-14,7. These of a Master over his Servant - See the Law of Ser:,"7. Those of a Master, over his Servant. See the Law of Ser-",0.0847457627118644,0.35714285714285715,0.35714285714285715,071003003,openai
-15,vants. The Law of Apprentices -Law of Journeymen -Law,wants. The Law of Apprentices - Law of Journeymen - Law of,0.11320754716981132,0.6666666666666666,0.6666666666666666,071003003,openai
-16,of the Slaves.,of the Slaves.,0.0,0.0,0.0,071003003,openai
-17,Justification 6.th Military Kowers & Subservience,Justification of Military Powers & Subservience,0.10204081632653061,0.3333333333333333,0.3333333333333333,071003003,openai
-18,Thereto.-,thereto.,0.2222222222222222,1.0,1.0,071003003,openai
+14,7. These of a Master over his Servant - See the Law of Ser:,7. Those of a Master over his Servant. See the Law of Ser,0.06779661016949153,0.2857142857142857,0.2857142857142857,071003003,openai
+15,vants. The Law of Apprentices -Law of Journeymen -Law,want. The Laws of Apprentices - Law of Journeymen - Law,0.09433962264150944,0.6666666666666666,0.5555555555555556,071003003,openai
+16,of the Slaves.,"of the Slaves,",0.07142857142857142,0.3333333333333333,0.3333333333333333,071003003,openai
+17,Justification 6.th Military Kowers & Subservience,Justification 6th Military Powers Influence,0.24489795918367346,0.6666666666666666,0.6666666666666666,071003003,openai
+18,Thereto.-,Thereto.,0.1111111111111111,1.0,1.0,071003003,openai
 19,Povers which one man may have over the person of,Powers which one man may have over the person of,0.020833333333333332,0.1,0.1,071003003,openai
-20,another on a military account are,another on a military account are,0.0,0.0,0.0,071003003,openai
-21,1. These of a military superior over his Suborditates. For,"1. Those of a military Superior over his Subordinates. For
-considerations. Code. Laws of",0.603448275862069,0.7,0.7,071003003,openai
+20,another on a military account are,another on a military account are),0.030303030303030304,0.16666666666666666,0.16666666666666666,071003003,openai
+21,1. These of a military superior over his Suborditates. For,"1. Those of a military Superior over his Subordinates. To 
+constitutional Code. Laws of",0.5862068965517241,0.8,0.8,071003003,openai
 22,Constitutional Code-Laws of,Constitutional Code. Laws of,0.07407407407407407,0.6666666666666666,0.6666666666666666,071003003,openai
-23,these See ^ the Army ^ and ^ the Navy Laws,these see the Army and the Navy Laws,0.16666666666666666,0.36363636363636365,0.36363636363636365,071003003,openai
+23,these See ^ the Army ^ and ^ the Navy Laws,there lie the Army and the Navy Lovers,0.30952380952380953,0.5454545454545454,0.5454545454545454,071003003,openai
 24,2. These of a military officer over persons at large in a time,2. Those of a military officer over persons at large in a time,0.016129032258064516,0.07692307692307693,0.07692307692307693,071003003,openai
-25,Note.,Note.,0.0,0.0,0.0,071003003,openai
+25,Note.,Note,0.2,1.0,1.0,071003003,openai
 26,(a),(a),0.0,0.0,0.0,071003003,openai
 27,There ought to be a separate Title for every species,There ought to be a separate Title for every species,0.0,0.0,0.0,071003003,openai
 28,of servant which has any article of Law peculiar to it.,of servant which has any Articles of Law peculiar to it.,0.03636363636363636,0.09090909090909091,0.09090909090909091,071003003,openai

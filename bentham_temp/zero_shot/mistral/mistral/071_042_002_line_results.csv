@@ -1,7 +1,7 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 1,2,C,1.0,1.0,1.0,071_042_002,mistral
-2,Servants Law,,1.0,1.0,1.0,071_042_002,mistral
-3,gentleman to a servant does not dishonour the servant.,Servants Law,0.8333333333333334,1.0,1.0,071_042_002,mistral
-4,but a blow from a servant to a gentleman dishonours the,,1.0,1.0,1.0,071_042_002,mistral
-5,gentleman.,gentleman to a servant does not dishonour the servant:,4.5,9.0,9.0,071_042_002,mistral
-6,C,but a blow from a servant to a gentleman dishonours the,55.0,11.0,11.0,071_042_002,mistral
+2,Servants Law,Servants Law,0.0,0.0,0.0,071_042_002,mistral
+3,gentleman to a servant does not dishonour the servant.,,1.0,1.0,1.0,071_042_002,mistral
+4,but a blow from a servant to a gentleman dishonours the,gentleman to a servant does not dishonour the servant.,0.6181818181818182,0.8181818181818182,0.5454545454545454,071_042_002,mistral
+5,gentleman.,but a blow from a servant to a gentleman dishonours the,4.6,11.0,11.0,071_042_002,mistral
+6,C,gentleman.,10.0,1.0,1.0,071_042_002,mistral

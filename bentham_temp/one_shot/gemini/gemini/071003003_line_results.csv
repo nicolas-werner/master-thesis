@@ -1,6 +1,6 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,11.,11.,0.0,0.0,0.0,071003003,gemini
-2,C,of Justifications,17.0,2.0,2.0,071003003,gemini
+1,11.,C,1.0,1.0,1.0,071003003,gemini
+2,C,Of Justifications,17.0,2.0,2.0,071003003,gemini
 3,Of Justifications.,Children.,0.8333333333333334,1.0,1.0,071003003,gemini
 4,3. Those of a Schoolmaster over his Scholar. See Law of School,3. Those of a Schoolmaster over his Scholar. See Law of School,0.0,0.0,0.0,071003003,gemini
 5,masters and Scholars.,masters and Scholars.,0.0,0.0,0.0,071003003,gemini
@@ -12,19 +12,17 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 11,Powers which one man may have over the person of,Law of Infants.,0.8333333333333334,1.0,0.9,071003003,gemini
 12,these See the Army and the Navy Laws.,7. Those of a Master over his Servant. See the Law of Ser-,1.1081081081081081,1.5,1.375,071003003,gemini
 13,2. Those of a military officer over persons at large in a time,vants. The Law of Apprentices – Law of Journeymen – Law,0.7580645161290323,1.0,0.9230769230769231,071003003,gemini
-14,of,of Slaves.,4.0,1.0,1.0,071003003,gemini
-15,Children.,(a),1.0,1.0,1.0,071003003,gemini
-16,4. Those of a Domestic Preceptor over his Pupil . See Law of,Justification C. Military Powers & Influence,0.8166666666666667,1.0,1.0,071003003,gemini
-17,Preceptors and Pupils.,thereto. –,0.7727272727272727,1.0,1.0,071003003,gemini
-18,Law of Infants.,,1.0,1.0,1.0,071003003,gemini
-19,7. Those of a Master over his Servant - See the Law of Ser,Powers which one man may have over the person of,0.7068965517241379,0.8571428571428571,0.7857142857142857,071003003,gemini
-20,of the Slaves. (a),another on a military account are,1.4444444444444444,1.5,1.5,071003003,gemini
-21,another on a military account are,1. Those of a military Superior over his Subordinates. For,1.1515151515151516,1.3333333333333333,1.3333333333333333,071003003,gemini
-22,1. Those of a military Superior over his Subordinates. For,Constitutional Code. Laws of,0.8103448275862069,1.0,0.9,071003003,gemini
-23,Constitutional Code - Laws ofof,these see the Army and the Navy Laws.,0.967741935483871,1.6,1.6,071003003,gemini
-24,:ans and Wards.,2. Those of a military officer over persons at large in a time,3.6666666666666665,4.333333333333333,4.333333333333333,071003003,gemini
-25,ib.,of,1.0,1.0,1.0,071003003,gemini
-26,ib.,Note.,1.3333333333333333,1.0,1.0,071003003,gemini
-27,ib.,(a),1.0,1.0,1.0,071003003,gemini
-28,ib.,There ought to be a separate Title for every species,17.0,10.0,10.0,071003003,gemini
-29,Note.,of servant which has any Article of Law peculiar to it.,10.4,11.0,11.0,071003003,gemini
+14,of,of Slaves. (a),6.0,2.0,2.0,071003003,gemini
+15,Children.,Justification 6th Military Powers & Sufficience),4.666666666666667,6.0,6.0,071003003,gemini
+16,4. Those of a Domestic Preceptor over his Pupil . See Law of,thereto. –,0.8666666666666667,1.0,1.0,071003003,gemini
+17,Preceptors and Pupils.,Powers which one man may have over the person of,1.7727272727272727,3.3333333333333335,3.3333333333333335,071003003,gemini
+18,Law of Infants.,another on a military account are),1.8666666666666667,2.0,2.0,071003003,gemini
+19,7. Those of a Master over his Servant - See the Law of Ser,1. Those of a military Superior over his Subordinates. See,0.603448275862069,0.6428571428571429,0.5714285714285714,071003003,gemini
+20,of the Slaves. (a),Constitutional Code. Laws of,1.2222222222222223,1.0,0.75,071003003,gemini
+21,another on a military account are,these See the Army and the Navy Laws.,0.9090909090909091,1.3333333333333333,1.3333333333333333,071003003,gemini
+22,1. Those of a military Superior over his Subordinates. For,2. Those of a military officer over persons at large in a time,0.5344827586206896,0.8,0.8,071003003,gemini
+23,Constitutional Code - Laws ofof,of,0.9354838709677419,1.0,1.0,071003003,gemini
+24,:ans and Wards.,Note.,0.9333333333333333,1.0,1.0,071003003,gemini
+25,ib.,(a),1.0,1.0,1.0,071003003,gemini
+26,ib.,There ought to be a separate Title for every species,17.0,10.0,10.0,071003003,gemini
+27,ib.,of servant which has any Article of Law peculiar to it.,17.666666666666668,11.0,11.0,071003003,gemini

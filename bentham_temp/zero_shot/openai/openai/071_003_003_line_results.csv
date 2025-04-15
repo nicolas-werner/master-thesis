@@ -1,25 +1,26 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,11.,C,1.0,1.0,1.0,071_003_003,openai
-2,C,of Subjiciations,16.0,2.0,2.0,071_003_003,openai
-3,Of Justifications.,3. Those of a Schoolmaster over his Scholar. See Law of School,2.9444444444444446,6.0,6.0,071_003_003,openai
-4,3. Those of a Schoolmaster over his Scholar. See Law of School,master and Scholars.,0.7580645161290323,1.0,1.0,071_003_003,openai
+1,11.,of Subjiciations,5.333333333333333,2.0,2.0,071_003_003,openai
+2,C,Children.,8.0,1.0,1.0,071_003_003,openai
+3,Of Justifications.,3. Those of a Schoolmaster over his Scholar. See Law of School-,3.0,6.0,6.0,071_003_003,openai
+4,3. Those of a Schoolmaster over his Scholar. See Law of School,masters and Scholars.,0.7580645161290323,1.0,1.0,071_003_003,openai
 5,masters and Scholars.,4. Those of a Domestic Preceptor over his Pupil. See Laws of,2.3333333333333335,4.0,4.0,071_003_003,openai
-6,5. Those of a Guardian over his Ward . See Law of Guardi:,Preceptor and Pupils.,0.8596491228070176,1.0,1.0,071_003_003,openai
+6,5. Those of a Guardian over his Ward . See Law of Guardi:,Preceptors and Pupils.,0.8421052631578947,1.0,1.0,071_003_003,openai
 7,6 Those of Adults over Infants in the same Family. See ib.,5. Those of a Guardian over his Ward. See Law of Guar-,0.6724137931034483,0.8333333333333334,0.6666666666666666,071_003_003,openai
 8,vants - The Law of Apprentices _ Law of Journeymen _ Law,dians and Wards.,0.8571428571428571,1.0,1.0,071_003_003,openai
 9,Justification 6.th Military Powers & Subservience,6. Those of Adults over Infants in the same Family. See the,1.0,2.0,2.0,071_003_003,openai
 10,Thereto . _,Law of Infants.,1.3636363636363635,1.0,1.0,071_003_003,openai
 11,Powers which one man may have over the person of,7. Those of a Master over his Servant. See the Law of Ser-,0.875,1.1,1.0,071_003_003,openai
 12,these See the Army and the Navy Laws.,vants. The Law of Apprentices - Law of Journeymen - Law,1.135135135135135,1.375,1.375,071_003_003,openai
-13,2. Those of a military officer over persons at large in a time,of Slaves. (a),0.8387096774193549,0.9230769230769231,0.9230769230769231,071_003_003,openai
+13,2. Those of a military officer over persons at large in a time,of Hire.,0.9032258064516129,0.9230769230769231,0.9230769230769231,071_003_003,openai
 14,of,Subjiciation 6. Military Powers. Subjiciation,22.0,5.0,5.0,071_003_003,openai
-15,Children.,there to.,0.7777777777777778,2.0,2.0,071_003_003,openai
+15,Children.,Theatre.,0.5555555555555556,1.0,1.0,071_003_003,openai
 16,4. Those of a Domestic Preceptor over his Pupil . See Law of,Powers which one man may have over the person of,0.7166666666666667,0.8461538461538461,0.8461538461538461,071_003_003,openai
 17,Preceptors and Pupils.,another on a military account are,1.2272727272727273,2.0,2.0,071_003_003,openai
 18,Law of Infants.,1. Those of a military superior over his subordinates. For,3.2666666666666666,3.0,3.0,071_003_003,openai
-19,7. Those of a Master over his Servant - See the Law of Ser,constitutional Code. Laws of,0.7758620689655172,0.9285714285714286,0.9285714285714286,071_003_003,openai
+19,7. Those of a Master over his Servant - See the Law of Ser,constitutional Code of Laws of,0.7586206896551724,0.8571428571428571,0.8571428571428571,071_003_003,openai
 20,of the Slaves. (a),these see the Army and the Navy Laws.,1.5555555555555556,1.75,1.75,071_003_003,openai
 21,another on a military account are,2. Those of a military officer over persons at large in a time,1.1818181818181819,1.8333333333333333,1.8333333333333333,071_003_003,openai
-22,1. Those of a military Superior over his Subordinates. For,Note.,0.9310344827586207,1.0,1.0,071_003_003,openai
-23,Constitutional Code - Laws ofof,(a) There ought to be a separate Title for every species,1.4838709677419355,2.2,2.2,071_003_003,openai
-24,:ans and Wards.,of servant which has any Articles of Law peculiar to it.,3.066666666666667,3.6666666666666665,3.6666666666666665,071_003_003,openai
+22,1. Those of a military Superior over his Subordinates. For,of,0.9655172413793104,0.9,0.9,071_003_003,openai
+23,Constitutional Code - Laws ofof,Note.,0.9032258064516129,1.0,1.0,071_003_003,openai
+24,:ans and Wards.,There ought to be a separate Title for every species,3.066666666666667,3.3333333333333335,3.3333333333333335,071_003_003,openai
+25,ib.,of servant which has any Articles of Law peculiar to it.,18.0,11.0,11.0,071_003_003,openai

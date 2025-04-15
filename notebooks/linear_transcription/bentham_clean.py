@@ -766,7 +766,7 @@ def display_comparison_stats(os):
 
         example_paths = [
             {
-                "gt_path": 'data/bentham_10_test/few-shot-samples/116_649001.xml',
+                "gt_path": 'data/bentham_10_test/few-shot-samples/116649001.xml',
                 "img_path": 'data/bentham_10_test/few-shot-samples/116649001.jpg'
             },
             {
@@ -914,19 +914,20 @@ def _(mo):
     6. Transcribe text only, ignore decorative elements or stamps unless they contain readable text
     7. Ignore text that is clearly struck through in the manuscript
 
+    Your transcription should match the original manuscript as closely as possible. If you're uncertain about a character, provide your best interpretation.
+
     CRITICAL LINE BREAK INSTRUCTIONS:
     - You MUST maintain the EXACT same number of lines as in the original manuscript
     - Each physical line in the manuscript should be ONE line in your transcription
     - DO NOT merge short lines together
     - DO NOT split long lines into multiple lines
     - Preserve the exact same line structure as the manuscript
-
     """)
 
     provider_models = {
         "openai": "gpt-4o",
         "gemini": "gemini-2.0-flash",
-        "mistral": "pixtral-large-latest"
+        "mistral": "mistral-small-latest"
     }
 
     limit_docs = 10
@@ -1008,7 +1009,10 @@ def _(
             base_output_dir='bentham_temp',
             create_messages=create_zero_shot_messages,
             eval_type='zero_shot',
-            limit=limit_docs
+            limit=limit_docs,
+            parallel=True,
+            max_workers=None,
+            use_structured_output=True 
         )
     return create_zero_shot_messages, zero_shot_results
 
@@ -1092,7 +1096,10 @@ def _(
             base_output_dir='bentham_temp',
             create_messages=create_hybrid_messages,
             eval_type='hybrid_zero_shot',
-            limit=limit_docs
+            limit=limit_docs,
+            parallel=True,
+            max_workers=None,
+            use_structured_output=True 
         )
     return create_hybrid_messages, find_file_for_id, hybrid_zero_shot_results
 
@@ -1180,7 +1187,7 @@ def _(
                             },
                             {
                                 "type": "text",
-                                "text": f"==== CORRECT TRANSCRIPTION ====\n{one_shot_example_text}"
+                                "text": f"CORRECT TRANSCRIPTION\n{one_shot_example_text}"
                             }
                         ]
                     },
@@ -1206,7 +1213,10 @@ def _(
                 base_output_dir='bentham_temp',
                 create_messages=create_one_shot_messages,
                 eval_type='one_shot',
-                limit=limit_docs
+                limit=limit_docs,
+                parallel=True,
+                max_workers=None,
+                use_structured_output=True 
             )
         else:
             print("⚠️ Could not load the example for one-shot learning")
@@ -1313,7 +1323,7 @@ def _(
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Review the following example of a historical handwritten page. It includes both:\n\n(1) A raw OCR transcription from Transkribus\n(2) The correct, line-by-line ground truth transcription\n\nThis shows how to improve upon the OCR output, preserve line breaks, and handle abbreviations or typographic features.\n\n**Use this example to learn how to improve OCR transcriptions — do not copy the example text directly.**"
+                                    "text": "Review the following example of a historical handwritten page along with the transcriptions. It includes both:\n\n(1) A raw OCR transcription from Transkribus\n(2) The correct, line-by-line ground truth transcription\n\nThis shows how to improve upon the OCR output, preserve line breaks, and handle abbreviations or typographic features.\n\n**Use this example to learn how to improve OCR transcriptions — do not copy the example text directly.**"
                                 },
                                 {
                                     "type": "image_url",
@@ -1321,7 +1331,7 @@ def _(
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{example_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{example_text}"
+                                    "text": f"(1) TRANSKRIBUS OCR OUTPUT\n{example_transkribus_text}\n---\n(2) CORRECT TRANSCRIPTION\n{example_text}\n---\n"
                                 }
                             ]
                         },
@@ -1338,7 +1348,7 @@ def _(
                                 },
                                 {
                                 "type": "text",
-                                    "text": f"The following is the output of a traditional OCR model from Transkribus. It is fine-tuned on historic handwritten texts. It can help you transcribe the following page, but may also contain errors:\n\n{transkribus_text}"}
+                                    "text": f"The following is TRANSKRIBUS OCR OUTPUT for this page. It is fine-tuned on historic handwritten texts. It can help you transcribe the following page, but may also contain errors:\n\n{transkribus_text}"}
 
                             ]
                         }
@@ -1353,7 +1363,10 @@ def _(
                 base_output_dir='bentham_temp',
                 create_messages=create_one_shot_hybrid_messages,
                 eval_type='one_shot_hybrid_enhanced',
-                limit=limit_docs
+                limit=limit_docs,
+                parallel=True,
+                max_workers=None,
+                use_structured_output=True 
             )
         else:
             print("⚠️ Could not load the example for one-shot learning")
@@ -1450,7 +1463,7 @@ def _(
                         "content": [
                             {
                                 "type": "text",
-                                "text": "Review the following examples of a historical handwritten page along with its correct transcription. This shows how to handle line breaks, abbreviations, and typographic features.\n\n**Use these examples to learn how to transcribe historical documents — do not copy the example text directly.**"
+                                "text": "Review the following examples of a historical handwritten page along with their correct transcription. This shows how to handle line breaks, abbreviations, and typographic features.\n\n**Use these examples to learn how to transcribe historical documents — do not copy the example text directly.**"
                             },
                             {
                                 "type": "image_url",
@@ -1458,7 +1471,7 @@ def _(
                             },
                             {
                                 "type": "text",
-                                "text": f"==== CORRECT TRANSCRIPTION ====\n{two_shot_example1_text}"
+                                "text": f"CORRECT TRANSCRIPTION\n{two_shot_example1_text}\n---\n"
                             }
                         ]
                     },
@@ -1475,7 +1488,7 @@ def _(
                             },
                             {
                                 "type": "text",
-                                "text": f"==== CORRECT TRANSCRIPTION ====\n{two_shot_example2_text}"
+                                "text": f"CORRECT TRANSCRIPTION\n{two_shot_example2_text}\n---\n"
                             }
                         ]
                     },
@@ -1501,7 +1514,10 @@ def _(
                 base_output_dir='bentham_temp',
                 create_messages=create_two_shot_messages,
                 eval_type='two_shot',
-                limit=limit_docs
+                limit=limit_docs,
+                parallel=True,
+                max_workers=None,
+                use_structured_output=True 
             )
         else:
             print("⚠️ Could not load both examples for two-shot learning")
@@ -1627,7 +1643,7 @@ def _(
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Review the following examplea of a historical handwritten page. It includes both:\n\n(1) A raw OCR transcription from Transkribus\n(2) The correct, line-by-line ground truth transcription\n\nThis shows how to improve upon the OCR output, preserve line breaks, and handle abbreviations or typographic features.\n\n**Use these examples to learn how to improve OCR transcriptions — do not copy the example text directly.**"
+                                    "text": "Review the following examples of a historical handwritten page along with the transcriptions. It includes both:\n\n(1) A raw OCR transcription from Transkribus\n(2) The correct, line-by-line ground truth transcription\n\nThis shows how to improve upon the OCR output, preserve line breaks, and handle abbreviations or typographic features.\n\n**Use these examples to learn how to improve OCR transcriptions — do not copy the example text directly.**"
                                 },
                                 {
                                     "type": "image_url",
@@ -1635,7 +1651,7 @@ def _(
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{example1_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{example1_text}"
+                                    "text": f"(1) TRANSKRIBUS OCR OUTPUT =---\n{example1_transkribus_text}\n\n(2) CORRECT TRANSCRIPTION\n{example1_text}\n---\n"
                                 }
                             ]
                         },
@@ -1652,7 +1668,7 @@ def _(
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{example2_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{example2_text}"
+                                    "text": f"(1) TRANSKRIBUS OCR OUTPUT\n{example2_transkribus_text}\n---\n(2) CORRECT TRANSCRIPTION ====\n{example2_text}"
                                 }
                             ]
                         },
@@ -1669,7 +1685,7 @@ def _(
                                 },
                                 {
                                 "type": "text",
-                                    "text": f"The following is the output of a traditional OCR model from Transkribus. It is fine-tuned on historic handwritten texts. It can help you transcribe the following page, but may also contain errors:\n\n{transkribus_text}"}
+                                    "text": f"The following is the output of a traditional OCR model from Transkribus for this page. It is fine-tuned on historic handwritten texts. It can help you transcribe the following page, but may also contain errors:\n\n{transkribus_text}"}
 
                             ]
                         }
@@ -1739,7 +1755,7 @@ def _(create_cross_method_comparison, mo, os, pd, transkribus_df):
 
     def load_results_from_temp(eval_type):
         """Load results for a specific evaluation type from temp folder"""
-        comparison_path = f"temp/{eval_type}_comparison.json"
+        comparison_path = f"bentham_temp/{eval_type}_comparison.json"
         if not os.path.exists(comparison_path):
             return None
 
@@ -1753,7 +1769,7 @@ def _(create_cross_method_comparison, mo, os, pd, transkribus_df):
             if provider == "transkribus":
                 continue
 
-            provider_results_path = f"temp/{eval_type}/{provider}/{provider}_all_results.csv"
+            provider_results_path = f"bentham_temp/{eval_type}/{provider}/{provider}_all_results.csv"
             if os.path.exists(provider_results_path):
                 provider_results[provider] = pd.read_csv(provider_results_path)
 

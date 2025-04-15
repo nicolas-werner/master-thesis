@@ -1,22 +1,24 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,2.,Of Matrimonial Desertion.,12.0,3.0,3.0,071108002,mistral
-2,Of Matrimonial Desertion.,It will be necessary to define what shall be deemed,1.76,3.3333333333333335,3.3333333333333335,071108002,mistral
-3,It will be necessary to define what shall be deemed,"Desertion, distinguishing it from the case of lawful Absence;",0.9411764705882353,1.0,1.0,071108002,mistral
-4,"Desertion, distinguishing it from the case of lawful Absence;",and what steps shall be taken for giving Notice.,0.7704918032786885,1.0,1.0,071108002,mistral
-5,and what steps shall be taken for giving notice.,Let certain methods be established whereby the Husband,0.875,0.8888888888888888,0.8888888888888888,071108002,mistral
-6,Let certain methods be established whereby the Husband,and the Wife may be enabled and obliged to correspond with,0.8148148148148148,1.25,1.125,071108002,mistral
-7,and the Wife may be enabled and obliged to correspond with,one another at stated intervals: and let a failure on either part,0.7931034482758621,1.0909090909090908,1.0,071108002,mistral
-8,one another at stated intervals: and let a failure on either part,for a certain time be deemed presumptive evidence of death or,0.7384615384615385,1.0,0.9166666666666666,071108002,mistral
-9,for a certain time be deemed presumptive evidence of death or,desertion. Within the dominions of the state they might be manag-,0.8524590163934426,1.0,0.8181818181818182,071108002,mistral
-10,desertion. Within the dominions of the state they  might be manag=,-ed in the manner mentioned in the Book of Procedure Tit.,0.7121212121212122,0.9090909090909091,0.7272727272727273,071108002,mistral
-11,=ed in the manner mentioned in the Book of Procedure. Tit.,"As to Foreigners, upon their coming into the country",0.7931034482758621,1.0,0.9090909090909091,071108002,mistral
-12,"As to foreigners, upon their coming into the country",let them be obliged to declare upon oath whether they are married,0.9230769230769231,1.1111111111111112,1.1111111111111112,071108002,mistral
-13,let them be obliged to declare upon oath whether they are married,"or single: and if single whether Bachelors or Spinsters, Widowers",0.8615384615384616,1.0,0.9166666666666666,071108002,mistral
-14,"or single; and if single whether Bachelors or Spinsters, Widowers","or Widows. Of these declarations let Registers be kept, of which",0.7692307692307693,1.0,1.0,071108002,mistral
-15,"or Widows. Of these declarations let Registers be kept, of which,","previous to their being married, copies should be required to be",0.7076923076923077,0.9090909090909091,0.9090909090909091,071108002,mistral
-16,"previous to their being married, copies should be required to be","produced. If married, certificates of the death of the Wife or",0.75,1.0,0.9090909090909091,071108002,mistral
-17,"produced. If married, certificates of the death of the Wife or",Husband. At present these important enquiries are left to the,0.8064516129032258,1.0,0.9090909090909091,071108002,mistral
-18,Husband. At present these important enquiries are left to the,uncertain prudence of individuals. The declarations above men-,0.8360655737704918,1.0,1.0,071108002,mistral
-19,uncertain prudence of individuals. The declarations above men=,-tioned should be accompanied with some details respecting their,0.8387096774193549,1.125,1.125,071108002,mistral
-20,:tioned should be accompanied with some details respecting their,"birth, parentage and last abode, such as may lead to detection",0.78125,1.2222222222222223,1.2222222222222223,071108002,mistral
-21,in,in,0.0,0.0,0.0,071108002,mistral
+1,2.,Here is the correct transcription of the provided manuscript page:,33.0,10.0,10.0,071108002,mistral
+2,Of Matrimonial Desertion.,,1.0,1.0,1.0,071108002,mistral
+3,It will be necessary to define what shall be deemed,Of Matrimonial Desertion.,0.8627450980392157,1.0,1.0,071108002,mistral
+4,"Desertion, distinguishing it from the case of lawful Absence;",It will be necessary to define what shall be deemed,0.7868852459016393,1.1111111111111112,1.1111111111111112,071108002,mistral
+5,and what steps shall be taken for giving notice.,"Desertion, distinguishing it from the case of lawful Absence;",0.9791666666666666,1.0,1.0,071108002,mistral
+6,Let certain methods be established whereby the Husband,and what steps shall be taken for giving notice.,0.7777777777777778,1.0,1.0,071108002,mistral
+7,and the Wife may be enabled and obliged to correspond with,Let certain methods be established whereby the Husband,0.7586206896551724,0.9090909090909091,0.8181818181818182,071108002,mistral
+8,one another at stated intervals: and let a failure on either part,and the Wife may be enabled and obliged to correspond with,0.7076923076923077,1.0,0.9166666666666666,071108002,mistral
+9,for a certain time be deemed presumptive evidence of death or,one another at stated intervals: and let a failure on either part,0.7868852459016393,1.0909090909090908,1.0,071108002,mistral
+10,desertion. Within the dominions of the state they  might be manag=,for a certain time be deemed presumptive evidence of death or,0.803030303030303,1.0,0.8181818181818182,071108002,mistral
+11,=ed in the manner mentioned in the Book of Procedure. Tit.,desertion. Within the dominions of the state they might be manag=,0.8275862068965517,0.9090909090909091,0.7272727272727273,071108002,mistral
+12,"As to foreigners, upon their coming into the country",ed in the manner mentioned in the Book of Procedure. Tit.,0.8653846153846154,1.2222222222222223,1.1111111111111112,071108002,mistral
+13,let them be obliged to declare upon oath whether they are married,"As to Foreigners, upon their coming into the country",0.7384615384615385,0.8333333333333334,0.8333333333333334,071108002,mistral
+14,"or single; and if single whether Bachelors or Spinsters, Widowers",let them be obliged to declare upon oath whether they are married,0.8615384615384616,1.2,1.1,071108002,mistral
+15,"or Widows. Of these declarations let Registers be kept, of which,","or single; and if single whether Bachelors or Spinsters, Widowers",0.7846153846153846,0.9090909090909091,0.9090909090909091,071108002,mistral
+16,"previous to their being married, copies should be required to be","or Widows. Of these declarations let Registers be kept, of which",0.703125,0.9090909090909091,0.9090909090909091,071108002,mistral
+17,"produced. If married, certificates of the death of the Wife or","previous to their being married, copies should be required to be",0.7741935483870968,1.0,0.9090909090909091,071108002,mistral
+18,Husband. At present these important enquiries are left to the,"produced. If married, certificates of the death of the Wife or",0.819672131147541,1.1,1.0,071108002,mistral
+19,uncertain prudence of individuals. The declarations above men=,Husband. At present these important enquiries are left to the,0.8225806451612904,1.25,1.25,071108002,mistral
+20,:tioned should be accompanied with some details respecting their,uncertain prudence of individuals. The declarations above men-,0.8125,1.0,1.0,071108002,mistral
+21,in,tioned should be accompanied with some details respecting their,30.5,9.0,9.0,071108002,mistral
+22,"birth, parentage and last abode; such as may lead to detection","birth, parentage and last abode, such as may lead to detection",0.016129032258064516,0.09090909090909091,0.09090909090909091,071108002,mistral
+23,this,in,0.75,1.0,1.0,071108002,mistral

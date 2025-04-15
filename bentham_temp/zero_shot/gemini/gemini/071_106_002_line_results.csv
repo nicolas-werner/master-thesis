@@ -1,24 +1,23 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,6.,6.,0.0,0.0,0.0,071_106_002,gemini
-2,Of Polygamy.,C,1.0,1.0,1.0,071_106_002,gemini
-3,under the auspices of the Laws. She is to be regarded therefore,of Polygamy.,0.9047619047619048,0.9166666666666666,0.9166666666666666,071_106_002,gemini
-4,on the footing of a Widow. In point of reason she ought not to,under the auspices of the Laws. She is to be regarded therefore,0.7419354838709677,0.8571428571428571,0.7857142857142857,071_106_002,gemini
-5,be regarded in a light in the least degree less favourable.,on the footing of a Widow. In point of reason. she ought not to,0.847457627118644,1.1818181818181819,1.0909090909090908,071_106_002,gemini
-6,But popular prejudice is seldom perfectly equitable to,be regarded in a light in the least degree less favourable:,0.8333333333333334,1.375,1.375,071_106_002,gemini
-7,misfortune.,But popular prejudice is seldom perfectly equitable to,4.2727272727272725,8.0,8.0,071_106_002,gemini
-8,Next with regard to Sharping. It is not always that,misfortune.,0.9019607843137255,1.0,1.0,071_106_002,gemini
-9,a Woman thus imposed upon suffers in her fortune. Perhaps,Next with regard to Sharping. It is not always that,0.8070175438596491,1.0,1.0,071_106_002,gemini
-10,she had none: the only bait that tempted the Offender was her,a Woman thus imposed upon suffers in her fortune. Perhaps,0.8032786885245902,1.0,0.9166666666666666,071_106_002,gemini
-11,"person. It is only in case of her having had a fortune, and",she had none: the only bait that tempted the Offender was her,0.8305084745762712,1.0,0.7692307692307693,071_106_002,gemini
-12,"that fortune's having been dissipated by the Offender, that she","person. It is only in case of her having had a fortune, and",0.8412698412698413,1.3,1.2,071_106_002,gemini
-13,"is a sufferer in this way. In the account of dissipation, so","that fortune's having been dissipated by the Offender, that she",0.85,0.9166666666666666,0.9166666666666666,071_106_002,gemini
-14,much as it is supposed she would have expended had she,"is a sufferer in this way. In the account of dissipation, so",0.8703703703703703,1.0909090909090908,1.0,071_106_002,gemini
-15,"remained single, must be deducted.",much as it is supposed she would have expended had she,1.2058823529411764,2.2,2.2,071_106_002,gemini
-16,Quest. 1. Why criminal consciousness on the part of the second,"remained single, must be deducted.",0.7903225806451613,1.0,1.0,071_106_002,gemini
-17,Wife is made an Excuse in favour of the Man.,Quest. 1. Why criminal consciousness on the part of the second,0.9318181818181818,0.9,0.9,071_106_002,gemini
-18,Reasons.,Wife is made an Excuse in favour of the Man,4.875,10.0,10.0,071_106_002,gemini
-19,"The great mischief lies in the deceit put upon the Woman,",Reasons.,0.9122807017543859,1.0,1.0,071_106_002,gemini
-20,and the disappointment which is apt to be the consequence. But,"The great mischief lies in the deceit put upon the Woman,",0.7741935483870968,1.0,0.8181818181818182,071_106_002,gemini
-21,in this case there is no deceit nor disappointment. It is a joint,and the disappointment which is apt to be the consequence. But,0.8,0.9230769230769231,0.9230769230769231,071_106_002,gemini
-22,contrivance,in this case there is no deceit nor disappointment. It is a joint,5.181818181818182,13.0,13.0,071_106_002,gemini
-23,C,contrivance,11.0,1.0,1.0,071_106_002,gemini
+1,6.,C,1.0,1.0,1.0,071_106_002,gemini
+2,Of Polygamy.,of Polygamy.,0.08333333333333333,0.5,0.5,071_106_002,gemini
+3,under the auspices of the Laws. She is to be regarded therefore,under the auspices of the Laws. She is to be regarded therefore,0.0,0.0,0.0,071_106_002,gemini
+4,on the footing of a Widow. In point of reason she ought not to,on the footing of a Widow. In point of reason. she ought not to,0.016129032258064516,0.07142857142857142,0.07142857142857142,071_106_002,gemini
+5,be regarded in a light in the least degree less favourable.,bw regarded in a light in the least degree less favourable:,0.03389830508474576,0.18181818181818182,0.18181818181818182,071_106_002,gemini
+6,But popular prejudice is seldom perfectly equitable to,But popular prejudice is seldom perfectly equitable to,0.0,0.0,0.0,071_106_002,gemini
+7,misfortune.,misfortune.,0.0,0.0,0.0,071_106_002,gemini
+8,Next with regard to Sharping. It is not always that,Next with regard to Sharping. It is not always that,0.0,0.0,0.0,071_106_002,gemini
+9,a Woman thus imposed upon suffers in her fortune. Perhaps,a Woman thus imposed upon suffers in her fortune. Perhaps,0.0,0.0,0.0,071_106_002,gemini
+10,she had none: the only bait that tempted the Offender was her,she had none: the only bait that tempted the Offender was her,0.0,0.0,0.0,071_106_002,gemini
+11,"person. It is only in case of her having had a fortune, and","person. It is only in case of her having had a fortune, and",0.0,0.0,0.0,071_106_002,gemini
+12,"that fortune's having been dissipated by the Offender, that she","that fortune's having been dissipated by the Offender, that she",0.0,0.0,0.0,071_106_002,gemini
+13,"is a sufferer in this way. In the account of dissipation, so","is a sufferer in this way. In the account of dissipation, so",0.0,0.0,0.0,071_106_002,gemini
+14,much as it is supposed she would have expended had she,much as it is supposed she would have expended had she,0.0,0.0,0.0,071_106_002,gemini
+15,"remained single, must be deducted.","remained single, must be deducted.",0.0,0.0,0.0,071_106_002,gemini
+16,Quest. 1. Why criminal consciousness on the part of the second,Quest. 1. Why criminal consciousness on the part of the second,0.0,0.0,0.0,071_106_002,gemini
+17,Wife is made an Excuse in favour of the Man.,Wife is made an Excuse in favour of the Man,0.022727272727272728,0.1,0.1,071_106_002,gemini
+18,Reasons.,Reasons.,0.0,0.0,0.0,071_106_002,gemini
+19,"The great mischief lies in the deceit put upon the Woman,","The great mischief lies in the deceit put upon the Woman,",0.0,0.0,0.0,071_106_002,gemini
+20,and the disappointment which is apt to be the consequence. But,and the disappointment which is apt to be the consequence. But,0.0,0.0,0.0,071_106_002,gemini
+21,in this case there is no deceit nor disappointment. It is a joint,in this case there is no deceit nor disappointment. It is a joint,0.0,0.0,0.0,071_106_002,gemini
+22,contrivance,contrivance,0.0,0.0,0.0,071_106_002,gemini

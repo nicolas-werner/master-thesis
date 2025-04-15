@@ -2,7 +2,7 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 1,C,23.,3.0,1.0,1.0,071133003,gemini
 2,23.,C.,0.6666666666666666,1.0,1.0,071133003,gemini
 3,Of Semi-public Offences in General.,Of Semi-public Offences in General.,0.0,0.0,0.0,071133003,gemini
-4,persons or destroys the property of particular individuals among the,persons or destroys the property of particular individuals among the,0.0,0.0,0.0,071133003,gemini
+4,persons or destroys the property of particular individuals among the,persons or destroys the property of particular individuals among the),0.014705882352941176,0.1,0.1,071133003,gemini
 5,Jews he may be not only punished criminally for the calumny,Jews he may be not only punished crimenally for the calumny,0.01694915254237288,0.09090909090909091,0.09090909090909091,071133003,gemini
 6,"thrown on the Sect, but made civilly responsible for the particular","thrown on the Sect, but made civilly responsible for the particular",0.0,0.0,0.0,071133003,gemini
 7,mischief done to the individual Jews whose persons or property,"mischief done to the individual Jews whose persons or property,",0.016129032258064516,0.1,0.1,071133003,gemini

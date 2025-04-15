@@ -1,34 +1,34 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,über vnd on das in yeglichen oren die mit dryen loͤchern,über vnd on das in yeglichen oren die mit dryen löchern,0.03571428571428571,0.09090909090909091,0.09090909090909091,7474191,openai
-2,durch stochen synd sy noch ander steyn tragen die in rin,durch stochen synd sy noch ander steyn tragen die in rin,0.0,0.0,0.0,7474191,openai
-3,"gen hangen vn diß wise vnd sytten ist allein der mannen,",gen hangen vn diss wise vnd sytten ist allein der mannig,0.08928571428571429,0.18181818181818182,0.18181818181818182,7474191,openai
-4,Sen die frowen zerstechen innen selbs ir antlitz nit also,Den die frowen zerstechen innen selbs ir antlitz nit also,0.017543859649122806,0.1,0.1,7474191,openai
-5,mit löcherung den alleyn die oren / Eyn ander syt vnd,mü lôcherung deñ alleyn die oren/ Lyn ander sẏr vnd,0.1509433962264151,0.6363636363636364,0.6363636363636364,7474191,openai
-6,wyse ist ouch vnder vnd by ienen gnuͤg abwysig vn̄ wi¬,wysse ist ouch vnder vnd by ienen gnüg abwysig vn wi,0.09259259259259259,0.36363636363636365,0.36363636363636365,7474191,openai
-7,"der alle menschliche glaubung, Das ir frowen die eben",der alle menschliche glaubung/Das ir frowen die eben,0.03773584905660377,0.2222222222222222,0.2222222222222222,7474191,openai
-8,gelustig vnd geilgirig synd / vnd ieren mannen machen,gelustig vnd geilgirig synd/vnd ieren mannen machen,0.03773584905660377,0.3333333333333333,0.3333333333333333,7474191,openai
-9,das ienen ir Büch geschwellen in sollicher über mestung,das ienen ir büch geschwellen in sollicher über mestung,0.01818181818181818,0.1111111111111111,0.1111111111111111,7474191,openai
-10,das sy vngestalt vn smechlich ersthynen vnd ꝺz tuͤnd sy,das sẏ vn̄gestalt vn̄ smœchlich erſchynen vn̄ dz ſind sẏ,0.21818181818181817,0.9,0.9,7474191,openai
-11,mit ettwas funden vn gnagung ettlicher gifftigen thiere /,nur etrwas füͤnde vn̄ gnagung ertlicher gifftigen thier/,0.19298245614035087,0.7777777777777778,0.7777777777777778,7474191,openai
-12,Vnd von solicher sach geschicht das ierer vil ir gemecht,Und von solcher sach geschicht das ierer vil ur gemecht,0.05357142857142857,0.3,0.3,7474191,openai
-13,verlieren die ienen von mangels wegen der artznye fulen,verkieren die ienen von mangels wegen der artznye sulę,0.07272727272727272,0.2222222222222222,0.2222222222222222,7474191,openai
-14,vnd Bliben on gemech/ Si haben keyn tuͤch noch teckinem,vnd kiben on gemech/ Si haben keyn tuch noch tectin,0.10909090909090909,0.3,0.3,7474191,openai
-15,"weder lynis noch Baumwollins, Denn sy des nit bedörf",weder hynic noch baumwollins/ Denn sy des nit bedörf,0.07692307692307693,0.2222222222222222,0.2222222222222222,7474191,openai
-16,fen vnd haben keyn eygen guͤt / Sunder alle ding sind in¬,fen vnd haben keyn eygen güt/Sunder alle ding sind ir,0.10526315789473684,0.3333333333333333,0.3333333333333333,7474191,openai
-17,nen gemein. Si leben samenhafft on kiinig on gebieter vn̄,nen gemein/ Si lebē samenhafft on künig on gebieter vñ,0.12280701754385964,0.4,0.4,7474191,openai
-18,"ist ir yeglicher im selbst herr, So vil wißer nemen sy so",ist ir yeqlicher im selbs herr/ So vil wiser nemen sy so,0.07017543859649122,0.3333333333333333,0.3333333333333333,7474191,openai
-19,vil sy woͤllen/ vnd ô sun mit der muͤter vn̄ der bruͤder mit,vil sy wöllen/vnd dȝ sun mit der māter vn̄ der brüder mit,0.15,0.38461538461538464,0.38461538461538464,7474191,openai
-20,der schwester vnd der erst mit der ersten vnd degeg¬,der schwester vnd der erst mu der ersten vnd der begeg,0.1346153846153846,0.3,0.3,7474191,openai
-21,ner mit der begegneten veruneynigen sich/ Als dick als,ner mit der begegnenen veruncynigen sich/Als die das,0.12962962962962962,0.6666666666666666,0.6666666666666666,7474191,openai
-22,sy woͤllen scheiden sy die vermehletig ee/ vnd halten in so,sy wöllen scheiden sy die vermehletig ee/vnd halten in so,0.05084745762711865,0.2727272727272727,0.2727272727272727,7474191,openai
-23,lichem gantz keyn ordnung / Darumb haben sy keynen te,lichem gantz teyn ordnung/ Darumb habē sy teynen te,0.09433962264150944,0.5,0.5,7474191,openai
-24,pel vnd halten keyn gesatzt vnd sind nit abgetere / Was,pel vnd halten teyn gesatz vnd sind nit abgetere/ Was,0.05454545454545454,0.36363636363636365,0.36363636363636365,7474191,openai
-25,sol ich me sagen Sy leben nach der natur das sy wol epi¬,sol ich me sage Sy leben nach der nature das sy wol ew̄,0.08928571428571429,0.23076923076923078,0.23076923076923078,7474191,openai
-26,curi/ Buchfuller genant werden moͤgen den̄ senici/ By in —,cure/ Buchfüller genat werden mögen den senici/ By ine,0.13793103448275862,0.7,0.7,7474191,openai
-27,"sind keyn konfflit noch kouffguͤt, Die scharen des volcks",sind keyn koufftir noch kouffſitige/ Die schair des volcks,0.22807017543859648,0.3333333333333333,0.3333333333333333,7474191,openai
-28,haben ouch kriege/ vnd on kunst on ordnung/ Ir elteren,haben ouch kriege/vnd on kunst on ordnung/Ir elteren,0.037037037037037035,0.4,0.4,7474191,openai
-29,mit yren reten vnnd gebotten vnder byegen die iungen,mit yren reten vnnd gebotten vnder syegen die iungen,0.019230769230769232,0.1111111111111111,0.1111111111111111,7474191,openai
-30,zuͤ thuͤn was sy wöllen vnd rüsten sie zu strytten in solichen,gů thin was sy wöllen vnd rüsten sie zů strytẽ in solichẽ,0.1774193548387097,0.4166666666666667,0.4166666666666667,7474191,openai
-31,Sy eyng derum gruselich ze tod staen vn welche sye also,Sy eyng dern grus̄elich ze tod slaen vn welche sye also,0.07272727272727272,0.2727272727272727,0.2727272727272727,7474191,openai
-32,im krieg vnd stritt fahen die füren sy hyn mit das sye die,im krieg vnd strit sähen die fürsten sy hyn mit das sy die,0.10344827586206896,0.3076923076923077,0.3076923076923077,7474191,openai
-33,by leben sunder inen selbs behalten das sy da von metzi¬,by leben sunder inen selbs behalten das sy da von meẞ,0.07142857142857142,0.09090909090909091,0.09090909090909091,7474191,openai
+1,über vnd on das in yeglichen oren die mit dryen loͤchern,über vnd on das in yeͤglichen oren die mit dryen löchern,0.05357142857142857,0.18181818181818182,0.18181818181818182,7474191,openai
+2,durch ſtochen ſynd ſy noch ander ſteyn tragen die in rin,durch ſtochen ſynd ſy noch ander ſteyn tragen die in ein,0.017857142857142856,0.09090909090909091,0.09090909090909091,7474191,openai
+3,gen hangen vn̄ diß wiſe vnd ſytten iſt allein der mannē/,gen hangen vn̄ diß wiſe vnd ſyrten iſt allein der mannē,0.03571428571428571,0.18181818181818182,0.18181818181818182,7474191,openai
+4,Den̄ die frowen zerſtechen innen ſelbs ir antlitz nit alſo,Sen die frowen zerſtechen innen ſelbs ir antlitz nit alſo,0.034482758620689655,0.1,0.1,7474191,openai
+5,mit loͤcherung den alleyn die oren/ Eyn ander ſyt vnd,mit löcherung den alleyn die oren/ Eyn ander ſyt vnd,0.03773584905660377,0.1,0.1,7474191,openai
+6,wyße iſt ouch vnder vnd by ienen gnuͦg abwyſig vn̄ wi¬,wyske iſt ouch vn̄der vnd by ienen gnuͤg abwysig vn̄ wiͤ,0.1111111111111111,0.45454545454545453,0.45454545454545453,7474191,openai
+7,der alle menſchliche glaubung/ Das ir frowen die eben,der alle menſchliche glaubung/Das ir frowen die eben,0.018867924528301886,0.2222222222222222,0.2222222222222222,7474191,openai
+8,geluſtig vnd geilgirig ſynd/ vnd ieren mannen machen,geluſtig vnd geilgirig ſynd/vnd ieren mannen machen,0.019230769230769232,0.25,0.25,7474191,openai
+9,das ienen ir büch geſchwellen in ſollicher über meſtung,das ienen ir büch geschwellen in ſollicher über meſſung,0.03636363636363636,0.2222222222222222,0.2222222222222222,7474191,openai
+10,das ſy/ vngeſtalt vn̄ ſmechlich erſthynen vnd dz tuͦnd ſy,das ſy vngeſtalt vnſmechlich erſhynen vnd dz trind ſy,0.10526315789473684,0.5,0.5,7474191,openai
+11,mit ettwas fündē vn̄ gnagung ettlicher gifftigen thierē/,mit etrwas füͤnde vn̄ gnagung etlicher gifftigen thier/,0.08928571428571429,0.5,0.5,7474191,openai
+12,Und von ſolicher ſach geſchicht das ierer vil ir gemecht,Und von solicher ſach geſchicht das ierer vil uͤ gemelch,0.08928571428571429,0.3,0.3,7474191,openai
+13,verlieren die ienen von mangels wegen der artznye fulē,verkeren die tenen von mangels wegen der arzney ſule,0.14814814814814814,0.4444444444444444,0.4444444444444444,7474191,openai
+14,vnd bliben on gemech/ Si haben keyn tuͦch noch teckinē,vnd bliben on gemech/ Si haben teyn tich noch tectine,0.09259259259259259,0.3,0.3,7474191,openai
+15,weder lynis noch baumwollins/ Denn ſy des nit bedoͤrf,weder lynis noch baͤm̄wollins/ Denn ſy des nit bedorff,0.07547169811320754,0.2222222222222222,0.2222222222222222,7474191,openai
+16,fen vnd haben keyn eygen guͦt/ Sunder alle ding ſind in,fen vnd haben keyn eygen gut/ Sunder alle ding ſind in,0.01818181818181818,0.09090909090909091,0.09090909090909091,7474191,openai
+17,nen gemein/ Si lebē ſamenhafft on künig on gebieter vn̄,nen gemein/Si lebe ſamenhafft on tüͤnig on gebieter vn̄,0.07272727272727272,0.4,0.4,7474191,openai
+18,iſt ir yeglicher im ſelbs herr/ So vil wiber nemen ſy ſo,iſt ir yeͤglicher im ſelbs herr / So vil wiſer nemen ſy ſo,0.05357142857142857,0.3333333333333333,0.3333333333333333,7474191,openai
+19,vil ſy woͤllen/ vnd d̓ ſun mit der muͦter vn̄ der bruͦder mit,vil ſy wöllen/vnd ſun mit der müter vñ der brüder mic,0.21311475409836064,0.5384615384615384,0.5384615384615384,7474191,openai
+20,der ſchweſter vnd der erſt mit der erſten vnd der begeg¬,der ſchweſter vnd der erſtnn der erſten vnd der begeg,0.08928571428571429,0.2727272727272727,0.2727272727272727,7474191,openai
+21,ner mit der begegneten veruneynigen ſich/ Als dick als,ner mit der begegneten verruneyniſen ſich/Als dict als,0.07407407407407407,0.4444444444444444,0.4444444444444444,7474191,openai
+22,ſy woͤllen ſcheiden ſy die vermehletig ee/ vnd halten in ſo,ſy wöllen ſcheiden ſy die vermehretig ee/vnd halten in ſo,0.06779661016949153,0.36363636363636365,0.36363636363636365,7474191,openai
+23,lichem gantz keyn ordnung/ Darumb habē ſy keynen tē¬,lichem gantz keyn ordnung/ Darumb habē sy keynen teynen,0.11538461538461539,0.2222222222222222,0.2222222222222222,7474191,openai
+24,pel vnd halten keyn geſatzt vnd ſind nit abgetere/ Was,pel vnd halten teyn geſatz vnd ſind nit abgeſere/,0.12962962962962962,0.4,0.4,7474191,openai
+25,ſol ich me ſagē Sy leben nach der natur das ſy wol epi¬,ſol ich me ſage ſy leben nach der natur das ſy wol eͤ,0.09090909090909091,0.23076923076923078,0.23076923076923078,7474191,openai
+26,curi/ buchfüller genāt werden moͤgen den̄ ſenici/ By inē,cur/ Buchſtaller genaſ werden mögen deſ ſenici/ By inē,0.19642857142857142,0.6666666666666666,0.6666666666666666,7474191,openai
+27,ſind keyn koufflit noch kouffguͦt/ Die ſcharē des volcks,ſind ſeyn ſoufflit noch ſouffſit/ Die ſchare des volckes,0.14285714285714285,0.5555555555555556,0.5555555555555556,7474191,openai
+28,haben ouch kriege/ vnd on kunſt on ordnung/ Ir elteren̄,haben ouch krieg/vnd on kunst on ordnung/Ir elterē,0.12727272727272726,0.6,0.6,7474191,openai
+29,mit yren reten̄ vnnd gebotten vnder byegen die iungen,mit yren reten vnnd geboten vnder ſyegen die iungen,0.05660377358490566,0.3333333333333333,0.3333333333333333,7474191,openai
+30,zuͦ thuͦn was ſy woͤllen vnd rüſten ſie zuͦ ſtryttē in ſolichē,zü thin was sy wöllen vnd rüſſen ſie zu ſtrytte in ſoliche,0.1774193548387097,0.6666666666666666,0.6666666666666666,7474191,openai
+31,Sy eynandern̄ gruſelich ze tod ſlaen vn̄ welche ſye alſo,Sy eyn̄ dern gruſelich ze tod ſlaen vn welche ſye alſo,0.07142857142857142,0.3,0.3,7474191,openai
+32,im krieg vnd ſtritt fahen die fuͦren ſy hyn mit das ſye die,im kriec vnd strit ſachen die ſüren ſy hynt mit das ſye die,0.15254237288135594,0.38461538461538464,0.38461538461538464,7474191,openai
+33,by leben ſunder inen ſelbs behalten das ſy da von metzi¬,by leben ſunder inen ſelbs behalten das ſy da von mezigen,0.07142857142857142,0.09090909090909091,0.09090909090909091,7474191,openai

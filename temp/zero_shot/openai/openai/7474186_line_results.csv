@@ -1,2 +1,33 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,It glucklicher fart Am vier,It glucklicher fart An vier\nzehenden tag des monats Mayen/ Zu\ntausent fünfhundert yn Jars/scheden wir\nvon Hispano nach gebort des obgenan\nnten kunigs mit dreyen schiffen zu erſiche\nnen land gegen Aufser/und zwentzig\nMonet on underlaſs furen wir gegen mittag der selben\nschiffung/und fart onnd wüst alſo/ Die schif\nfart ist geschehen durch die fontanent Insallen/ vor ziten\nalso genant/ Aber in dysen werden sy genant die insulen\nder canarie/ der grossen Canaria/ die da sind in dem\nclima der (t)erſchlaſſig der welte und an am\nwesten gegen abend/ das groſste land der sonne/ nyder\ngang/ das da ist das land der Mozen/ lands durchſeint\nbis zu den hochbergen der Mozen/ so also von Ptolomeo\ngeſchreben wird/ Das ist disen seiten von den senit dis quiri\nhour genempt wird/ vil von den Moze beſeſſet/ und\nvil selbe lantſchaft Mandinquia vierzehe gradus immer\nder krummen schum genant Lorida zona/ von der lynie\nequinoctiali gegen Mitternacht die von schwartzen lin\nien und völckern bewohnt wird/ da selbe nach raſſung und\nwiderklaſung syer trafft und notwüſtiger dingen zu\nunser schiffung/biden wir die sicher/ yn setante die\nſelbige und und in unser weg durch das allemoſt beſeſſe\ngrosse Oceanum/ und die gegen dem moſe beſeſſe\ngegen den Anacuries/ ein wenig gegen der Sonne nyder\ngang wandten wir durch den nynd genant ultimum\nvon den Mozen zu abſcheiden do gemelten ko\nnig land/ von einer ſchone yn erig tag schryften wir die so\nlichen land on erſichte sieben ward/ Blas wir in der so\nlicher wilde des Mers/ ſchlitten haben/ und was ſogtlich\nAu,57.2962962962963,45.2,45.2,7474186,openai
+1,It glucklicher fart Am vier,It glucklicher fart An vier,0.037037037037037035,0.2,0.2,7474186,openai
+2,zehenden tag des monats Mayen/ Tu¬,zehenden tag des monats Mayen/ Zu,0.058823529411764705,0.16666666666666666,0.16666666666666666,7474186,openai
+3,ſent fünffhūdert eyn Iars/ ſchieden wir,tausent fünfhundert ein Jars/scheiden wir,0.3333333333333333,0.8333333333333334,0.8333333333333334,7474186,openai
+4,von Oliſpppo nach gebott des obgenan¬,von Philipppo nach gebort des obgenan=,0.16216216216216217,0.5,0.5,7474186,openai
+5,ten künigs mit dryen ſchiffen zuͦ erſuͦchē,nten königs mit dreyen schiffen zu erſchick=,0.23809523809523808,0.8571428571428571,0.8571428571428571,7474186,openai
+6,nuwe land gegen Auſter/ vnd tzweintzig,lichem land gegen Aufser/und zwentzig,0.2894736842105263,0.6666666666666666,0.6666666666666666,7474186,openai
+7,Monet on vnderlaß fuͦren wir gegen mittag der ſelben,Monet on underlaß immer vegen mittag der selben,0.21153846153846154,0.5555555555555556,0.5555555555555556,7474186,openai
+8,ſchiffung. vnd fart ordnung vnd wiſe iſt alſo/ Diſe ſchif,schiffung/und fart ordnung und weiß alſo/ Die schif=,0.22807017543859648,0.7,0.7,7474186,openai
+9,fung iſt geweſen durch die fortunaten Inſalen/ vor ziten,fart ist geschehen durch die fortunaten Inſulen/ vor ziten,0.16071428571428573,0.4444444444444444,0.4444444444444444,7474186,openai
+10,alſo genant/ Aber zuͦ dyſen werden ſy genant die inſulen,also genant/ Aber bi dysen werden sy genant die inſulen,0.10714285714285714,0.4,0.4,7474186,openai
+11,magne canarie/ der groſſen Canarie/ die da ſindt im drit,der canarie/ der großen Canaria/ die da sind in dem,0.25,0.6,0.6,7474186,openai
+12,ten Clima der ſibenfaltigē vßteilung der welt vnd am an,clima der (beſchreibung der) welt und an am,0.43636363636363634,0.8,0.6,7474186,openai
+13,ſtoß vnd gegē der wonhafftigē landen der ſonnē nyder¬,zirkell der großen garstag landes der ſonne zwey,0.5471698113207547,0.8888888888888888,0.7777777777777778,7474186,openai
+14,gangs/ Dannen durch das groß mer Occeanū dē gātzē,und dreyßig gradus/ und der Ozen land durchſchneit,0.8367346938775511,1.0,1.0,7474186,openai
+15,ſtaden affricum vn̄ eyn teil der Moͤren lands durchren̄t,biß zu den hochbergen der Mauren so also von Ptolomeo,0.8035714285714286,1.1111111111111112,1.0,7474186,openai
+16,biß zuͦ den hochbergen der Moren ſo alſo von Ptolomeo,genpet wird/ Das ist jiben seite von den den senit des qui=,0.9056603773584906,1.2,1.0,7474186,openai
+17,genēpt wirt/ Das zuͦ dißen zeitē von den vnſern dz grün̄,hour genempt wir/ vil von den Moer beſeztig/ und,0.6785714285714286,0.8181818181818182,0.8181818181818182,7474186,openai
+18,houpt genempt wirt/ vn̄ von den Morē beſeglitte/ vnd,vil selbe lantſchaft Mandinquia vierzehe gradus immer,0.9038461538461539,1.0,1.0,7474186,openai
+19,die ſelbe lantſchafft Mandinglia vierzehē gradus innert,der krummen schwir gant Lorida zona/ von der linie,0.7454545454545455,1.2857142857142858,1.2857142857142858,7474186,openai
+20,der krummen ſchnuͦr genāt Torrida zona/ von der lyniē,equinoctiali gegen Mitternacht die von schwartzen lin=,0.8301886792452831,0.8888888888888888,0.8888888888888888,7474186,openai
+21,equinoctiali gegen Mitternacht die von ſchwartzen lü¬,ien und völckern bewohnt wir/ da selbe nach raſſung wir,0.8490566037735849,1.4285714285714286,1.4285714285714286,7474186,openai
+22,ten vnd voͤlckern bewōt wirt/ da ſelbs nach raſtung vn̄,widerlasung wider trifft und notwüftiger ding der,0.8363636363636363,1.0,1.0,7474186,openai
+23,widerlabung vnſer krafft vnnd nottürfftiger dingen zuͦ,unser schiffung/biden wir die sicher bi in setante die,0.8333333333333334,1.2857142857142858,1.2857142857142858,7474186,openai
+24,vnſer ſchiffung/ huͦben wir die encker vff vn̄ zertan̄tē die,ſelbe und und in unser weg durch das allemoſt beſte,0.7666666666666667,1.0,1.0,7474186,openai
+25,ſegel in winde vnd in vnſern weg durch das allerwildeſt,ſchiffe und Accaimma wir gegen dem moer beſeſezt,0.7090909090909091,1.0,1.0,7474186,openai
+26,groß mere Occeanum/ vnd fuͦrē gegen dem wider sibēge,gegen gen Anacuries/ ein wenig gegen der ſonne nyder=,0.6730769230769231,0.8888888888888888,0.8888888888888888,7474186,openai
+27,ſtirn gen Ancarticies/ ein wenig gegē der Sonnē nyder,gang wandten wir durch den nynd genant unſer,0.7169811320754716,1.0,1.0,7474186,openai
+28,gang wandten wir durch den wynd genant vulturnus,moer von an abſcheiden wo genemlich zu gemelten ko=,0.8125,1.125,1.125,7474186,openai
+29,vnd von dem tag als wir abſchieden von dē gemelten ho,ning land/ von einer ort in erig tag schryfter wie er so da,0.8490566037735849,1.0909090909090908,1.0,7474186,openai
+30,chgebürg zwen Monet vn̄ drig tag ſchyfften wir ee das,ſchryfter und erſtlich sieben ward/ Blasé wir der so,0.7924528301886793,0.9,0.9,7474186,openai
+31,vnß land oder ertrich ze ſehen ward/ Was wir aber in ſo,licher wilde des Mers/ſchlitten haben/und was fogtlich,0.7636363636363637,1.0,1.0,7474186,openai
+32,licher willde des Mers/ gelitten haben/ vnd was ſorgkli¬,Au,1.0,1.0,1.0,7474186,openai

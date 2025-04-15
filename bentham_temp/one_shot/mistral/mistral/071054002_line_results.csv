@@ -1,8 +1,8 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 1,46,C,1.0,1.0,1.0,071054002,mistral
 2,Theft Embezzlement and Fraudulent obtainment,,1.0,1.0,1.0,071054002,mistral
-3,there is no difference in the punishment. It will easily,Shaftesburyment and Fraudulent abstainment,0.7857142857142857,1.0,1.0,071054002,mistral
+3,there is no difference in the punishment. It will easily,Sheft Embezzlement & Fraudulent Obtainment,0.7321428571428571,1.0,1.0,071054002,mistral
 4,therefore be censured that they will be apt to,,1.0,1.0,1.0,071054002,mistral
-5,that difficulty in proportion as the punishment is,There is no difference in the punishment voluntarily,0.72,0.75,0.5,071054002,mistral
-6,more severe,therefore to constitute what they will be apt to,3.6363636363636362,4.5,4.5,071054002,mistral
-7,C,call difficulty in proportion as the punishment is,50.0,8.0,8.0,071054002,mistral
+5,that difficulty in proportion as the punishment is,"""There is no difference in the punishment. It will easily",0.8,1.125,0.875,071054002,mistral
+6,more severe,therefore be censured that they will be apt to,3.4545454545454546,4.5,4.5,071054002,mistral
+7,C,that difficulty in proportion as the punishment is,50.0,8.0,8.0,071054002,mistral

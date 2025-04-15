@@ -1,28 +1,28 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,founder's Law. 8. The Chymists Law &c. &c.,Of,1.0,1.0,1.0,071002003,mistral
-2,6. From Storms. See the Seafaring-man's Law Sect. Con-,Justifications.,0.8703703703703703,1.0,1.0,071002003,mistral
-3,:cerning Storms.,,1.0,1.0,1.0,071002003,mistral
-4,7. From the Plague and other infectious diseases. See Laws,founded Law. 8. The Chymical Law &c. &c.,0.7758620689655172,1.0,1.0,071002003,mistral
-5,concerning the Plague &c.,,1.0,1.0,1.0,071002003,mistral
-6,8. From Persons insane: See Laws concerning persons,6. From Storms. See the Maritime Law: title Con=,0.7058823529411765,1.0,0.875,071002003,mistral
-7,Maniac's Law,cerning Storms.,1.0833333333333333,1.0,1.0,071002003,mistral
-8,insane or 1. The Madman's Law: 2. The Ideot's Law. 2. The,,1.0,1.0,1.0,071002003,mistral
-9,Instructions to the Legislator.,7. From the Plague and other infectious diseases. See Laws,1.4516129032258065,2.25,2.25,071002003,mistral
-10,It is not clear that in every one of the several titles of,concerning the Plague &c.,0.7758620689655172,0.9230769230769231,0.9230769230769231,071002003,mistral
-11,Law above mentioned there will need a provision or set of,,1.0,1.0,1.0,071002003,mistral
-12,"provisions, authorising one person to trespass upon the per-",8. From Persons insane: See Laws concerning persons,0.7666666666666667,1.0,1.0,071002003,mistral
-13,:son of another. To determine that question with respect to,insane or idiotic. 1. The Madman's Law. 2. The Idiot's Law. 3. The,0.8305084745762712,1.3,1.3,071002003,mistral
-14,any of them would be to enter upon a branch of Law fo:,Maniac's Law,0.8703703703703703,0.9230769230769231,0.9230769230769231,071002003,mistral
-15,:reign to that in hand. Nor with respect to every one of,,1.0,1.0,1.0,071002003,mistral
-16,"these titles could such provisions be exhibited in terminis,",Instructions to the Legislator.,0.7666666666666667,1.0,1.0,071002003,mistral
-17,in any book of universal Law: since they will need to be,,1.0,1.0,1.0,071002003,mistral
-18,different according to the various local circumstances of dif:,It is not clear that in every one of the several titles of,0.7903225806451613,1.3333333333333333,1.2222222222222223,071002003,mistral
-19,:ferent states and provinces. The above references are exhi:,Law above mentioned there will need a provision or set of,0.85,1.2222222222222223,1.1111111111111112,071002003,mistral
-20,":bited only in the way of example, to give a general idea)","provisions, authorising one person to fasten upon the per=",0.7758620689655172,0.9166666666666666,0.8333333333333334,071002003,mistral
-21,of the mode of reference to be adopted on an occa:,son of another. To determine that question with respect to,0.84,1.0,0.8181818181818182,071002003,mistral
-22,":sion, like the present.",any of them would be to enter upon a branch of Law fo=,1.8333333333333333,3.25,3.25,071002003,mistral
-23,of,reign to that in hand. Nor with respect to every one of,26.5,11.0,11.0,071002003,mistral
-24,"In like manner, neither is it clear that the names",these titles could such provisions be exhibited in terminis,0.94,1.0,1.0,071002003,mistral
-25,Of Justifications.,in any book of universal Law: since they will need to be,2.6666666666666665,6.0,6.0,071002003,mistral
-26,C,different according to the various local circumstances of dif=,62.0,9.0,9.0,071002003,mistral
-27,7.,ferent states and provinces. The above references are exhi=,29.0,9.0,9.0,071002003,mistral
+1,founder's Law. 8. The Chymists Law &c. &c.,C.,0.9523809523809523,1.0,1.0,071002003,mistral
+2,6. From Storms. See the Seafaring-man's Law Sect. Con-,,1.0,1.0,1.0,071002003,mistral
+3,:cerning Storms.,Of Justifications.,0.875,1.0,1.0,071002003,mistral
+4,7. From the Plague and other infectious diseases. See Laws,,1.0,1.0,1.0,071002003,mistral
+5,concerning the Plague &c.,Founder's Law. & The Chymists' Law &c. &c.,1.16,1.75,1.75,071002003,mistral
+6,8. From Persons insane: See Laws concerning persons,,1.0,1.0,1.0,071002003,mistral
+7,Maniac's Law,6. From Storms. See the Seafaring-man's Law Sect. con-,3.75,4.0,4.0,071002003,mistral
+8,insane or 1. The Madman's Law: 2. The Ideot's Law. 2. The,-cerning Storms.,0.8771929824561403,1.0,1.0,071002003,mistral
+9,Instructions to the Legislator.,,1.0,1.0,1.0,071002003,mistral
+10,It is not clear that in every one of the several titles of,7. From the Plague and other infectious diseases. See Laws,0.7931034482758621,1.0,0.9230769230769231,071002003,mistral
+11,Law above mentioned there will need a provision or set of,concerning the Plague &c.,0.7894736842105263,1.0,1.0,071002003,mistral
+12,"provisions, authorising one person to trespass upon the per-",,1.0,1.0,1.0,071002003,mistral
+13,:son of another. To determine that question with respect to,8. From Persons insane: See Laws concerning persons,0.7796610169491526,1.0,1.0,071002003,mistral
+14,any of them would be to enter upon a branch of Law fo:,insane or 1. The Madman's Law. 2. The Idiot's Law. 2. The,0.8703703703703703,1.0,1.0,071002003,mistral
+15,:reign to that in hand. Nor with respect to every one of,Maniac's Law.,0.9107142857142857,1.0,1.0,071002003,mistral
+16,"these titles could such provisions be exhibited in terminis,",,1.0,1.0,1.0,071002003,mistral
+17,in any book of universal Law: since they will need to be,Instructions to the Legislator.,0.7678571428571429,1.0,0.9166666666666666,071002003,mistral
+18,different according to the various local circumstances of dif:,,1.0,1.0,1.0,071002003,mistral
+19,:ferent states and provinces. The above references are exhi:,It is not clear that in every one of the several titles of,0.7833333333333333,1.4444444444444444,1.4444444444444444,071002003,mistral
+20,":bited only in the way of example, to give a general idea)",Law above mentioned there will need a provision or set of,0.8620689655172413,1.0,0.8333333333333334,071002003,mistral
+21,of the mode of reference to be adopted on an occa:,"provisions, authorising one person to trespass upon the per-",0.94,0.9090909090909091,0.8181818181818182,071002003,mistral
+22,":sion, like the present.",son of another. To determine that question with respect to,1.7916666666666667,2.5,2.5,071002003,mistral
+23,of,any of them would be to enter upon a branch of law fo-,26.0,12.0,12.0,071002003,mistral
+24,"In like manner, neither is it clear that the names",-reign to that in hand. Nor with respect to every one of,0.86,1.2,1.1,071002003,mistral
+25,Of Justifications.,these titles could such provisions be exhibited in terminis,2.8333333333333335,4.5,4.5,071002003,mistral
+26,C,in any book of universal Law: since they will need to be,56.0,12.0,12.0,071002003,mistral
+27,7.,different according to the various local circumstances of dif-,31.0,9.0,9.0,071002003,mistral

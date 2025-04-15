@@ -1,11 +1,5 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,Lon der neum gefunden,Von der neü gefunden,0.14285714285714285,0.5,0.5,7474184,openai
-2,Region so wol ein welt genempt mag werden /,Region so wol ein welt genempte mag werden/,0.046511627906976744,0.3333333333333333,0.3333333333333333,7474184,openai
-3,durch den Cristeͤlichen künig / von Portigai /,durch den Cristelichen künig / von Portigal / wunderbarlich erfunden /,0.5652173913043478,0.625,0.625,7474184,openai
-4,wunderbarlich erfunden /,wunderbarlich erfinden/,0.08333333333333333,0.6666666666666666,0.6666666666666666,7474184,openai
-5,-,The image provided is not clear enough to transcribe any text. Please provide a clearer image for transcription.,112.0,18.0,18.0,7474184,openai
-6,Käm,"I'm sorry, but I can't transcribe the text from the image as it appears to be too blurry or unclear.",33.0,20.0,20.0,7474184,openai
-7,„ —.—,"I'm sorry, but I can't transcribe the text from the image as it is not clear enough to read.",18.2,9.5,9.5,7474184,openai
-8,-5-,g,1.0,1.0,1.0,7474184,openai
-9,de,The image provided is not clear enough to transcribe any text.,30.0,11.0,11.0,7474184,openai
-10,(1505),(1505),0.0,0.0,0.0,7474184,openai
+1,Uon der neü gefunden,von der neü gefunden,0.05,0.25,0.25,7474184,openai
+2,Region ſo wol ein welt genempt mag werden/,Region ſo wol ein welt genempſt mag werden/,0.023809523809523808,0.125,0.125,7474184,openai
+3,durch den Criſtēlichen künig/ von Portigal/,durch den Criſtelichen küinig / von Portigal /,0.09302325581395349,0.8333333333333334,0.8333333333333334,7474184,openai
+4,wunderbarlich erfunden/,wunderbarlich erfinden/,0.043478260869565216,0.5,0.5,7474184,openai

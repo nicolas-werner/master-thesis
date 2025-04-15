@@ -1,9 +1,9 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,Of family Imposture.,Of Family Imposture.,0.05,0.3333333333333333,0.3333333333333333,071111002,gemini
-2,pretended mother was or was not privy to the Imposture.,(pretended mother was or was not privy to the Imposture).,0.03636363636363636,0.2,0.2,071111002,gemini
+1,Of family Imposture.,of Family Imposture.,0.1,0.6666666666666666,0.6666666666666666,071111002,gemini
+2,pretended mother was or was not privy to the Imposture.,pretended mother was or was not privy to the Imposture.,0.0,0.0,0.0,071111002,gemini
 3,4. But if any one bring up a child begotten of a married Woman,4. But if any one bring up a child begotten of a married Woman.,0.016129032258064516,0.07142857142857142,0.07142857142857142,071111002,gemini
 4,"during the continuance of the marriage by and Adulterer, as if it","during the continuance of the marriage by an Adulterer, as if it",0.015384615384615385,0.08333333333333333,0.08333333333333333,071111002,gemini
-5,"were the child of the Husband, this is not family Imposture.","were the child of the Husband, this is not Family Imposture.",0.016666666666666666,0.09090909090909091,0.09090909090909091,071111002,gemini
+5,"were the child of the Husband, this is not family Imposture.","were the child of the Husband, this is not family Imposture.",0.0,0.0,0.0,071111002,gemini
 6,Punishment.,Punishment.,0.0,0.0,0.0,071111002,gemini
 7,For family Imposture the Punishment of an Impostor,For family Imposture the Punishment of an Impostor,0.0,0.0,0.0,071111002,gemini
 8,himself shall be as follows.,himself shall be as follows.,0.0,0.0,0.0,071111002,gemini
@@ -11,12 +11,12 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 10,Impostor's Mask. See [Punishments],Impostor's Mask. See [Punishments],0.0,0.0,0.0,071111002,gemini
 11,2. He shall be Zeiprisoned or confined to hard labour for Life.,2. He shall be imprisoned or confined to hard Labour for Life.,0.06349206349206349,0.16666666666666666,0.16666666666666666,071111002,gemini
 12,The Punishment of a Suborner shall be as follows:,The Punishment of a Suborner shall be as follows:,0.0,0.0,0.0,071111002,gemini
-13,1. He shall be ignominiously connected with an Impostor or the Effi=,1. He shall be ignominiously connected with an Impostor or the Effi.,0.014705882352941176,0.08333333333333333,0.08333333333333333,071111002,gemini
+13,1. He shall be ignominiously connected with an Impostor or the Effi=,1. He shall be ignominiously connected with an Impostor or the Effici.,0.04411764705882353,0.08333333333333333,0.08333333333333333,071111002,gemini
 14,gy of an Impostor.,=gy of an Impostor.,0.05555555555555555,0.25,0.25,071111002,gemini
-15,2. He shall be Zeiprisoned or confined to hard labour for Life.,2. He shall be imprisoned or confined to hard labour for Life.,0.047619047619047616,0.08333333333333333,0.08333333333333333,071111002,gemini
+15,2. He shall be Zeiprisoned or confined to hard labour for Life.,2. He shall be imprisoned or confined to hard Labour for Life.,0.06349206349206349,0.16666666666666666,0.16666666666666666,071111002,gemini
 16,Exposition,Exposition,0.0,0.0,0.0,071111002,gemini
-17,"[A) Suborner] There may be a suborner of imposture, where there is no","[A] Suborner] There may be a suborner of imposture, where there is no",0.014492753623188406,0.07692307692307693,0.07692307692307693,071111002,gemini
-18,impostor: the party falsely pretended to possess the character in question,impostor: the party falsely pretended to possess the character in question,0.0,0.0,0.0,071111002,gemini
+17,"[A) Suborner] There may be a suborner of imposture, where there is no","[A) Suborner] There may be a suborner of imposture, where there is no.",0.014492753623188406,0.07692307692307693,0.07692307692307693,071111002,gemini
+18,impostor: the party falsely pretended to possess the character in question,impostor: the party falsely pretended to possess the character in question.,0.013513513513513514,0.09090909090909091,0.09090909090909091,071111002,gemini
 19,not knowing but he is intitled to it; for instance in the case of a suppo:,not knowing but he is intitled to it; for instance in the case of a suppo:,0.0,0.0,0.0,071111002,gemini
 20,Excuses,Excuses,0.0,0.0,0.0,071111002,gemini
 21,:sititious Child.,:sititious Child.,0.0,0.0,0.0,071111002,gemini

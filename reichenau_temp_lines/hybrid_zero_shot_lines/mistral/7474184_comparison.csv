@@ -1,0 +1,11 @@
+line_number,ground_truth,prediction,transkribus,cer,wer,bwer
+1,Uon der neü gefunden,Von der neü gefunden,Lon der neum gefunden,0.05,0.25,0.25
+2,Region ſo wol ein welt genempt mag werden/,Xegion so wol ein welt genempte mag werden,Region so wol ein welt genempt mag werden /,0.09523809523809523,0.5,0.5
+3,durch den Criſtēlichen künig/ von Portigal/,durch den Cristëlichen fǖnig / von Portigal /,durch den Cristeͤlichen künig / von Portigai /,0.13953488372093023,0.8333333333333334,0.8333333333333334
+4,wunderbarlich erfunden/,wunderbarlich ersfinden/,wunderbarlich erfunden /,0.08695652173913043,0.5,0.5
+5,,et in eadem die uenerunt ad eum pharisei dicentes ei egēde et vade hinc quia herodes uult te occidere[extra],-,1.0,1.0,1.0
+6,,Käm[extra],Käm,1.0,1.0,1.0
+7,,[extra],„ —.—,1.0,1.0,1.0
+8,,¬[extra],-5-,1.0,1.0,1.0
+9,,de[extra],de,1.0,1.0,1.0
+10,,(1505)[extra],(1505),1.0,1.0,1.0

@@ -1,15 +1,14 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,C,23.,3.0,1.0,1.0,071133003,gemini
-2,23.,c.,0.6666666666666666,1.0,1.0,071133003,gemini
-3,Of Semi-public Offences in General.,Of Semi-public Offences in General.,0.0,0.0,0.0,071133003,gemini
-4,persons or destroys the property of particular individuals among the,persons or destroys the property of particular individuals among the,0.0,0.0,0.0,071133003,gemini
-5,Jews he may be not only punished criminally for the calumny,Jews he may be not only punished criminally for the calumny,0.0,0.0,0.0,071133003,gemini
-6,"thrown on the Sect, but made civilly responsible for the particular","thrown on the Sect, but made civilly responsible for the particular",0.0,0.0,0.0,071133003,gemini
-7,mischief done to the individual Jews whose persons or property,"mischief done to the individual Jews whose persons or property,",0.016129032258064516,0.1,0.1,071133003,gemini
-8,were thus attacked.,were thus attacked.,0.0,0.0,0.0,071133003,gemini
-9,"As to any farther particulars relative to this head, they",,1.0,1.0,1.0,071133003,gemini
-10,of a local nature; and are without the limits of the present under=,"As to any farther particulars relative to this head, they",0.7164179104477612,1.0,1.0,071133003,gemini
-11,:taking work.,of men,0.9230769230769231,1.0,1.0,071133003,gemini
-12,must depend upon the particular class in question. They are therefore,must depend upon the particular class in question. They are therefore,0.0,0.0,0.0,071133003,gemini
-13,stand,stand,0.0,0.0,0.0,071133003,gemini
-14,of men,of a local nature; and without the limits of the present œcon-,9.333333333333334,5.5,5.5,071133003,gemini
+1,C,c.,2.0,1.0,1.0,071133003,gemini
+2,23.,Of Semi-public Offences in General.,11.333333333333334,5.0,5.0,071133003,gemini
+3,Of Semi-public Offences in General.,persons or destroys the property of particular individuals among the),1.6571428571428573,2.0,2.0,071133003,gemini
+4,persons or destroys the property of particular individuals among the,Jews he may be not only punished criminally for the calumny,0.7794117647058824,1.0,1.0,071133003,gemini
+5,Jews he may be not only punished criminally for the calumny,"thrown on the Sect, but made civilly responsible for the particular",0.7457627118644068,0.8181818181818182,0.8181818181818182,071133003,gemini
+6,"thrown on the Sect, but made civilly responsible for the particular",mischief done to the individual Jews whose persons or property,0.7761194029850746,1.0,0.9090909090909091,071133003,gemini
+7,mischief done to the individual Jews whose persons or property,were thus attacked.,0.8548387096774194,1.0,1.0,071133003,gemini
+8,were thus attacked.,"As to any farther particulars relative to this head, they",2.3684210526315788,3.3333333333333335,3.3333333333333335,071133003,gemini
+9,"As to any farther particulars relative to this head, they",of men,0.9298245614035088,1.0,1.0,071133003,gemini
+10,of a local nature; and are without the limits of the present under=,must depend upon the particular class in question. They are therefore,0.8208955223880597,1.0,0.8461538461538461,071133003,gemini
+11,:taking work.,stand,0.7692307692307693,1.0,1.0,071133003,gemini
+12,must depend upon the particular class in question. They are therefore,of a local nature; and without the limits of the present caeteris,0.782608695652174,1.0909090909090908,1.0,071133003,gemini
+13,stand,caeteris work.,2.6,2.0,2.0,071133003,gemini

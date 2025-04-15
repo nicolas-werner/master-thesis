@@ -1,0 +1,5 @@
+line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
+1,Uon der neü gefunden,Von der neü gefunden,0.05,0.25,0.25,7474184,mistral
+2,Region ſo wol ein welt genempt mag werden/,Xegion so wol ein welt genempte mag werden,0.09523809523809523,0.5,0.5,7474184,mistral
+3,durch den Criſtēlichen künig/ von Portigal/,durch den Cristëlichen fǖnig / von Portigal /,0.13953488372093023,0.8333333333333334,0.8333333333333334,7474184,mistral
+4,wunderbarlich erfunden/,wunderbarlich ersfinden/,0.08695652173913043,0.5,0.5,7474184,mistral

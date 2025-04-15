@@ -2,30 +2,32 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 1,11.,11.,0.0,0.0,0.0,071003003,gemini
 2,Of Justifications.,of Justifications,0.1111111111111111,1.0,1.0,071003003,gemini
 3,children.,Children.,0.1111111111111111,1.0,1.0,071003003,gemini
-4,.. it,. . . &,0.8,2.0,2.0,071003003,gemini
-5,3. These of a Schoolmaster over his Schooler. See ^ Law of School,3. Those of a Schoolmãster over his Scholar. See Law of School.,0.1076923076923077,0.38461538461538464,0.38461538461538464,071003003,gemini
+4,.. it,et,0.8,1.0,1.0,071003003,gemini
+5,3. These of a Schoolmaster over his Schooler. See ^ Law of School,3. Those of a Schoolmaster over his Scholar. See Law of School.,0.09230769230769231,0.3076923076923077,0.3076923076923077,071003003,gemini
 6,:master and. Scholars.,:masters and Scholars.,0.09090909090909091,0.6666666666666666,0.6666666666666666,071003003,gemini
 7,4. These of a Domistic Preceptor over his Pupil. See Law of,4. Those of a Domestic Preceptor over his Pupil. See Law of,0.03389830508474576,0.16666666666666666,0.16666666666666666,071003003,gemini
 8,Preceptors and Pupils.,Preceptors and Pupils.,0.0,0.0,0.0,071003003,gemini
-9,ib.,L,1.0,1.0,1.0,071003003,gemini
-10,5. These of a Guardian over his Ward. See Law of Guardi=,5. Those of a Guardian over his Ward. See Law of Guardi=,0.017857142857142856,0.08333333333333333,0.08333333333333333,071003003,gemini
-11,:ans and Wards.,: and and Wards.,0.13333333333333333,0.6666666666666666,0.6666666666666666,071003003,gemini
-12,6 These of Adufts over Infants in the same family. See ib.,6. Those of Adults over Infants in the same Family. See it.,0.08620689655172414,0.4166666666666667,0.4166666666666667,071003003,gemini
+9,ib.,,1.0,1.0,1.0,071003003,gemini
+10,5. These of a Guardian over his Ward. See Law of Guardi=,5. Those of a Guardian over his Ward. See Law of Guardi,0.03571428571428571,0.16666666666666666,0.16666666666666666,071003003,gemini
+11,:ans and Wards.,:ans and Wards.,0.0,0.0,0.0,071003003,gemini
+12,6 These of Adufts over Infants in the same family. See ib.,"6. Those of Adults over Infants in the same Family. See 	
+Law of Infants.",0.3448275862068966,0.5833333333333334,0.5833333333333334,071003003,gemini
 13,Law of Infants.,Law of Infants.,0.0,0.0,0.0,071003003,gemini
-14,7. These of a Master over his Servant - See the Law of Ser:,"7. Those of a Master over his Servant. See the Law of Ser:
-ib.",0.11864406779661017,0.2857142857142857,0.21428571428571427,071003003,gemini
-15,vants. The Law of Apprentices -Law of Journeymen -Law,nants – The Law of Apprentices – Law of Journeymen – Law &,0.16981132075471697,0.7777777777777778,0.7777777777777778,071003003,gemini
+14,7. These of a Master over his Servant - See the Law of Ser:,"7. Those of a Master, over his Servant. See the Law of Ser
+
+
+to.",0.1694915254237288,0.42857142857142855,0.35714285714285715,071003003,gemini
+15,vants. The Law of Apprentices -Law of Journeymen -Law,wants – The Law of Apprentices – Law of Journeymen – Law –.,0.18867924528301888,0.7777777777777778,0.7777777777777778,071003003,gemini
 16,of the Slaves.,of the Slaves.,0.0,0.0,0.0,071003003,gemini
-17,Justification 6.th Military Kowers & Subservience,Justification C.th Military Powers & Subservience,0.04081632653061224,0.3333333333333333,0.3333333333333333,071003003,gemini
+17,Justification 6.th Military Kowers & Subservience,Justification C.h Military Powers & Subservience,0.061224489795918366,0.3333333333333333,0.3333333333333333,071003003,gemini
 18,Thereto.-,Thereto.,0.1111111111111111,1.0,1.0,071003003,gemini
 19,Povers which one man may have over the person of,Powers which one man may have over the person of,0.020833333333333332,0.1,0.1,071003003,gemini
-20,another on a military account are,another on a military account are),0.030303030303030304,0.16666666666666666,0.16666666666666666,071003003,gemini
-21,1. These of a military superior over his Suborditates. For,"1. Those of a military Superior over his Subordinates. For
-Constitutional Code. Laws of",0.5517241379310345,0.7,0.7,071003003,gemini
-22,Constitutional Code-Laws of,Constitutional Code: Laws of,0.07407407407407407,0.6666666666666666,0.6666666666666666,071003003,gemini
-23,these See ^ the Army ^ and ^ the Navy Laws,these see the Army and the Navy Laws.,0.19047619047619047,0.45454545454545453,0.45454545454545453,071003003,gemini
-24,2. These of a military officer over persons at large in a time,2. Those of a military officer over persons at large in a time,0.016129032258064516,0.07692307692307693,0.07692307692307693,071003003,gemini
+20,another on a military account are,another on a military account are,0.0,0.0,0.0,071003003,gemini
+21,1. These of a military superior over his Suborditates. For,1. Those of a military Superior over his Subordinates. For,0.05172413793103448,0.3,0.3,071003003,gemini
+22,Constitutional Code-Laws of,Constitutional Code. — Laws of,0.14814814814814814,1.0,1.0,071003003,gemini
+23,these See ^ the Army ^ and ^ the Navy Laws,these See the Army and the Navy Lovers,0.23809523809523808,0.36363636363636365,0.36363636363636365,071003003,gemini
+24,2. These of a military officer over persons at large in a time,"2. Those of a military officer, over persons at large in a time of",0.08064516129032258,0.23076923076923078,0.23076923076923078,071003003,gemini
 25,Note.,Note.,0.0,0.0,0.0,071003003,gemini
 26,(a),(a),0.0,0.0,0.0,071003003,gemini
-27,There ought to be a separate Title for every species,There ought to be a separate Title for every species.,0.019230769230769232,0.1,0.1,071003003,gemini
+27,There ought to be a separate Title for every species,There ought to be a separate Title for every species,0.0,0.0,0.0,071003003,gemini
 28,of servant which has any article of Law peculiar to it.,of servant which has any Article of Law peculiar to it.,0.01818181818181818,0.09090909090909091,0.09090909090909091,071003003,gemini

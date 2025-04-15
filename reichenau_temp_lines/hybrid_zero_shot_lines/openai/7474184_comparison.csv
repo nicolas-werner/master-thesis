@@ -1,0 +1,11 @@
+line_number,ground_truth,prediction,transkribus,cer,wer,bwer
+1,Uon der neü gefunden,Von der neuͤ gefunden,Lon der neum gefunden,0.15,0.5,0.5
+2,Region ſo wol ein welt genempt mag werden/,Region ſo wol ein welt genempt mag werden /,Region so wol ein welt genempt mag werden /,0.023809523809523808,0.25,0.25
+3,durch den Criſtēlichen künig/ von Portigal/,durch den Cristeͤlichen künig / von Portigal /,durch den Cristeͤlichen künig / von Portigai /,0.11627906976744186,0.8333333333333334,0.8333333333333334
+4,wunderbarlich erfunden/,wunderbarlich erfunden/,wunderbarlich erfunden /,0.0,0.0,0.0
+5,,[extra],-,1.0,1.0,1.0
+6,,[extra],Käm,1.0,1.0,1.0
+7,,[extra],„ —.—,1.0,1.0,1.0
+8,,[extra],-5-,1.0,1.0,1.0
+9,,[extra],de,1.0,1.0,1.0
+10,,(1505)[extra],(1505),1.0,1.0,1.0

@@ -1,0 +1,51 @@
+Document ID: 7474193
+Line ID: tr_1_tl_5
+Line Index: 4
+Prompt Type: one_shot_hybrid_lines
+
+=== SYSTEM ===
+
+You are an expert in historical typography and early printed books (incunabula) from the 15th century. Please transcribe the provided line image exactly as it appears.
+
+Important instructions:
+1. If the image shows part of an illustration, decoration, or non-textual element, return an empty string.
+2. Focus ONLY on the primary text line in the center of the image, ignoring partial text from lines above or below.
+3. Preserve original historical spellings, abbreviations, and special characters.
+4. Pay particular attention to:
+   - Early printed ligatures (connected letter combinations)
+   - Abbreviation marks and symbols
+   - Special characters from medieval Latin or German, such as: ¬, uͤ, n̄, ē, ſ, ꝛ, ꝯ, ꝫ, ꝓ, ꝟ, ẜ, etc.
+5. Do not expand abbreviations.
+6. Do not add any explanations or commentary. Only return the transcribed text.
+7. Transcribe exactly what you see, maintaining historical orthography.
+8. If the image contains no text, return an empty string.
+
+If you're uncertain about a character, provide your best interpretation.
+
+
+=== USER (Example) ===
+Review the following example of a line from a historical printed document. It includes both:
+
+(1) A raw OCR transcription from Transkribus
+(2) The correct ground truth transcription
+
+This shows how to improve upon the OCR output and handle abbreviations or typographic features.
+
+**Use this example to learn how to improve OCR transcriptions — do not copy the example text directly.**
+
+[IMAGE: Example Line]
+
+==== TRANSKRIBUS OCR OUTPUT ====
+der vnderligt eſſen vn̄ vnder anderm̄ fleiſch iſt inen men
+
+==== CORRECT TRANSCRIPTION ====
+der vnderligt eſſen vn̄ vnder anderm̄ fleiſch iſt inen men
+
+=== USER (Target) ===
+Now transcribe the following line from a historical printed document:
+
+[IMAGE: Target Line]
+
+The following is the output of a traditional OCR model from Transkribus. It can help you transcribe this line, but may also contain errors:
+
+wurtzen der kreüter, Diß sind die fürmercklichsten dinge

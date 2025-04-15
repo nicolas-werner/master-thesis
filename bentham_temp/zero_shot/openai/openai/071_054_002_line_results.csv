@@ -1,8 +1,6 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,46,46.  ,0.5,1.0,1.0,071_054_002,openai
-2,Theft Embezzlement and Fraudulent obtainment,C  ,1.0,1.0,1.0,071_054_002,openai
-3,there is no difference in the punishment. It will easily,Theft Embezzlement and Fraudulent obtainment  ,0.7321428571428571,1.0,1.0,071_054_002,openai
-4,therefore be censured that they will be apt to,There is no difference in the punishment. It will easily  ,0.8478260869565217,1.1111111111111112,1.0,071_054_002,openai
-5,that difficulty in proportion as the punishment is,therefore be conceived that they will be apt to  ,0.78,1.125,1.0,071_054_002,openai
-6,more severe,that difficulty in proportion as the punishment is  ,4.0,4.0,4.0,071_054_002,openai
-7,C,more severe,11.0,2.0,2.0,071_054_002,openai
+1,46,Theft Embezzlement and Fraudulent obtainment,22.0,5.0,5.0,071_054_002,openai
+2,Theft Embezzlement and Fraudulent obtainment,There is no difference in the punishment. It will easily,0.9090909090909091,2.0,2.0,071_054_002,openai
+3,there is no difference in the punishment. It will easily,therefore be conceived that they will be apt to,0.6785714285714286,1.0,0.9,071_054_002,openai
+4,therefore be censured that they will be apt to,that difficulty in proportion as the punishment is,0.8260869565217391,1.0,0.8888888888888888,071_054_002,openai
+5,that difficulty in proportion as the punishment is,more severe,0.88,1.0,1.0,071_054_002,openai

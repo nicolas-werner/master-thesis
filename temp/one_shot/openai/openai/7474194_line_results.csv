@@ -1,31 +1,32 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,cht bringen am koſten vnnd geſmackt lieplich vnd luͦſtli¬,ch bringen am koſten vnnd geſmacke lieblich vn̄ luſtſti,0.14035087719298245,0.5555555555555556,0.5555555555555556,7474194,openai
+1,cht bringen am koſten vnnd geſmackt lieplich vnd luͦſtli¬,ch bringen am koſten vnnd geſmacke lieblic̄ vn̄ luͤſtlic̄,0.14035087719298245,0.5555555555555556,0.5555555555555556,7474194,openai
 2,ch vnd den menſchlichen liben nützlich vn̄ komlich/ Da,ch vnd den menſchlichen liben nuͤtzlich vn̄ komlich/ Da,0.037037037037037035,0.1111111111111111,0.1111111111111111,7474194,openai
-3,gegen ouch ſind etlich anders weſens vnnd keyn fruchtt,gegen ouch ſind etlich anders weſens vnnd ſeyn frucht,0.037037037037037035,0.2222222222222222,0.2222222222222222,7474194,openai
-4,ſynd vnſeran früchten vnd opß gleich/ Da wachßen ou¬,frucht vnſeran fruchten vnd opſgleich/ Da wachsen en,0.25,0.6666666666666666,0.6666666666666666,7474194,openai
+3,gegen ouch ſind etlich anders weſens vnnd keyn fruchtt,gegen ouch ſind eͤich anders weſens vnnd keyn frucht,0.05555555555555555,0.2222222222222222,0.2222222222222222,7474194,openai
+4,ſynd vnſeran früchten vnd opß gleich/ Da wachßen ou¬,fruͤnd vnſern fruͤchten vnd opſgleich/ Da wachsen en,0.25,0.7777777777777778,0.7777777777777778,7474194,openai
 5,ch über alle zal vil vnd mengerley krüter geſtalten vnd,ch uber alle ſal vnd mengerley kruter geſtalten vn̄,0.14545454545454545,0.5,0.5,7474194,openai
-6,wurtzen vß denen ſy brot machen/ vnd die aller beſten ge,wurzen vſ denen ſy brot machen/ vn̄ die aller beſten ge,0.05357142857142857,0.2727272727272727,0.2727272727272727,7474194,openai
-7,muͤſe haben ſy vnnd vil ſamen diſen vnſern ſamen gantz,ſchmack haben vnd vil ſam in dem vnſern ſamen gantz,0.2962962962962963,0.6,0.5,7474194,openai
-8,vnglich/ Da ſind ouch keynerley metallen vnd geſchmid,vnlich/ Da ſind ouch teynzerley metallen vn̄ geſchmid,0.07547169811320754,0.375,0.375,7474194,openai
-9,den̄ allein gold da vō diß region vn̄ land überflieſſen wie,vnd aller guͦt da ſy die region vn̄ land uberſehen ſo,0.3389830508474576,0.6363636363636364,0.6363636363636364,7474194,openai
-10,wol wir des nützit mit vnß namen/ In dißer erſten vnſer,reich vnd nuͦtzlich mit vnſ namen/ In̄ der erſten vnſer,0.34545454545454546,0.6363636363636364,0.6363636363636364,7474194,openai
-11,ſchiffart/ Und das ſagen vnß die inwonere vnd ſprachē,ſchiffart/ Un̄ das ſagē ſy die inwohner vn̄ ſprachē,0.16981132075471697,0.5555555555555556,0.5555555555555556,7474194,openai
-12,das in der mittliſten gegne diſes lands große volle ſie deſ,vnd die menſchen die dieſes lands groſſe volke ſi de,0.423728813559322,0.9090909090909091,0.9090909090909091,7474194,openai
-13,goldes vnd von ienen verachtet vnnd für nicht geſchetzt,golds vnd ſilbers verachtē vn̄ für nicht geſchetzet,0.2545454545454545,0.6666666666666666,0.6666666666666666,7474194,openai
-14,werde/ Sye überflüſſig von edelem geſteyn/ Marga¬,vn̄ die ſy nit zuͦ nutz vnd eſſen wolten geſch/ Marge,0.7346938775510204,1.5714285714285714,1.5714285714285714,7474194,openai
-15,eiten/ Als ich dyr vor me geſchryben hab/ Wenn ich,rithen vn̄ alle ſteyn die geſchyren habē/ Wenn ich,0.44,0.8,0.8,7474194,openai
-16,wolt alle vnnd yegliche ding erzellen dye da ſynd vnd,von den ouch vil mengerley erze vnd da ſynd vnd,0.5660377358490566,0.7,0.7,7474194,openai
-17,von den on zall mengerley thieren geſchlecht vnnd der,ſelbē vil/ Das were ein ding gar ſalung vn̄ ou maſ,0.7924528301886793,1.2222222222222223,1.2222222222222223,7474194,openai
-18,ſelben vile/ Das were eyn ding gar zelang vnd on maß,ſund ſchlechtlich eynich da vnſer ſilmuſ dem vnſen,0.7692307692307693,1.0,1.0,7474194,openai
-19,Und ſlechtliche glaub ich das vnßer plimus dem tuſent¬,vnlich ſintem vnſe/ Deſe volcks der ſtiruſſen vn̄ der,0.7592592592592593,1.0,1.0,7474194,openai
-20,teyl nit zuͦkomen ſye/ Des volcks der Sitkuſten vnd der,andern voͤgeln vnd der thyeren die in den ſelben lan,0.8,1.0,0.8,7474194,openai
-21,andern voͤgelen vnnd der thyeren die in den ſelben lan¬,den ſynd diſer mengerley vn̄erſcheyd der antlitten,0.7454545454545455,1.0,0.8,7474194,openai
-22,den ſynd Mit ſo mengerley vnderſcheydt der antlitten,vn̄ fromen das der volkomſten ly Maler tunſſe vnd,0.8269230769230769,1.125,1.0,7474194,openai
-23,vnd frouwen das der volkomneſten lyt Maler kunſt ver,ſump Oerſter Pollicletus die abſemale erlygen müſſe,0.8269230769230769,1.0,1.0,7474194,openai
-24,rumpt Meiſter Pollicletus die abzemalē erlygen müſte,Da ſind alle kom guͦde vn̄ wolgeſchmacktes vn̄,0.8461538461538461,1.1428571428571428,1.1428571428571428,7474194,openai
-25,Da ſynd alle boum guͦtds vnnd wolgeſchmackes vnd,bringen alle erwas da oder ſolicher ſichtiget/ Wen̄,0.7708333333333334,1.0,0.875,7474194,openai
-26,bryngen alle ettwas oͤls oder ſolicher füchtigkeyt/ Wen̄,er traff vn̄ eyn erſchafft vn̄ betant were inſulen,0.8571428571428571,1.125,1.125,7474194,openai
-27,ir krafft vnnd eygenſchafft vnnß bekant were zwifelen,ich nit den daſ ſer menſchen lyben ſi artzney groſſ,0.7547169811320755,1.25,1.25,7474194,openai
-28,ich nit den das ſye der menſchen lyben zuͦ artzenye groſ,der heylung ſin ſolten/ Un̄ on zeyſelbalch ob der,0.8035714285714286,1.0,0.9090909090909091,7474194,openai
-29,ſer heylung ſyn ſolten/ Unnd on zwyfel halt ich ob der,Iſrydſch Paradyſ nit erttrich das der nit ſer vonn,0.8333333333333334,1.0,0.8181818181818182,7474194,openai
-30,Irdyſch Paradyß vff erttrich das der nitt ferr vonn,dyſer lantſchafft ſye/ So ir gelegēheyte als ich vor,0.8235294117647058,1.0,1.0,7474194,openai
+6,wurtzen vß denen ſy brot machen/ vnd die aller beſten ge,wuͤrzen vſ denen ſy brot machen/ vn̄ die aller beſten ge,0.07142857142857142,0.2727272727272727,0.2727272727272727,7474194,openai
+7,muͤſe haben ſy vnnd vil ſamen diſen vnſern ſamen gantz,ſchmack haben/ vn̄ vil van̄ diſen vnſern ſamen gantz,0.2962962962962963,0.5,0.5,7474194,openai
+8,vnglich/ Da ſind ouch keynerley metallen vnd geſchmid,vnͤglich/ Da ſind ouch teynͤerley metallen vn̄ geſchmid,0.07547169811320754,0.375,0.375,7474194,openai
+9,den̄ allein gold da vō diß region vn̄ land überflieſſen wie,vnd aller guͦt das vſ dieſer region vn̄ land uberſtiffen vn̄,0.3898305084745763,0.7272727272727273,0.7272727272727273,7474194,openai
+10,wol wir des nützit mit vnß namen/ In dißer erſten vnſer,vber alle vſſer nit mit namen/ In diſer erſten vnſer,0.36363636363636365,0.5454545454545454,0.5454545454545454,7474194,openai
+11,ſchiffart/ Und das ſagen vnß die inwonere vnd ſprachē,ſchiffart/ Vn̄ das ſagen ſy die inwohner vn̄ ſprachē,0.1509433962264151,0.4444444444444444,0.4444444444444444,7474194,openai
+12,das in der mittliſten gegne diſes lands große volle ſie deſ,vnd die inwohner die dieſes lands groſſe volke iſt de,0.4745762711864407,0.9090909090909091,0.9090909090909091,7474194,openai
+13,goldes vnd von ienen verachtet vnnd für nicht geſchetzt,golds vn̄ ſilbers vnd erczes vnd ſulfur vn̄ allerley,0.6363636363636364,1.0,0.8888888888888888,7474194,openai
+14,werde/ Sye überflüſſig von edelem geſteyn/ Marga¬,metallen vnd vil ander guͦter ouch enlich geſchen/ Mar,0.7755102040816326,1.2857142857142858,1.2857142857142858,7474194,openai
+15,eiten/ Als ich dyr vor me geſchryben hab/ Wenn ich,gen vnd ſy ſind ouch geſchuzer hab/ Vn̄ ich,0.52,0.8,0.8,7474194,openai
+16,wolt alle vnnd yegliche ding erzellen dye da ſynd vnd,ſag das ſy vil menſchlicher vnnd geſtalten vnd ge,0.7169811320754716,1.0,0.8,7474194,openai
+17,von den on zall mengerley thieren geſchlecht vnnd der,den von der ſal mengerley thieren geſchlecht vnnd de,0.18867924528301888,0.5555555555555556,0.2222222222222222,7474194,openai
+18,ſelben vile/ Das were eyn ding gar zelang vnd on maß,ſelben vile/ Das were ein ding gar ſalung vn̄ ou maſ,0.1346153846153846,0.45454545454545453,0.45454545454545453,7474194,openai
+19,Und ſlechtliche glaub ich das vnßer plimus dem tuſent¬,land ſchlechtlich eynich das vnſer ſilnius dem vnſenſt,0.37037037037037035,0.7777777777777778,0.7777777777777778,7474194,openai
+20,teyl nit zuͦkomen ſye/ Des volcks der Sitkuſten vnd der,vnd ſechtlichen ſy/ Deſ volcks der ſtuͤtzen vn̄ der,0.4,0.7,0.6,7474194,openai
+21,andern voͤgelen vnnd der thyeren die in den ſelben lan¬,andern voͤgeln vn̄ der thyeren die in den ſelben lan,0.07272727272727272,0.3,0.3,7474194,openai
+22,den ſynd Mit ſo mengerley vnderſcheydt der antlitten,den ſynd Vn̄ ſo mengerley vnnderſcheid der antlitten,0.11538461538461539,0.25,0.25,7474194,openai
+23,vnd frouwen das der volkomneſten lyt Maler kunſt ver,vn̄ fromen das der volkomſten Ir Maler tunſt vſe,0.21153846153846154,0.6666666666666666,0.6666666666666666,7474194,openai
+24,rumpt Meiſter Pollicletus die abzemalē erlygen müſte,nump vndeßer Pollicletius die abſemale erlygen muͤſſe,0.25,0.7142857142857143,0.7142857142857143,7474194,openai
+25,Da ſynd alle boum guͦtds vnnd wolgeſchmackes vnd,Da ſynd alle kom guͦde vn̄ wolgeſchmacktes vn̄,0.16666666666666666,0.625,0.625,7474194,openai
+26,bryngen alle ettwas oͤls oder ſolicher füchtigkeyt/ Wen̄,bringen alle erwaſ da ouch ſolicher ſichtiget/ Wen̄,0.26785714285714285,0.625,0.625,7474194,openai
+27,ir krafft vnnd eygenſchafft vnnß bekant were zwifelen,er traff vnnd eyn erſchafft vnſe betant were inſtellen,0.2641509433962264,0.875,0.875,7474194,openai
+28,ich nit den das ſye der menſchen lyben zuͦ artzenye groſ,ich nit den das ſy der menſchen lyben ſiͤn arczney groſ,0.16071428571428573,0.2727272727272727,0.2727272727272727,7474194,openai
+29,ſer heylung ſyn ſolten/ Unnd on zwyfel halt ich ob der,ſer beheyung ſin ſolten/ Vnnd on vnſer ſalbalch ob der,0.25925925925925924,0.5454545454545454,0.5454545454545454,7474194,openai
+30,Irdyſch Paradyß vff erttrich das der nitt ferr vonn,Iuͤdyſch Paradyſ iſt ertrrich das der nit ſer vonn,0.19607843137254902,0.6666666666666666,0.6666666666666666,7474194,openai
+31,dyßer lanttſchaffte ſye/ So ir gelegenheyt als ich vor,dyſer lantſchafft ſye/ So ir gelegnheyt als ich voͤ,0.09259259259259259,0.4444444444444444,0.4444444444444444,7474194,openai

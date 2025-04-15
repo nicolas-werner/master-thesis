@@ -1,34 +1,34 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,cher verderbung ſchiffbruchē was liplicher vnfuͦrē wyr,beſſeruerſtung ſchiffbanchē waſ lipicher vnſūrē wyr,0.2777777777777778,0.8571428571428571,0.8571428571428571,7474187,mistral
-2,gelitten habē/ Und mit was angſtē vnſers gemuͤtes wir,gelitten habē/ Vn̄d mit waſ angſtē vnſer gēnūrē wyr,0.22641509433962265,0.5555555555555556,0.5555555555555556,7474187,mistral
-3,gearbeit habē/ mein ich/ gib ich denen ze bedenckē die vß,gearbeit habē/ mein ich/ gib ich denen ze bedenckē die vn̄,0.03508771929824561,0.09090909090909091,0.09090909090909091,7474187,mistral
-4,vil dingen erfarūg wol wiſſen/ waſda ſie vngewiſſe ding,vil dingen erfarūg wol wiſſen/ waldā ſie vngewīſſ ding,0.07272727272727272,0.2222222222222222,0.2222222222222222,7474187,mistral
-5,ſuͦchen/ vnnd nit wiſſen ob die ſien zuͦ erfaren/ Und das,ſchē/ vn̄d mit wiſſen ob die ſien zū erfaren/ Vn̄ daſ,0.19298245614035087,0.5454545454545454,0.5454545454545454,7474187,mistral
-6,ich mit eynem wort alle ding begriffe/ ſolt du wiſſen das,ich mit eynēm woſt alle ding begreiffe/ ſolt du wiſſendāſ,0.10526315789473684,0.45454545454545453,0.45454545454545453,7474187,mistral
-7,in Sechtzig tagen vnnd ſiben tagen die wir ſchiffeten,in ſchēbig zagen vn̄d ſchē tagen die wir ſchiffētēn,0.22641509433962265,0.5555555555555556,0.5555555555555556,7474187,mistral
-8,vier vnd viertzig tag on vnderlaß an einander gehept ha,vier vn̄ vierzig tag on vnberlaſ an einander gebēt ha,0.12727272727272726,0.4,0.4,7474187,mistral
-9,ben mit regen tonnern vnd blitzgen ſo gar finſter dz wir,ben mit regen comēn vn̄d būrgen ſo gar finſter daſ wir,0.21428571428571427,0.36363636363636365,0.36363636363636365,7474187,mistral
-10,weder Sonnē im tag noch liechtē hymel in der nacht nie,weder ſonnē vn̄ tag noch liechtē hymēl in der nachēt nie,0.1111111111111111,0.36363636363636365,0.36363636363636365,7474187,mistral
-11,geſehen haben/ Da von ſo geſchach dz vns ſolicher groſ¬,geſehen habēn/ Da von ſo geſchach daſ vnſ folicher groſ,0.10909090909090909,0.5,0.5,7474187,mistral
-12,ſer ſchrecken infiel dz wir gar nach alle hoffnung vnſers,ſer ſchreckēn infiel daſ wir gar nach alle hoſfūng vnſer,0.12280701754385964,0.4,0.4,7474187,mistral
-13,lebens hinwurffen/ In ſoͤlichen angſten dennoch vn̄ ſo,lebens hīmwurffēn/ In ſolichen angſten dennoch vn̄ ſo,0.07407407407407407,0.25,0.25,7474187,mistral
-14,wüetungen des mers vnnd des hymels gefiel dem hoch,rettēten vn̄ ſē vn̄d deſ hymēl geſtēl dem hoch,0.38,0.7777777777777778,0.7777777777777778,7474187,mistral
-15,ſten gott vns ze zoigen ingewont ertrich vnnd nüw lant,ſten gott vn̄ ſe ſogenēt ingewont ertlich vn̄d nūm lant,0.18518518518518517,0.6,0.6,7474187,mistral
-16,ſchafften vnd ein vnbekante welt/ Das wir nach der ſel¬,ſchaffēn vn̄ ein vnbeſtantē wēlt/ Daſ wir nach der ſel,0.16363636363636364,0.6,0.6,7474187,mistral
-17,ben bſehung mit ſo groſſen freiden durchgoſſen ſynd als,ben bſebung mit ſo groſſēn frēden durchgoſſēn vn̄d alſ,0.16363636363636364,0.6666666666666666,0.6666666666666666,7474187,mistral
-18,yemant wol bedencken mag/ wie gewonlich denen geſchi,yemann wol ſebendēten mag/ wēn gewonlich benēn geſchī,0.21153846153846154,0.625,0.625,7474187,mistral
-19,cht die vß vil mengerley betrüpnüßen vnd vnfal vnd vß,cht die vn̄ vil mēngerlēy betrupnūſſēn vn̄d vnfall vn̄ vn̄,0.2641509433962264,0.7,0.7,7474187,mistral
-20,widerſpeningen glück verheilet vnd funden/ vn̄ eruolgt,widerpenningēn glück verbeiſſēt vn̄d fundēn/ vn̄ enwōgēt,0.25925925925925924,0.7142857142857143,0.7142857142857143,7474187,mistral
-21,haben/ Alſo an dē Sibenden tag des monats Ouguſten,habēn/ Alſo an deſ ſtbenēn tag deſ monatā Dugnūſſēn,0.28,0.6666666666666666,0.6666666666666666,7474187,mistral
-22,Thuſent finffhūdert vn̄ ein ior/ In d̓ gemeltē lātſchafftē,Ebūſēn finſtbuͤdēr vn̄ ein tor/ In deſ gemēlē lātſchafftē,0.29310344827586204,0.5555555555555556,0.5555555555555556,7474187,mistral
-23,ſtaden vnd zuͦlendung wurffen wir die encker in/ got vn,ſtaden vn̄d zilēnūng wūrffēn wir die encher in/ got vn,0.16363636363636364,0.4,0.4,7474187,mistral
-24,ſerm herren lobſagendt mit hochzierlicher byt vnd gebet,ferm herren lobſagendē mit hochſtēr licher ſyr vn̄d gebēt,0.18181818181818182,0.875,0.875,7474187,mistral
-25,vnd mit geſang eyner zierlichen meß/ Da erkanten wir,vn̄d mit geſang eynēr ſierlichen meſ/ Da erfanten wir,0.09615384615384616,0.5555555555555556,0.5555555555555556,7474187,mistral
-26,das land vnd ertrich nit ein inſel ſin/ ſunder ein ingewōt,daſ land vn̄d ertrich nū ein inſel ſin/ vn̄der ein ingervor,0.1896551724137931,0.45454545454545453,0.45454545454545453,7474187,mistral
-27,land denn ſich ſoͤlichs ſtrackt mit faſt langen ſtaden nitt,land denn rich ſolichē ſtracht mit faſtlangēn ſtaden mit,0.13559322033898305,0.6,0.6,7474187,mistral
-28,mit vmbzuͦgonen die da vmbgiengen vnd voll iſt on zall,nū vmbſūngēn die da vmbgēngēn vn̄d voll iſt on zalt,0.25925925925925924,0.5,0.5,7474187,mistral
-29,vil inwonender lüten denn wir dar ingefunden habē on,vil inwonēnder lūten denn wir dar ingefūndēn habē on,0.07692307692307693,0.3333333333333333,0.3333333333333333,7474187,mistral
-30,zal vil voͤlcker vnd lüt vnd aller wald thieren geſchlecht,zal vil vōlclēr vn̄d lūr vn̄d aller walt thierēn geſchlecht,0.1724137931034483,0.6,0.6,7474187,mistral
-31,ſo man in/ vnſern landen fyndt/ vnnd vil ander ding ſo,ſo man in/ inſern landēn fynēt/ vn̄d vil ander ding ſo,0.07407407407407407,0.36363636363636365,0.36363636363636365,7474187,mistral
-32,vor von vnß nie geſehen ſynd von den ſelben allen were,vor vnſ nū nie geſehen ſyn̄d von den ſelben allēn wērē,0.14814814814814814,0.45454545454545453,0.45454545454545453,7474187,mistral
-33,gar vil vnd lang ze ſagen/ Groſſe genad vnd barmhertzi,gar vil vn̄ lang ze ſagen/ Groſſē gnad vn̄d barmhertzī,0.09259259259259259,0.5,0.5,7474187,mistral
+1,cher verderbung ſchiffbruchē was liplicher vnfuͦrē wyr,chey verderbſung ſchifffbruche was liplicher vnſüre wye,0.16666666666666666,0.7142857142857143,0.7142857142857143,7474187,mistral
+2,gelitten habē/ Und mit was angſtē vnſers gemuͤtes wir,gelitten habe/ Vnd mit was angſte vnſers gemütes wir,0.09433962264150944,0.4444444444444444,0.4444444444444444,7474187,mistral
+3,gearbeit habē/ mein ich/ gib ich denen ze bedenckē die vß,gearbeit habe/ mein ich/ gib ich den̄e ze bedecke die vß,0.08771929824561403,0.2727272727272727,0.2727272727272727,7474187,mistral
+4,vil dingen erfarūg wol wiſſen/ waſda ſie vngewiſſe ding,vil dingen erfarung wol wiſſen/ waſſa fie vngewiſſe ding,0.07272727272727272,0.3333333333333333,0.3333333333333333,7474187,mistral
+5,ſuͦchen/ vnnd nit wiſſen ob die ſien zuͦ erfaren/ Und das,füchen/ vnd nit wiſſen ob die ſien zü erfaren/ Vnd das,0.12280701754385964,0.36363636363636365,0.36363636363636365,7474187,mistral
+6,ich mit eynem wort alle ding begriffe/ ſolt du wiſſen das,ich mit eynem wort alle ding begriſſe/ ſolt du wiſſendas,0.05263157894736842,0.2727272727272727,0.2727272727272727,7474187,mistral
+7,in Sechtzig tagen vnnd ſiben tagen die wir ſchiffeten,in ſechſig tagen vnd ſiben tagen die wir ſchifften,0.09433962264150944,0.3333333333333333,0.3333333333333333,7474187,mistral
+8,vier vnd viertzig tag on vnderlaß an einander gehept ha,vier vnd vierzig tag on̄ vnderlaſſ an̄ einander gehept ha,0.09090909090909091,0.4,0.4,7474187,mistral
+9,ben mit regen tonnern vnd blitzgen ſo gar finſter dz wir,ben mit regen romern vnd blitzen ſo gar finſter dz wir,0.07142857142857142,0.18181818181818182,0.18181818181818182,7474187,mistral
+10,weder Sonnē im tag noch liechtē hymel in der nacht nie,weder ſonne im tag noch liechte hymel in der nacht nie,0.05555555555555555,0.18181818181818182,0.18181818181818182,7474187,mistral
+11,geſehen haben/ Da von ſo geſchach dz vns ſolicher groſ¬,geſehen haben/ Dazvon ſo geſchach dz vnſ ſolicher groſſ,0.05454545454545454,0.4,0.4,7474187,mistral
+12,ſer ſchrecken infiel dz wir gar nach alle hoffnung vnſers,er ſchrecken infiel dz wir gar nach alle hoffnung vnſers,0.017543859649122806,0.1,0.1,7474187,mistral
+13,lebens hinwurffen/ In ſoͤlichen angſten dennoch vn̄ ſo,lebens hinwurffen/ In ſolichen angſten dennoch vn ſo,0.037037037037037035,0.25,0.25,7474187,mistral
+14,wüetungen des mers vnnd des hymels gefiel dem hoch,wüerungen des mers vnd des hymels gefiel dem hoch,0.04,0.2222222222222222,0.2222222222222222,7474187,mistral
+15,ſten gott vns ze zoigen ingewont ertrich vnnd nüw lant,ſten gott vne ſo ſoigen ingewont ertrich vnd niuw lant,0.12962962962962962,0.5,0.5,7474187,mistral
+16,ſchafften vnd ein vnbekante welt/ Das wir nach der ſel¬,ſchaffen vnd ein vnbeſante welt/ Das wir nach der ſel-,0.05454545454545454,0.3,0.3,7474187,mistral
+17,ben bſehung mit ſo groſſen freiden durchgoſſen ſynd als,ben beſebung mit ſo groſſen freuden durchgoſſen ſynd als,0.05454545454545454,0.2222222222222222,0.2222222222222222,7474187,mistral
+18,yemant wol bedencken mag/ wie gewonlich denen geſchi,yemant wol bedecken mag/ wie gewonlich den̄en geſchi,0.038461538461538464,0.25,0.25,7474187,mistral
+19,cht die vß vil mengerley betrüpnüßen vnd vnfal vnd vß,che die vß vil menſcherley beſtrümpnuſſen vnd vnfal vnd vß,0.16981132075471697,0.3,0.3,7474187,mistral
+20,widerſpeningen glück verheilet vnd funden/ vn̄ eruolgt,widerſpenigen glück verheilet vnd finden/ vñ ervolge,0.1111111111111111,0.5714285714285714,0.5714285714285714,7474187,mistral
+21,haben/ Alſo an dē Sibenden tag des monats Ouguſten,haben/ Alſo an̄ de ſiben den̄ tag des monats Augusten,0.14,0.5555555555555556,0.5555555555555556,7474187,mistral
+22,Thuſent finffhūdert vn̄ ein ior/ In d̓ gemeltē lātſchafftē,ſchuſen finſtündert vn̄ ein tor/ In ſo gemelte läſſchafftē,0.22413793103448276,0.6666666666666666,0.6666666666666666,7474187,mistral
+23,ſtaden vnd zuͦlendung wurffen wir die encker in/ got vn,ſtaden vnd ſüelendung wurffen wir die encker in/ got vn,0.05454545454545454,0.1,0.1,7474187,mistral
+24,ſerm herren lobſagendt mit hochzierlicher byt vnd gebet,ferm herren lobſagendt mit hochſierlicher byt vnd gebet,0.03636363636363636,0.25,0.25,7474187,mistral
+25,vnd mit geſang eyner zierlichen meß/ Da erkanten wir,vnd mit geſang eyner ſierlichen meſſ/ Da erſtanten wir,0.09615384615384616,0.3333333333333333,0.3333333333333333,7474187,mistral
+26,das land vnd ertrich nit ein inſel ſin/ ſunder ein ingewōt,das lant vnd ertrich nit ein inſel ſin/ ſunder ein ingerwöt,0.05172413793103448,0.18181818181818182,0.18181818181818182,7474187,mistral
+27,land denn ſich ſoͤlichs ſtrackt mit faſt langen ſtaden nitt,lant denn ſich ſolichs ſtreckt mit faſt langen ſtaden mitt,0.06779661016949153,0.4,0.4,7474187,mistral
+28,mit vmbzuͦgonen die da vmbgiengen vnd voll iſt on zall,mit vmbſigonen die da vmbgiengen vnd voll iſt on̄ all,0.09259259259259259,0.3,0.3,7474187,mistral
+29,vil inwonender lüten denn wir dar ingefunden habē on,vil inwonender lüten denn wir dar ingefunden habe on̄,0.038461538461538464,0.2222222222222222,0.2222222222222222,7474187,mistral
+30,zal vil voͤlcker vnd lüt vnd aller wald thieren geſchlecht,ſal vil völcker vnd lüt vnd aller wald thieren geſchlecht,0.05172413793103448,0.2,0.2,7474187,mistral
+31,ſo man in/ vnſern landen fyndt/ vnnd vil ander ding ſo,ſo man in vnſern landen fynde/ vnd vil ander ding ſo,0.05555555555555555,0.2727272727272727,0.2727272727272727,7474187,mistral
+32,vor von vnß nie geſehen ſynd von den ſelben allen were,vor von vnſ nie geſehen ſynd von den ſelben allen were,0.018518518518518517,0.09090909090909091,0.09090909090909091,7474187,mistral
+33,gar vil vnd lang ze ſagen/ Groſſe genad vnd barmhertzi,gar vil vnd lange ſagen/ Groſſe genad vnd barmhertzi,0.037037037037037035,0.2,0.2,7474187,mistral

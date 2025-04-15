@@ -2,15 +2,15 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 1,Famity Imposture.,Family Imposture.,0.058823529411764705,0.5,0.5,071112003,gemini
 2,Of,Of,0.0,0.0,0.0,071112003,gemini
 3,"husband. This probably will be weakened only, not destroy=","husband: This probability will be weakened only, not destroy:",0.08620689655172414,0.3333333333333333,0.3333333333333333,071112003,gemini
-4,by the intervention of an Adulterer. It may indeed be perfect=,"=ed, by the intervention of an Adulterer. It may indeed be perfect-",0.0967741935483871,0.18181818181818182,0.18181818181818182,071112003,gemini
+4,by the intervention of an Adulterer. It may indeed be perfect=,"-ed, by the intervention of an Adulterer. It may indeed be perfect.",0.0967741935483871,0.18181818181818182,0.18181818181818182,071112003,gemini
 5,ly destroyed by facts which prove the immortality of a con=­,ly destroyed by facts which prove the impossibility of a con=,0.11666666666666667,0.18181818181818182,0.18181818181818182,071112003,gemini
-6,:jugalReftrecourse with the husband; such as absence or in=,: jugal intercourse with the husband; such as absence or in=,0.1016949152542373,0.3333333333333333,0.3333333333333333,071112003,gemini
-7,disposition. But such facts are commonly notorious at the time;,disposition. But such facts are commonly notorious at the time;,0.0,0.0,0.0,071112003,gemini
+6,:jugalReftrecourse with the husband; such as absence or in=,:jugal intercourse with the husband; such as absence or in=,0.0847457627118644,0.2222222222222222,0.2222222222222222,071112003,gemini
+7,disposition. But such facts are commonly notorious at the time;,:disposition. But such facts are commonly notorious at the time;,0.015873015873015872,0.1,0.1,071112003,gemini
 8,in particular they must necessarily be known at the time to the,in particular they must necessarily be known at the time to the,0.0,0.0,0.0,071112003,gemini
 9,"party most interested in the case, viz: the Husband: so that if","party most interested in the case, viz: the Husband: so that if",0.0,0.0,0.0,071112003,gemini
 10,"they are not brought to light at the very time, they are never","they are not brought to light at the very time, they are never",0.0,0.0,0.0,071112003,gemini
 11,brought to light at all. But the fact of a suppositio partus,brought to light at all. But the fact of a suppositio partus,0.0,0.0,0.0,071112003,gemini
-12,may be brought to light at any distance of time by the treach=,may be brought to light at any distance of time by the treach=,0.0,0.0,0.0,071112003,gemini
+12,may be brought to light at any distance of time by the treach=,may be brought to light at any distance of time by the treach,0.016129032258064516,0.07692307692307693,0.07692307692307693,071112003,gemini
 13,:ery or repentance of persons privy to the imposture. The,:ery or repentance of persons privy to the imposture. The,0.0,0.0,0.0,071112003,gemini
-14,former case is therefore is attended with much less mis-,former case is therefore is attended with much less mis-,0.0,0.0,0.0,071112003,gemini
+14,former case is therefore is attended with much less mis-,former case is therefore is attended with much less mis,0.017857142857142856,0.1,0.1,071112003,gemini
 15,chief than the latter.,chief than the latter.,0.0,0.0,0.0,071112003,gemini

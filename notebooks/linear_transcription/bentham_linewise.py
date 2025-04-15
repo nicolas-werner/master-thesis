@@ -386,18 +386,18 @@ def display_comparison_stats(os):
                 continue
 
             # Format method name for display
-            if eval_type == "zero_shot":
-                display_method = "Zero Shot"
-            elif eval_type == "hybrid_zero_shot":
-                display_method = "Hybrid Zero Shot"
-            elif eval_type == "one_shot":
-                display_method = "One Shot"
-            elif eval_type == "one_shot_hybrid":
-                display_method = "One Shot Hybrid"
-            elif eval_type == "two_shot":
-                display_method = "Two Shot"
-            elif eval_type == "two_shot_hybrid":
-                display_method = "Two Shot Hybrid"
+            if eval_type == "zero_shot_lines":
+                display_method = "Zero Shot Linewise"
+            elif eval_type == "hybrid_zero_shot_lines":
+                display_method = "Hybrid Zero Shot Linewise"
+            elif eval_type == "one_shot_lines":
+                display_method = "One Shot Linewise"
+            elif eval_type == "one_shot_hybrid_lines":
+                display_method = "One Shot Hybrid Linewise"
+            elif eval_type == "two_shot_lines":
+                display_method = "Two Shot Linewise"
+            elif eval_type == "two_shot_hybrid_lines":
+                display_method = "Two Shot Hybrid Linewise"
             else:
                 display_method = eval_type.replace('_', ' ').title()
 
@@ -444,13 +444,11 @@ def display_comparison_stats(os):
         # Get unique providers in the data
         providers = sorted(unified_df['provider'].unique())
 
-        # Create a figure for method-wise comparison
-        plt.figure(figsize=(18, 10))
+        # Create a figure for method-wise comparison with dynamic sizing
+        width = max(24, 6 * len(method_groups))  # Minimum width of 24 inches
+        height = 12
 
-        # Adjust the width based on number of providers
-        width = 18 * len(method_groups) / 6
-
-        plt.figure(figsize=(width, 10))
+        plt.figure(figsize=(width, height))
 
         # For each metric, create a row of method groups
         metrics = ['wer', 'cer', 'bwer']
@@ -466,67 +464,24 @@ def display_comparison_stats(os):
         for mi, metric in enumerate(metrics):
             plt.subplot(len(metrics), 1, mi+1)
 
-            # Calculate positions for each group
-            x_positions = []
-            x_labels = []
-            x_ticks = []
+            # Explicitly create a grouped bar plot directly using the data
+            agg_df = unified_df.groupby(['method', 'provider'], observed=True)[metric].mean().reset_index()
 
-            current_pos = 0
-            baseline_value = None
+            # Find baseline value
+            baseline_data = agg_df[(agg_df['method'] == 'Baseline') & (agg_df['provider'] == 'Transkribus')]
+            if not baseline_data.empty:
+                baseline_value = baseline_data[metric].values[0]
+                baseline_values[metric] = baseline_value
+            else:
+                baseline_value = None
 
-            for gi, method_group in enumerate(method_groups):
-                method_providers = unified_df[unified_df['method'] == method_group]['provider'].unique()
+            # Create grouped bar plot using seaborn
+            ax = sns.barplot(x='method', y=metric, hue='provider', data=agg_df,
+                            palette=provider_colors, errorbar=('ci', 95))
 
-                if len(method_providers) == 0:
-                    continue
-
-                # Add group label position
-                center_pos = current_pos + (len(method_providers) / 2)
-                x_ticks.append(center_pos)
-                x_labels.append(method_group)
-
-                # Plot each provider bar within this method group
-                for pi, provider in enumerate(providers):
-                    if provider in method_providers:
-                        # Get data for this provider and method
-                        provider_data = unified_df[(unified_df['provider'] == provider) &
-                                                (unified_df['method'] == method_group)]
-
-                        if len(provider_data) > 0:
-                            # Calculate mean and std for error bars
-                            mean_val = provider_data[metric].mean()
-                            std_val = provider_data[metric].std() / np.sqrt(len(provider_data))  # Standard error
-
-                            # Save baseline value for reference line
-                            if method_group == 'Baseline' and provider == 'Transkribus':
-                                baseline_value = mean_val
-                                baseline_values[metric] = mean_val
-
-                            # Plot bar
-                            bar = plt.bar(current_pos, mean_val,
-                                        width=0.8,
-                                        color=provider_colors.get(provider, '#333333'),
-                                        edgecolor='black',
-                                        linewidth=0.5,
-                                        yerr=std_val,
-                                        capsize=5)
-
-                            # Add value label without the line artifact
-                            plt.text(current_pos, mean_val + std_val + 0.01,
-                                   f"{mean_val:.3f}",
-                                   ha='center',
-                                   va='bottom',
-                                   fontsize=9,
-                                   bbox=dict(facecolor='white', alpha=0.7, pad=1, boxstyle='round,pad=0.2'))
-
-                            # Store position for legend
-                            x_positions.append(current_pos)
-
-                            # Move to next position
-                            current_pos += 1
-
-                # Add space between groups
-                current_pos += 1
+            # Add value labels
+            for container in ax.containers:
+                ax.bar_label(container, fmt='%.3f', padding=3)
 
             # Add reference line for baseline value if it exists
             if baseline_value is not None:
@@ -538,36 +493,25 @@ def display_comparison_stats(os):
             if mi == len(metrics) - 1:  # Only for the last subplot
                 plt.xlabel('Method', fontsize=12)
 
-            # Set tick positions and labels
-            plt.xticks(x_ticks, x_labels, rotation=0, fontsize=10)
+            # Rotate x-axis labels for better readability
+            plt.xticks(rotation=30, ha='right')
 
             # Add grid for readability
             plt.grid(axis='y', linestyle='--', alpha=0.7)
 
-            # Only add legend to the first subplot
-            if mi == 0:
-                # Create custom legend
-                legend_elements = [plt.Rectangle((0,0), 1, 1,
-                                              facecolor=provider_colors.get(provider, '#333333'),
-                                              edgecolor='black',
-                                              linewidth=0.5,
-                                              label=provider.title())
-                                 for provider in providers]
+            # Create proper legend with baseline included
+            handles, labels = ax.get_legend_handles_labels()
+            if baseline_value is not None:
+                baseline_line = plt.Line2D([0], [0], color='orange', linestyle=':', linewidth=1.5)
+                handles.append(baseline_line)
+                labels.append(f'Baseline ({baseline_value:.3f})')
 
-                # Add reference line to legend if baseline exists
-                if baseline_value is not None:
-                    legend_elements.append(plt.Line2D([0], [0], color='orange', linestyle=':', linewidth=1.5,
-                                                   label=f'Baseline ({baseline_value:.3f})'))
-
-                plt.legend(handles=legend_elements,
-                         title='Provider',
-                         loc='upper right',
-                         ncol=len(providers))
+            plt.legend(handles=handles, labels=labels, title='Provider', loc='best')
 
         plt.suptitle('Method-wise Comparison by Provider', fontsize=16, fontweight='bold', y=0.95)
-        plt.tight_layout(rect=[0, 0, 1, 0.95])  # Adjust for suptitle
+        plt.tight_layout(rect=[0, 0, 1, 0.93])  # Adjust to give more space for suptitle
 
-        # Save figure
+        # Save figure with bbox_inches='tight' to ensure all elements fit
         buf = io.BytesIO()
         plt.savefig(buf, format='png', dpi=150, bbox_inches='tight')
         buf.seek(0)
@@ -580,7 +524,7 @@ def display_comparison_stats(os):
         metric_grid = []
 
         # Create a figure for all metric combinations
-        plt.figure(figsize=(15, 15))
+        plt.figure(figsize=(18, 18))  # Increased from (15, 15)
 
         # Create a 3x1 grid of bar plots for CER, WER, BWER by method and provider
         for i, metric in enumerate(['cer', 'wer', 'bwer']):
@@ -626,9 +570,9 @@ def display_comparison_stats(os):
 
             plt.tight_layout()
 
-        # Save figure
+        # Save figure with bbox_inches='tight'
         buf = io.BytesIO()
-        plt.savefig(buf, format='png', dpi=100)
+        plt.savefig(buf, format='png', dpi=100, bbox_inches='tight')
         buf.seek(0)
         img_str = base64.b64encode(buf.read()).decode('utf-8')
         plt.close()
@@ -641,7 +585,7 @@ def display_comparison_stats(os):
         # Calculate means for each provider-method combination
         avg_metrics = unified_df.groupby('provider_method')[['cer', 'wer', 'bwer']].mean().reset_index()
 
-        plt.figure(figsize=(15, 10))
+        plt.figure(figsize=(18, 12))  # Increased from (15, 10)
         for i, metric in enumerate(['cer', 'wer', 'bwer']):
             plt.subplot(3, 1, i+1)
 
@@ -684,9 +628,9 @@ def display_comparison_stats(os):
 
             plt.tight_layout()
 
-        # Save figure
+        # Save figure with bbox_inches='tight'
         buf = io.BytesIO()
-        plt.savefig(buf, format='png', dpi=100)
+        plt.savefig(buf, format='png', dpi=100, bbox_inches='tight')
         buf.seek(0)
         img_str = base64.b64encode(buf.read()).decode('utf-8')
         plt.close()
@@ -749,7 +693,6 @@ def display_comparison_stats(os):
             *ranking_chart,
             comparison_table
         ])
-
     ##################
 
     def get_example_content(num_examples=1):
@@ -766,7 +709,7 @@ def display_comparison_stats(os):
 
         example_paths = [
             {
-                "gt_path": 'data/bentham_10_test/few-shot-samples/116_649001.xml',
+                "gt_path": 'data/bentham_10_test/few-shot-samples/116649001.xml',
                 "img_path": 'data/bentham_10_test/few-shot-samples/116649001.jpg'
             },
             {
@@ -902,31 +845,24 @@ def _(mo):
 
     system_prompt = mo.ui.text_area(label="System Prompt", full_width=True, rows=20, value="""
     You are a expert for historical english handwritten manuscripts — especially those authored by Jeremy Bentham (1748–1832).
-    Please transcribe the provided manuscript image line by line. Transcribe exactly what you see in the image,
-    preserving the original text without modernizing or correcting spelling.
+    Please transcribe the provided line image exactly as it appears. Transcribe exactly what you see in the image, preserving the original text without modernizing or correcting spelling.
 
     Important instructions:
     1. Use original historical characters and spelling.
     2. Preserve abbreviations, marginalia, and special characters.
-    3. Separate each line with a newline character (\n)
     4. Do not add any explanations or commentary
     5. Do not include line numbers
     6. Transcribe text only, ignore decorative elements or stamps unless they contain readable text
     7. Ignore text that is clearly struck through in the manuscript
 
-    CRITICAL LINE BREAK INSTRUCTIONS:
-    - You MUST maintain the EXACT same number of lines as in the original manuscript
-    - Each physical line in the manuscript should be ONE line in your transcription
-    - DO NOT merge short lines together
-    - DO NOT split long lines into multiple lines
-    - Preserve the exact same line structure as the manuscript
+    If you're uncertain about a character, provide your best interpretation.
 
     """)
 
     provider_models = {
         "openai": "gpt-4o",
         "gemini": "gemini-2.0-flash",
-        # "mistral": "pixtral-large-latest",
+        "mistral": "mistral-small-latest",
 
     }
 
@@ -985,35 +921,40 @@ def _(
     provider_models,
     run_line_evaluation,
     system_prompt,
+    zero_shot_run_button,
 ):
-    def create_zero_shot_line_messages(doc_id, line_id, line_image, line_idx):
-        # Encode the line image
-        line_image_base64 = encode_image_object(line_image)
+    if zero_shot_run_button.value:
+        def create_zero_shot_line_messages(doc_id, line_id, line_image, line_idx):
+            # Encode the line image
+            line_image_base64 = encode_image_object(line_image)
 
-        return [
-            {"role": "system", "content": system_prompt.value},
-            {
-                "role": "user",
-                "content": [
-                    {
-                        "type": "image_url",
-                        "image_url": {"url": f"data:image/jpeg;base64,{line_image_base64}"}
-                    }
-                ]
-            }
-        ]
+            return [
+                {"role": "system", "content": system_prompt.value},
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "image_url",
+                            "image_url": {"url": f"data:image/jpeg;base64,{line_image_base64}"}
+                        }
+                    ]
+                }
+            ]
 
-    # Run the line-based evaluation
-    zero_shot_line_results = run_line_evaluation(
-        provider_models=provider_models,
-        gt_dir='data/bentham_10_test/ground_truth_renamed',
-        image_dir='data/bentham_10_test/images_renamed',
-        transkribus_dir='results/linear_transcription/bentham_papers/transkribus_10_test_renamed',
-        base_output_dir='bentham_temp_lines',
-        create_line_messages=create_zero_shot_line_messages,
-        eval_type='zero_shot_lines',
-        limit=limit_docs
-    )
+        # Run the line-based evaluation
+        zero_shot_line_results = run_line_evaluation(
+            provider_models=provider_models,
+            gt_dir='data/bentham_10_test/ground_truth_renamed',
+            image_dir='data/bentham_10_test/images_renamed',
+            transkribus_dir='results/linear_transcription/bentham_papers/transkribus_10_test_renamed',
+            base_output_dir='bentham_temp_lines',
+            create_line_messages=create_zero_shot_line_messages,
+            eval_type='zero_shot_lines',
+            limit=limit_docs,
+            parallel=True,
+            max_workers=None,
+            use_structured_output=True 
+        )
     return create_zero_shot_line_messages, zero_shot_line_results
 
 
@@ -1113,7 +1054,10 @@ def _(
             base_output_dir='bentham_temp_lines',
             create_line_messages=create_hybrid_line_messages,
             eval_type='hybrid_zero_shot_lines',
-            limit=limit_docs
+            limit=limit_docs,
+            parallel=True,
+            max_workers=None,
+            use_structured_output=True 
         )
     return (
         create_hybrid_line_messages,
@@ -1194,7 +1138,7 @@ def _(
 
                 # Use the first line as our example
                 if os1_line_data['lines'] and len(os1_line_data['lines']) > 0:
-                    os1_line = os1_line_data['lines'][0]
+                    os1_line = os1_line_data['lines'][8] # index 8!
                     os1_line_image = os1_line['image']
                     os1_line_text = os1_line['text']
 
@@ -1216,7 +1160,7 @@ def _(
                                 "content": [
                                     {
                                         "type": "text",
-                                        "text": "Review the following example of a line from a historical handwritten document along with its correct transcription. This shows how to handle abbreviations and typographic features.\n\n**Use this example to learn how to transcribe historical documents — do not copy the example text directly.**"
+                                        "text": "Review the following example of a line from a historical handwritten document along with its correct transcription. This shows how to handle abbreviations and typographic features.\n\n**Use this example to learn how to transcribe historical documents — do not copy the example text directly and **"
                                     },
                                     {
                                         "type": "image_url",
@@ -1224,7 +1168,7 @@ def _(
                                     },
                                     {
                                         "type": "text",
-                                        "text": f"==== CORRECT TRANSCRIPTION ====\n{os1_line_text}"
+                                        "text": f"CORRECT TRANSCRIPTION\n{os1_line_text}"
                                     }
                                 ]
                             },
@@ -1251,7 +1195,10 @@ def _(
                         base_output_dir='bentham_temp_lines',
                         create_line_messages=create_one_shot_line_messages,
                         eval_type='one_shot_lines',
-                        limit=limit_docs
+                        limit=limit_docs,
+                        parallel=True,
+                        max_workers=None,
+                        use_structured_output=True 
                     )
                 else:
                     print("⚠️ Could not extract lines from the example page")
@@ -1338,9 +1285,9 @@ def _(
 ):
     if one_shot_hybrid_run_button.value:
         # Manually construct the example with the correct paths
-        # example_img_path = 'data/bentham_10_test/few-shot-samples/116649001.jpg'
-        # example_xml_path = 'data/bentham_10_test/few-shot-samples/transkribus/0102_116649001.xml'
-        example_doc_id = '116649001'  # Extract from filename
+        # example_img_path = 'data/reichenau_10_test/few-shot-samples/7474192.jpg'
+        # example_xml_path = 'data/reichenau_10_test/few-shot-samples/transkribus/0001_7474192.xml'
+        example_doc_id = '7474192'  # Extract from filename
 
         # Check if the files exist
         if os.path.exists(example_img_path) and os.path.exists(example_xml_path):
@@ -1351,15 +1298,15 @@ def _(
 
             # Use the first line as our example
             if osh_line_data['lines'] and len(osh_line_data['lines']) > 0:
-                osh_line = osh_line_data['lines'][0]
+                osh_line = osh_line_data['lines'][8]
                 osh_line_image = osh_line['image']
                 osh_line_text = osh_line['text']
 
-                # Get Transkribus text for this line
+                # Get Transkribus text for this line - directly from the example XML
                 osh_transkribus_lines = extract_line_coords_from_xml(example_xml_path)
                 osh_line_transkribus_text = ""
                 if osh_transkribus_lines and len(osh_transkribus_lines) > 0:
-                    osh_line_transkribus_text = osh_transkribus_lines[0].get('text', '')
+                    osh_line_transkribus_text = osh_transkribus_lines[8].get('text', '')
 
                 if not osh_line_transkribus_text:
                     osh_line_transkribus_text = "[No Transkribus transcription available for this example]"
@@ -1385,8 +1332,8 @@ def _(
                     # Encode target line image
                     line_image_base64 = encode_image_object(line_image)
 
-                    # Create messages with same structure as original code
-                    return [
+                    # Create messages with the original structure
+                    messages = [
                         {
                             "role": "system",
                             "content": system_prompt.value
@@ -1396,7 +1343,7 @@ def _(
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Review the following example of a historical handwritten line. It includes both:\n\n(1) A raw OCR transcription from Transkribus\n(2) The correct ground truth transcription\n\nThis shows how to improve upon the OCR output and handle abbreviations or typographic features.\n\n**Use this example to learn how to improve OCR transcriptions — do not copy the example text directly.**"
+                                    "text": "Review the following example of historical handwritten line along with the transcriptions. It includes both:\n\n(1) A raw OCR transcription from Transkribus\n(2) The correct ground truth transcription\n\nThis shows how to improve upon the OCR output and handle abbreviations or typographic features.\n\n**Use this example to learn how to improve OCR transcriptions — do not copy the example text directly.**"
                                 },
                                 {
                                     "type": "image_url",
@@ -1404,7 +1351,7 @@ def _(
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{osh_line_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{osh_line_text}"
+                                    "text": f"(1) TRANSKRIBUS OCR OUTPUT\n{osh_line_transkribus_text}\n---\n(2) CORRECT TRANSCRIPTION ====\n{osh_line_text}"
                                 }
                             ]
                         },
@@ -1421,11 +1368,13 @@ def _(
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"The following is the output of a traditional OCR model from Transkribus. It is fine-tuned on historic handwritten texts. It can help you transcribe this line, but may also contain errors:\n\n{transkribus_line_text}"
+                                    "text": f"The following is the output of a traditional OCR model from Transkribus for this line. It can help you transcribe this line, but may also contain errors:\n\n{transkribus_line_text}"
                                 }
                             ]
                         }
                     ]
+
+                    return messages
 
                 one_shot_hybrid_line_results = run_line_evaluation(
                     provider_models=provider_models,
@@ -1435,7 +1384,10 @@ def _(
                     base_output_dir='bentham_temp_lines',
                     create_line_messages=create_one_shot_hybrid_line_messages,
                     eval_type='one_shot_hybrid_lines',
-                    limit=limit_docs
+                    limit=limit_docs,
+                    parallel=True,
+                    max_workers=None,
+                    use_structured_output=True 
                 )
             else:
                 print("⚠️ Could not extract lines from the example page")
@@ -1536,12 +1488,12 @@ def _(
                 ts_example2_line_data['lines'] and len(ts_example2_line_data['lines']) > 0):
 
                 # Get first line from first example
-                ts_example1_line = ts_example1_line_data['lines'][0]
+                ts_example1_line = ts_example1_line_data['lines'][8]
                 ts_example1_line_image = ts_example1_line['image']
                 ts_example1_line_text = ts_example1_line['text']
 
                 # Get first line from second example
-                ts_example2_line = ts_example2_line_data['lines'][0]
+                ts_example2_line = ts_example2_line_data['lines'][1]
                 ts_example2_line_image = ts_example2_line['image']
                 ts_example2_line_text = ts_example2_line['text']
 
@@ -1574,7 +1526,7 @@ def _(
                                     },
                                     {
                                         "type": "text",
-                                        "text": f"==== CORRECT TRANSCRIPTION ====\n{example1_text}"
+                                        "text": f"CORRECT TRANSCRIPTION\n{example1_text}"
                                     }
                                 ]
                             },
@@ -1591,7 +1543,7 @@ def _(
                                     },
                                     {
                                         "type": "text",
-                                        "text": f"==== CORRECT TRANSCRIPTION ====\n{example2_text}"
+                                        "text": f"CORRECT TRANSCRIPTION\n{example2_text}"
                                     }
                                 ]
                             },
@@ -1627,7 +1579,10 @@ def _(
                     base_output_dir='bentham_temp_lines',
                     create_line_messages=message_creator,
                     eval_type='two_shot_lines',
-                    limit=limit_docs
+                    limit=limit_docs,
+                    parallel=True,
+                    max_workers=None,
+                    use_structured_output=True 
                 )
             else:
                 print("⚠️ Could not extract lines from one or both example pages")
@@ -1745,12 +1700,12 @@ def _(
                 tsh_example2_line_data['lines'] and len(tsh_example2_line_data['lines']) > 0):
 
                 # Get first line from first example
-                tsh_example1_line = tsh_example1_line_data['lines'][0]
+                tsh_example1_line = tsh_example1_line_data['lines'][8]
                 tsh_example1_line_image = tsh_example1_line['image']
                 tsh_example1_line_text = tsh_example1_line['text']
 
                 # Get first line from second example
-                tsh_example2_line = tsh_example2_line_data['lines'][0]
+                tsh_example2_line = tsh_example2_line_data['lines'][1]
                 tsh_example2_line_image = tsh_example2_line['image']
                 tsh_example2_line_text = tsh_example2_line['text']
 
@@ -1758,7 +1713,7 @@ def _(
                 tsh_example1_transkribus_lines = extract_line_coords_from_xml(tsh_example1_xml_path)
                 tsh_example1_line_transkribus_text = ""
                 if tsh_example1_transkribus_lines and len(tsh_example1_transkribus_lines) > 0:
-                    tsh_example1_line_transkribus_text = tsh_example1_transkribus_lines[0].get('text', '')
+                    tsh_example1_line_transkribus_text = tsh_example1_transkribus_lines[8].get('text', '')
 
                 if not tsh_example1_line_transkribus_text:
                     tsh_example1_line_transkribus_text = "[No Transkribus transcription available for this example]"
@@ -1768,7 +1723,7 @@ def _(
                 tsh_example2_transkribus_lines = extract_line_coords_from_xml(tsh_example2_xml_path)
                 tsh_example2_line_transkribus_text = ""
                 if tsh_example2_transkribus_lines and len(tsh_example2_transkribus_lines) > 0:
-                    tsh_example2_line_transkribus_text = tsh_example2_transkribus_lines[0].get('text', '')
+                    tsh_example2_line_transkribus_text = tsh_example2_transkribus_lines[1].get('text', '')
 
                 if not tsh_example2_line_transkribus_text:
                     tsh_example2_line_transkribus_text = "[No Transkribus transcription available for this example]"
@@ -1806,7 +1761,7 @@ def _(
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Review the following example of a historical handwritten line. It includes both:\n\n(1) A raw OCR transcription from Transkribus\n(2) The correct ground truth transcription\n\nThis shows how to improve upon the OCR output and handle abbreviations or typographic features.\n\n**Use these examples to learn how to improve OCR transcriptions — do not copy the example text directly.**"
+                                    "text": "Review the following examples of historical handwritten lines along with the transcriptions. It includes both:\n\n(1) A raw OCR transcription from Transkribus\n(2) The correct ground truth transcription\n\nThis shows how to improve upon the OCR output and handle abbreviations or typographic features.\n\n**Use these examples to learn how to improve OCR transcriptions — do not copy the example text directly.**"
                                 },
                                 {
                                     "type": "image_url",
@@ -1814,7 +1769,7 @@ def _(
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{tsh_example1_line_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{tsh_example1_line_text}"
+                                    "text": f"(1) TRANSKRIBUS OCR OUTPUT\n{tsh_example1_line_transkribus_text}\n---\n(2) CORRECT TRANSCRIPTION\n{tsh_example1_line_text}"
                                 }
                             ]
                         },
@@ -1823,7 +1778,7 @@ def _(
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Here's a second example of a historical handwritten line along with its correct transcription:"
+                                    "text": "Here's a second example:"
                                 },
                                 {
                                     "type": "image_url",
@@ -1831,7 +1786,7 @@ def _(
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{tsh_example2_line_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{tsh_example2_line_text}"
+                                    "text": f"(1) TRANSKRIBUS OCR OUTPUT\n{tsh_example2_line_transkribus_text}\n---\n(2) CORRECT TRANSCRIPTION\n{tsh_example2_line_text}"
                                 }
                             ]
                         },
@@ -1848,7 +1803,7 @@ def _(
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"The following is the output of a traditional OCR model from Transkribus. It is fine-tuned on historic handwritten texts. It can help you transcribe this line, but may also contain errors:\n\n{transkribus_line_text}"
+                                    "text": f"The following is the output of a traditional OCR model from Transkribus for this line. It is fine-tuned on historic handwritten texts. It can help you transcribe this line, but may also contain errors:\n\n{transkribus_line_text}"
                                 }
                             ]
                         }
@@ -1862,7 +1817,10 @@ def _(
                     base_output_dir='bentham_temp_lines',
                     create_line_messages=create_two_shot_hybrid_line_messages,
                     eval_type='two_shot_hybrid_lines',
-                    limit=limit_docs
+                    limit=limit_docs,
+                    parallel=True,
+                    max_workers=None,
+                    use_structured_output=True 
                 )
             else:
                 print("⚠️ Could not extract lines from one or both example pages")
@@ -1948,7 +1906,7 @@ def _(create_cross_method_comparison, mo, os, pd, transkribus_df):
         with open(comparison_path, 'r') as f:
             comparison_data = json.load(f)
 
-        # Load provider results
+        # Load provider result
         provider_results = {}
         for provider in comparison_data.keys():
             if provider == "transkribus":
@@ -1968,7 +1926,7 @@ def _(create_cross_method_comparison, mo, os, pd, transkribus_df):
         "zero_shot_lines",
         "one_shot_lines",
         "two_shot_lines",
-        "hybrid_zero_shot",
+        "hybrid_zero_shot_lines",
         "one_shot_hybrid_lines",
         "two_shot_hybrid_lines"
     ]
@@ -2004,11 +1962,6 @@ def _(create_cross_method_comparison, mo, os, pd, transkribus_df):
         load_results_from_temp,
         results,
     )
-
-
-@app.cell
-def _():
-    return
 
 
 if __name__ == "__main__":

@@ -4,10 +4,10 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 3,Uws he may be not only punished crimenally for the calumny,Jews he may be not only punished criminally for the calumny,0.05172413793103448,0.18181818181818182,0.18181818181818182,071133003,openai
 4,"thrown on the Sect, but made civilly responsible for the particular","thrown on the Sect, but made civilly responsible for the particular",0.0,0.0,0.0,071133003,openai
 5,mischief done to the individual I ews whose persons or property,mischief done to the individual Jews whose persons or property,0.031746031746031744,0.18181818181818182,0.18181818181818182,071133003,openai
-6,were thus attached.,were thus attached.,0.0,0.0,0.0,071133003,openai
+6,were thus attached.,were thus attacked.,0.05263157894736842,0.3333333333333333,0.3333333333333333,071133003,openai
 7,"As to any farther particulars relative to this head, they","As to any farther particulars relative to this head, they",0.0,0.0,0.0,071133003,openai
 8,of men,of men,0.0,0.0,0.0,071133003,openai
-9,must depend upon the particular class in question. They are therefore,must depend upon the particular clas in question. They are therefor⟨e⟩,0.043478260869565216,0.18181818181818182,0.18181818181818182,071133003,openai
+9,must depend upon the particular class in question. They are therefore,must depend upon the particular clas in question. They are therefor,0.028985507246376812,0.18181818181818182,0.18181818181818182,071133003,openai
 10,stand,stand,0.0,0.0,0.0,071133003,openai
-11,of a local nature; and are without the limits of the present under,of a local nature; and stand without the limits of the present address,0.13636363636363635,0.15384615384615385,0.15384615384615385,071133003,openai
+11,of a local nature; and are without the limits of the present under,of a local nature: and stand without the limits of the present index,0.10606060606060606,0.23076923076923078,0.23076923076923078,071133003,openai
 12,taking work.,to being work.,0.3333333333333333,1.0,1.0,071133003,openai

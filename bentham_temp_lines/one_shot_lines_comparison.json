@@ -1,23 +1,23 @@
 {
-  "openai": {
-    "model": "gpt-4o",
-    "avg_cer": 0.047335483951773005,
-    "avg_wer": 0.13430855096050287,
-    "avg_bwer": 0.12924263758950474,
-    "doc_count": 10
-  },
   "gemini": {
     "model": "gemini-2.0-flash",
-    "avg_cer": 0.04267789800117822,
-    "avg_wer": 0.14813254529879805,
-    "avg_bwer": 0.1436748242514662,
+    "avg_cer": 0.04098138915137521,
+    "avg_wer": 0.13727825200679855,
+    "avg_bwer": 0.13078803464574543,
     "doc_count": 10
   },
   "mistral": {
-    "model": "pixtral-large-latest",
-    "avg_cer": 0.9424284552076794,
-    "avg_wer": 0.8715186164793728,
-    "avg_bwer": 0.9383883183662576,
+    "model": "mistral-small-latest",
+    "avg_cer": 0.05832636985145364,
+    "avg_wer": 0.1672657964143783,
+    "avg_bwer": 0.15777605791186172,
+    "doc_count": 10
+  },
+  "openai": {
+    "model": "gpt-4o",
+    "avg_cer": 0.0414284682013504,
+    "avg_wer": 0.1378773492520459,
+    "avg_bwer": 0.1311165206268105,
     "doc_count": 10
   }
 }

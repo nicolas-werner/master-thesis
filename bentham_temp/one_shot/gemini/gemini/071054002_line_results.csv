@@ -2,7 +2,7 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 1,46,46.,0.5,1.0,1.0,071054002,gemini
 2,Theft Embezzlement and Fraudulent obtainment,C,1.0,1.0,1.0,071054002,gemini
 3,there is no difference in the punishment. It will easily,Theft Embezzlement and Fraudulent obtainment,0.7321428571428571,1.0,1.0,071054002,gemini
-4,therefore be censured that they will be apt to,There is no difference in the punishment _ it will easily,0.8478260869565217,1.2222222222222223,1.1111111111111112,071054002,gemini
+4,therefore be censured that they will be apt to,There is no difference in the punishment. It will easily,0.8478260869565217,1.1111111111111112,1.0,071054002,gemini
 5,that difficulty in proportion as the punishment is,therefore be ensured that they will be apt to,0.74,1.125,1.0,071054002,gemini
 6,more severe,that difficulty in proportion as the punishment is,4.0,4.0,4.0,071054002,gemini
 7,C,more severe,11.0,2.0,2.0,071054002,gemini

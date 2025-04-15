@@ -1019,27 +1019,27 @@ def _(mo):
     # siehe https://www.blb-karlsruhe.de/blblog/2023-10-13-projekt-reichenauer-inkunabeln Meta Infos zum Buch
 
     system_prompt = mo.ui.text_area(label="System Prompt", full_width=True, rows=20, value="""
-    You are an expert in historical typography and early printed books (incunabula) from the 15th century.
-    Please transcribe the provided line image exactly as it appears.
-
+    You are an expert in historical typography and early printed books (incunabula) from the 15th century. You will be presented with images from single text lines. Please transcribe the provided line image exactly as it appears.
     Important instructions:
-    1. Preserve original historical spellings, abbreviations, and special characters.
-    2. Pay particular attention to:
+    1. If the image shows part of an illustration, decoration, or non-textual element, return an empty string.
+    2. Preserve original historical spellings, abbreviations, and special characters.
+    3. Pay particular attention to:
        - Early printed ligatures (connected letter combinations)
        - Abbreviation marks and symbols
-       - Special characters from medieval Latin or German
-    3. Do not expand abbreviations unless absolutely necessary
-    4. Do not add any explanations or commentary
-    5. Transcribe exactly what you see, maintaining historical orthography
+       - Special characters from medieval Latin or German, such as: ¬, uͤ, n̄, ē, ſ, ꝛ, ꝯ, ꝫ, ꝓ, ꝟ, ẜ, etc.
+    4. Do not expand abbreviations.
+    5. Do not add any explanations or commentary. Only return the transcribed text.
+    6. Transcribe exactly what you see, maintaining historical orthography.
+    7. If the image contains no text, return an empty string.
 
+    The Line Segmentation for the page could be faulty. It could happen that the line images contain line artifacts from other lines. Focus ONLY on the primary text line in the the image, ignoring partial text from lines above or below.
     If you're uncertain about a character, provide your best interpretation.
-
     """)
 
     provider_models = {
         "openai": "gpt-4o",
         "gemini": "gemini-2.0-flash",
-        # "mistral": "pixtral-large-latest",
+        "mistral": "mistral-small-latest",
 
     }
 
@@ -1103,16 +1103,13 @@ def _(
     provider_models,
     run_line_evaluation,
     system_prompt,
-    visualize_message,
     zero_shot_run_button,
 ):
     if zero_shot_run_button.value:
 
 
-        # Modified create_zero_shot_line_messages function
         def create_zero_shot_line_messages(doc_id, line_id, line_image, line_idx):
 
-            # Encode the line image
             line_image_base64 = encode_image_object(line_image)
 
             messages = [
@@ -1128,15 +1125,10 @@ def _(
                 }
             ]
 
-            if line_idx < 3:
-                visualize_message(doc_id, line_id, line_image, line_idx,
-                                 lambda d, l, img, i: messages,
-                                 prompt_type="zero_shot")
             return messages
 
 
 
-        # Run the line-based evaluation
         zero_shot_line_results = run_line_evaluation(
             provider_models=provider_models,
             gt_dir='data/reichenau_10_test/ground_truth',
@@ -1145,7 +1137,10 @@ def _(
             base_output_dir='reichenau_temp_lines',
             create_line_messages=create_zero_shot_line_messages,
             eval_type='zero_shot_lines',
-            limit=limit_docs
+            limit=limit_docs,
+            parallel=True, 
+            max_workers=None, 
+            use_structured_output=True  
         )
     return create_zero_shot_line_messages, zero_shot_line_results
 
@@ -1197,19 +1192,17 @@ def _(
     provider_models,
     run_line_evaluation,
     system_prompt,
-    visualize_message,
     zero_shot_hybrid_run_button,
 ):
     from src.file_utils import find_file_for_id, extract_line_coords_from_xml
 
     if zero_shot_hybrid_run_button.value:
         def create_hybrid_line_messages(doc_id, line_id, line_image, line_idx):
-            # First, get Transkribus file path for this document
             transkribus_path = find_file_for_id(
-                doc_id,
-                'results/linear_transcription/reichenau_inkunabeln/transkribus_10_test',
-                ['.xml']
-            )
+                        doc_id,
+                        'results/linear_transcription/reichenau_inkunabeln/transkribus_10_test',
+                        ['.xml']
+                    )
 
             # Get the line text from Transkribus for this specific line
             transkribus_line_text = ""
@@ -1224,7 +1217,6 @@ def _(
             # Encode the line image
             line_image_base64 = encode_image_object(line_image)
 
-            # Create messages with Transkribus line output as reference
             messages = [
                 {"role": "system", "content": system_prompt.value},
                 {
@@ -1234,25 +1226,10 @@ def _(
                             "type": "image_url",
                             "image_url": {"url": f"data:image/jpeg;base64,{line_image_base64}"}
                         },
-                        {"type": "text", "text": f"The following is the output of a traditional OCR model (Transkribus) for this line. It can help with your transcription, but may contain errors:\n\n\"{transkribus_line_text}\""},
+                        {"type": "text", "text": f"The following is the OCR output for this line. It may contain errors:\n{transkribus_line_text}"},
                     ]
                 }
             ]
-
-            # Visualize the first few examples from each document
-            if line_idx < 3:  # Visualize the first 5 lines of each document
-                try:
-                    visualize_message(
-                        doc_id=doc_id,
-                        line_id=line_id,
-                        line_image=line_image,
-                        line_idx=line_idx,
-                        message_func=lambda d, l, img, i: messages,  # Return the already created messages
-                        prompt_type="hybrid_zero_shot",
-                        output_dir='reichenau_prompts'  # Change this to your preferred output directory
-                    )
-                except Exception as e:
-                    print(f"Visualization error: {e}")
 
             return messages
 
@@ -1264,7 +1241,10 @@ def _(
             base_output_dir='reichenau_temp_lines',
             create_line_messages=create_hybrid_line_messages,
             eval_type='hybrid_zero_shot_lines',
-            limit=limit_docs
+            limit=limit_docs,
+            parallel=True,
+            max_workers=None,
+            use_structured_output=True
         )
     return (
         create_hybrid_line_messages,
@@ -1345,7 +1325,7 @@ def _(
 
                 # Use the first line as our example
                 if os1_line_data['lines'] and len(os1_line_data['lines']) > 0:
-                    os1_line = os1_line_data['lines'][0]
+                    os1_line = os1_line_data['lines'][1]
                     os1_line_image = os1_line['image']
                     os1_line_text = os1_line['text']
 
@@ -1375,7 +1355,7 @@ def _(
                                     },
                                     {
                                         "type": "text",
-                                        "text": f"==== CORRECT TRANSCRIPTION ====\n{os1_line_text}"
+                                        "text": f"CORRECT TRANSCRIPTION\n{os1_line_text}\n---\n"
                                     }
                                 ]
                             },
@@ -1394,61 +1374,6 @@ def _(
                             }
                         ]
 
-                        # Visualize the first few examples (with enhanced visualization)
-                        if line_idx < 3:
-                            try:
-                                # Create output directory structure
-                                output_dir = 'reichenau_prompts'
-                                prompt_dir = os.path.join(output_dir, "one_shot")
-                                doc_dir = os.path.join(prompt_dir, doc_id)
-                                os.makedirs(doc_dir, exist_ok=True)
-
-                                # Save both the example line and target line images
-                                os1_line_image.save(os.path.join(doc_dir, f"line_{line_idx}_example.jpg"))
-                                line_image.save(os.path.join(doc_dir, f"line_{line_idx}_target.jpg"))
-
-                                # Save the full prompt text
-                                with open(os.path.join(doc_dir, f"line_{line_idx}_prompt.txt"), 'w', encoding='utf-8') as f:
-                                    f.write(f"Document ID: {doc_id}\n")
-                                    f.write(f"Line ID: {line_id}\n")
-                                    f.write(f"Line Index: {line_idx}\n")
-                                    f.write(f"Prompt Type: one_shot\n\n")
-
-                                    f.write("=== SYSTEM ===\n")
-                                    f.write(f"{system_prompt.value}\n\n")
-
-                                    f.write("=== USER (Example) ===\n")
-                                    f.write("Review the following example of a line from a historical printed document along with its correct transcription. This shows how to handle abbreviations and typographic features.\n\n**Use this example to learn how to transcribe historical documents — do not copy the example text directly.**\n\n")
-                                    f.write("[IMAGE: Example Line]\n\n")
-                                    f.write(f"==== CORRECT TRANSCRIPTION ====\n{os1_line_text}\n\n")
-
-                                    f.write("=== USER (Target) ===\n")
-                                    f.write("Now transcribe the following line:\n\n")
-                                    f.write("[IMAGE: Target Line]\n")
-
-                                # Create a side-by-side visualization
-                                import matplotlib.pyplot as plt
-                                plt.figure(figsize=(10, 6))
-
-                                # Example line
-                                plt.subplot(2, 1, 1)
-                                plt.imshow(os1_line_image)
-                                plt.title("Example Line")
-                                plt.xlabel(f"Transcription: {os1_line_text}")
-                                plt.axis('off')
-
-                                # Target line
-                                plt.subplot(2, 1, 2)
-                                plt.imshow(line_image)
-                                plt.title(f"Target Line (Document: {doc_id}, Line: {line_idx})")
-                                plt.axis('off')
-
-                                plt.tight_layout()
-                                plt.savefig(os.path.join(doc_dir, f"line_{line_idx}_comparison.png"), dpi=150, bbox_inches='tight')
-                                plt.close()
-
-                            except Exception as e:
-                                print(f"Visualization error: {e}")
 
                         return messages
 
@@ -1460,7 +1385,10 @@ def _(
                         base_output_dir='reichenau_temp_lines',
                         create_line_messages=create_one_shot_line_messages,
                         eval_type='one_shot_lines',
-                        limit=limit_docs
+                        limit=limit_docs,
+                        parallel=True,  # Enable parallel processing
+                        max_workers=None,  # Auto-detect number of workers
+                        use_structured_output=True 
                     )
                 else:
                     print("⚠️ Could not extract lines from the example page")
@@ -1548,34 +1476,27 @@ def _(
     if one_shot_hybrid_run_button.value:
         # Manually construct the example with the correct paths
         # example_img_path = 'data/reichenau_10_test/few-shot-samples/7474192.jpg'
-        # example_xml_path = 'data/reichenau_10_test/few-shot-samples/7474192.xml'
+        # example_xml_path = 'data/reichenau_10_test/few-shot-samples/transkribus/0001_7474192.xml'
         example_doc_id = '7474192'  # Extract from filename
 
         # Check if the files exist
         if os.path.exists(example_img_path) and os.path.exists(example_xml_path):
             print("✅ Using examples from dedicated example folder for one-shot hybrid learning")
 
-            # Process the example page to extract line images using ground truth coordinates
-            osh_line_data = process_page_by_lines(example_img_path, example_xml_path, use_ground_truth=True)
+            # Process the example page to extract line images
+            osh_line_data = process_page_by_lines(example_img_path, example_xml_path)
 
             # Use the first line as our example
             if osh_line_data['lines'] and len(osh_line_data['lines']) > 0:
-                osh_line = osh_line_data['lines'][0]
+                osh_line = osh_line_data['lines'][1]
                 osh_line_image = osh_line['image']
                 osh_line_text = osh_line['text']
 
-                # Get Transkribus text for this line
-                transkribus_example_path = find_file_for_id(
-                    example_doc_id,
-                    'data/reichenau_10_test/few-shot-samples/transkribus',
-                    ['.xml']
-                )
-
+                # Get Transkribus text for this line - directly from the example XML
+                osh_transkribus_lines = extract_line_coords_from_xml(example_xml_path)
                 osh_line_transkribus_text = ""
-                if transkribus_example_path:
-                    osh_transkribus_lines = extract_line_coords_from_xml(transkribus_example_path)
-                    if osh_transkribus_lines and len(osh_transkribus_lines) > 0:
-                        osh_line_transkribus_text = osh_transkribus_lines[0].get('text', '')
+                if osh_transkribus_lines and len(osh_transkribus_lines) > 0:
+                    osh_line_transkribus_text = osh_transkribus_lines[1].get('text', '')
 
                 if not osh_line_transkribus_text:
                     osh_line_transkribus_text = "[No Transkribus transcription available for this example]"
@@ -1612,7 +1533,7 @@ def _(
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Review the following example of a line from a historical printed document. It includes both:\n\n(1) A raw OCR transcription from Transkribus\n(2) The correct ground truth transcription\n\nThis shows how to improve upon the OCR output and handle abbreviations or typographic features.\n\n**Use this example to learn how to improve OCR transcriptions — do not copy the example text directly.**"
+                                    "text": "Review the following example of a line from a historical printed document along with the transcriptions. It includes both:\n\n(1) A raw OCR transcription from Transkribus\n(2) The correct ground truth transcription\n\nThis shows how to improve upon the OCR output and handle abbreviations or typographic features.\n\n**Use this example to learn how to improve OCR transcriptions — do not copy the example text directly.**"
                                 },
                                 {
                                     "type": "image_url",
@@ -1620,7 +1541,7 @@ def _(
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{osh_line_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{osh_line_text}"
+                                    "text": f"(1) TRANSKRIBUS OCR OUTPUT\n{osh_line_transkribus_text}\n---\n (2) CORRECT TRANSCRIPTION\n{osh_line_text}"
                                 }
                             ]
                         },
@@ -1629,7 +1550,7 @@ def _(
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Now transcribe the following line from a historical printed document:"
+                                    "text": "Now transcribe the following line:"
                                 },
                                 {
                                     "type": "image_url",
@@ -1637,72 +1558,12 @@ def _(
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"The following is the output of a traditional OCR model from Transkribus. It can help you transcribe this line, but may also contain errors:\n\n{transkribus_line_text}"
+                                    "text": f"The following is TRANSKRIBUS OCR OUTPUT for this image. It can help you transcribe this line, but may also contain errors:\n\n{transkribus_line_text}"
                                 }
                             ]
                         }
                     ]
 
-                    # Visualize the first few examples
-                    if line_idx < 5:
-                        try:
-                            # Create output directory structure
-                            output_dir = 'reichenau_prompts'
-                            prompt_dir = os.path.join(output_dir, "one_shot_hybrid_gt_lines")
-                            doc_dir = os.path.join(prompt_dir, doc_id)
-                            os.makedirs(doc_dir, exist_ok=True)
-
-                            # Save both the example line and target line images
-                            osh_line_image.save(os.path.join(doc_dir, f"line_{line_idx}_example.jpg"))
-                            line_image.save(os.path.join(doc_dir, f"line_{line_idx}_target.jpg"))
-
-                            # Save the full prompt content as text
-                            with open(os.path.join(doc_dir, f"line_{line_idx}_prompt.txt"), 'w', encoding='utf-8') as f:
-                                f.write(f"Document ID: {doc_id}\n")
-                                f.write(f"Line ID: {line_id}\n")
-                                f.write(f"Line Index: {line_idx}\n")
-                                f.write(f"Prompt Type: one_shot_hybrid_ground_truth_lines\n\n")
-
-                                # System content
-                                f.write("=== SYSTEM ===\n")
-                                f.write(f"{system_prompt.value}\n\n")
-
-                                # First user message (example)
-                                f.write("=== USER (Example) ===\n")
-                                f.write("Review the following example of a line from a historical printed document. It includes both:\n\n(1) A raw OCR transcription from Transkribus\n(2) The correct ground truth transcription\n\nThis shows how to improve upon the OCR output and handle abbreviations or typographic features.\n\n**Use this example to learn how to improve OCR transcriptions — do not copy the example text directly.**\n\n")
-                                f.write("[IMAGE: Example Line]\n\n")
-                                f.write(f"==== TRANSKRIBUS OCR OUTPUT ====\n{osh_line_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{osh_line_text}\n\n")
-
-                                # Second user message (target)
-                                f.write("=== USER (Target) ===\n")
-                                f.write("Now transcribe the following line from a historical printed document:\n\n")
-                                f.write("[IMAGE: Target Line]\n\n")
-                                f.write(f"The following is the output of a traditional OCR model from Transkribus. It can help you transcribe this line, but may also contain errors:\n\n{transkribus_line_text}")
-
-                            # Create a side-by-side visualization
-                            import matplotlib.pyplot as plt
-                            plt.figure(figsize=(12, 6))
-
-                            # Example line
-                            plt.subplot(2, 1, 1)
-                            plt.imshow(osh_line_image)
-                            plt.title("Example Line")
-                            plt.xlabel(f"GT: {osh_line_text}\nOCR: {osh_line_transkribus_text}", fontsize=8)
-                            plt.axis('off')
-
-                            # Target line
-                            plt.subplot(2, 1, 2)
-                            plt.imshow(line_image)
-                            plt.title(f"Target Line (Document: {doc_id}, Line: {line_idx})")
-                            plt.xlabel(f"OCR: {transkribus_line_text}", fontsize=8)
-                            plt.axis('off')
-
-                            plt.tight_layout()
-                            plt.savefig(os.path.join(doc_dir, f"line_{line_idx}_comparison.png"), dpi=150, bbox_inches='tight')
-                            plt.close()
-
-                        except Exception as e:
-                            print(f"Visualization error: {e}")
 
                     return messages
 
@@ -1713,9 +1574,11 @@ def _(
                     transkribus_dir='results/linear_transcription/reichenau_inkunabeln/transkribus_10_test',
                     base_output_dir='reichenau_temp_lines',
                     create_line_messages=create_one_shot_hybrid_line_messages,
-                    eval_type='one_shot_hybrid_gt_lines',
+                    eval_type='one_shot_hybrid_lines',
                     limit=limit_docs,
-                    use_ground_truth=True  # Use ground truth line coordinates instead of Transkribus
+                    parallel=True,  # Enable parallel processing
+                    max_workers=None,  # Auto-detect number of workers
+                    use_structured_output=True 
                 )
             else:
                 print("⚠️ Could not extract lines from the example page")
@@ -1738,11 +1601,10 @@ def _(
         osh_line_text,
         osh_line_transkribus_text,
         osh_transkribus_lines,
-        transkribus_example_path,
     )
 
 
-@app.cell
+@app.cell(hide_code=True)
 def _():
     # from src.models.openai_compatible import OpenAICompatibleModel
     # from src.metrics import evaluate_transcription, save_results, calculate_aggregate_metrics
@@ -2182,12 +2044,12 @@ def _(
                 ts_example2_line_data['lines'] and len(ts_example2_line_data['lines']) > 0):
 
                 # Get first line from first example
-                ts_example1_line = ts_example1_line_data['lines'][0]
+                ts_example1_line = ts_example1_line_data['lines'][1]
                 ts_example1_line_image = ts_example1_line['image']
                 ts_example1_line_text = ts_example1_line['text']
 
                 # Get first line from second example
-                ts_example2_line = ts_example2_line_data['lines'][0]
+                ts_example2_line = ts_example2_line_data['lines'][1]
                 ts_example2_line_image = ts_example2_line['image']
                 ts_example2_line_text = ts_example2_line['text']
 
@@ -2212,7 +2074,7 @@ def _(
                                 "content": [
                                     {
                                         "type": "text",
-                                        "text": "Review the following examples of lines from historical printed documents along with their correct transcriptions. This shows how to handle abbreviations and typographic features.\n\n**Use these examples to learn how to transcribe historical documents — do not copy the example text directly.**"
+                                        "text": "Review the following examples of lines from historical printed documents along with their correct transcription. This shows how to handle abbreviations and typographic features.\n\n**Use these examples to learn how to transcribe historical documents — do not copy the example text directly.**"
                                     },
                                     {
                                         "type": "image_url",
@@ -2220,7 +2082,7 @@ def _(
                                     },
                                     {
                                         "type": "text",
-                                        "text": f"==== CORRECT TRANSCRIPTION ====\n{example1_text}"
+                                        "text": f"CORRECT TRANSCRIPTION:\n{example1_text}\n---\n"
                                     }
                                 ]
                             },
@@ -2237,7 +2099,7 @@ def _(
                                     },
                                     {
                                         "type": "text",
-                                        "text": f"==== CORRECT TRANSCRIPTION ====\n{example2_text}"
+                                        "text": f"CORRECT TRANSCRIPTION:\n{example2_text}\n---\n"
                                     }
                                 ]
                             },
@@ -2273,7 +2135,10 @@ def _(
                     base_output_dir='reichenau_temp_lines',
                     create_line_messages=message_creator,
                     eval_type='two_shot_lines',
-                    limit=limit_docs
+                    limit=limit_docs,
+                    parallel=True,  # Enable parallel processing
+                    max_workers=None,  # Auto-detect number of workers
+                    use_structured_output=True 
                 )
             else:
                 print("⚠️ Could not extract lines from one or both example pages")
@@ -2391,12 +2256,12 @@ def _(
                 tsh_example2_line_data['lines'] and len(tsh_example2_line_data['lines']) > 0):
 
                 # Get first line from first example
-                tsh_example1_line = tsh_example1_line_data['lines'][0]
+                tsh_example1_line = tsh_example1_line_data['lines'][1]
                 tsh_example1_line_image = tsh_example1_line['image']
                 tsh_example1_line_text = tsh_example1_line['text']
 
                 # Get first line from second example
-                tsh_example2_line = tsh_example2_line_data['lines'][0]
+                tsh_example2_line = tsh_example2_line_data['lines'][1]
                 tsh_example2_line_image = tsh_example2_line['image']
                 tsh_example2_line_text = tsh_example2_line['text']
 
@@ -2411,7 +2276,7 @@ def _(
                 if tsh_example1_transkribus_path:
                     tsh_example1_transkribus_lines = extract_line_coords_from_xml(tsh_example1_transkribus_path)
                     if tsh_example1_transkribus_lines and len(tsh_example1_transkribus_lines) > 0:
-                        tsh_example1_line_transkribus_text = tsh_example1_transkribus_lines[0].get('text', '')
+                        tsh_example1_line_transkribus_text = tsh_example1_transkribus_lines[1].get('text', '')
 
                 if not tsh_example1_line_transkribus_text:
                     tsh_example1_line_transkribus_text = "[No Transkribus transcription available for this example]"
@@ -2428,7 +2293,7 @@ def _(
                 if tsh_example2_transkribus_path:
                     tsh_example2_transkribus_lines = extract_line_coords_from_xml(tsh_example2_transkribus_path)
                     if tsh_example2_transkribus_lines and len(tsh_example2_transkribus_lines) > 0:
-                        tsh_example2_line_transkribus_text = tsh_example2_transkribus_lines[0].get('text', '')
+                        tsh_example2_line_transkribus_text = tsh_example2_transkribus_lines[1].get('text', '')
 
                 if not tsh_example2_line_transkribus_text:
                     tsh_example2_line_transkribus_text = "[No Transkribus transcription available for this example]"
@@ -2477,7 +2342,7 @@ def _(
                                     },
                                     {
                                         "type": "text",
-                                        "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{example1_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{example1_text}"
+                                        "text": f"(1) TRANSKRIBUS OCR OUTPUT \n{example1_transkribus_text}\n\n(2) CORRECT TRANSCRIPTION\n---\n{example1_text}"
                                     }
                                 ]
                             },
@@ -2494,7 +2359,7 @@ def _(
                                     },
                                     {
                                         "type": "text",
-                                        "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{example2_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{example2_text}"
+                                        "text": f"(1) TRANSKRIBUS OCR OUTPUT\n{example2_transkribus_text}\n\n(2) CORRECT TRANSCRIPTION\n{example2_text}"
                                     }
                                 ]
                             },
@@ -2511,7 +2376,7 @@ def _(
                                     },
                                     {
                                         "type": "text",
-                                        "text": f"The following is the output of a traditional OCR model from Transkribus. It can help you transcribe this line, but may also contain errors:\n\n{transkribus_line_text}"
+                                        "text": f"The following is the TRANSKRIBUS OCR OUTPUT for the line. It can help you transcribe this line, but may also contain errors:\n\n{transkribus_line_text}"
                                     }
                                 ]
                             }
@@ -2536,7 +2401,10 @@ def _(
                     base_output_dir='reichenau_temp_lines',
                     create_line_messages=tsh_message_creator,
                     eval_type='two_shot_hybrid_lines',
-                    limit=limit_docs
+                    limit=limit_docs,
+                    parallel=True,  # Enable parallel processing
+                    max_workers=None,  # Auto-detect number of workers
+                    use_structured_output=True 
                 )
             else:
                 print("⚠️ Could not extract lines from one or both example pages")
@@ -2643,7 +2511,7 @@ def _(create_cross_method_comparison, json, mo, os, pd, transkribus_df):
         "zero_shot_lines",
         "one_shot_lines",
         "two_shot_lines",
-        "hybrid_zero_shot",
+        "hybrid_zero_shot_lines",
         "one_shot_hybrid_lines",
         "two_shot_hybrid_lines"
     ]

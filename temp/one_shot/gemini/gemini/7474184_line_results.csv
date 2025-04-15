@@ -1,5 +1,5 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,Uon der neü gefunden,Von der neu͂ gefunden,0.15,0.5,0.5,7474184,gemini
+1,Uon der neü gefunden,Vonder neuͤ gefunden,0.2,0.75,0.75,7474184,gemini
 2,Region ſo wol ein welt genempt mag werden/,Region ſo wol ein welt genempt mag werden/,0.0,0.0,0.0,7474184,gemini
-3,durch den Criſtēlichen künig/ von Portigal/,"durch den Criſtſtelichen Künig/von Portigal/,",0.13953488372093023,0.6666666666666666,0.6666666666666666,7474184,gemini
+3,durch den Criſtēlichen künig/ von Portigal/,durch den Criſtlichen kuͤnig/von Portigal/,0.09302325581395349,0.5,0.5,7474184,gemini
 4,wunderbarlich erfunden/,wunderbarlich erſunden/,0.043478260869565216,0.5,0.5,7474184,gemini

@@ -2,7 +2,7 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 1,C,C.,1.0,1.0,1.0,071_133_003,openai
 2,23.,Of Semi-public Offences in General.,11.333333333333334,5.0,5.0,071_133_003,openai
 3,Of Semi-public Offences in General.,,1.0,1.0,1.0,071_133_003,openai
-4,persons or destroys the property of particular individuals among the,persons or destroy the property of particular individuals among the,0.014705882352941176,0.1,0.1,071_133_003,openai
+4,persons or destroys the property of particular individuals among the,persons or destroys the property of particular individuals among the,0.0,0.0,0.0,071_133_003,openai
 5,Jews he may be not only punished criminally for the calumny,Jews he may be not only punished criminally for the calumny,0.0,0.0,0.0,071_133_003,openai
 6,"thrown on the Sect, but made civilly responsible for the particular","thrown on the sect, but made civilly responsible for the particular",0.014925373134328358,0.09090909090909091,0.09090909090909091,071_133_003,openai
 7,mischief done to the individual Jews whose persons or property,mischief done to the individual Jews whose persons or property,0.0,0.0,0.0,071_133_003,openai

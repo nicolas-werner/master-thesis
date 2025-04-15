@@ -1,33 +1,30 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,11.,Of Justifications.,5.666666666666667,2.0,2.0,071003003,mistral
+1,11.,Of Justifications,5.666666666666667,2.0,2.0,071003003,mistral
 2,C,,1.0,1.0,1.0,071003003,mistral
 3,Of Justifications.,Children.,0.8333333333333334,1.0,1.0,071003003,mistral
-4,3. Those of a Schoolmaster over his Scholar. See Law of School,,1.0,1.0,1.0,071003003,mistral
-5,masters and Scholars.,3. These of a Schoolmaster over his Scholar. See Law of School-,2.2857142857142856,4.0,4.0,071003003,mistral
-6,5. Those of a Guardian over his Ward . See Law of Guardi:,masters and Scholars.,0.7894736842105263,1.0,1.0,071003003,mistral
-7,6 Those of Adults over Infants in the same Family. See ib.,,1.0,1.0,1.0,071003003,mistral
-8,vants - The Law of Apprentices _ Law of Journeymen _ Law,4. These of a Domestic Preceptor over his Pupil. See Law of,0.8214285714285714,1.0,0.75,071003003,mistral
-9,Justification 6.th Military Powers & Subservience,Preceptors and Pupils.,0.8367346938775511,1.0,1.0,071003003,mistral
-10,Thereto . _,,1.0,1.0,1.0,071003003,mistral
-11,Powers which one man may have over the person of,5. These of a Guardian over his Ward. See Law of Guardi-,0.9166666666666666,1.1,1.0,071003003,mistral
-12,these See the Army and the Navy Laws.,ans and Wards.,0.7567567567567568,0.875,0.875,071003003,mistral
-13,2. Those of a military officer over persons at large in a time,,1.0,1.0,1.0,071003003,mistral
-14,of,6. These of Adults over Infants in the same family. See ib.,28.5,11.0,11.0,071003003,mistral
-15,Children.,Law of Infants.,1.4444444444444444,3.0,3.0,071003003,mistral
-16,4. Those of a Domestic Preceptor over his Pupil . See Law of,,1.0,1.0,1.0,071003003,mistral
-17,Preceptors and Pupils.,7. These of a Master over his Servant. See the Law of Ser-,2.1818181818181817,4.333333333333333,4.333333333333333,071003003,mistral
-18,Law of Infants.,vants. The Law of Apprentices. Law of Journeymen. Law,2.8,2.3333333333333335,2.3333333333333335,071003003,mistral
-19,7. Those of a Master over his Servant - See the Law of Ser,of Slaves.,0.8793103448275862,0.9285714285714286,0.9285714285714286,071003003,mistral
-20,of the Slaves. (a),,1.0,1.0,1.0,071003003,mistral
-21,another on a military account are,Justification 6th. Military Powers & Subservience,1.0,1.0,1.0,071003003,mistral
-22,1. Those of a military Superior over his Subordinates. For,thereto.,0.896551724137931,1.0,1.0,071003003,mistral
-23,Constitutional Code - Laws ofof,,1.0,1.0,1.0,071003003,mistral
-24,:ans and Wards.,Powers which one man may have over the person of,2.6666666666666665,3.3333333333333335,3.3333333333333335,071003003,mistral
-25,ib.,another on a military account are,10.666666666666666,6.0,6.0,071003003,mistral
-26,ib.,,1.0,1.0,1.0,071003003,mistral
-27,ib.,1. These of a military Superior over his Subordinates. For,18.333333333333332,10.0,10.0,071003003,mistral
-28,ib.,Constitutional Code. Laws of,8.666666666666666,4.0,4.0,071003003,mistral
-29,Note.,these see the Army and the Navy Laws.,6.8,8.0,8.0,071003003,mistral
-30,(a),,1.0,1.0,1.0,071003003,mistral
-31,There ought to be a separate Title for every species,2. These of a military officer over persons at large in a time,0.9230769230769231,1.3,1.2,071003003,mistral
-32,of servant which has any Article of Law peculiar to it.,of,0.9636363636363636,0.9090909090909091,0.9090909090909091,071003003,mistral
+4,3. Those of a Schoolmaster over his Scholar. See Law of School,3. Those of a Schoolmaster over his Scholar. See Law of School-,0.016129032258064516,0.08333333333333333,0.08333333333333333,071003003,mistral
+5,masters and Scholars.,masters and Scholars.,0.0,0.0,0.0,071003003,mistral
+6,5. Those of a Guardian over his Ward . See Law of Guardi:,4. Those of a Domestic Preceptor over his Pupil. See Law of,0.543859649122807,0.46153846153846156,0.38461538461538464,071003003,mistral
+7,6 Those of Adults over Infants in the same Family. See ib.,Preceptors and Pupils.,0.8103448275862069,1.0,1.0,071003003,mistral
+8,vants - The Law of Apprentices _ Law of Journeymen _ Law,5. Those of a Guardian over his Ward. See Law of Guardi-,0.875,1.0,0.75,071003003,mistral
+9,Justification 6.th Military Powers & Subservience,ans and Wards.,0.8571428571428571,1.0,1.0,071003003,mistral
+10,Thereto . _,6. Those of Adults over Infants in the same Family. See the,4.636363636363637,4.0,4.0,071003003,mistral
+11,Powers which one man may have over the person of,Law of Infants.,0.8333333333333334,1.0,0.9,071003003,mistral
+12,these See the Army and the Navy Laws.,7. Those of a Master over his Servant. See the Law of Ser-,1.1081081081081081,1.5,1.375,071003003,mistral
+13,2. Those of a military officer over persons at large in a time,vants. The Law of Apprentices - Law of Journeymen - Law,0.7580645161290323,1.0,0.9230769230769231,071003003,mistral
+14,of,of Slaves. (a),6.0,2.0,2.0,071003003,mistral
+15,Children.,,1.0,1.0,1.0,071003003,mistral
+16,4. Those of a Domestic Preceptor over his Pupil . See Law of,Justification of Military Powers & Subservience,0.8,0.9230769230769231,0.9230769230769231,071003003,mistral
+17,Preceptors and Pupils.,Thereto.,0.7727272727272727,1.0,1.0,071003003,mistral
+18,Law of Infants.,,1.0,1.0,1.0,071003003,mistral
+19,7. Those of a Master over his Servant - See the Law of Ser,Powers which one man may have over the person of,0.7068965517241379,0.8571428571428571,0.7857142857142857,071003003,mistral
+20,of the Slaves. (a),another on a military account are,1.4444444444444444,1.5,1.5,071003003,mistral
+21,another on a military account are,1. Those of a military Superior over his Subordinates. For,1.1515151515151516,1.3333333333333333,1.3333333333333333,071003003,mistral
+22,1. Those of a military Superior over his Subordinates. For,Constitutional Code Laws of,0.7931034482758621,1.0,0.9,071003003,mistral
+23,Constitutional Code - Laws ofof,these See the Army and the Navy Laws.,0.967741935483871,1.6,1.6,071003003,mistral
+24,:ans and Wards.,2. Those of a military officer over persons at large in a time,3.6666666666666665,4.333333333333333,4.333333333333333,071003003,mistral
+25,ib.,,1.0,1.0,1.0,071003003,mistral
+26,ib.,Note.,1.3333333333333333,1.0,1.0,071003003,mistral
+27,ib.,(a),1.0,1.0,1.0,071003003,mistral
+28,ib.,There ought to be a separate Title for every species,17.0,10.0,10.0,071003003,mistral
+29,Note.,of servant which has any Article of Law peculiar to it.,10.4,11.0,11.0,071003003,mistral

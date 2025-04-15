@@ -1,34 +1,34 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,It glucklicher fart Am vier,A\ It glucklicher fart,0.4074074074074074,0.6,0.4,7474186,gemini
+1,It glucklicher fart Am vier,It glucklicher fart Flm vier,0.07407407407407407,0.2,0.2,7474186,gemini
 2,zehenden tag des monats Mayen/ Tu¬,zehenden tag des monats Mayen/Zu,0.08823529411764706,0.3333333333333333,0.3333333333333333,7474186,gemini
 3,ſent fünffhūdert eyn Iars/ ſchieden wir,sent funffhudert eyn Jars/schieden wir,0.15384615384615385,0.6666666666666666,0.6666666666666666,7474186,gemini
 4,von Oliſpppo nach gebott des obgenan¬,von Olisippo nach gebott des obgenan,0.08108108108108109,0.3333333333333333,0.3333333333333333,7474186,gemini
-5,ten künigs mit dryen ſchiffen zuͦ erſuͦchē,ten künigs mit dryen schiffen zu ersüche,0.14285714285714285,0.42857142857142855,0.42857142857142855,7474186,gemini
-6,nuwe land gegen Auſter/ vnd tzweintzig,muwe land gegen Auster/vnd zweinzig,0.13157894736842105,0.6666666666666666,0.6666666666666666,7474186,gemini
+5,ten künigs mit dryen ſchiffen zuͦ erſuͦchē,ten künigs mit dryen schiffen zu erſuche,0.09523809523809523,0.42857142857142855,0.42857142857142855,7474186,gemini
+6,nuwe land gegen Auſter/ vnd tzweintzig,muwe land gegen Auſter/vnd zweinzig,0.10526315789473684,0.6666666666666666,0.6666666666666666,7474186,gemini
 7,Monet on vnderlaß fuͦren wir gegen mittag der ſelben,Monet on underlaß füren wir gegen mittag der selben,0.07692307692307693,0.3333333333333333,0.3333333333333333,7474186,gemini
-8,ſchiffung. vnd fart ordnung vnd wiſe iſt alſo/ Diſe ſchif,schiffung.vnd fart ordmung vnd wise ist also/Dise schif,0.15789473684210525,0.8,0.8,7474186,gemini
-9,fung iſt geweſen durch die fortunaten Inſalen/ vor ziten,fung ist gewesen durch die fortunaten Insalen/vor ziten,0.07142857142857142,0.4444444444444444,0.4444444444444444,7474186,gemini
-10,alſo genant/ Aber zuͦ dyſen werden ſy genant die inſulen,also genant/Aber zu dysen werden sy genant die infulen,0.10714285714285714,0.7,0.7,7474186,gemini
-11,magne canarie/ der groſſen Canarie/ die da ſindt im drit,magne canarie/der groffen Canarie/die da sindt im dit,0.10714285714285714,0.7,0.7,7474186,gemini
-12,ten Clima der ſibenfaltigē vßteilung der welt vnd am an,ten Clima der sibenfaltige vfteilung der welt vnd am an,0.05454545454545454,0.2,0.2,7474186,gemini
-13,ſtoß vnd gegē der wonhafftigē landen der ſonnē nyder¬,stoß vnd gege der wonhafftige landen der sonne nyder,0.11320754716981132,0.5555555555555556,0.5555555555555556,7474186,gemini
-14,gangs/ Dannen durch das groß mer Occeanū dē gātzē,gangs/Dannen durch das groß mer Occeani de gaze,0.12244897959183673,0.5555555555555556,0.5555555555555556,7474186,gemini
-15,ſtaden affricum vn̄ eyn teil der Moͤren lands durchren̄t,staden affricum.vn eyn teil der Moren lands durchrent,0.08928571428571429,0.5555555555555556,0.5555555555555556,7474186,gemini
-16,biß zuͦ den hochbergen der Moren ſo alſo von Ptolomeo,Biß zu den hochbergen der Moren so also von Ptolomeo,0.07547169811320754,0.4,0.4,7474186,gemini
-17,genēpt wirt/ Das zuͦ dißen zeitē von den vnſern dz grün̄,genept wirt/Das zu dißen zeite von den vnsern dz grün,0.10714285714285714,0.6363636363636364,0.6363636363636364,7474186,gemini
-18,houpt genempt wirt/ vn̄ von den Morē beſeglitte/ vnd,houpt genempt wirt/vin von den More Beseglitte/vnd,0.1346153846153846,0.5555555555555556,0.5555555555555556,7474186,gemini
-19,die ſelbe lantſchafft Mandinglia vierzehē gradus innert,die selbe lantſchafft Mandinglia vierzehë gradus innere,0.05454545454545454,0.42857142857142855,0.42857142857142855,7474186,gemini
-20,der krummen ſchnuͦr genāt Torrida zona/ von der lyniē,der Frummen schnür genat Lorida zona von der lynie,0.16981132075471697,0.6666666666666666,0.6666666666666666,7474186,gemini
-21,equinoctiali gegen Mitternacht die von ſchwartzen lü¬,equinoctiali gegen Mitternacht die von schwartzen lii,0.05660377358490566,0.2857142857142857,0.2857142857142857,7474186,gemini
-22,ten vnd voͤlckern bewōt wirt/ da ſelbs nach raſtung vn̄,ten vnd volckern bewit wirt/da selbs nach rastung vũ,0.12727272727272726,0.7,0.7,7474186,gemini
-23,widerlabung vnſer krafft vnnd nottürfftiger dingen zuͦ,widerlabung vnser krafft vind nottürfftiger dingen zu,0.05555555555555555,0.42857142857142855,0.42857142857142855,7474186,gemini
-24,vnſer ſchiffung/ huͦben wir die encker vff vn̄ zertan̄tē die,vnser schiffung/hüßen wir die encker off vin zertante die,0.18333333333333332,0.6,0.6,7474186,gemini
-25,ſegel in winde vnd in vnſern weg durch das allerwildeſt,segel in winde vnd in vnsern weg durch das allerwildest,0.05454545454545454,0.3,0.3,7474186,gemini
-26,groß mere Occeanum/ vnd fuͦrē gegen dem wider sibēge,groß mere Dcceaum/vnd fire gegen dem wider sibige,0.1346153846153846,0.4444444444444444,0.4444444444444444,7474186,gemini
+8,ſchiffung. vnd fart ordnung vnd wiſe iſt alſo/ Diſe ſchif,schiffung.vnd fart ordmung vnd wise ist also Dise schif,0.15789473684210525,0.8,0.8,7474186,gemini
+9,fung iſt geweſen durch die fortunaten Inſalen/ vor ziten,fung ist geweſen durch die fortunaten Inſalen/vor ziten,0.03571428571428571,0.3333333333333333,0.3333333333333333,7474186,gemini
+10,alſo genant/ Aber zuͦ dyſen werden ſy genant die inſulen,also genant/Aber zu dysen werden ſy genant die inſulen,0.07142857142857142,0.5,0.5,7474186,gemini
+11,magne canarie/ der groſſen Canarie/ die da ſindt im drit,magne canarie/der groſſen Canarie/die da ſindt im drit,0.03571428571428571,0.4,0.4,7474186,gemini
+12,ten Clima der ſibenfaltigē vßteilung der welt vnd am an,ten Clima der sibenfaltige vſteilung der welt vnd am an,0.05454545454545454,0.2,0.2,7474186,gemini
+13,ſtoß vnd gegē der wonhafftigē landen der ſonnē nyder¬,ſtoß vnd gege der wonhafftige landen der ſonne nyder,0.07547169811320754,0.4444444444444444,0.4444444444444444,7474186,gemini
+14,gangs/ Dannen durch das groß mer Occeanū dē gātzē,gangs/Dannen durch das groß mer Occeanü de gäze,0.12244897959183673,0.5555555555555556,0.5555555555555556,7474186,gemini
+15,ſtaden affricum vn̄ eyn teil der Moͤren lands durchren̄t,ſtaden affricum.vñ eyn teil der Mōren lands durchrent,0.10714285714285714,0.4444444444444444,0.4444444444444444,7474186,gemini
+16,biß zuͦ den hochbergen der Moren ſo alſo von Ptolomeo,Biß zu den hochbergen der Moren ſo alſo von Ptolomeo,0.03773584905660377,0.2,0.2,7474186,gemini
+17,genēpt wirt/ Das zuͦ dißen zeitē von den vnſern dz grün̄,genept wirt/Das zu dißen zeite von den vnſern dz grün,0.08928571428571429,0.5454545454545454,0.5454545454545454,7474186,gemini
+18,houpt genempt wirt/ vn̄ von den Morē beſeglitte/ vnd,houpt genempt wirt/vñ von den More Beſeglitte/vnd,0.11538461538461539,0.5555555555555556,0.5555555555555556,7474186,gemini
+19,die ſelbe lantſchafft Mandinglia vierzehē gradus innert,die ſelbe lantſchafft Mandinglia vierzehë gradus innere,0.03636363636363636,0.2857142857142857,0.2857142857142857,7474186,gemini
+20,der krummen ſchnuͦr genāt Torrida zona/ von der lyniē,der krummen ſchnür genat Lorida zona von der lynie,0.1320754716981132,0.5555555555555556,0.5555555555555556,7474186,gemini
+21,equinoctiali gegen Mitternacht die von ſchwartzen lü¬,equinoctiali gegen Mitternacht die von ſchwartzen lii,0.03773584905660377,0.14285714285714285,0.14285714285714285,7474186,gemini
+22,ten vnd voͤlckern bewōt wirt/ da ſelbs nach raſtung vn̄,ten vnd völckern bewit wirt/da ſelbs nach raſtung vñ,0.10909090909090909,0.5,0.5,7474186,gemini
+23,widerlabung vnſer krafft vnnd nottürfftiger dingen zuͦ,widerlabung vnſer krafft vnnd nottürfftiger dingen zu,0.018518518518518517,0.14285714285714285,0.14285714285714285,7474186,gemini
+24,vnſer ſchiffung/ huͦben wir die encker vff vn̄ zertan̄tē die,vnſer ſchiffung/hüßen wir die encker off vñ zertante die,0.15,0.5,0.5,7474186,gemini
+25,ſegel in winde vnd in vnſern weg durch das allerwildeſt,ſegel in winde vnd in vnſern weg durch das allerwildeſt,0.0,0.0,0.0,7474186,gemini
+26,groß mere Occeanum/ vnd fuͦrē gegen dem wider sibēge,groß mere Dcceaum/vnd füre gegen dem wider ſibige,0.15384615384615385,0.4444444444444444,0.4444444444444444,7474186,gemini
 27,ſtirn gen Ancarticies/ ein wenig gegē der Sonnē nyder,ſtirn gen Ancarticies/ein wenig gege der Sonne nyder,0.05660377358490566,0.4444444444444444,0.4444444444444444,7474186,gemini
 28,gang wandten wir durch den wynd genant vulturnus,gang wandten wir durch den wynd genant vulturnus,0.0,0.0,0.0,7474186,gemini
-29,vnd von dem tag als wir abſchieden von dē gemelten ho,vnd von dem tag als wir abschieden von de gemelten ho,0.03773584905660377,0.18181818181818182,0.18181818181818182,7474186,gemini
-30,chgebürg zwen Monet vn̄ drig tag ſchyfften wir ee das,chgebürg zwen Monet vin drig tag schyfften wir ee das,0.05660377358490566,0.2,0.2,7474186,gemini
-31,vnß land oder ertrich ze ſehen ward/ Was wir aber in ſo,vns land oder ertrich ze sehen ward/Was wir aber in so,0.07272727272727272,0.4166666666666667,0.4166666666666667,7474186,gemini
-32,licher willde des Mers/ gelitten haben/ vnd was ſorgkli¬,licher wilde des Mers/gelitten haben/vnd was sorgkli,0.08928571428571429,0.6666666666666666,0.6666666666666666,7474186,gemini
+29,vnd von dem tag als wir abſchieden von dē gemelten ho,vnd von dem tag als wir abſchieden von de gemelten ho,0.018867924528301886,0.09090909090909091,0.09090909090909091,7474186,gemini
+30,chgebürg zwen Monet vn̄ drig tag ſchyfften wir ee das,chgebürg zwen Monet vñ drig tag ſchyfften wir ee das,0.03773584905660377,0.1,0.1,7474186,gemini
+31,vnß land oder ertrich ze ſehen ward/ Was wir aber in ſo,vns land oder ertrich ze ſehen ward/Was wir aber in ſo,0.03636363636363636,0.25,0.25,7474186,gemini
+32,licher willde des Mers/ gelitten haben/ vnd was ſorgkli¬,licher wilde des Mers/gelitten haben/vnd was ſorgkli,0.07142857142857142,0.6666666666666666,0.6666666666666666,7474186,gemini
 33,A ii,Au,0.75,1.0,1.0,7474186,gemini

@@ -1,24 +1,21 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 1,17 5,Of Simple Mercantile Defraudment,7.75,2.0,2.0,071157001,openai
-2,Of Simple Merchantile Defraudment,,1.0,1.0,1.0,071157001,openai
-3,more advantages than it were to be wished it had over indi:,more advantage than it were to be wished it had over indi-,0.03389830508474576,0.16666666666666666,0.16666666666666666,071157001,openai
-4,:gent merit: and an artificial arrangement of this sort would,,1.0,1.0,1.0,071157001,openai
-5,add to the natural incitements which urge a man from all,gent merit: and an artificial arrangement of this sort would,0.8392857142857143,1.0,1.0,071157001,openai
-6,quarters to seek the acquirement of wealth by dishonesty,,1.0,1.0,1.0,071157001,openai
-7,and other unworthy means. As to the affections of the peo:,add to the natural incitements which urge a man from all,0.7586206896551724,1.0,0.8181818181818182,071157001,openai
-8,less numerous class over the more numerous will na:,,1.0,1.0,1.0,071157001,openai
-9,real: for a man in responsible circumstances may probably,quarters to seek the acquirement of wealth by dishonesty,0.8596491228070176,1.0,1.0,071157001,openai
-10,in point of fact suffer as much by being deprived of part,,1.0,1.0,1.0,071157001,openai
-11,"of his property, considering the share of reputation that",and other unworthy means. As to the affections of the peo-,0.7894736842105263,1.0,1.0,071157001,openai
-12,"goes along with it, as a man in irresponsible circumstances",,1.0,1.0,1.0,071157001,openai
-13,:nishment: and if both were to undergo the same corporal,"ple, so striking and oppressive a preference given to the",0.8571428571428571,1.0,0.7,071157001,openai
-14,"punishment, the punishment, that is the suffering, though",,1.0,1.0,1.0,071157001,openai
-15,":ter.] But this distinction , however real, is too subtle to be gene:",less numerous class over the more numerous will na-,0.7536231884057971,1.0,1.0,071157001,openai
-16,"The difference, it is true, is rather apparent than",,1.0,1.0,1.0,071157001,openai
-17,would be by being made to undergo a severe corporal pu:,turally be but ill relished by the latter.,0.7818181818181819,0.9090909090909091,0.8181818181818182,071157001,openai
-18,nominally [the same ] would in reality be much greater to the lat:,,1.0,1.0,1.0,071157001,openai
-19,:rally,"The difference, it is true, is rather apparent than",8.166666666666666,9.0,9.0,071157001,openai
-20,":ple, so striking and oppressive a preference given to the",,1.0,1.0,1.0,071157001,openai
-21,:turally be but ill relished by the latter.,real: for a man in responsible circumstances may probably,1.0465116279069768,1.125,1.125,071157001,openai
-22,"equal, very much the reverse.",,1.0,1.0,1.0,071157001,openai
-23,C,in point of fact suffer as much by being deprived of part,57.0,12.0,12.0,071157001,openai
+2,Of Simple Merchantile Defraudment,more advantage than it were to be wished it had over indi-,1.393939393939394,3.0,3.0,071157001,openai
+3,more advantages than it were to be wished it had over indi:,gent merit: and an artificial arrangement of this sort would,0.847457627118644,1.0,1.0,071157001,openai
+4,:gent merit: and an artificial arrangement of this sort would,add to the natural incitements which urge a man from all,0.7868852459016393,1.1,1.1,071157001,openai
+5,add to the natural incitements which urge a man from all,quarters to seek the acquirement of wealth by dishonesty,0.8035714285714286,0.9090909090909091,0.8181818181818182,071157001,openai
+6,quarters to seek the acquirement of wealth by dishonesty,and other unworthy means. As to the affections of the peo-,0.875,1.1111111111111112,0.8888888888888888,071157001,openai
+7,and other unworthy means. As to the affections of the peo:,"ple, so striking and oppressive a preference given to the",0.8275862068965517,0.9090909090909091,0.7272727272727273,071157001,openai
+8,less numerous class over the more numerous will na:,less numerous class over the more numerous will na-,0.0196078431372549,0.1111111111111111,0.1111111111111111,071157001,openai
+9,real: for a man in responsible circumstances may probably,turally be but ill relished by the latter.,0.7719298245614035,1.0,1.0,071157001,openai
+10,in point of fact suffer as much by being deprived of part,"The difference, it is true, is rather apparent than",0.8070175438596491,1.0,1.0,071157001,openai
+11,"of his property, considering the share of reputation that",real: for a man in responsible circumstances may probably,0.8771929824561403,1.0,1.0,071157001,openai
+12,"goes along with it, as a man in irresponsible circumstances",in point of fact suffer as much by being deprived of part,0.847457627118644,1.1,1.0,071157001,openai
+13,:nishment: and if both were to undergo the same corporal,"of his property, considering the share of reputation that",0.8392857142857143,1.0,0.9,071157001,openai
+14,"punishment, the punishment, that is the suffering, though","goes along with it, as a man in irresponsible circumstances",0.8596491228070176,1.25,1.25,071157001,openai
+15,":ter.] But this distinction , however real, is too subtle to be gene:",would be by being made to undergo a severe corporal pu-,0.8115942028985508,1.0,0.8461538461538461,071157001,openai
+16,"The difference, it is true, is rather apparent than",nishment: and if both were to undergo the same corporal,0.8823529411764706,1.1111111111111112,1.1111111111111112,071157001,openai
+17,would be by being made to undergo a severe corporal pu:,"punishment, the punishment, that is the suffering, though",0.8909090909090909,1.0,1.0,071157001,openai
+18,nominally [the same ] would in reality be much greater to the lat:,"nominally equal, would in reality be much greater to the lat-",0.15151515151515152,0.3076923076923077,0.3076923076923077,071157001,openai
+19,:rally,"ter. But this distinction, however real, is too subtle to be gene-",10.333333333333334,12.0,12.0,071157001,openai
+20,":ple, so striking and oppressive a preference given to the",rally,0.9655172413793104,1.0,1.0,071157001,openai

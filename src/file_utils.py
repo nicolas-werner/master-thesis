@@ -10,7 +10,8 @@ import io
 
 
 NAMESPACES = {
-    'ns': 'http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15'
+    'ns2013': 'http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15',
+    'ns2010': 'http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19'
 }
 
 
@@ -85,7 +86,7 @@ def extract_text_from_xml(xml_path: str) -> List[str]:
 
 def extract_lines_with_metadata(xml_path: str) -> List[Dict[str, Any]]:
     """
-    Extract text lines with metadata from PAGE XML format.
+    Extract text lines with metadata from PAGE XML format, supporting multiple formats.
 
     Args:
         xml_path: Path to the PAGE XML file
@@ -95,46 +96,105 @@ def extract_lines_with_metadata(xml_path: str) -> List[Dict[str, Any]]:
         {
             'id': Line ID,
             'text': Normalized text content,
-            'coords': Coordinates (if available),
+            'coords': Tuple[int, int, int, int] - (x_min, y_min, x_max, y_max),
             'index': Index of the line in the document
         }
     """
     try:
         tree = ET.parse(xml_path)
         root = tree.getroot()
-
+        
         lines_with_metadata = []
-
-        # Extract text lines
-        for index, text_line in enumerate(root.findall('.//ns:TextLine', NAMESPACES)):
-            line_id = text_line.get('id')
-
-            # Extract text content
-            unicode_elem = text_line.find('.//ns:Unicode', NAMESPACES)
-            text = ""
-            if unicode_elem is not None and unicode_elem.text is not None:
-                text = unicode_elem.text.strip()
-                text = normalize_text(text)
-
-            coords = None
-            coords_elem = text_line.find('.//ns:Coords', NAMESPACES)
-            if coords_elem is not None:
-                points = coords_elem.get('points')
-                if points:
-                    coords = points
-
-            # Add line data to results
-            lines_with_metadata.append({
-                'id': line_id,
-                'text': text,
-                'coords': coords,
-                'index': index
-            })
-
+        
+        # Detect namespace from root element
+        namespace = None
+        for prefix, ns in NAMESPACES.items():
+            if ns in root.tag:
+                namespace = ns
+                break
+        
+        if namespace is None:
+            print(f"Warning: Could not detect namespace in {xml_path}, trying default namespaces.")
+        
+        # Try different namespace approaches
+        found_lines = False
+        
+        # Approach 1: Try with explicit namespace
+        if namespace:
+            ns_dict = {'ns': namespace}
+            text_lines = root.findall('.//ns:TextLine', ns_dict)
+            
+            for index, text_line in enumerate(text_lines):
+                line_id = text_line.get('id')
+                
+                # Extract text content
+                unicode_elem = text_line.find('.//ns:TextEquiv/ns:Unicode', ns_dict)
+                text = ""
+                if unicode_elem is not None and unicode_elem.text is not None:
+                    text = unicode_elem.text.strip()
+                    text = normalize_text(text)
+                
+                # Extract coordinates
+                coords_elem = text_line.find('.//ns:Coords', ns_dict)
+                coords = None
+                if coords_elem is not None:
+                    points_str = coords_elem.get('points')
+                    if points_str:
+                        # Parse the coordinates into a bounding box
+                        coords = parse_coords_points(points_str)
+                
+                # Add line data to results
+                lines_with_metadata.append({
+                    'id': line_id,
+                    'text': text,
+                    'coords': coords,
+                    'index': index
+                })
+            
+            found_lines = len(lines_with_metadata) > 0
+        
+        # Approach 2: Try without namespace if no lines found
+        if not found_lines:
+            text_lines = root.findall('.//TextLine')
+            
+            for index, text_line in enumerate(text_lines):
+                line_id = text_line.get('id')
+                
+                # Extract text content - try both paths
+                unicode_elem = text_line.find('.//TextEquiv/Unicode')
+                if unicode_elem is None:
+                    unicode_elem = text_line.find('.//Unicode')
+                
+                text = ""
+                if unicode_elem is not None and unicode_elem.text is not None:
+                    text = unicode_elem.text.strip()
+                    text = normalize_text(text)
+                
+                # Extract coordinates
+                coords_elem = text_line.find('.//Coords')
+                coords = None
+                if coords_elem is not None:
+                    points_str = coords_elem.get('points')
+                    if points_str:
+                        coords = parse_coords_points(points_str)
+                
+                # Add line data to results
+                lines_with_metadata.append({
+                    'id': line_id,
+                    'text': text,
+                    'coords': coords,
+                    'index': index
+                })
+        
+        if not lines_with_metadata:
+            print(f"Warning: No text lines found in {xml_path}")
+        
         return lines_with_metadata
+    
     except Exception as e:
         print(f"Error processing {xml_path}: {e}")
         return []
+
 
 def extract_id_from_filename(filename: str) -> Optional[str]:
     """
@@ -465,7 +525,7 @@ def parse_coords_points(points_str: str) -> Tuple[int, int, int, int]:
         return (0, 0, 0, 0)
 
 
-def crop_line_images(image_path: str, line_coords: List[Dict[str, Any]], padding: int = 5) -> List[Dict[str, Any]]:
+def crop_line_images(image_path: str, line_coords: List[Dict[str, Any]], padding: int = 0) -> List[Dict[str, Any]]:
     """
     Crop line images from a full page image based on line coordinates.
 
@@ -499,7 +559,7 @@ def crop_line_images(image_path: str, line_coords: List[Dict[str, Any]], padding
 
                 x_min, y_min, x_max, y_max = line['coords']
 
-                # Apply padding, but stay within image bounds
+                # Apply padding if requested
                 x_min = max(0, x_min - padding)
                 y_min = max(0, y_min - padding)
                 x_max = min(img_width, x_max + padding)

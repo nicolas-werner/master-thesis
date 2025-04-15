@@ -1,2 +1,28 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,Alberics Ueſpuccius Laurentio,Albericus Vespucius Laurentio\nPetri Fracisci de Medicis vil grüſſ.\nKrevagamenttagz hab ich eſe dir vñ geſchri\nben von miner widerfart von den nüwen lan\nſchafften die ich mit Claſſen vñ ſambtere geſe\nhen mit ſchwerem loſten von gebot des Durchlechtig\nſten Künigs von portugal durch ſuch hab vñ fünſze\nhen man mag die Zimen vñ nemen/ So by miſſin\npoſſari vettern daun keyn wiſen gewelſſ/ vñ allen d\n die ſolichs hözen yn alle ding muſſ/ ſunder doch\n das alle mein vnſter eſter vñ ich ſe doch der me\nteyl der ſelben ſpiſch/ das ich die gütlich vñ warlich\nmein genant Læuimotialis vñ die gütlich vñ warlich\n vñ lütten alle eſe geſchrieben/ Alſo vñ nicht\n das Artlandisch mer/ ſind ob yemand der ſelbe wohn\n gen dalſelb ſyn geſecht ſo hab ich doch ſpil machen das\n da wonhaftig larnd vñ ertrich ſy widereret/ Alſo vñ\n lich v wenn falſch in der wodeit wider/ ſy in alle weg\n hat diſ min eſte ſchiffung benyſt/ So ich in den ſelben\n geſnigten geſettn mittag michlichc inmouing ſunden\n had mit vil volck vñ völkeren devert/ ſoch ſinſt euro\n pa oder Aſiam oder African/ vñ ſo ſul me geſtunden\n emptericert luſſe ſchon vñ lüte me vñ inſtlicz ſin\n in eynicher andern lanſchaft die wir wiſſen/ Alſo vñ\n nach ehen vñ verſtan wir ſo ich dieſe der ding\n beſchaben vñ die ding ſo vermer-tenis vñ gedenckn\n aller würdigel ſin von mir geſchen oder eyn in dieſer\n nüwen welt ſind/ Alſ hannach geſeyget würt,47.793103448275865,78.33333333333333,78.33333333333333,7474185,openai
+1,Alberics Ueſpuccius Laurentio,Albericus Vespucius Laurentio,0.13793103448275862,0.6666666666666666,0.6666666666666666,7474185,openai
+2,Petri Franciſci de Medicis vil gruͦß.,Petri Francisci de Medicis vil grüß.,0.08108108108108109,0.3333333333333333,0.3333333333333333,7474185,openai
+3,N vergangnen tagē hab ich dir ebē wit geſchri¬,Krevagamenttagz hab ich eͤbe dir vñ geſchri¬en von miner widerfart von den nüwen lan¬,1.3043478260869565,1.4444444444444444,1.2222222222222223,7474185,openai
+4,ben von miner widerfart von den nüwen lant¬,ſchafften die ich mit Claſſen vñ ſambt eͤrſchif¬,0.9069767441860465,1.0,1.0,7474185,openai
+5,ſchafften die ich mit Claſſen verſambneter ſchif,ſen mit ſchwerem loſten von gebot des Durchlechtig¬,0.7708333333333334,1.1428571428571428,1.0,7474185,openai
+6,fen mit ſchwerem koſten von gebot des Durchlichtigo¬,ſten Königs von portigal durch ſuch hab vñ fünze¬,0.8461538461538461,1.125,1.0,7474185,openai
+7,ſten Künigs von portigal durchſuͦcht haben vnd fundē,hen man mag die Zümen vñ nemen/ So by miͤn,0.8076923076923077,1.25,1.25,7474185,openai
+8,Die man mag die Nuwen welt nennen/ So by vnſern̄,voſſari vettern daun keyn wiſen gewelſſen allen dꝛ,0.8541666666666666,1.0,1.0,7474185,openai
+9,vorfarn̄ vettern̄ dauon keyn wiſſen geweſen/ vnd allen dē,die ſolichs hözen yn alle ding muͤg/ ſunder doch,0.8070175438596491,1.0,1.0,7474185,openai
+10,die ſolichs hoͤren eyn aller ding nuws ſy/ Sunder ouch,als die awenung vñ eͤrſten eͤrſchifung vñ die ſo doch der me¬,0.8333333333333334,1.1,1.1,7474185,openai
+11,das alle wenung vnßer eltern über trüfft ſo doch der mer,teyl der ſelben ſpüch/ das ich die gütlich vñ warlich,0.8392857142857143,1.0,0.8181818181818182,7474185,openai
+12,teyl der ſelben ſpricht/ das über die glichmitnechtige ly¬,mein genant Lꝩimotionis mit eͤrſten vñ warlich,0.8103448275862069,1.0,1.0,7474185,openai
+13,nien genant Equinoctialis. vn̄ gegē mittag keyn wonūg,vñ lütten alle eͤrſchog vñ eͤrſchafte/ Als ich nuͤch,0.9056603773584906,1.125,1.125,7474185,openai
+14,d̓ litten ſunder alleyn dz groſ mer inhaltē/ Das ſy nennē, das Artlandisch mer/ Und ob yemand der ſelbe vorn,0.7719298245614035,1.0,1.0,7474185,openai
+15,das Attlandiſch mer/ Und ob yemand der ſelbē wonun,geͤn dalſelb ſyn geͤreſt ſo hab ich doch ſy ſal machen das,0.92,1.3333333333333333,1.2222222222222223,7474185,openai
+16,gen daſelbs ſyn geredt ſo habē ſy doch vß vil ſachen das, da wonhaftig larnd vñ eͤtrich ſy widered/ Alſo ſo,0.8214285714285714,0.9166666666666666,0.8333333333333334,7474185,openai
+17,da wonhafftig land vnd ertrich ſy widerredt/ Aber dz ſo,lich ich wenn falſch in der wodeit wider ſy in alle weg,0.8,1.2,1.1,7474185,openai
+18,lich ir wenen falſch vn̄ der worheit widerig ſy in alle weg,hat diſ min eͤſte ſchiffung benyſt/ So ich in den ſelben,0.7457627118644068,0.9166666666666666,0.9166666666666666,7474185,openai
+19,hat diß mindeſte ſchiffung bewyßt/ So ich in den ſelben,geſnigten geͤrett mittag michlich inmoͤvung ſunden,0.7454545454545455,1.0,1.0,7474185,openai
+20,gegnūgen gegen mittag menſchliche inwonung funden,had mit vil volcks vñ vñ thieren deͤvert/ Doch ſinſt euro,1.0204081632653061,1.8333333333333333,1.8333333333333333,7474185,openai
+21,hab mit vil volcks vnd vil thieren bewert/ den̄ vnſer euro,pa oder Aſiam oder African/ vñ ſo ſul me geſtunden,0.8275862068965517,1.0,1.0,7474185,openai
+22,pa oder Aſiam oder Affricam/ vnnd ſo vil me geſunden,empteͤriret luſſe ſchon vñ lüte me vñ inſtlicz eͤr,0.8461538461538461,1.0,0.9,7474185,openai
+23,temperierten lufft ſchon vnd luter me vnd luſtiger denn,in eͤnicher andern lanſchaft die wir wiſſen/ Als ob da,0.8181818181818182,1.1111111111111112,1.1111111111111112,7474185,openai
+24,in eynicher andern lantſchafft die wir wiſſen/ Als du har,nach eͤhen vñ verſtan wir ſo ich die eͤrſte diͤnig,0.7368421052631579,1.0,0.8,7474185,openai
+25,nach ſehen vnd verſtan würſt ſo ich kurtz die obern̄ ding,beſchaben vñ die ding ſo vermer-tenis vñ gedencknü,0.7543859649122807,0.9090909090909091,0.7272727272727273,7474185,openai
+26,beſchriben vnd die ding ſo vermerckens vnd gedechtniß,aller würdigel ſin von mir geſchen oder eͤget in diſer,0.7735849056603774,1.25,1.25,7474185,openai
+27,aller würdigeſt vn̄ von mir geſehen oder gehoͤrt in dißer,nüwen welt ſind/ Als hannach geſeyget wirt,0.7368421052631579,1.0,1.0,7474185,openai

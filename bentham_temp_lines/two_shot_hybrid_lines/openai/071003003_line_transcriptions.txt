@@ -4,7 +4,7 @@ Pred: 11.
 
 Line 2:
 GT: Of Justifications.
-Pred: Of Justifications.
+Pred: of Justifications
 
 Line 3:
 GT: children.
@@ -20,11 +20,11 @@ Pred: 3. Those of a Schoolmaster over his Scholar. See Law of School
 
 Line 6:
 GT: :master and. Scholars.
-Pred: masters and Scholars.
+Pred: :masters and Scholars.
 
 Line 7:
 GT: 4. These of a Domistic Preceptor over his Pupil. See Law of
-Pred: 4. These of a Domestic Preceptor over his Pupil. See Law of
+Pred: 4. Those of a Domestic Preceptor over his Pupil. See Law of
 
 Line 8:
 GT: Preceptors and Pupils.
@@ -36,15 +36,15 @@ Pred: ib.
 
 Line 10:
 GT: 5. These of a Guardian over his Ward. See Law of Guardi=
-Pred: 5. Those of a Guardian over his Ward. See Law of Guardi-
+Pred: 5. Those of a Guardian over his Ward. See Law of Guardi^a^n^s^
 
 Line 11:
 GT: :ans and Wards.
-Pred: :ans and Wards.
+Pred: :ans and Wards
 
 Line 12:
 GT: 6 These of Adufts over Infants in the same family. See ib.
-Pred: 6ᵗʰ Those of Adults over Infants in the same Family. See ib.
+Pred: 6. Those of Adults over Infants in the same Family. See ib.
 
 Line 13:
 GT: Law of Infants.
@@ -84,11 +84,11 @@ Pred: 1. Those of a military Superior over his Subordinates. For
 
 Line 22:
 GT: Constitutional Code-Laws of
-Pred: Constitutional Code. Laws of
+Pred: Constitutional Code . Laws of
 
 Line 23:
 GT: these See ^ the Army ^ and ^ the Navy Laws
-Pred: these See the Army and the Navy Laws
+Pred: these See ^ the Army ^ and ^ the Navy Laws
 
 Line 24:
 GT: 2. These of a military officer over persons at large in a time
@@ -109,3 +109,4 @@ Pred: There ought to be a separate Title for every species
 Line 28:
 GT: of servant which has any article of Law peculiar to it.
 Pred: of servant which has any Articles of Law peculiar to it.
+

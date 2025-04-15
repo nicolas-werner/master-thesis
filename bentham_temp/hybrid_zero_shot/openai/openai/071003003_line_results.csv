@@ -14,7 +14,7 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 13,2. Those of a military officer over persons at large in a time,vants. The Law of Apprentices - Law of Journeymen - Law,0.7580645161290323,1.0,0.9230769230769231,071003003,openai
 14,of,of Slaves. (a),6.0,2.0,2.0,071003003,openai
 15,Children.,Justification 6.th Military Powers & Subservience,4.777777777777778,6.0,6.0,071003003,openai
-16,4. Those of a Domestic Preceptor over his Pupil . See Law of,Thereto. -,0.85,1.0,1.0,071003003,openai
+16,4. Those of a Domestic Preceptor over his Pupil . See Law of,Thereto.,0.8666666666666667,1.0,1.0,071003003,openai
 17,Preceptors and Pupils.,Powers which one man may have over the person of,1.7727272727272727,3.3333333333333335,3.3333333333333335,071003003,openai
 18,Law of Infants.,another on a military account are,1.8,2.0,2.0,071003003,openai
 19,7. Those of a Master over his Servant - See the Law of Ser,1. These of a military superior over his Subordinates. For,0.6379310344827587,0.7857142857142857,0.7142857142857143,071003003,openai

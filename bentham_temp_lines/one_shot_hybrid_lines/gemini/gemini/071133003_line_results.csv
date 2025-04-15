@@ -1,7 +1,7 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 1,Of Semi-public Offences in General.,Of Semi-public Offences in General.,0.0,0.0,0.0,071133003,gemini
-2,persons or destroys the property of particular individuals among the,persons or destroys the property of particular individuals among the),0.014705882352941176,0.1,0.1,071133003,gemini
-3,Uws he may be not only punished crimenally for the calumny,Thus he may be not only punished crimenally for the calumny,0.05172413793103448,0.09090909090909091,0.09090909090909091,071133003,gemini
+2,persons or destroys the property of particular individuals among the,persons or destroys the property of particular individuals among the,0.0,0.0,0.0,071133003,gemini
+3,Uws he may be not only punished crimenally for the calumny,Thus he may be not only punished criminally for the calumny,0.06896551724137931,0.18181818181818182,0.18181818181818182,071133003,gemini
 4,"thrown on the Sect, but made civilly responsible for the particular","thrown on the Sect, but made civilly responsible for the particular",0.0,0.0,0.0,071133003,gemini
 5,mischief done to the individual I ews whose persons or property,mischief done to the individual Jews whose persons or property,0.031746031746031744,0.18181818181818182,0.18181818181818182,071133003,gemini
 6,were thus attached.,were thus attached.,0.0,0.0,0.0,071133003,gemini
@@ -9,5 +9,5 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 8,of men,of men,0.0,0.0,0.0,071133003,gemini
 9,must depend upon the particular class in question. They are therefore,must depend upon the particular class in question. They are therefore,0.0,0.0,0.0,071133003,gemini
 10,stand,stand,0.0,0.0,0.0,071133003,gemini
-11,of a local nature; and are without the limits of the present under,of a local nature; and are without the limits of the present undert,0.015151515151515152,0.07692307692307693,0.07692307692307693,071133003,gemini
+11,of a local nature; and are without the limits of the present under,of a local nature; and are without the limits of the present under,0.0,0.0,0.0,071133003,gemini
 12,taking work.,taking work.,0.0,0.0,0.0,071133003,gemini

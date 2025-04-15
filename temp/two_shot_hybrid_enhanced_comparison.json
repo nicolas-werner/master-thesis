@@ -1,23 +1,23 @@
 {
   "gemini": {
     "model": "gemini-2.0-flash",
-    "avg_cer": 0.03479424056611624,
-    "avg_wer": 0.16003859399517056,
-    "avg_bwer": 0.15867458131080925,
-    "doc_count": 10
+    "avg_cer": 0.033859602844013556,
+    "avg_wer": 0.13974506693467031,
+    "avg_bwer": 0.13711380775069243,
+    "doc_count": 9
   },
   "openai": {
     "model": "gpt-4o",
-    "avg_cer": 0.0730702791331747,
-    "avg_wer": 0.27784609851593267,
-    "avg_bwer": 0.2693740928846715,
+    "avg_cer": 0.05956390146979871,
+    "avg_wer": 0.2903191333259442,
+    "avg_bwer": 0.2857820672406095,
     "doc_count": 10
   },
   "mistral": {
-    "model": "pixtral-large-latest",
-    "avg_cer": 0.08264385757521339,
-    "avg_wer": 0.29611567282132395,
-    "avg_bwer": 0.29091548266218625,
+    "model": "mistral-small-latest",
+    "avg_cer": 0.060010645939577854,
+    "avg_wer": 0.23361035140235878,
+    "avg_bwer": 0.22924190930712843,
     "doc_count": 10
   }
 }

@@ -5,4 +5,4 @@ line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 4,therefore be censured that they will be apt to,Wherefore be censured What they will be apt to,0.043478260869565216,0.2222222222222222,0.2222222222222222,071054002,openai
 5,that difficulty in proportion as the punishment is,that difficulty in proportion as the punishment is,0.0,0.0,0.0,071054002,openai
 6,more severe,more severe,0.0,0.0,0.0,071054002,openai
-7,n,17,2.0,1.0,1.0,071054002,openai
+7,n,,1.0,1.0,1.0,071054002,openai

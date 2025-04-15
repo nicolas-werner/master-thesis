@@ -1,5 +1,5 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 1,Uon der neü gefunden,Fon der neu gefunden,0.1,0.5,0.5,7474184,gemini
-2,Region ſo wol ein welt genempt mag werden/,Xegion ſo wol ein welt genempt mag werden/,0.023809523809523808,0.125,0.125,7474184,gemini
-3,durch den Criſtēlichen künig/ von Portigal/,durch den Criſtelichen Künig/von Portigal/,0.06976744186046512,0.5,0.5,7474184,gemini
+2,Region ſo wol ein welt genempt mag werden/,Xegion so wol ein welt genempt mag werden/,0.047619047619047616,0.25,0.25,7474184,gemini
+3,durch den Criſtēlichen künig/ von Portigal/,durch den Cristelichen Fünig/von Portigal/,0.09302325581395349,0.5,0.5,7474184,gemini
 4,wunderbarlich erfunden/,wunderbarlich erfunden/,0.0,0.0,0.0,7474184,gemini

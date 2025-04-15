@@ -1,0 +1,35 @@
+line_number,ground_truth,prediction,transkribus,cer,wer,bwer
+1,It glucklicher fart Am vier,It glucklicher fart Flm vier,It glucklicher hart Flm vier,0.07407407407407407,0.2,0.2
+2,zehenden tag des monats Mayen/ Tu¬,zehenden tag des monats Mayen/ Lu¬,zehenden tag des monats Mayen / Lu¬,0.029411764705882353,0.16666666666666666,0.16666666666666666
+3,ſent fünffhūdert eyn Iars/ ſchieden wir,ſent fuͤnffhundert eyn Jars/ſchieden wir,sent funffhudert eyn Jars  schieden wir,0.15384615384615385,0.5,0.5
+4,von Oliſpppo nach gebott des obgenan¬,von Olisippo nach gebott des obgenan̄,von Olisippo nach gebott des obgenans,0.08108108108108109,0.3333333333333333,0.3333333333333333
+5,ten künigs mit dryen ſchiffen zuͦ erſuͦchē,ten künigs mit dryen ſchiffen zu erſuͤche,ten künigs mit dryen schiffen zu ersuͤchen,0.07142857142857142,0.2857142857142857,0.2857142857142857
+6,nuwe land gegen Auſter/ vnd tzweintzig,,1/2,1.0,1.0,1.0
+7,Monet on vnderlaß fuͦren wir gegen mittag der ſelben,Unuwe land gegen Auſter/vnd zweintzig,Unuwe land gegen Auster / vnd tzweintzig,0.7692307692307693,0.8888888888888888,0.8888888888888888
+8,ſchiffung. vnd fart ordnung vnd wiſe iſt alſo/ Diſe ſchif,Monet on vnderlaß füren wir gegen mittag der ſelben,Monet on vnderlaß füren wir gegen mittag der selben,0.7543859649122807,1.0,1.0
+9,fung iſt geweſen durch die fortunaten Inſalen/ vor ziten,ſchiffung vnd fart ordnung vnd wiſe iſt alſo. Diſe ſchif,schiffung vnd fart ordnung und wise ist also  Sise schif,0.8392857142857143,1.1111111111111112,1.0
+10,alſo genant/ Aber zuͦ dyſen werden ſy genant die inſulen,fung ist geweſen durch die fortunaten Inſalen/ vor ziten,fung ist gewesen durch die fortunaten Insalen/ vor ziten,0.7857142857142857,1.0,0.9
+11,magne canarie/ der groſſen Canarie/ die da ſindt im drit,alſo genant/ Aber zu dysen werden ſy genant die inſulen,also genant/ Aber zu dysen werden sy genant die insulen,0.7321428571428571,1.0,0.9
+12,ten Clima der ſibenfaltigē vßteilung der welt vnd am an,magne canarie/ der groſſen Canarie/ die da ſindt im drit,magne canarie / der grossen Canarie / die da sindt im drit,0.8181818181818182,0.9,0.9
+13,ſtoß vnd gegē der wonhafftigē landen der ſonnē nyder¬,ten Clima der fibenfaltige vßteilung der welt vnd am an,ten Clima der sibenfaltige vßteilung der welt vnd am an,0.7547169811320755,1.0,0.7777777777777778
+14,gangs/ Dannen durch das groß mer Occeanū dē gātzē,ſtoß vnd gegē der wonhafftigē landen der ſonne nyder¬,stoß vnd gegen der wonhafftigen landen der sonne nyder¬,0.9387755102040817,1.0,1.0
+15,ſtaden affricum vn̄ eyn teil der Moͤren lands durchren̄t,gangs/ Sannen durch das groſs mer Occeanū de gantze,gangs  Sannen durch das groß mer Occeanum de gantzen,0.8035714285714286,1.0,1.0
+16,biß zuͦ den hochbergen der Moren ſo alſo von Ptolomeo,ſtaden affricum vn eyn teil der Moͤren lands durchrent,staden affricum vn eyn teil der Moͤren lands durchrent,0.8113207547169812,1.0,0.9
+17,genēpt wirt/ Das zuͦ dißen zeitē von den vnſern dz grün̄,Biß zu den hochbergen der Moren ſo alſo von Ptolomeo,biß zu den hochbergen der Moren so also von Ptolomeo,0.8214285714285714,1.0,0.8181818181818182
+18,houpt genempt wirt/ vn̄ von den Morē beſeglitte/ vnd,genenpt wirt/ Das zu dißen zeite von den vnsern dz grijn,genenpt wirt / Das zu dißen zeite von den vnsern dz grijn,0.7692307692307693,1.0,0.8888888888888888
+19,die ſelbe lantſchafft Mandinglia vierzehē gradus innert,houpt genempt wirt/vn von den Horē beseglitte/vnd,haupt genempt wirt / vn von den Horen beseglitte / vnd,0.8545454545454545,1.0,1.0
+20,der krummen ſchnuͦr genāt Torrida zona/ von der lyniē,die ſelbe lantschafft Mandinglia vierzehen gradus innert,die selbe lantschafft Mandinglia vierzehen gradus innert,0.8301886792452831,1.0,1.0
+21,equinoctiali gegen Mitternacht die von ſchwartzen lü¬,der krummen ſchnuͤr genaͤt Torrida zona / von der lyme,der krummen schnuͤr genaͤt Torrida zona / von der lymen,0.8301886792452831,1.2857142857142858,1.2857142857142858
+22,ten vnd voͤlckern bewōt wirt/ da ſelbs nach raſtung vn̄,equinoctiali gegen Mitternacht die von ſchwartzen lii¬,equinoctiali gegen Mitternacht die von schwartzen lii¬,0.8,1.0,1.0
+23,widerlabung vnſer krafft vnnd nottürfftiger dingen zuͦ,ten vnd volckern bewot wirt / da selbst nach rastung vn̄,ten vnd volckern bewot wirt / da selbst nach rastung vn̄,0.8703703703703703,1.5714285714285714,1.5714285714285714
+24,vnſer ſchiffung/ huͦben wir die encker vff vn̄ zertan̄tē die,widerlaßung vnſer krafft vnnd notturfftiger dingen zu,widerlabung vnser krafft vnnd notturfftiger dingen zu,0.7666666666666667,1.0,0.9
+25,ſegel in winde vnd in vnſern weg durch das allerwildeſt,vnser ſchiffung/ huͤben wir die encker vff vn zertantẽ die,vnser schiffung/ huͤben wir die encker vff vn zertanten die,0.8545454545454545,1.0,1.0
+26,groß mere Occeanum/ vnd fuͦrē gegen dem wider sibēge,ſegel in winde vnd in vnſern weg durch das allerwildest,segel in winde vnd in vnsern weg durch das allerwildest,0.8269230769230769,1.0,1.0
+27,ſtirn gen Ancarticies/ ein wenig gegē der Sonnē nyder,groß mere Occeanum  vnd füren gegen dem wider ſiͤbege,groß mere Occeanum  vnd füren gegen dem wider siͤbege,0.7547169811320755,1.0,1.0
+28,gang wandten wir durch den wynd genant vulturnus,ſtirn gen Ancarticies/ ein wenig gegen der Sonnen nyder,stirn gen Ancarticies/ ein wenig gegen der Sonnen nyder,0.875,1.125,1.125
+29,vnd von dem tag als wir abſchieden von dē gemelten ho,gang wandten wir durch den wynd genant vulturnus,gang wandten wir durch den wynd genant vulturnus,0.6792452830188679,0.9090909090909091,0.9090909090909091
+30,chgebürg zwen Monet vn̄ drig tag ſchyfften wir ee das,vnd von dem tag als wir abschieden von de gemelten ho,vnd von dem tag als wir abschieden von de gemelten ho,0.8490566037735849,1.1,0.9
+31,vnß land oder ertrich ze ſehen ward/ Was wir aber in ſo,chgebürg zwen Monet vn̄ drig tag ſchyfften wir ee das,chgebürg zwen Monet vn̄ drig tag schyfften wir ee das,0.8,0.9166666666666666,0.9166666666666666
+32,licher willde des Mers/ gelitten haben/ vnd was ſorgkli¬,vnß land oder ertrich ze sehen ward/ Was wir aber in ſo,vnß land oder ertrich ze sehen ward / Was wir aber in so,0.75,1.3333333333333333,1.3333333333333333
+33,A ii,licher wilde des Mers/gelitten haben/vnd was sorgkli¬,licher wilde des Mers / gelitten haben / und was sorgkli¬,12.5,3.5,3.5
+34,,An[extra],An,1.0,1.0,1.0

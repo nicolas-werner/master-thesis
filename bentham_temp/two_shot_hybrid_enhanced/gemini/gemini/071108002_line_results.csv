@@ -1,6 +1,6 @@
 line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
 1,2.,2.,0.0,0.0,0.0,071108002,gemini
-2,Of Matrimonial Desertion.,C.,0.96,1.0,1.0,071108002,gemini
+2,Of Matrimonial Desertion.,C,1.0,1.0,1.0,071108002,gemini
 3,It will be necessary to define what shall be deemed,Of Matrimonial Desertion.,0.8627450980392157,1.0,1.0,071108002,gemini
 4,"Desertion, distinguishing it from the case of lawful Absence;",,1.0,1.0,1.0,071108002,gemini
 5,and what steps shall be taken for giving notice.,It will be necessary to define what shall be deemed,0.8541666666666666,1.1111111111111112,0.7777777777777778,071108002,gemini

@@ -905,13 +905,16 @@ def _(mo):
     Please transcribe the provided manuscript image line by line. Transcribe exactly what you see in the image,
     preserving the original text without modernizing or correcting spelling.
     Important instructions:
-    1. Use original medieval characters and spelling (ſ, æ, etc.)
+    1. Pay particular attention to:
+       - Early printed ligatures (connected letter combinations)
+       - Abbreviation marks and symbols
+       - Special characters from medieval Latin or German, such as: ¬, uͤ, n̄, ē, ſ, ꝛ, ꝯ, ꝫ, ꝓ, ꝟ, ẜ, etc.
     2. Preserve abbreviations and special characters
     3. Separate each line with a newline character (\\n)
     4. Do not add any explanations or commentary
     5. Do not include line numbers
-    6. Transcribe text only, ignore images or decorative elements
-    Your transcription should match the original manuscript as closely as possible.
+
+    Your transcription should match the original manuscript as closely as possible. If you're uncertain about a character, provide your best interpretation.
 
     CRITICAL LINE BREAK INSTRUCTIONS:
     - You MUST maintain the EXACT same number of lines as in the original manuscript
@@ -919,12 +922,13 @@ def _(mo):
     - DO NOT merge short lines together
     - DO NOT split long lines into multiple lines
     - Preserve the exact same line structure as the manuscript
+
     """)
 
     provider_models = {
         "openai": "gpt-4o",
         "gemini": "gemini-2.0-flash",
-        "mistral": "pixtral-large-latest"
+        "mistral": "mistral-small-latest"
     }
 
     limit_docs = 10
@@ -1006,7 +1010,10 @@ def _(
             base_output_dir='temp',
             create_messages=create_zero_shot_messages,
             eval_type='zero_shot',
-            limit=limit_docs
+            limit=limit_docs,
+            parallel=True,
+            max_workers=None,
+            use_structured_output=True 
         )
     return create_zero_shot_messages, zero_shot_results
 
@@ -1090,7 +1097,10 @@ def _(
             base_output_dir='temp',
             create_messages=create_hybrid_messages,
             eval_type='hybrid_zero_shot',
-            limit=limit_docs
+            limit=limit_docs,
+            parallel=True,  # Enable parallel processing
+            max_workers=None,  # Auto-detect number of workers
+            use_structured_output=True 
         )
     return create_hybrid_messages, find_file_for_id, hybrid_zero_shot_results
 
@@ -1178,7 +1188,7 @@ def _(
                             },
                             {
                                 "type": "text",
-                                "text": f"==== CORRECT TRANSCRIPTION ====\n{one_shot_example_text}"
+                                "text": f"CORRECT TRANSCRIPTION\n{one_shot_example_text}\n---\n"
                             }
                         ]
                     },
@@ -1204,7 +1214,10 @@ def _(
                 base_output_dir='temp',
                 create_messages=create_one_shot_messages,
                 eval_type='one_shot',
-                limit=limit_docs
+                limit=limit_docs,
+                parallel=True,  # Enable parallel processing
+                max_workers=None,  # Auto-detect number of workers
+                use_structured_output=True 
             )
         else:
             print("⚠️ Could not load the example for one-shot learning")
@@ -1319,7 +1332,7 @@ def _(
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{example_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{example_text}"
+                                    "text": f"(1) TRANSKRIBUS OCR OUTPUT \n{example_transkribus_text}\n---\n (2) CORRECT TRANSCRIPTION\n{example_text}\n---\n"
                                 }
                             ]
                         },
@@ -1336,7 +1349,7 @@ def _(
                                 },
                                 {
                                 "type": "text",
-                                    "text": f"The following is the output of a traditional OCR model from Transkribus. It is fine-tuned on medieval texts. It can help you transcribe the following page, but may also contain errors:\n\n{transkribus_text}"}
+                                    "text": f"The following is the TRANSKRIBUS OCR OUTPUT. The model is fine-tuned on medieval texts. It can help you transcribe the following page, but may also contain errors:\n\n{transkribus_text}"}
 
                             ]
                         }
@@ -1351,7 +1364,10 @@ def _(
                 base_output_dir='temp',
                 create_messages=create_one_shot_hybrid_messages,
                 eval_type='one_shot_hybrid_enhanced',
-                limit=limit_docs
+                limit=limit_docs,
+                parallel=True,  # Enable parallel processing
+                max_workers=None,  # Auto-detect number of workers
+                use_structured_output=True 
             )
         else:
             print("⚠️ Could not load the example for one-shot learning")
@@ -1456,7 +1472,7 @@ def _(
                             },
                             {
                                 "type": "text",
-                                "text": f"==== CORRECT TRANSCRIPTION ====\n{two_shot_example1_text}"
+                                "text": f"CORRECT TRANSCRIPTION\n{two_shot_example1_text}\n---\n"
                             }
                         ]
                     },
@@ -1473,7 +1489,7 @@ def _(
                             },
                             {
                                 "type": "text",
-                                "text": f"==== CORRECT TRANSCRIPTION ====\n{two_shot_example2_text}"
+                                "text": f"CORRECT TRANSCRIPTION\n{two_shot_example2_text}\n---\n"
                             }
                         ]
                     },
@@ -1499,7 +1515,10 @@ def _(
                 base_output_dir='temp',
                 create_messages=create_two_shot_messages,
                 eval_type='two_shot',
-                limit=limit_docs
+                limit=limit_docs,
+                parallel=True,  # Enable parallel processing
+                max_workers=None,  # Auto-detect number of workers
+                use_structured_output=True 
             )
         else:
             print("⚠️ Could not load both examples for two-shot learning")
@@ -1633,7 +1652,7 @@ def _(
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{example1_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{example1_text}"
+                                    "text": f"(1) TRANSKRIBUS OCR OUTPUT\n{example1_transkribus_text}\n---\n(2) CORRECT TRANSCRIPTION\n{example1_text}\n---\n"
                                 }
                             ]
                         },
@@ -1650,7 +1669,7 @@ def _(
                                 },
                                 {
                                     "type": "text",
-                                    "text": f"==== TRANSKRIBUS OCR OUTPUT ====\n{example2_transkribus_text}\n\n==== CORRECT TRANSCRIPTION ====\n{example2_text}"
+                                    "text": f"(1) TRANSKRIBUS OCR OUTPUT\n{example2_transkribus_text}\n---\n (2) CORRECT TRANSCRIPTION\n{example2_text}\n---\n"
                                 }
                             ]
                         },
@@ -1667,7 +1686,7 @@ def _(
                                 },
                                 {
                                 "type": "text",
-                                    "text": f"The following is the output of a traditional OCR model from Transkribus. It is fine-tuned on medieval texts. It can help you transcribe the following page, but may also contain errors:\n\n{transkribus_text}"}
+                                    "text": f"The following is the TRANSKRIBUS OCR OUTPUT. The model is fine-tuned on medieval texts. It can help you transcribe the following page, but may also contain errors:\n\n{transkribus_text}"}
 
                             ]
                         }
@@ -1680,8 +1699,11 @@ def _(
                     base_output_dir='temp',
                     create_messages=create_two_shot_hybrid_messages,
                     eval_type='two_shot_hybrid_enhanced',
-                    limit=limit_docs
-                )
+                    limit=limit_docs,
+                    parallel=True,  # Enable parallel processing
+                max_workers=None,  # Auto-detect number of workers
+                use_structured_output=True 
+                    )
             else:
                 print("⚠️ Could not load both examples for two-shot learning")
                 two_shot_hybrid_results = None
