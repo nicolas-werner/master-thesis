@@ -1,33 +1,33 @@
-line_number,ground_truth,transcription,cer,wer,bwer,document_id,method
-1,geile vn̄ begirig ſind/ ſo legten ſy alle zucht vnd ſcham vō,geile vn begirig sind/ so legten sy alle zucht vnd scham von,0.11666666666666667,0.5,0.5,7474193,transkribus
-2,in zuͦ volbringung boͤſer dingen/ Sy leben wol hundertt,in zuͤ volbungung boͤser dingen/ Sy leben wol hundertt,0.07272727272727272,0.3333333333333333,0.3333333333333333,7474193,transkribus
-3,vn̄ fünffzig iar vnd werden ſelten kranck/ Und ob ſy et¬,vn funffzig iar vnd werden selten kranck/ End ob sy et¬,0.08928571428571429,0.45454545454545453,0.45454545454545453,7474193,transkribus
-4,wen in kranckheit fallen ſo heilen ſy ſich ſelbs mit ettlithē,wen in kranckheit fallen so heilen sy sich selbst mit ettlithen,0.11475409836065574,0.45454545454545453,0.45454545454545453,7474193,transkribus
-5,wurtzen der kreüter/ Diß ſind die fürmercklichſten ding,"wurtzen der kreüter, Diß sind die fürmercklichsten dinge",0.07272727272727272,0.5,0.5,7474193,transkribus
-6,die ich by innen geſehen vnd erkant hab/ Der lufft iſt an,die ich by innen gesehen vnd erkant hab / der lufft ist an,0.07017543859649122,0.4166666666666667,0.4166666666666667,7474193,transkribus
-7,dem ende gar geſund vnd wol temperieret vn̄ guͦt/ Und,dem ende gar gesund vnd wol temperieret vn̄ guͤt / End,0.07547169811320754,0.4,0.4,7474193,transkribus
-8,ſo vil ich vß yrem ſagē verſton kond vnd erkennen mocht,so vil ich vß yrem sagen verston kond vnd erkennen mocht,0.09090909090909091,0.2727272727272727,0.2727272727272727,7474193,transkribus
-9,ſo iſt an dem ende nyemer keyn peſtlentz oder eyniche ſie,so ist an dem ende nyemer keyn pestlentz oder eyniche sie,0.07017543859649122,0.36363636363636365,0.36363636363636365,7474193,transkribus
-10,chung die von boͤſem lufft kumpt/ Und wo ſy nit vō fre¬,chung die von bösem lufft kumpt / And wo sy nit vo fre¬,0.12727272727272726,0.5,0.5,7474193,transkribus
-11,felem getzwungenē tod ſterben ſo leben ſy by langē zyten,felem getzwungenen tod sterben so leben sy by langen zyten,0.125,0.5,0.5,7474193,transkribus
-12,Ich mein das an dē ende alzeit die mittegigē wynd weyē,Ich mein das an de ende alzeit die mittegigen wynd weyende,0.12962962962962962,0.2727272727272727,0.2727272727272727,7474193,transkribus
-13,vnd vorab allermeyſt den wir nennen etwan der inen al¬,vnd voraß allermeyst den wir nennen etwan der inen al¬,0.037037037037037035,0.2,0.2,7474193,transkribus
-14,ſo iſt wie vnß der mittenechtig wind genāt. Aquilo / Sy,so ist wie vnß der mittenechtig wind genant. Aquilo / Sve,0.10909090909090909,0.36363636363636365,0.36363636363636365,7474193,transkribus
-15,ſind künſtrich mit viſchen vnd viſchfahen/ Und daſſelb,"sind künstrich mit vischen vnd vischfahen, Vnd dasselb",0.14814814814814814,0.75,0.75,7474193,transkribus
-16,mer iſt voͤllig vnd von vil viſchen vnnd von allen vnd al¬,mer ist völlig vnd von vil vischen vnnd von allen vnd al,0.08620689655172414,0.3333333333333333,0.3333333333333333,7474193,transkribus
-17,lerley viſchen überflüſſig/ Da ſynd nit ieger vn̄ ich mein,lerley vischen überflüssig / Sa synd nit ieger vn̄ ich mein,0.10344827586206896,0.5,0.5,7474193,transkribus
-18,ſo da ſynd vil wilder waldthieren geſchlecht vnd beſund̓,so da synd vil wilder waldthieren geschlecht vnd Besuns,0.125,0.4444444444444444,0.4444444444444444,7474193,transkribus
-19,lowen vnd beren vnd on zall vil ſchlangen vnd anderer,lowen vnd beren vnd onzall vil schlangen vnnd anderer,0.05660377358490566,0.4,0.4,7474193,transkribus
-20,gruſelichen vnd vngeſtalten dieren/ Dar zu vnd als an,gruselichen vnd vngestalten dieren / Sar zu vnd als an,0.07547169811320754,0.5555555555555556,0.5555555555555556,7474193,transkribus
-21,denen enden lang vnd breyt weld vnnd baum über alle,denen enden lang vnd breyt weld vnnd Baum über alle,0.0196078431372549,0.1,0.1,7474193,transkribus
-22,maß groß vnd ſo ſy nackend ſynd gethuͤren ſy ſich ſolich,maß groß vnd so sy nackend synd gethüren sy sich solich,0.14285714285714285,0.6363636363636364,0.6363636363636364,7474193,transkribus
-23,er dingen nit vnder ſtan on waffen/ Das ertrich diſer,er dingen nit vnder stan onwaffen / Das ertrich diser,0.07547169811320754,0.4,0.4,7474193,transkribus
-24,landen vnnd region iſt faſt fruchtbar vnd luſtiger an¬,landen vnnd region ist fast fruchtbar vnd lustiger an¬,0.05555555555555555,0.3333333333333333,0.3333333333333333,7474193,transkribus
-25,ſehung vnd von vil bergen vnd Buͦhelen vnd on zall vil,sehung vnd von vil bergen vnd Buͤhelen vnd onzall vil,0.05555555555555555,0.36363636363636365,0.36363636363636365,7474193,transkribus
-26,Theler vnnd mit faſt groſſen flieſſenden waſſeren/ über,"Theler vnnd mit fast grossen fliessen wasseren, über",0.2,0.5,0.5,7474193,transkribus
-27,flüſſig/ Und von guͦten heylſamē brunnen gefuchtet vn̄,flüssig / End von guͤten heylsame Brunnen gefuchtet vn̄,0.14814814814814814,0.75,0.75,7474193,transkribus
-28,mit groſſen breytten welden vnnd dick die kum̄ vnnd,mit grossen breytten welden vnnd dick die kun̄ unnd,0.0784313725490196,0.3333333333333333,0.3333333333333333,7474193,transkribus
-29,ſchwarlich moͤgen durchgangen werden vnnd die von,schwarlich moͤgen durchgangen werden vnnd die von,0.02040816326530612,0.14285714285714285,0.14285714285714285,7474193,transkribus
-30,allerley willden thyeren vnderſcheid voll vnd überſetzt/,"allerley wilden thyeren vnderscheid voll vnd übersetzt,",0.07142857142857142,0.42857142857142855,0.42857142857142855,7474193,transkribus
-31,Da wachßen ſelbs on alle der lüten zuͦthon vnd arbeytt,Da wachsen selbs on alle der lüten zuͤthon vnd arbeytt,0.05555555555555555,0.3,0.3,7474193,transkribus
-32,die aller groͤſten boum/ Und vnder den ſelben vil die frü,die aller groͤsten boum/ And vnder den selben vil die frü,0.05263157894736842,0.2727272727272727,0.2727272727272727,7474193,transkribus
+line_number,ground_truth,transcription,cer,wer,document_id,method
+1,geile vn̄ begirig ſind/ ſo legten ſy alle zucht vnd ſcham vō,geile vn begirig sind/ so legten sy alle zucht vnd scham von,0.11666666666666667,0.5,7474193,transkribus
+2,in zuͦ volbringung boͤſer dingen/ Sy leben wol hundertt,in zuͤ volbungung boͤser dingen/ Sy leben wol hundertt,0.07272727272727272,0.3333333333333333,7474193,transkribus
+3,vn̄ fünffzig iar vnd werden ſelten kranck/ Und ob ſy et¬,vn funffzig iar vnd werden selten kranck/ End ob sy et¬,0.08928571428571429,0.45454545454545453,7474193,transkribus
+4,wen in kranckheit fallen ſo heilen ſy ſich ſelbs mit ettlithē,wen in kranckheit fallen so heilen sy sich selbst mit ettlithen,0.11475409836065574,0.45454545454545453,7474193,transkribus
+5,wurtzen der kreüter/ Diß ſind die fürmercklichſten ding,"wurtzen der kreüter, Diß sind die fürmercklichsten dinge",0.07272727272727272,0.5,7474193,transkribus
+6,die ich by innen geſehen vnd erkant hab/ Der lufft iſt an,die ich by innen gesehen vnd erkant hab / der lufft ist an,0.07017543859649122,0.4166666666666667,7474193,transkribus
+7,dem ende gar geſund vnd wol temperieret vn̄ guͦt/ Und,dem ende gar gesund vnd wol temperieret vn̄ guͤt / End,0.07547169811320754,0.4,7474193,transkribus
+8,ſo vil ich vß yrem ſagē verſton kond vnd erkennen mocht,so vil ich vß yrem sagen verston kond vnd erkennen mocht,0.09090909090909091,0.2727272727272727,7474193,transkribus
+9,ſo iſt an dem ende nyemer keyn peſtlentz oder eyniche ſie,so ist an dem ende nyemer keyn pestlentz oder eyniche sie,0.07017543859649122,0.36363636363636365,7474193,transkribus
+10,chung die von boͤſem lufft kumpt/ Und wo ſy nit vō fre¬,chung die von bösem lufft kumpt / And wo sy nit vo fre¬,0.12727272727272726,0.5,7474193,transkribus
+11,felem getzwungenē tod ſterben ſo leben ſy by langē zyten,felem getzwungenen tod sterben so leben sy by langen zyten,0.125,0.5,7474193,transkribus
+12,Ich mein das an dē ende alzeit die mittegigē wynd weyē,Ich mein das an de ende alzeit die mittegigen wynd weyende,0.12962962962962962,0.2727272727272727,7474193,transkribus
+13,vnd vorab allermeyſt den wir nennen etwan der inen al¬,vnd voraß allermeyst den wir nennen etwan der inen al¬,0.037037037037037035,0.2,7474193,transkribus
+14,ſo iſt wie vnß der mittenechtig wind genāt. Aquilo / Sy,so ist wie vnß der mittenechtig wind genant. Aquilo / Sve,0.10909090909090909,0.36363636363636365,7474193,transkribus
+15,ſind künſtrich mit viſchen vnd viſchfahen/ Und daſſelb,"sind künstrich mit vischen vnd vischfahen, Vnd dasselb",0.14814814814814814,0.75,7474193,transkribus
+16,mer iſt voͤllig vnd von vil viſchen vnnd von allen vnd al¬,mer ist völlig vnd von vil vischen vnnd von allen vnd al,0.08620689655172414,0.3333333333333333,7474193,transkribus
+17,lerley viſchen überflüſſig/ Da ſynd nit ieger vn̄ ich mein,lerley vischen überflüssig / Sa synd nit ieger vn̄ ich mein,0.10344827586206896,0.5,7474193,transkribus
+18,ſo da ſynd vil wilder waldthieren geſchlecht vnd beſund̓,so da synd vil wilder waldthieren geschlecht vnd Besuns,0.125,0.4444444444444444,7474193,transkribus
+19,lowen vnd beren vnd on zall vil ſchlangen vnd anderer,lowen vnd beren vnd onzall vil schlangen vnnd anderer,0.05660377358490566,0.4,7474193,transkribus
+20,gruſelichen vnd vngeſtalten dieren/ Dar zu vnd als an,gruselichen vnd vngestalten dieren / Sar zu vnd als an,0.07547169811320754,0.5555555555555556,7474193,transkribus
+21,denen enden lang vnd breyt weld vnnd baum über alle,denen enden lang vnd breyt weld vnnd Baum über alle,0.0196078431372549,0.1,7474193,transkribus
+22,maß groß vnd ſo ſy nackend ſynd gethuͤren ſy ſich ſolich,maß groß vnd so sy nackend synd gethüren sy sich solich,0.14285714285714285,0.6363636363636364,7474193,transkribus
+23,er dingen nit vnder ſtan on waffen/ Das ertrich diſer,er dingen nit vnder stan onwaffen / Das ertrich diser,0.07547169811320754,0.4,7474193,transkribus
+24,landen vnnd region iſt faſt fruchtbar vnd luſtiger an¬,landen vnnd region ist fast fruchtbar vnd lustiger an¬,0.05555555555555555,0.3333333333333333,7474193,transkribus
+25,ſehung vnd von vil bergen vnd Buͦhelen vnd on zall vil,sehung vnd von vil bergen vnd Buͤhelen vnd onzall vil,0.05555555555555555,0.36363636363636365,7474193,transkribus
+26,Theler vnnd mit faſt groſſen flieſſenden waſſeren/ über,"Theler vnnd mit fast grossen fliessen wasseren, über",0.2,0.5,7474193,transkribus
+27,flüſſig/ Und von guͦten heylſamē brunnen gefuchtet vn̄,flüssig / End von guͤten heylsame Brunnen gefuchtet vn̄,0.14814814814814814,0.75,7474193,transkribus
+28,mit groſſen breytten welden vnnd dick die kum̄ vnnd,mit grossen breytten welden vnnd dick die kun̄ unnd,0.0784313725490196,0.3333333333333333,7474193,transkribus
+29,ſchwarlich moͤgen durchgangen werden vnnd die von,schwarlich moͤgen durchgangen werden vnnd die von,0.02040816326530612,0.14285714285714285,7474193,transkribus
+30,allerley willden thyeren vnderſcheid voll vnd überſetzt/,"allerley wilden thyeren vnderscheid voll vnd übersetzt,",0.07142857142857142,0.42857142857142855,7474193,transkribus
+31,Da wachßen ſelbs on alle der lüten zuͦthon vnd arbeytt,Da wachsen selbs on alle der lüten zuͤthon vnd arbeytt,0.05555555555555555,0.3,7474193,transkribus
+32,die aller groͤſten boum/ Und vnder den ſelben vil die frü,die aller groͤsten boum/ And vnder den selben vil die frü,0.05263157894736842,0.2727272727272727,7474193,transkribus
